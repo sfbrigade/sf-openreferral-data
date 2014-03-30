@@ -85,6 +85,39 @@ def loc_address(sfkids_org, oref_loc):
     oref_loc["address"]["state"] = sfkids_org["State"]
     oref_loc["address"]["zip"] = sfkids_org["Zip_Code"]
 
+def build_contact():
+    '''
+    Finds the locations contacts.
+    https://github.com/codeforamerica/ohana-api/wiki/Populating-the-Mongo-database-from-a-JSON-file#address
+    '''
+    contact = {
+        "name" : None,
+        "title" : None,
+        "email" : None,
+        "fax" : None,
+        "phone" : None,
+        "extension" : None
+    }
+    return contact
+
+def contact_name(sfkids_org, contact):
+    '''
+    Finds the contacts name.
+    '''
+    contact["name"] = sfkids_org["ContactName"]
+
+def contact_email(sfkids_org, contact):
+    '''
+    Finds the contacts email.
+    '''
+    contact["email"] = sfkids_org["ContactEmailAddress"]
+
+def contact_fax(sfkids_org, contact):
+    '''
+    Finds the contacts fax.
+    '''
+    contact["fax"] = sfkids_org["ContactFaxArea_code"] + sfkids_org["ContactFax_number"]
+
 def main(filename):
     all_sfkids_orgs = csv2dicts(filename)
     all_oref_orgs = []
@@ -104,11 +137,19 @@ def main(filename):
         oref_loc = build_location()
         loc_accessibility(sfkids_org, oref_loc)
         loc_address(sfkids_org, oref_loc)
-        # loc_contacts(sfkids_org, oref_loc)
+
+        # Build contacts
+        # Add them to correct locations
+        for sfkids_org in all_sfkids_orgs:
+            contact = build_contact()
+            contact_name(sfkids_org, oref_org)
+            contact_email(sfkids_org, oref_org)
+            contct_fax(sfkids_org, oref_org)
 
         for oref_org in all_oref_orgs:
             if name_matches(sfkids_org, oref_org):
                 oref_org["locs"].append(oref_loc)
+
 
     pp = pprint.PrettyPrinter(indent=4)
     pp.pprint(all_oref_orgs)
