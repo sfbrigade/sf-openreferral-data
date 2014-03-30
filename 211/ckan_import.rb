@@ -224,18 +224,6 @@ class Build_json
     return locations
 
 =begin
-    locations.each do |loc|
-      locs =
-      {"name"   =>    loc.name,
-       "contacts" =>  loc.contacts.each do |contact| 
-          {"name"=>contact.name,
-            "title"=>contact.title}
-          end
-       }
-    end
-=end
-
-=begin
     #builds the json using the mappings from above
     JSONBuilder::Compiler.generate do
       name row[:resourceagencynum]
@@ -293,65 +281,63 @@ class Build_json
   end
 end
 
-def construct_hash(locations)
+def construct_hash(loc)
   locs = {
-    "name" = "",
-    "description" = "",
-    "short_desc" = "",
-    "address" = {},
-    "mail_address" = {},
-    "hours" = "",
+    "name" => "",
+    "description" => "",
+    "short_desc" => "",
+    "address" => {},
+    "mail_address" => {},
+    "hours" => "",
     #no mapping
-    "accessibility" = [],
-    "contacts" = [],
-    "coordinates" = [],
-    "emails" = [],
-    "faxes" = [],
+    "accessibility" => [],
+    "contacts" => [],
+    "coordinates" => [],
+    "emails" => [],
+    "faxes" => [],
     #no mapping
-    "kind" = "",
-    "languages" = [],
-    "phones" = [],
-    "transportation" = "",
-    "urls" = []
+    "kind" => "",
+    "languages" => [],
+    "phones" => [],
+    "transportation" => "",
+    "urls" => []
   }
-
-  locations.each do |loc|
-    #strings
-    locs["name"] = loc.name
-    locs["description"] = loc.description
-    locs["short_desc"] = loc.short_description
-    locs["transportation"] = loc.transportation
-    locs["hours"] = loc.hours
+  #strings
+  locs["name"] = loc.name
+  locs["description"] = loc.description
+  locs["short_desc"] = loc.short_description
+  locs["transportation"] = loc.transportation
+  locs["hours"] = loc.hours
+  if loc.coordinates
     locs["coordinates"] = loc.coordinates
-    locs["emails"] = loc.emails
-    locs["languages"] = loc.languages
-    loc.faxes.each do |fax|
-      locs["faxes"] << {"number"=>fax.number}
-    end
-    locs["address"] = {
-      "street"=>loc.address.street,
-      "city"=>loc.address.city,
-      "state"=>loc.address.state,
-      "zip"=>loc.address.zip
-    }
-    if loc.mail_address.street
-      locs["mail_address"] = {
-        "street"=>loc.mail_address.street,
-        "city"=>loc.mail_address.city,
-        "state"=>loc.mail_address.state,
-        "zip"=>loc.mail_address.zip
-      }
-    end
   end
-
-  contacts = {
-    "name" = "",
-    "title" = "",
-    "email"
+  locs["emails"] = loc.emails
+  locs["languages"] = loc.languages
+  loc.faxes.each do |fax|
+    locs["faxes"] << {"number"=>fax.number}
+  end
+  locs["address"] = {
+    "street"=>loc.address.street,
+    "city"=>loc.address.city,
+    "state"=>loc.address.state,
+    "zip"=>loc.address.zip
   }
-  servs = {}
-  locations.each do |loc|
-
+  if loc.mail_address.street
+    locs["mail_address"] = {
+      "street"=>loc.mail_address.street,
+      "city"=>loc.mail_address.city,
+      "state"=>loc.mail_address.state,
+      "zip"=>loc.mail_address.zip
+    }
+  end
+  loc.phones.each do |phone|
+    locs["phones"] << {"number"=>phone.number, "department"=>phone.department}
+  end
+  locs["urls"] = loc.urls
+  loc.contacts.each do |contact|
+    locs["contacts"] = {"name"=>contact.name,"title"=>contact.title}
+  end
+  return locs
 end
 
 #read and load csv
@@ -365,16 +351,15 @@ orgs = {}
 
 json.data.each do |row|
   if row[:parentagencynum] == "0"
-    orgs[row[:resourceagencynum]] = {"name" =>json.find_agency(row), "locs" => [], "urls" => row[:websiteaddress] }
-    json.map_row(row).each do |locations|
-        orgs[row[:resourceagencynum]]["locs"] << locations
+    orgs[row[:resourceagencynum]] = {"name" =>json.find_agency(row), "locs" => [], "urls" => [row[:websiteaddress]].compact }
+    json.map_row(row).each do |location|
+        orgs[row[:resourceagencynum]]["locs"] << construct_hash(location)
     end
   else
     if orgs[row[:parentagencynum]]
-      json.map_row(row).each do |loc|
-        orgs[row[:parentagencynum]]["locs"] << loc
+      json.map_row(row).each do |location|
+        orgs[row[:parentagencynum]]["locs"] << construct_hash(location)
       end
-      puts orgs[row[:parentagencynum]]["locs"].length
     end
   end
 end
@@ -382,9 +367,10 @@ end
 #read row by row and output json to file
 
 ##
-#File.open('all_json.json', 'wb') do |f|
-#  json.data.each do |row|
-#    #calls map row on each row and adds it to the file
-#    json_out = json.map_row(row,orgs))
-#  end
-#end
+File.open('all_json.json', 'wb') do |f|
+  orgs.each do |key, value|
+    puts "writing " + value["name"]
+    #calls map row on each row and adds it to the file
+    f.puts value.to_json
+  end
+end
