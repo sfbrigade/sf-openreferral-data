@@ -1,45 +1,116 @@
-import csv, json
+import csv, json, pprint
+from sys import argv
 
-def csv2json(csv_file_name,json_file_name):
-    jsonfile = open(json_file_name, 'w')
+def csv2dicts(csv_file_name):
+    '''
+    Converts a csv of organizations into a list of dicts
+    '''
     with open(csv_file_name,'r') as csvfile:
         reader = csv.DictReader(csvfile,dialect='excel')
-        fieldnames = reader.fieldnames
-        list_of_orgs = []
+        all_sfkids_orgs = []
         for row in reader:
-            list_of_orgs.append(row)
+            all_sfkids_orgs.append(row)
+        return all_sfkids_orgs
 
-    json.dump(list_of_orgs,jsonfile)
-    jsonfile.close()
+def name_matches(sfkids_org, oref_org):
+    if oref_org["name"] == sfkids_org["OperatedBy"]:
+        return True
+    elif oref_org["name"] == sfkids_org["Content_title"]:
+        return True
+    else:
+        return False
 
-csv2json("Organizations.csv","Organizations.json")
+def build_org():
+    openref_org = {}
+    openref_org["name"] = None
+    openref_org["locs"] = []
+    return openref_org
 
-def sfkids2openreferral(json_file_name):
+def org_name(sfkids_org, oref_org):
+    '''
+    Finds the org name
+    '''
+    if sfkids_org["OperatedBy"]:
+        oref_org["name"] = sfkids_org["OperatedBy"]
+    else:
+        oref_org["name"] = sfkids_org["Content_title"]
 
-    def organization_name(sfkids_organization, ohana_organization):
-        if sfkids_organization["OperatedBy"]:
-            ohana_organization["name"] = sfkids_organization["OperatedBy"]
-        else:
-            ohana_organization["name"] = sfkids_organization["Content_title"]
+def org_url(sfkids_org, oref_org):
+    '''
+    Finds the org url
+    '''
+    oref_org["urls"] = sfkids_org["Website"]
 
-    def organization_url(sfkids_organization, ohana_organization):
-        ohana_organization["urls"] = sfkids_organization["Website"]
+def build_location():
+    '''
+    Adds the location field to the org
+    https://github.com/codeforamerica/ohana-api/wiki/Populating-the-Mongo-database-from-a-JSON-file#location
+    '''
+    location = {}
+    location["accessibility"] = []
+    location["address"] = {}
+    location["contacts"] = []
+    location["coordinates"] = []
+    location["description"] = None
+    location["emails"] = []
+    location["faxes"] = []
+    location["hours"] = None
+    location["kind"] = None
+    location["languages"] = []
+    location["mail_address"] = {}
+    location["name"] = None
+    location["phone"] = []
+    location["short_desc"] = None
+    location["transportation"] = []
+    location["urls"] = []
+    return location
 
-    with open(json_file_name) as json_file_obj:
-        all_sfkids_organizations = json.load(json_file_obj)
-        json_file_obj.close()
+def loc_accessibility(sfkids_org, location):
+    '''
+    Finds the locations accessibility.
+    https://github.com/codeforamerica/ohana-api/wiki/Populating-the-Mongo-database-from-a-JSON-file#accessibility
+    The SfKids locations either have Yes or N/A
+    Not enough info to add it
+    '''
+    # oref_org['location']["accessibility"].append(sfkids_org["Accessibility"])
+    pass
 
-    openreferral_json = open("open_referral.json","w")
-    all_ohana_organizations = []
+def loc_address(sfkids_org, oref_loc):
+    '''
+    Finds the locations address.
+    https://github.com/codeforamerica/ohana-api/wiki/Populating-the-Mongo-database-from-a-JSON-file#address
+    '''
+    oref_loc["address"]["street"] = sfkids_org["Address"]
+    oref_loc["address"]["city"] = sfkids_org["City"]
+    oref_loc["address"]["state"] = sfkids_org["State"]
+    oref_loc["address"]["zip"] = sfkids_org["Zip_Code"]
 
-    for sfkids_organization in all_sfkids_organizations:
-        ohana_organization = {}
-        organization_name(sfkids_organization, ohana_organization)
-        organization_url(sfkids_organization, ohana_organization)
-        print ohana_organization
-        all_ohana_organizations.append(ohana_organization)
-        
-    json.dump(all_ohana_organizations, openreferral_json)
-    openreferral_json.close()
+def main(filename):
+    all_sfkids_orgs = csv2dicts(filename)
+    all_oref_orgs = []
+    all_oref_locs = []
+    # all_oref_contacts = []
 
-sfkids2openreferral('Organizations.json')
+    # Build orgs
+    for sfkids_org in all_sfkids_orgs:
+        oref_org = build_org()
+        org_name(sfkids_org, oref_org)
+        org_url(sfkids_org, oref_org)
+        all_oref_orgs.append(oref_org)
+
+    # Build locs
+    # Add them to correct org
+    for sfkids_org in all_sfkids_orgs:
+        oref_loc = build_location()
+        loc_accessibility(sfkids_org, oref_loc)
+        loc_address(sfkids_org, oref_loc)
+        # loc_contacts(sfkids_org, oref_loc)
+
+        for oref_org in all_oref_orgs:
+            if name_matches(sfkids_org, oref_org):
+                oref_org["locs"].append(oref_loc)
+
+    pp = pprint.PrettyPrinter(indent=4)
+    pp.pprint(all_oref_orgs)
+
+main(argv[1])
