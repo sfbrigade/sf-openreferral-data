@@ -65,7 +65,7 @@ def parse(read):
         }
 
 
-#if __name__ == '__main__':
-#    read = reader(open('directory.csv'), delimiter=',',
-#        quotechar='"', skipinitialspace=True)
-#    parse(read)
+if __name__ == '__main__':
+    read = reader(open('directory.csv'), delimiter=',',
+        quotechar='"', skipinitialspace=True)
+    parse(read)
