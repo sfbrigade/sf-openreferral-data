@@ -1,6 +1,6 @@
 import re
 from csv import reader
-f = open('contacts.csv');  g = open('split_contacts.csv', 'w+')
+
 def parse_contact_field(field, g):
 	field = field.strip()
 	field = field.split(';')
@@ -36,10 +36,7 @@ def parse_contact_field(field, g):
 		contacts.append(person)
 	g.write(str(contacts) + '\n')
 
-for line in f:
-	parse_contact_field(line, g)
 
-g.close()
 def parse(read):
 	orgs = {}
 	for line in read:
