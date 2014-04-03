@@ -2,7 +2,7 @@ How to use this parser
 ======================
 
 First use pdftotext (this is a classic linux tool and can be downloaded for mac
-[here](http://www.wesselvalkenburg.nl/software/pdftotext/).
+[here](http://www.bluem.net/en/mac/packages/).
 
 Use this as follows: `$ pdftotext [name_of_file] -layout`. In this case the name
 of the file should be the name of the pdf. This will create a text file with the
