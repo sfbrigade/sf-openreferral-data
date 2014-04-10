@@ -300,7 +300,8 @@ def construct_hash(loc)
     "languages" => [],
     "phones" => [],
     "transportation" => "",
-    "urls" => []
+    "urls" => [],
+    "servs" => []
   }
   #strings
   locs["name"] = loc.name
@@ -336,6 +337,17 @@ def construct_hash(loc)
   locs["urls"] = loc.urls
   loc.contacts.each do |contact|
     locs["contacts"] = {"name"=>contact.name,"title"=>contact.title}
+  end
+  loc.services.each do |service|
+    locs["servs"] = {
+      "audience" => service.audience,
+      "eligibility" => service.eligibility,
+      "fees" => service.fees,
+      "how_to_apply" => service.how_to_apply,
+      "service_areas" => service.service_areas,
+      "keywords" => service.keywords,
+      "funding_sources" => service.funding_sources
+    }
   end
   return locs
 end
