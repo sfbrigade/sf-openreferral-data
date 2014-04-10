@@ -23,9 +23,11 @@ def scraper(file):
             ]
     print ', '.join(['"%s"' % x[0] for x in imp_words])
 # Operating under the assumption that services and name are required
+# bit represents whether we have changed sections or not
     current_word = None
     previous_word = None
     total_words = len(imp_words)
+    # bit represents whether we have changed sections or not
     bit = 0
     for i, line in enumerate(file):
         line = line.strip()
@@ -36,26 +38,28 @@ def scraper(file):
                 if previous_word and count == 0:
                     for address in imp_words[1][1:]:
                         print '"%s", "%s", ' % (imp_words[0][1], address),
-                        print ', '.join(['"%s"' % x[1] for x in imp_words[2:]])
+                        print ','.join(['"%s"' % x[1] for x in imp_words[2:]])
+                    for reset_word in imp_words:
+                        reset_word[1] = ""
                     imp_words[1] = ['Address', ""]
                 previous_word = current_word
                 word[1] = line[word_length:].strip()
-                current_word = count
+                current_word = count + 1
                 bit = 1
                 break
             else:
                 continue
 
         if bit == 0 and current_word and line and not match('^\d{1,3}$',line):
-            if current_word == 1:
-                imp_words[current_word].append(line)
+            if current_word-1 == 1:
+                imp_words[current_word-1].append(line)
             else:
-                imp_words[current_word][1] += " "
-                imp_words[current_word][1] += line
+                imp_words[current_word-1][1] += " "
+                imp_words[current_word-1][1] += line
 
-    for address in imp_words[1][1:]:
-        print '"%s", "%s", ' % (imp_words[0][1], address),
-        print ', '.join(['"%s"' % x[1] for x in imp_words[2:]])
+    #for address in imp_words[1][1:]:
+        #print '"%s", "%s", ' % (imp_words[0][1], address),
+        #print ', '.join(['"%s"' % x[1] for x in imp_words[2:]])
 
 if __name__ == '__main__':
     scraper(open(argv[1]))
