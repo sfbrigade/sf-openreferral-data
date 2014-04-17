@@ -1,7 +1,10 @@
 import re
 from csv import reader
 
-f = open('contacts.csv');  g = open('split_contacts.csv', 'w+')
+# A lot of these functions do nothing other than simply output their input.
+# The code is structured this way for clarity and ease-of-editing later on
+# in case we want to change the structure
+
 def parse_contact_field(field, g):
     field = field.strip()
     field = field.split(';')
@@ -49,6 +52,41 @@ def parse_contact_field(field, g):
         contacts.append(person)
     return contacts
 
+# Output the full description
+def parse_description(desc):
+    return desc
+
+# Output just the first sentence of the description
+def parse_short_desc(desc):
+    return '.'.join(desc.split('.'))[0]
+
+# Output the hours string
+def parse_hours(hours):
+    return hours
+
+def parse_languages(langs):
+    return lang.split(',')
+
+# Each ss has one url
+def parse_url(url):
+    return url
+
+f = reader(open('phone_numbers.csv'))
+g = open('test_results.csv', 'w+')
+
+def parse_phones(phones):
+    phones = phones.split(',')
+    numbers = []
+    print phones
+    for num in phones:
+        numbers.append({'number': num})
+    return numbers
+
+for line in f:
+    results = parse_phones(line)
+    g.write(results + '\n')
+
+g.close()
 
 def parse(read):
     orgs = {}
