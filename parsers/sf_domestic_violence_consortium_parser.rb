@@ -103,7 +103,7 @@ module Parser
       }
 
       location["fax"] = [{"number" => fax}] unless fax.nil?
-      data["location"] = location
+      data["locs"] = location
 
       data
     end
