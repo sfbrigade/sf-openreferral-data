@@ -18,6 +18,8 @@ The first thing to do is to bring yourself up to speed on the emerging Open Refe
 5. Write an extraction script, if necessary, to get the data from the original source (website, PDF, or even printed document) to a basic spreadsheet
 6. Write a transform script to transform into the format [documented here](https://github.com/codeforamerica/ohana-api/wiki/Populating-the-Mongo-database-from-a-JSON-file)
 
+---------------------------------------
+
 
 ![The plan](https://raw.githubusercontent.com/sfbrigade/sf-openreferral-transform-scripts/master/plan.png)
 
