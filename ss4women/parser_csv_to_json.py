@@ -1,5 +1,5 @@
 import re
-from csv import reader
+import csv
 
 # A lot of these functions do nothing other than simply output their input.
 # The code is structured this way for clarity and ease-of-editing later on
@@ -71,39 +71,34 @@ def parse_languages(langs):
 def parse_url(url):
     return url
 
-f = reader(open('phone_numbers.csv'))
-g = open('test_results.csv', 'w+')
+def parse_fax(phones):
+    if phones != '':
+        phones = phones.split(',')
+        numbers = []
+        for num in phones:
+            nums = re.findall(r'\d+', num)
+            if len(nums) > 1:
+                num = nums[0] + ' ' + nums[1] + '-' + nums[2]
+            else:
+                print(num)
+                num = raw_input()
+            numbers.append({'number': num})
+        return numbers
+    else:
+        return ''
 
-def parse_phones(phones):
-    phones = phones.split(',')
-    numbers = []
-    print phones
-    for num in phones:
-        numbers.append({'number': num})
-    return numbers
-
-for line in f:
-    results = parse_phones(line)
-    g.write(results + '\n')
-
-g.close()
 
 def parse(read):
-    orgs = {}
     for line in read:
-        org = orgs.get(line[0],{})
-        org['name'] = line[0]
-        locs = org.get('locs',[])
-        loc = {
-            #'name': #TODO,
-            'contacts': [
-
-            ]
-
-        }
+        faxNumbers = line[3]
+        results = parse_fax(faxNumbers)
+        # g.writerow([faxNumbers, results])
 
 
 if __name__ == '__main__':
-    read = reader(open('directory.csv'), delimiter=',',
+    # g = csv.writer(open('fax_numbers.csv', 'w+'), delimiter=',')
+    read = csv.reader(open('directory.csv'), delimiter=',',
         quotechar='"', skipinitialspace=True)
+    next(read)
     parse(read)
+
