@@ -14,4 +14,11 @@ digraph G {
   postgres -> db [label="wraps"]
   "json file" -> db [label="initial import"]
   db -> "admin interface" [label="updated via"]
+
+  developer -> spreadsheet [label="picks org from"]
+  developer -> "conversion process" [label="performs"]
+  spreadsheet -> Organization [label="contains info about many"]
+  Organization -> "Homeless Organization" [label="example"]
+  Organization -> "Women's Shelter" [label="example"]
+  Organization -> "Some Other Org" [label="example"]
 }
