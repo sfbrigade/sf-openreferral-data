@@ -87,16 +87,33 @@ def parse_fax(phones):
     else:
         return ''
 
+def parse_emails(emails):
+    parsedEmails = []
+    if emails != '':
+        emails = emails.split(',')
+        parsedEmails = [email for email in emails if re.findall('@', email)]
+
+    if len(parsedEmails) == 0:
+        parsedEmails = None
+
+    parsedEmails = {'emails': parsedEmails}
+    return parsedEmails
+
 
 def parse(read):
     for line in read:
         faxNumbers = line[3]
-        results = parse_fax(faxNumbers)
-        # g.writerow([faxNumbers, results])
+        parsedFax = parse_fax(faxNumbers)
+
+        emails = line[4]
+        parsedEmail = parse_emails(emails)
+
+
+        g.writerow([emails, parsedEmail])
 
 
 if __name__ == '__main__':
-    # g = csv.writer(open('fax_numbers.csv', 'w+'), delimiter=',')
+    g = csv.writer(open('emails.csv', 'w+'), delimiter=',')
     read = csv.reader(open('directory.csv'), delimiter=',',
         quotechar='"', skipinitialspace=True)
     next(read)
