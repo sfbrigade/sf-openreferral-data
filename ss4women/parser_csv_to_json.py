@@ -1,6 +1,5 @@
 import re
 import csv
-
 # A lot of these functions do nothing other than simply output their input.
 # The code is structured this way for clarity and ease-of-editing later on
 # in case we want to change the structure
@@ -104,11 +103,8 @@ def parse(read):
     for line in read:
         faxNumbers = line[3]
         parsedFax = parse_fax(faxNumbers)
-
         emails = line[4]
         parsedEmail = parse_emails(emails)
-
-
         g.writerow([emails, parsedEmail])
 
 
