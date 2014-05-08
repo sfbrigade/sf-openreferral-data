@@ -373,6 +373,6 @@ except:
         urls.append(url)
         servs['urls'] = urls
 
-g.write(json.dumps(org) + ',')
+g.write(json.dumps(org) + ',\n')
 g.close()
 >>>>>>> 8eb1bbb8d262a29ecf7beb17fc144faba88e2def
