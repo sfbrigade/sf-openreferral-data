@@ -1,4 +1,5 @@
 import json
+g = open('output.json', 'w')
 organization_name = raw_input("\nName? >> ")
 org = {"name": str(organization_name)}
 location_flag = raw_input("\nDoes it have a location (y/n)>> ")
@@ -110,7 +111,7 @@ if location_flag != 'n':
 
             location['faxes'] = faxes
 
-        hours = raw_input("\nHours? >> ")
+        hours = raw_input("\nHours? (press enter to skip) >> ")
         if hours:
             location['hours'] = hours
 
@@ -120,7 +121,7 @@ if location_flag != 'n':
             while language_flag != 'n':
                 language = raw_input("\nLanguage (one at a time)? >> ")
                 languages.append(str(language))
-                language_flag = raw_input("\nAdd another language? >> ")
+                language_flag = raw_input("\nAdd another language? (y/n) >> ")
 
             location['languages'] = languages
 
@@ -165,4 +166,5 @@ except:
         urls.append(url)
         servs['urls'] = urls
 
-print json.dumps(org) + ','
+g.write(json.dumps(org) + ',')
+g.close()
