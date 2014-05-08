@@ -1,5 +1,5 @@
 import json
-g = open('output.json', 'w')
+g = open('output.json', 'a')
 organization_name = raw_input("\nName? >> ")
 org = {"name": str(organization_name)}
 location_flag = raw_input("\nDoes it have a location (y/n)>> ")
@@ -63,7 +63,7 @@ if location_flag != 'n':
                     phone_type = ''
                 phones.append(phone)
                 phone_flag = raw_input("Add another phone number? (y/n) >> ")
-            
+
             location['phones'] = phones
 
         contact_flag = raw_input("\nIs there a contact person? (y/n) >> ")
