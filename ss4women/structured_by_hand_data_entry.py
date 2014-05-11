@@ -2,7 +2,7 @@ import json
 import csv
 import sys
 
-linesToSkip = 0
+linesToSkip = 213
 
 def getField(fieldValue, fieldName):
     try:
@@ -152,7 +152,7 @@ for line in fileIn:
                     department = raw_input("\nWhat department will it go to? (press enter to skip) >> ")
                     if department:
                         fax['department'] = str(department)
-                    faxes.append(phone)
+                    faxes.append(fax)
                     fax_flag = raw_input("Add another fax number? (y/n) >> ")
 
                 location['faxes'] = faxes
@@ -212,5 +212,5 @@ for line in fileIn:
             urls.append(url)
             servs['urls'] = urls
 
-    g.write(json.dumps(org) + ',')
+    g.write(json.dumps(org) + ',' + '\n')
     g.close()
