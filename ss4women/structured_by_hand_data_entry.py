@@ -1,5 +1,8 @@
 import json
 import csv
+import sys
+
+linesToSkip = 0
 
 def getField(fieldValue, fieldName):
     try:
@@ -14,6 +17,9 @@ def getField(fieldValue, fieldName):
 
 fileIn = csv.reader(open('directory.csv'), delimiter=',', quotechar='"', skipinitialspace=True)
 next(fileIn)
+for i in range(linesToSkip):
+    next(fileIn)
+
 for line in fileIn:
     g = open('output.json', 'a')
     names = line[0].split(',')
