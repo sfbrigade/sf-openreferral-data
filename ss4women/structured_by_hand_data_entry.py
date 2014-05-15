@@ -2,7 +2,7 @@ import json
 import csv
 import sys
 
-linesToSkip = 213
+linesToSkip = 101
 
 def getField(fieldValue, fieldName):
     try:
@@ -15,12 +15,13 @@ def getField(fieldValue, fieldName):
         result = raw_input("\n%s? >> " % fieldName)
     return result
 
-fileIn = csv.reader(open('directory.csv'), delimiter=',', quotechar='"', skipinitialspace=True)
+fileIn = enumerate(
+    csv.reader(open('directory.csv'), delimiter=',', quotechar='"', skipinitialspace=True))
 next(fileIn)
 for i in range(linesToSkip):
     next(fileIn)
 
-for line in fileIn:
+for i, line in fileIn:
     g = open('output.json', 'a')
     names = line[0].split(',')
     locations = line[1]
@@ -29,7 +30,7 @@ for line in fileIn:
     possibleEmails = line[4].split(',')
     possibleURLs = line[5].split(',')
     print('\n')
-    print('---------- NEXT ---------------')
+    print('---------- NEXT, Entry #{} ---------------'.format(i))
     print(line,)
     organization_name = getField(names, 'name')
     print('\n')
