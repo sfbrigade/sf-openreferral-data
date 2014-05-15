@@ -16,7 +16,7 @@ The first thing to do is to bring yourself up to speed on the emerging Open Refe
 3. Look them over and pick one to start working on, edit the [wiki page](https://github.com/sfbrigade/sf-openreferral-transform-scripts/wiki/Data-Sources) and move to *working on:*
 4. Create a folder for your script named something sensible related to the data you're working on, the repo will have one folder for each dataset
 5. Write an extraction script, if necessary, to get the data from the original source (website, PDF, or even printed document) to a basic spreadsheet
-6. Write a transform script to transform into the format [documented here](https://github.com/codeforamerica/ohana-api/wiki/Populating-the-Mongo-database-from-a-JSON-file)
+6. Write a transform script to transform into the format [documented here](https://github.com/codeforamerica/ohana-api/wiki/Populating-the-Postgres-database-from-a-JSON-file)
 
 ---------------------------------------
 
