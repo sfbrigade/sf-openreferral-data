@@ -8,6 +8,16 @@ This project is part of a movement to take data about social services including 
 #Contribution guidelines
 The first thing to do is to bring yourself up to speed on the emerging Open Referral spec and the implementation examples of Ohana API, Ohana API admin and SMC-Connect. Ohana API and related tools came out of a 2013 Code for America fellowship project in San Mateo County.
 
+#High Level Timeline
+March - May 2014: Prepare two to three social service datasets in the required JSON format.
+
+Nat'l Day of Civic Hacking (end of May): Deploy Ohana API with 2-3 datasets. Work on admin console.
+
+June - July 2014: Develop admin platform and simple frontend for database.
+
+July - September 2014: Pilot program with Department of Children, Youth and Their Families in SF to update and maintain data in database.
+
+October - ongoing: Work with other social services to provide admin interface for updating and maintaining data
 
 #Quick and dirty tasks 4/9/2014
 
