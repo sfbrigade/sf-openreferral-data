@@ -2,7 +2,7 @@ import json
 import csv
 import sys
 
-linesToSkip = 119
+linesToSkip = 120
 
 def getField(fieldValue, fieldName):
     try:
@@ -45,14 +45,21 @@ for i, line in fileIn:
             if not location_name:
                 location_name = organization_name
             location = {"name": str(location_name)}
-            street = raw_input("\nStreet address? >> ")
-            city = raw_input("\nCity? (leave blank for San Francisco) >> ")
+
+            default_street = locations.split(',')[0]
+            street = raw_input("\nStreet address? (leave blank for '{}') >> ".format(default_street))
+            if not street:
+                street = default_street
+            city = raw_input("\nCity? (leave blank for 'San Francisco') >> ")
             if not city:
                 city = 'San Francisco'
-            state = raw_input("\nState? (leave blank for CA) >> ")
+            state = raw_input("\nState? (leave blank for 'CA') >> ")
             if not state:
                 state = 'CA'
-            zipcode = raw_input("\nZipcode? >> ")
+            default_zip = locations.rsplit(' ', 1)[-1]
+            zipcode = raw_input("\nZipcode? (leave blank for '{}') >> ".format(default_zip))
+            if not zipcode:
+                zipcode = default_zip
             address = {
                 "street": str(street),
                 "city": str(city),
