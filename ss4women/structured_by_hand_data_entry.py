@@ -2,7 +2,7 @@ import json
 import csv
 import sys
 
-linesToSkip = 101
+linesToSkip = 119
 
 def getField(fieldValue, fieldName):
     try:
@@ -41,11 +41,17 @@ for i, line in fileIn:
     if location_flag != 'n':
         locs = []
         while location_flag != 'n':
-            location_name = raw_input("\nLocation name? >> ")
+            location_name = raw_input("\nLocation name? (leave blank to use org name) >> ")
+            if not location_name:
+                location_name = organization_name
             location = {"name": str(location_name)}
             street = raw_input("\nStreet address? >> ")
-            city = raw_input("\nCity? >> ")
-            state = raw_input("\nState? >> ")
+            city = raw_input("\nCity? (leave blank for San Francisco) >> ")
+            if not city:
+                city = 'San Francisco'
+            state = raw_input("\nState? (leave blank for CA) >> ")
+            if not state:
+                state = 'CA'
             zipcode = raw_input("\nZipcode? >> ")
             address = {
                 "street": str(street),
@@ -117,28 +123,28 @@ for i, line in fileIn:
                 while contact_flag != 'n':
                     name = raw_input("\nName? >> ")
                     contact = {"name": str(name)}
-                    title = raw_input("\nWhat is their title? (press enter to skip) >> ")
+                    title = raw_input("\n  What is their title? (press enter to skip) >> ")
                     if title:
                         contact['title'] = str(title)
                         title = ''
-                    contact_email = raw_input("\nWhat is their email address? (press enter to skip) >> ")
+                    contact_email = raw_input("\n  What is their email address? (press enter to skip) >> ")
                     if contact_email:
                         contact['email'] = str(contact_email)
                         contact_email = ''
-                    contact_fax = raw_input("\nWhat is their fax number? (press enter to skip) >> ")
+                    contact_fax = raw_input("\n  What is their fax number? (press enter to skip) >> ")
                     if contact_fax:
                         contact['fax'] = contact_fax
                         contact_fax = ''
-                    contact_phone = raw_input("\nPhone number w/o extension, e.g. 123 456-7890? (press enter to skip) >> ")
+                    contact_phone = raw_input("\n  Phone number w/o extension, e.g. 123 456-7890? (press enter to skip) >> ")
                     if contact_phone:
                         contact['phone'] = contact_phone
                         contact_phone = ''
-                    contact_extension = raw_input("\nExtension, e.g. x1234? (press enter to skip) >> ")
+                    contact_extension = raw_input("\n  Extension, e.g. x1234? (press enter to skip) >> ")
                     if contact_extension:
                         contact['extension'] = contact_extension
                         contact_extension = ''
                     contacts.append(contact)
-                    contact_flag = raw_input("\nIs there another contact person? (y/n) >> ")
+                    contact_flag = raw_input("\n  Is there another contact person? (y/n) >> ")
 
                 location['contacts'] = contacts
 
@@ -164,12 +170,9 @@ for i, line in fileIn:
 
             language_flag = raw_input("\nDo they have languages specified? (y/n) >> ")
             if language_flag != 'n':
-                languages = []
-                while language_flag != 'n':
-                    language = raw_input("\nLanguage (one at a time)? >> ")
-                    languages.append(str(language))
-                    language_flag = raw_input("\nAdd another language? (y/n) >> ")
-
+                languages = raw_input("\nInput languages separated by ', ' (eg. English, Spanish, ...) >> ")
+                languages = languages.replace(' and ', '').split(', ')
+                languages = [lang.strip() for lang in languages]
                 location['languages'] = languages
 
             short_desc = raw_input("\nShort description? >> ")
