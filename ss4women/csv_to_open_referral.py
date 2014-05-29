@@ -10,7 +10,7 @@ def read_csv(filename):
     
     # Read the passed csv file into a list of objects.
 
-    with open(filename, "rb") as f:
+    with open(filename, 'r') as f:
         reader = csv.reader(
             f, delimiter=',', quotechar='"', skipinitialspace=True)
         rows = [row for row in reader]
