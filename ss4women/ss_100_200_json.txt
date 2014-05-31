@@ -5133,7 +5133,7 @@
       {
         "phones_attributes": [
           {
-            "number": "415 864-5626"
+            "number": "415 864-5626",
             "vanity_number": "415 864-LOCO"
           }
         ],
