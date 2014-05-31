@@ -1,7 +1,9 @@
 import re
-from csv import reader
+import csv
+# A lot of these functions do nothing other than simply output their input.
+# The code is structured this way for clarity and ease-of-editing later on
+# in case we want to change the structure
 
-f = open('contacts.csv');  g = open('split_contacts.csv', 'w+')
 def parse_contact_field(field, g):
     field = field.strip()
     field = field.split(';')
@@ -49,23 +51,67 @@ def parse_contact_field(field, g):
         contacts.append(person)
     return contacts
 
+# Output the full description
+def parse_description(desc):
+    return desc
+
+# Output just the first sentence of the description
+def parse_short_desc(desc):
+    return '.'.join(desc.split('.'))[0]
+
+# Output the hours string
+def parse_hours(hours):
+    return hours
+
+def parse_languages(langs):
+    return lang.split(',')
+
+# Each ss has one url
+def parse_url(url):
+    return url
+
+def parse_fax(phones):
+    if phones != '':
+        phones = phones.split(',')
+        numbers = []
+        for num in phones:
+            nums = re.findall(r'\d+', num)
+            if len(nums) > 1:
+                num = nums[0] + ' ' + nums[1] + '-' + nums[2]
+            else:
+                print(num)
+                num = raw_input()
+            numbers.append({'number': num})
+        return numbers
+    else:
+        return ''
+
+def parse_emails(emails):
+    parsedEmails = []
+    if emails != '':
+        emails = emails.split(',')
+        parsedEmails = [email for email in emails if re.findall('@', email)]
+
+    if len(parsedEmails) == 0:
+        parsedEmails = None
+
+    parsedEmails = {'emails': parsedEmails}
+    return parsedEmails
+
 
 def parse(read):
-    orgs = {}
     for line in read:
-        org = orgs.get(line[0],{})
-        org['name'] = line[0]
-        locs = org.get('locs',[])
-        loc = {
-            #'name': #TODO,
-            'contacts': [
-
-            ]
-
-        }
+        faxNumbers = line[3]
+        parsedFax = parse_fax(faxNumbers)
+        emails = line[4]
+        parsedEmail = parse_emails(emails)
+        g.writerow([emails, parsedEmail])
 
 
 if __name__ == '__main__':
-    read = reader(open('directory.csv'), delimiter=',',
+    g = csv.writer(open('emails.csv', 'w+'), delimiter=',')
+    read = csv.reader(open('directory.csv'), delimiter=',',
         quotechar='"', skipinitialspace=True)
+    next(read)
     parse(read)
+
