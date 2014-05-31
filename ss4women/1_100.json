@@ -46,7 +46,7 @@
         "audience": "All",
         "short_desc": "The City and County of San Francisco established 311 to provide an easy-to-remember telephone number that connects residents, businesses, and visitors to Customer Service Representatives ready to help with general government information and services.",
         "urls": [
-            "www.sf311.org",
+            "http://www.sf311.org",
             "http://www.sf311.org"
         ],
         "fees": "None"
@@ -1541,7 +1541,7 @@
             "name": "Bar Association of San Francisco",
             "phones_attributes": [
                 {
-                    "number": "(415) 982-1600"
+                    "number": "415 982-1600"
                 },
                 {
                     "department": "Lawyer Referral",
@@ -1581,7 +1581,7 @@
             ],
             "faxes_attibutes": [
                 {
-                    "number": "(415) 863-7343"
+                    "number": "415 863-7343"
                 }
             ],
             "name": "BAART Market",
@@ -1592,13 +1592,13 @@
             ],
             "phones_attributes": [
                 {
-                    "number": "(415) 863-3883"
+                    "number": "415 863-3883"
                 }
             ],
             "short_desc": "Bay Area Addiction Research & Treatment, Inc. (BAART) offers comprehensive substance abuse treatment, specializing in outpatient methadone treatment and detoxification (detox programs range in duration from 21-180 days).",
             "hours": "Monday - Wednesday, Friday, 6:00am -2:00pm; Thursday, 6:00am - 12:00pm; Saturday and Sunday, 8:00am - 12:00pm",
             "urls": [
-                "www.baarthealthcare.org"
+                "http://www.baarthealthcare.org"
             ],
             "address_attributes": {
                 "city": "San Francisco",
@@ -1619,7 +1619,7 @@
             ],
             "faxes_attibutes": [
                 {
-                    "number": "(415) 863-7343"
+                    "number": "415 863-7343"
                 }
             ],
             "name": "BAART Turk",
@@ -1636,7 +1636,7 @@
             "short_desc": "Bay Area Addiction Research & Treatment, Inc. (BAART) offers comprehensive substance abuse treatment, specializing in outpatient methadone treatment and detoxification (detox programs range in duration from 21-180 days).",
             "hours": "Monday - Wednesday, Friday, 6:00am -2:00pm; Thursday, 6:00am - 12:00pm; Saturday and Sunday, 8:00am - 12:00pm",
             "urls": [
-                "www.baarthealthcare.org"
+                "http://www.baarthealthcare.org"
             ],
             "address_attributes": {
                 "city": "San Francisco",
@@ -1670,7 +1670,7 @@
             ],
             "faxes_attibutes": [
                 {
-                    "number": "(415) 982-4243"
+                    "number": "415 982-4243"
                 }
             ],
             "name": "Bay Area Legal Aid",
@@ -1682,7 +1682,7 @@
             ],
             "phones_attributes": [
                 {
-                    "number": "(415) 982-1300"
+                    "number": "415 982-1300"
                 },
                 {
                     "type": "Legal Advice Line",
@@ -1695,7 +1695,7 @@
             "short_desc": "Bay Area Legal Aid's mission is to help individuals escape poverty and to safeguard the basic rights of those who cannot.",
             "hours": "Monday - Friday, 9:00am - 12:00pm, 1:00pm - 5:00pm; Legal Advice Line: Monday, Thursday, 9:30am - 3:00pm, Tuesday, Wednesday: 9:30am - 1:00pm",
             "urls": [
-                "www.baylegal.org"
+                "http://www.baylegal.org"
             ],
             "address_attributes": {
                 "city": "San Francisco",
@@ -1721,7 +1721,7 @@
             ],
             "faxes_attibutes": [
                 {
-                    "number": "(415) 861-4316"
+                    "number": "415 861-4316"
                 }
             ],
             "name": "Bay Area Video Coalition",
@@ -1742,7 +1742,7 @@
             "short_desc": "Bay Area Video Coalition (BAVC) is a nonprofit media arts center providing access to training in media technologies, along with free comprehensive vocational training.",
             "hours": "Main Facility Hours: 7 days/week, 10:00am - 6:00pm",
             "urls": [
-                "www.bavc.org"
+                "http://www.bavc.org"
             ],
             "address_attributes": {
                 "city": "San Francisco",
@@ -1819,7 +1819,7 @@
             ],
             "faxes_attibutes": [
                 {
-                    "number": "(415) 474-5525"
+                    "number": "415 474-5525"
                 }
             ],
             "name": "Bay Area Women's and Children's Center",
@@ -1831,13 +1831,13 @@
             ],
             "phones_attributes": [
                 {
-                    "number": "(415) 474-2400"
+                    "number": "415 474-2400"
                 }
             ],
             "short_desc": "Bay Area Women's and Children's Center (BAWCC) focuses entirely on the needs and issues of low-income families, children, and women.",
             "hours": "Office Hours: Monday - Friday, 8:30am - 4:00pm; Drop In: Tuesday and Thursday, 8:30am - 12:30pm",
             "urls": [
-                "www.bawcc.org"
+                "http://www.bawcc.org"
             ],
             "address_attributes": {
                 "city": "San Francisco",
@@ -1866,10 +1866,10 @@
             ],
             "phones_attributes": [
                 {
-                    "number": "(415) 348-8042"
+                    "number": "415 348-8042"
                 },
                 {
-                    "number": "(415) 974-0349"
+                    "number": "415 974-0349"
                 }
             ],
             "short_desc": "The Bayanihan Center includes the Veterans Equity Center office, community program space, conference room, and a technology center with 20 computers.",
@@ -1905,13 +1905,13 @@
             ],
             "phones_attributes": [
                 {
-                    "number": "(415) 751-1659"
+                    "number": "415 751-1659"
                 }
             ],
             "short_desc": "BAYSWAN works to improve working conditions, increase benefits, and eliminate discrimination on behalf of individuals working within both legal and criminalized adult entertainment industries.",
             "hours": "Monday - Friday, 10:00am - 6:00pm",
             "urls": [
-                "www.bayswan.org"
+                "http://www.bayswan.org"
             ],
             "mail_address_attributes": {
                 "city": "San Francisco",
@@ -1937,7 +1937,7 @@
         {
             "faxes_attibutes": [
                 {
-                    "number": "(415) 468-5104"
+                    "number": "415 468-5104"
                 }
             ],
             "name": "Bayview Hunter's Point Foundation",
@@ -1950,7 +1950,7 @@
             ],
             "phones_attributes": [
                 {
-                    "number": "(415) 468-5100"
+                    "number": "415 468-5100"
                 }
             ],
             "short_desc": "The BVHP Foundation addresses the needs of communities where essential social services such as legal assistance, drug rehabilitation, and mental healthcare are unavailable. ",
@@ -1958,7 +1958,7 @@
                 "English"
             ],
             "urls": [
-                "www.bayviewci.org"
+                "http://www.bayviewci.org"
             ],
             "address_attributes": {
                 "city": "San Francisco",
@@ -1974,7 +1974,7 @@
         {
             "faxes_attibutes": [
                 {
-                    "number": "(415) 468-5104"
+                    "number": "415 468-5104"
                 }
             ],
             "name": "Outpatient Mental Health Family Center",
@@ -1995,7 +1995,7 @@
                 "English"
             ],
             "urls": [
-                "www.bayviewci.org",
+                "http://www.bayviewci.org",
                 "mental.health@bayviewci.org"
             ],
             "address_attributes": {
@@ -2012,7 +2012,7 @@
         {
             "faxes_attibutes": [
                 {
-                    "number": "(415) 468-5104"
+                    "number": "415 468-5104"
                 }
             ],
             "name": "School-Based Mental Health Service: Balboa Teen Health Center",
@@ -2033,7 +2033,7 @@
                 "English"
             ],
             "urls": [
-                "www.bayviewci.org"
+                "http://www.bayviewci.org"
             ],
             "address_attributes": {
                 "city": "San Francisco",
@@ -2049,7 +2049,7 @@
         {
             "faxes_attibutes": [
                 {
-                    "number": "(415) 468-5104"
+                    "number": "415 468-5104"
                 }
             ],
             "name": "Mental Health Program for Balboa HS Students: Anchor Program",
@@ -2069,7 +2069,7 @@
                 "English"
             ],
             "urls": [
-                "www.bayviewci.org"
+                "http://www.bayviewci.org"
             ],
             "address_attributes": {
                 "city": "San Francisco",
@@ -2085,7 +2085,7 @@
         {
             "faxes_attibutes": [
                 {
-                    "number": "(415) 468-5104"
+                    "number": "415 468-5104"
                 }
             ],
             "name": "Mental Health Services for Individuals with Developmental Disabilities: Family Mosaic Project",
@@ -2106,7 +2106,7 @@
                 "English"
             ],
             "urls": [
-                "www.bayviewci.org"
+                "http://www.bayviewci.org"
             ],
             "address_attributes": {
                 "city": "San Francisco",
@@ -2122,7 +2122,7 @@
         {
             "faxes_attibutes": [
                 {
-                    "number": "(415) 468-5104"
+                    "number": "415 468-5104"
                 }
             ],
             "name": "Mental Health Services for Children and Youth: Bayview Hunter Point Substance Abuse Services",
@@ -2144,7 +2144,7 @@
                 "English"
             ],
             "urls": [
-                "www.bayviewci.org"
+                "http://www.bayviewci.org"
             ],
             "address_attributes": {
                 "city": "San Francisco",
@@ -2178,13 +2178,13 @@
             ],
             "phones_attributes": [
                 {
-                    "number": "(415) 751-1659"
+                    "number": "415 751-1659"
                 }
             ],
             "short_desc": "BAYSWAN works to improve working conditions, increase benefits, and eliminate discrimination on behalf of individuals working within both legal and criminalized adult entertainment industries.",
             "hours": "Monday - Friday, 10:00am - 6:00pm",
             "urls": [
-                "www.bayswan.org"
+                "http://www.bayswan.org"
             ],
             "mail_address_attributes": {
                 "city": "San Francisco",
@@ -2215,23 +2215,23 @@
             ],
             "faxes_attibutes": [
                 {
-                    "number": "(415) 401-6812"
+                    "number": "415 401-6812"
                 }
             ],
             "name": "Bayview Hunter's Point Health and Environmental Resource Center",
             "phones_attributes": [
                 {
-                    "number": "(415) 401-6810"
+                    "number": "415 401-6810"
                 },
                 {
                     "type": "TTY",
-                    "number": "(415) 641-1635"
+                    "number": "415 641-1635"
                 }
             ],
             "short_desc": "HERC community programs are centered around two major health problems, asthma and women-specific cancer.",
             "hours": "Monday - Friday, 8:00am - 6:00pm",
             "urls": [
-                "www.bayviewherc.org"
+                "http://www.bayviewherc.org"
             ],
             "address_attributes": {
                 "city": "San Francisco",
@@ -2249,23 +2249,23 @@
             ],
             "faxes_attibutes": [
                 {
-                    "number": "(415) 401-6812"
+                    "number": "415 401-6812"
                 }
             ],
             "name": "Clinic",
             "phones_attributes": [
                 {
-                    "number": "(415) 401-6810"
+                    "number": "415 401-6810"
                 },
                 {
                     "type": "TTY",
-                    "number": "(415) 641-1635"
+                    "number": "415 641-1635"
                 }
             ],
             "short_desc": "HERC community programs are centered around two major health problems, asthma and women-specific cancer.",
             "hours": "Monday - Friday, 8:00am - 5:00pm",
             "urls": [
-                "www.bayviewherc.org"
+                "http://www.bayviewherc.org"
             ],
             "address_attributes": {
                 "city": "San Francisco",
@@ -2293,13 +2293,13 @@
             ],
             "faxes_attibutes": [
                 {
-                    "number": "(415) 822-5327"
+                    "number": "415 822-5327"
                 }
             ],
             "name": "Dr. George W. Davis Sr. Center",
             "phones_attributes": [
                 {
-                    "number": "(415) 822-1444"
+                    "number": "415 822-1444"
                 }
             ],
             "short_desc": "Bayview Hunter's Point Multipurpose Senior Services, Inc. is deeply connected to and committed to the seniors of the Bayview Hunter's Point community.",
@@ -2327,13 +2327,13 @@
             ],
             "faxes_attibutes": [
                 {
-                    "number": "(415) 822-5327"
+                    "number": "415 822-5327"
                 }
             ],
             "name": "Bayview Hunters Point Adult Day Health Center",
             "phones_attributes": [
                 {
-                    "number": "(415) 826-4774"
+                    "number": "415 826-4774"
                 }
             ],
             "short_desc": "Bayview Hunter's Point Multipurpose Senior Services, Inc. is deeply connected to and committed to the seniors of the Bayview Hunter's Point community.",
@@ -2361,13 +2361,13 @@
             ],
             "faxes_attibutes": [
                 {
-                    "number": "(415) 822-5327"
+                    "number": "415 822-5327"
                 }
             ],
             "name": "Bayview Senior Connections",
             "phones_attributes": [
                 {
-                    "number": "(415) 647-5353"
+                    "number": "415 647-5353"
                 }
             ],
             "short_desc": "Bayview Hunter's Point Multipurpose Senior Services, Inc. is deeply connected to and committed to the seniors of the Bayview Hunter's Point community.",
@@ -2395,13 +2395,13 @@
             ],
             "faxes_attibutes": [
                 {
-                    "number": "(415) 822-5327"
+                    "number": "415 822-5327"
                 }
             ],
             "name": "Western Addition Senior Center",
             "phones_attributes": [
                 {
-                    "number": "(415) 921-7805"
+                    "number": "415 921-7805"
                 }
             ],
             "short_desc": "Bayview Hunter's Point Multipurpose Senior Services, Inc. is deeply connected to and committed to the seniors of the Bayview Hunter's Point community.",
@@ -2436,7 +2436,7 @@
             ],
             "faxes_attibutes": [
                 {
-                    "number": "(415) 553-9646"
+                    "number": "415 553-9646"
                 }
             ],
             "name": "Bayview Mobilization for Adolescent Growth in Our Communities, Inc.",
@@ -2448,13 +2448,13 @@
             ],
             "phones_attributes": [
                 {
-                    "number": "(415) 558-2428"
+                    "number": "415 558-2428"
                 }
             ],
             "short_desc": "Bayview Mobilization for Adolescent Growth in Our Communities (B- MAGIC) is a neighborhood-based program for mobilizing community leaders, service providers, schools, juvenile justice agencies, church communities, and families in Bayview-Hunters Point.",
             "hours": "Monday - Friday, 9:00am - 5:00pm",
             "urls": [
-                "www.bayviewmagic.com"
+                "http://www.bayviewmagic.com"
             ],
             "address_attributes": {
                 "city": "San Francisco",
@@ -2482,7 +2482,7 @@
             ],
             "faxes_attibutes": [
                 {
-                    "number": "(415) 885-6585"
+                    "number": "415 885-6585"
                 }
             ],
             "name": "Because Justice Matters",
@@ -2493,13 +2493,13 @@
             ],
             "phones_attributes": [
                 {
-                    "number": "(415) 886-6543"
+                    "number": "415 886-6543"
                 }
             ],
             "short_desc": "Because Justice Matters works to end injustice by taking a stand against modern-day slavery, domestic violence, discrimination against immigrants and economic inequality.",
             "hours": "Monday - Friday, 9:00am - 5:00pm",
             "urls": [
-                "www.becausejusticematters.org"
+                "http://www.becausejusticematters.org"
             ],
             "address_attributes": {
                 "city": "San Francisco",
@@ -2544,7 +2544,7 @@
             ],
             "faxes_attibutes": [
                 {
-                    "number": "(415) 648-0793"
+                    "number": "415 648-0793"
                 }
             ],
             "name": "Bernal Heights Neighborhood Center (BHNC)",
@@ -2557,13 +2557,13 @@
             ],
             "phones_attributes": [
                 {
-                    "number": "Number: (415) 334-9919"
+                    "number": "Number: 415 334-9919"
                 }
             ],
             "short_desc": "Bernal Heights Neighborhood Center (BHNC) focuses on the needs of people with low- and moderate- incomes.",
             "hours": "Monday - Friday, 9:00am - 5:00pm; Senior Services: Monday - Friday, 9:00am - 2:00pm, and by special appointment",
             "urls": [
-                "www.bhnc.org"
+                "http://www.bhnc.org"
             ],
             "address_attributes": {
                 "city": "San Francisco",
@@ -2586,13 +2586,13 @@
             ],
             "faxes_attibutes": [
                 {
-                    "number": "(415) 648-0793"
+                    "number": "415 648-0793"
                 }
             ],
             "name": "Bernal Heights Neighborhood Center (BHNC)",
             "contacts_attributes": [
                 {
-                    "phone": "(415) 206-2140",
+                    "phone": "415 206-2140",
                     "name": "Rachel Edora",
                     "extension": "x152",
                     "title": "Executive Director"
@@ -2600,13 +2600,13 @@
             ],
             "phones_attributes": [
                 {
-                    "number": "(415) 334-9919"
+                    "number": "415 334-9919"
                 }
             ],
             "short_desc": "Bernal Heights Neighborhood Center (BHNC) focuses on the needs of people with low- and moderate- incomes.",
             "hours": "Monday - Friday, 9:00am - 5:00pm; Senior Services: Monday - Friday, 9:00am - 2:00pm, and by special appointment",
             "urls": [
-                "www.bhnc.org"
+                "http://www.bhnc.org"
             ],
             "address_attributes": {
                 "city": "San Francisco",
@@ -2635,7 +2635,7 @@
             ],
             "faxes_attibutes": [
                 {
-                    "number": "(415) 586-0155"
+                    "number": "415 586-0155"
                 }
             ],
             "name": "Big Brothers Big Sisters of the Bay Area",
@@ -2646,17 +2646,17 @@
             ],
             "phones_attributes": [
                 {
-                    "number": "(415) 503-4050"
+                    "number": "415 503-4050"
                 },
                 {
                     "department": "Enrollment Information",
-                    "number": "(415) 586-0150"
+                    "number": "415 586-0150"
                 }
             ],
             "short_desc": "Big Brothers Big Sisters of the Bay Area offers one-on-one mentoring for young people between the ages of 6-14 years old who live in the Bay Area, including Alameda, Contra Costa, San Mateo, San Francisco, Santa Clara counties.",
             "hours": "Monday - Friday, 9:00am - 5:00pm",
             "urls": [
-                "www.bbbsba.org"
+                "http://www.bbbsba.org"
             ],
             "address_attributes": {
                 "city": "San Francisco",
@@ -2684,7 +2684,7 @@
             ],
             "faxes_attibutes": [
                 {
-                    "number": "(415) 615-9943"
+                    "number": "415 615-9943"
                 }
             ],
             "name": "Black Coalition On AIDS",
@@ -2696,17 +2696,17 @@
             ],
             "phones_attributes": [
                 {
-                    "number": "(415) 615-9945"
+                    "number": "415 615-9945"
                 },
                 {
                     "type": "TTY",
-                    "number": "(415) 568-2082"
+                    "number": "415 568-2082"
                 }
             ],
             "short_desc": "Black Coalition on AIDS (BCA) focuses on reducing disparities in the Black community, particularly the spread of HIV/AIDS. BCA provides health and wellness services including, but not limited to, housing, education, advocacy, health case management and other health- promoting activities.",
             "hours": "Monday - Friday, 9:00am - 5:00pm",
             "urls": [
-                "www.bcoa.org"
+                "http://www.bcoa.org"
             ],
             "address_attributes": {
                 "city": "San Francisco",
@@ -2734,13 +2734,13 @@
             ],
             "faxes_attibutes": [
                 {
-                    "number": "(415) 554-5163"
+                    "number": "415 554-5163"
                 }
             ],
             "name": "Board of Supervisors, City and County of San Francisco",
             "phones_attributes": [
                 {
-                    "number": "(415) 554-5184"
+                    "number": "415 554-5184"
                 }
             ],
             "short_desc": "The Board of Supervisors & Clerk of the Board consists of several sub-committees which focus on issues such as school policy and anti- violence.",
@@ -2771,7 +2771,7 @@
         {
             "faxes_attibutes": [
                 {
-                    "number": "(415) 445-5435"
+                    "number": "415 445-5435"
                 }
             ],
             "name": "Administrative Staff",
@@ -2792,7 +2792,7 @@
             "short_desc": "Boys & Girls Clubs of San Francisco (BGCSF) serves youth and teens at nine neighborhood Clubhouses. ",
             "hours": "Monday-Friday, 9:00am - 6:00pm",
             "urls": [
-                "www.kidsclub.org"
+                "http://www.kidsclub.org"
             ],
             "address_attributes": {
                 "city": "San Francisco",
@@ -2811,7 +2811,7 @@
             ],
             "short_desc": "Boys & Girls Clubs of San Francisco (BGCSF) serves youth and teens at nine neighborhood Clubhouses.",
             "urls": [
-                "www.kidsclub.org"
+                "http://www.kidsclub.org"
             ],
             "address_attributes": {
                 "city": "San Francisco",
@@ -2830,7 +2830,7 @@
             ],
             "short_desc": "Boys & Girls Clubs of San Francisco (BGCSF) serves youth and teens at nine neighborhood Clubhouses.",
             "urls": [
-                "www.kidsclub.org"
+                "http://www.kidsclub.org"
             ],
             "address_attributes": {
                 "city": "San Francisco",
@@ -2849,7 +2849,7 @@
             ],
             "short_desc": "Boys & Girls Clubs of San Francisco (BGCSF) serves youth and teens at nine neighborhood Clubhouses.",
             "urls": [
-                "www.kidsclub.org"
+                "http://www.kidsclub.org"
             ],
             "address_attributes": {
                 "city": "San Francisco",
@@ -2868,7 +2868,7 @@
             ],
             "short_desc": "Boys & Girls Clubs of San Francisco (BGCSF) serves youth and teens at nine neighborhood Clubhouses.",
             "urls": [
-                "www.kidsclub.org"
+                "http://www.kidsclub.org"
             ],
             "address_attributes": {
                 "city": "San Francisco",
@@ -2887,7 +2887,7 @@
             ],
             "short_desc": "Boys & Girls Clubs of San Francisco (BGCSF) serves youth and teens at nine neighborhood Clubhouses.",
             "urls": [
-                "www.kidsclub.org"
+                "http://www.kidsclub.org"
             ],
             "address_attributes": {
                 "city": "San Francisco",
@@ -2906,7 +2906,7 @@
             ],
             "short_desc": "Boys & Girls Clubs of San Francisco (BGCSF) serves youth and teens at nine neighborhood Clubhouses.",
             "urls": [
-                "www.kidsclub.org"
+                "http://www.kidsclub.org"
             ],
             "address_attributes": {
                 "city": "San Francisco",
@@ -2925,7 +2925,7 @@
             ],
             "short_desc": "Boys & Girls Clubs of San Francisco (BGCSF) serves youth and teens at nine neighborhood Clubhouses.",
             "urls": [
-                "www.kidsclub.org"
+                "http://www.kidsclub.org"
             ],
             "address_attributes": {
                 "city": "San Francisco",
@@ -2944,7 +2944,7 @@
             ],
             "short_desc": "Boys & Girls Clubs of San Francisco (BGCSF) serves youth and teens at nine neighborhood Clubhouses.",
             "urls": [
-                "www.kidsclub.org"
+                "http://www.kidsclub.org"
             ],
             "address_attributes": {
                 "city": "San Francisco",
@@ -2963,7 +2963,7 @@
             ],
             "short_desc": "Boys & Girls Clubs of San Francisco (BGCSF) serves youth and teens at nine neighborhood Clubhouses.",
             "urls": [
-                "www.kidsclub.org"
+                "http://www.kidsclub.org"
             ],
             "address_attributes": {
                 "city": "San Francisco",
@@ -2988,7 +2988,7 @@
             ],
             "faxes_attibutes": [
                 {
-                    "number": "(415) 243-3996"
+                    "number": "415 243-3996"
                 }
             ],
             "name": "Breast Cancer Action",
@@ -3000,7 +3000,7 @@
             ],
             "phones_attributes": [
                 {
-                    "number": "(415) 243-9301"
+                    "number": "415 243-9301"
                 },
                 {
                     "vanity_number": "877 STOPPBC",
@@ -3010,7 +3010,7 @@
             "short_desc": "Breast Cancer Action is a policy group that lobbies Congress to spend more on breast cancer treatment for low-income women.",
             "hours": "Monday - Friday, 9:00am - 5:00pm",
             "urls": [
-                "www.bcaction.org",
+                "http://www.bcaction.org",
                 "http://www.thinkbeforeyoupink.org"
             ],
             "address_attributes": {
@@ -3040,7 +3040,7 @@
             ],
             "faxes_attibutes": [
                 {
-                    "number": "(415) 227-4527"
+                    "number": "415 227-4527"
                 }
             ],
             "name": "Bridges from School to Work",
@@ -3053,7 +3053,7 @@
             ],
             "phones_attributes": [
                 {
-                    "number": "(415) 227-4330"
+                    "number": "415 227-4330"
                 },
                 {
                     "type": "TTY",
@@ -3093,7 +3093,7 @@
             "name": "The San Francisco Department of Human Services Office",
             "phones_attributes": [
                 {
-                    "number": "(415) 558-1001"
+                    "number": "415 558-1001"
                 },
                 {
                     "number": "(877) 366-3076"
@@ -3105,7 +3105,7 @@
             "short_desc": "The CalFresh Program, known as Food Stamps and the Supplemental Nutrition Assistance Program (SNAP), adds to individuals' food budgets, in order to put healthy and nutritious food on the table.",
             "hours": "Monday - Friday, 8:00am - 5:00pm, closed 12:00pm - 1:00pm for lunch",
             "urls": [
-                "www.calfresh.ca.gov/"
+                "http://www.calfresh.ca.gov/"
             ],
             "address_attributes": {
                 "city": "San Francisco",
@@ -3134,7 +3134,7 @@
             ],
             "faxes_attibutes": [
                 {
-                    "number": "(415) 882-6233"
+                    "number": "415 882-6233"
                 }
             ],
             "name": "California Child Care Resource and Referral Network",
@@ -3146,13 +3146,13 @@
             ],
             "phones_attributes": [
                 {
-                    "number": "(415) 882-0234"
+                    "number": "415 882-0234"
                 }
             ],
             "short_desc": "California Child Care Resource and Referral Network provides referrals to other organizations that offer child care services.",
             "hours": "Monday - Friday, 9:00am - 5:00pm",
             "urls": [
-                "www.rrnetwork.org"
+                "http://www.rrnetwork.org"
             ],
             "address_attributes": {
                 "city": "San Francisco",
@@ -3177,7 +3177,7 @@
         {
             "faxes_attibutes": [
                 {
-                    "number": "(415) 552-3150"
+                    "number": "415 552-3150"
                 }
             ],
             "name": "California Coalition for Women Prisoners",
@@ -3189,7 +3189,7 @@
             ],
             "phones_attributes": [
                 {
-                    "number": "(415) 255-7036",
+                    "number": "415 255-7036",
                     "extension": "x4"
                 }
             ],
@@ -3234,19 +3234,19 @@
             ],
             "faxes_attibutes": [
                 {
-                    "number": "(415) 749-7476"
+                    "number": "415 749-7476"
                 }
             ],
             "name": "California State Employment Development Department and Career Link Center",
             "phones_attributes": [
                 {
-                    "number": "(415) 749-7503"
+                    "number": "415 749-7503"
                 }
             ],
             "short_desc": "EDD Career Link offers employment services, including interview preparation, job-listings, resume workshops, career counseling, and information on how to receive and pay for training.",
             "hours": "Monday - Friday, 9:00am - 5:00pm",
             "urls": [
-                "www.edd.ca.gov"
+                "http://www.edd.ca.gov"
             ],
             "address_attributes": {
                 "city": "San Francisco",
@@ -3269,19 +3269,19 @@
             ],
             "faxes_attibutes": [
                 {
-                    "number": "(415) 749-7476"
+                    "number": "415 749-7476"
                 }
             ],
             "name": "California State Employment Development Department and Career Link Center",
             "phones_attributes": [
                 {
-                    "number": "(415) 677-7500"
+                    "number": "415 677-7500"
                 }
             ],
             "short_desc": "EDD Career Link offers employment services, including interview preparation, job-listings, resume workshops, career counseling, and information on how to receive and pay for training.",
             "hours": "Monday - Friday, 9:00am - 5:00pm",
             "urls": [
-                "www.edd.ca.gov"
+                "http://www.edd.ca.gov"
             ],
             "address_attributes": {
                 "city": "San Francisco",
@@ -3304,19 +3304,19 @@
             ],
             "faxes_attibutes": [
                 {
-                    "number": "(415) 749-7476"
+                    "number": "415 749-7476"
                 }
             ],
             "name": "California State Employment Development Department and Career Link Center",
             "phones_attributes": [
                 {
-                    "number": "(415) 239-8705"
+                    "number": "415 239-8705"
                 }
             ],
             "short_desc": "EDD Career Link offers employment services, including interview preparation, job-listings, resume workshops, career counseling, and information on how to receive and pay for training.",
             "hours": "Monday - Friday, 9:00am - 5:00pm",
             "urls": [
-                "www.edd.ca.gov"
+                "http://www.edd.ca.gov"
             ],
             "address_attributes": {
                 "city": "San Francisco",
@@ -3339,19 +3339,19 @@
             ],
             "faxes_attibutes": [
                 {
-                    "number": "(415) 749-7476"
+                    "number": "415 749-7476"
                 }
             ],
             "name": "California State Employment Development Department and Career Link Center",
             "phones_attributes": [
                 {
-                    "number": "(415) 575-4570"
+                    "number": "415 575-4570"
                 }
             ],
             "short_desc": "EDD Career Link offers employment services, including interview preparation, job-listings, resume workshops, career counseling, and information on how to receive and pay for training.",
             "hours": "Monday - Friday, 9:00am - 5:00pm",
             "urls": [
-                "www.edd.ca.gov"
+                "http://www.edd.ca.gov"
             ],
             "address_attributes": {
                 "city": "San Francisco",
@@ -3374,19 +3374,19 @@
             ],
             "faxes_attibutes": [
                 {
-                    "number": "(415) 749-7476"
+                    "number": "415 749-7476"
                 }
             ],
             "name": "California State Employment Development Department and Career Link Center",
             "phones_attributes": [
                 {
-                    "number": "(415) 401-4800"
+                    "number": "415 401-4800"
                 }
             ],
             "short_desc": "EDD Career Link offers employment services, including interview preparation, job-listings, resume workshops, career counseling, and information on how to receive and pay for training.",
             "hours": "Monday - Friday, 9:00am - 5:00pm",
             "urls": [
-                "www.edd.ca.gov"
+                "http://www.edd.ca.gov"
             ],
             "address_attributes": {
                 "city": "San Francisco",
@@ -3409,19 +3409,19 @@
             ],
             "faxes_attibutes": [
                 {
-                    "number": "(415) 749-7476"
+                    "number": "415 749-7476"
                 }
             ],
             "name": "California State Employment Development Department and Career Link Center",
             "phones_attributes": [
                 {
-                    "number": "(415) 655-2620"
+                    "number": "415 655-2620"
                 }
             ],
             "short_desc": "EDD Career Link offers employment services, including interview preparation, job-listings, resume workshops, career counseling, and information on how to receive and pay for training.",
             "hours": "Monday - Friday, 9:00am - 5:00pm",
             "urls": [
-                "www.edd.ca.gov"
+                "http://www.edd.ca.gov"
             ],
             "address_attributes": {
                 "city": "San Francisco",
@@ -3444,19 +3444,19 @@
             ],
             "faxes_attibutes": [
                 {
-                    "number": "(415) 749-7476"
+                    "number": "415 749-7476"
                 }
             ],
             "name": "Arriba Juntos",
             "phones_attributes": [
                 {
-                    "number": "(415) 487-3240"
+                    "number": "415 487-3240"
                 }
             ],
             "short_desc": "EDD Career Link offers employment services, including interview preparation, job-listings, resume workshops, career counseling, and information on how to receive and pay for training.",
             "hours": "Monday - Friday, 9:00am - 5:00pm",
             "urls": [
-                "www.edd.ca.gov"
+                "http://www.edd.ca.gov"
             ],
             "address_attributes": {
                 "city": "San Francisco",
@@ -3481,20 +3481,20 @@
             ],
             "faxes_attibutes": [
                 {
-                    "number": "(415) 442-0720"
+                    "number": "415 442-0720"
                 }
             ],
             "name": "California Youth Connection",
             "phones_attributes": [
                 {
-                    "number": "(415) 442-5060",
+                    "number": "415 442-5060",
                     "extension": "x17"
                 }
             ],
             "short_desc": "The California Youth Connection (CYC) is guided, focused, and driven by current and former foster youth, with the assistance of other committed community members.",
             "hours": "Monday - Friday, 9:00am - 5:00pm",
             "urls": [
-                "www.calyouthconn.org"
+                "http://www.calyouthconn.org"
             ],
             "address_attributes": {
                 "city": "San Francisco",
@@ -3538,7 +3538,7 @@
             ],
             "faxes_attibutes": [
                 {
-                    "number": "(415) 972-1201"
+                    "number": "415 972-1201"
                 }
             ],
             "name": "Catholic Charities CYO (CCCYO)",
@@ -3549,13 +3549,13 @@
             ],
             "phones_attributes": [
                 {
-                    "number": "(415) 972-1200"
+                    "number": "415 972-1200"
                 }
             ],
             "short_desc": "CCCYO operates more than 30 programs and services in four counties. Their mission is to serve, support, strengthen and stabilize families.",
             "hours": "Monday - Friday, 9:00am - 5:00pm",
             "urls": [
-                "www.cccyo.org"
+                "http://www.cccyo.org"
             ],
             "address_attributes": {
                 "city": "San Francisco",
@@ -3584,7 +3584,7 @@
             ],
             "faxes_attibutes": [
                 {
-                    "number": "(415) 581-8824"
+                    "number": "415 581-8824"
                 }
             ],
             "name": "Center for Gender and Refugee Studies",
@@ -3596,7 +3596,7 @@
             ],
             "phones_attributes": [
                 {
-                    "number": "(415) 565-4877"
+                    "number": "415 565-4877"
                 }
             ],
             "short_desc": "CGRS seeks to protect the basic human rights of refugee women and girls by advancing gender-sensitive asylum laws, helping advocates successfully represent women in need of protection, and preventing these refugees from being forcibly returned to the countries from which they have fled.",
@@ -3630,7 +3630,7 @@
             ],
             "faxes_attibutes": [
                 {
-                    "number": "(415) 817-4540"
+                    "number": "415 817-4540"
                 }
             ],
             "name": "Center for Research and Education on Gender and Sexuality (CREGS)",
@@ -3646,7 +3646,7 @@
             ],
             "phones_attributes": [
                 {
-                    "number": "(415) 817-4512"
+                    "number": "415 817-4512"
                 }
             ],
             "short_desc": "CREGS produce and disseminate knowledge and resources that address the impact of gender on health and well-being, promote healthy sexuality, and reduce sexual and reproductive health disparities.",
@@ -3681,19 +3681,19 @@
             ],
             "faxes_attibutes": [
                 {
-                    "number": "(415) 703-8818"
+                    "number": "415 703-8818"
                 }
             ],
             "name": "Center for Young Women's Development",
             "phones_attributes": [
                 {
-                    "number": "(415) 703-8800"
+                    "number": "415 703-8800"
                 }
             ],
             "short_desc": "CYWD encourages young women to move beyond survival and become leaders and advocates for incarcerated and formerly incarcerated young women.",
             "hours": "Monday - Friday, 9:00am - 5:00pm",
             "urls": [
-                "www.cywd.org"
+                "http://www.cywd.org"
             ],
             "address_attributes": {
                 "city": "San Francisco",
@@ -3723,7 +3723,7 @@
             ],
             "faxes_attibutes": [
                 {
-                    "number": "(415) 621-5466"
+                    "number": "415 621-5466"
                 }
             ],
             "name": "Center on Juvenile and Criminal Justice",
@@ -3736,13 +3736,13 @@
             ],
             "phones_attributes": [
                 {
-                    "number": "(415) 621-5661"
+                    "number": "415 621-5661"
                 }
             ],
             "short_desc": "The Detention Diversion Advocacy Project (DDAP) provides intensive case management services and court ordered supervision to high-risk youth within the criminal justice system.",
             "hours": "Monday - Friday, 10:00am - 6:00pm",
             "urls": [
-                "www.cjcj.org"
+                "http://www.cjcj.org"
             ],
             "address_attributes": {
                 "city": "San Francisco",
@@ -3768,7 +3768,7 @@
             ],
             "faxes_attibutes": [
                 {
-                    "number": "(415) 824-2806"
+                    "number": "415 824-2806"
                 }
             ],
             "name": "Central American Resource Center (CARECEN)",
@@ -3779,13 +3779,13 @@
             ],
             "phones_attributes": [
                 {
-                    "number": "(415) 642-4400"
+                    "number": "415 642-4400"
                 }
             ],
             "short_desc": "The Central American Resource Center offers the following: Immigration services- including legal assistance, political asylum, citizenship assistance, and work permit renewal.",
             "hours": "Monday - Friday, 9:00 am - 5:00 pm; Free Health Clinic: Saturday, all day.",
             "urls": [
-                "www.carecensf.org"
+                "http://www.carecensf.org"
             ],
             "address_attributes": {
                 "city": "San Francisco",
@@ -3815,7 +3815,7 @@
             ],
             "faxes_attibutes": [
                 {
-                    "number": "(415) 749-2136"
+                    "number": "415 749-2136"
                 }
             ],
             "name": "Central City Hospitality House Tenderloin Self-Help Center",
@@ -3827,11 +3827,11 @@
             ],
             "phones_attributes": [
                 {
-                    "number": "(415) 749-2100"
+                    "number": "415 749-2100"
                 },
                 {
                     "department": "Front Desk",
-                    "number": "(415) 749-2143"
+                    "number": "415 749-2143"
                 }
             ],
             "short_desc": "The Tenderloin Self-Help Center offers homeless and low-income adults case management, substance abuse counseling, health education, employment counseling, computer training, support groups, recreational activities, and housing assistance.",
@@ -3870,7 +3870,7 @@
             ],
             "faxes_attibutes": [
                 {
-                    "number": "(415) 558-5959"
+                    "number": "415 558-5959"
                 }
             ],
             "name": "Central City Older Adult",
@@ -3883,7 +3883,7 @@
             ],
             "phones_attributes": [
                 {
-                    "number": "(415) 558-5900"
+                    "number": "415 558-5900"
                 }
             ],
             "short_desc": "The Central City Older Adult Clinic provides mental health services to clients residing in the Civic Center, South of Market, and Tenderloin areas of the city.",
@@ -3911,7 +3911,7 @@
             ],
             "faxes_attibutes": [
                 {
-                    "number": "(415) 861-8782"
+                    "number": "415 861-8782"
                 }
             ],
             "name": "Centro Latino de San Francisco Los Mayores de Centro Latino",
@@ -3922,7 +3922,7 @@
             ],
             "phones_attributes": [
                 {
-                    "number": "(415) 861-8758"
+                    "number": "415 861-8758"
                 }
             ],
             "short_desc": "Centro Latino de San Francisco Los Mayores de Centro Latino provides social services for low-income residents, elderly, and terminally ill in the Mission District and other targeted communities.",
@@ -3958,7 +3958,7 @@
             ],
             "faxes_attibutes": [
                 {
-                    "number": "(415) 206-6273"
+                    "number": "415 206-6273"
                 }
             ],
             "name": "Child and Adolescent Support Advocacy And Resource Center (CASARC)",
@@ -3970,13 +3970,13 @@
             ],
             "phones_attributes": [
                 {
-                    "number": "(415) 206-8386"
+                    "number": "415 206-8386"
                 }
             ],
             "short_desc": "CASARC serves children and adolescents who have been sexually or physically abused, or who have witnessed severe violence. Forensic medical and crisis management services are available 24/7.",
             "hours": "Monday - Friday, 8:00am - 5:00pm; Forensic Interviews: 24/7",
             "urls": [
-                "www.casarc.org"
+                "http://www.casarc.org"
             ],
             "address_attributes": {
                 "city": "San Francisco",
@@ -4003,7 +4003,7 @@
             ],
             "faxes_attibutes": [
                 {
-                    "number": "(415) 394-7140"
+                    "number": "415 394-7140"
                 }
             ],
             "name": "Child Care Law Center",
@@ -4016,13 +4016,13 @@
             "phones_attributes": [
                 {
                     "department": "Legal hotline, available Monday & Thursday, 12pm - 3pm for anyone with a legal question or a question about laws relating to child care",
-                    "number": "(415) 558-8005"
+                    "number": "415 558-8005"
                 }
             ],
             "short_desc": "Child Care Law Center supports the retention and expansion of quality licensed family child care in San Francisco by developing the professional capacity of providers.",
             "hours": "Monday - Friday, 9:00am - 5:00pm",
             "urls": [
-                "www.childcarelaw.org"
+                "http://www.childcarelaw.org"
             ],
             "address_attributes": {
                 "city": "San Francisco",
@@ -4054,7 +4054,7 @@
             ],
             "faxes_attibutes": [
                 {
-                    "number": "(415) 392-2399"
+                    "number": "415 392-2399"
                 }
             ],
             "name": "Children's Council of San Francisco",
@@ -4066,17 +4066,17 @@
             ],
             "phones_attributes": [
                 {
-                    "number": "(415) 276-2900"
+                    "number": "415 276-2900"
                 },
                 {
                     "department": "Resources & Referrals",
-                    "number": "(415) 343-3300"
+                    "number": "415 343-3300"
                 }
             ],
             "short_desc": "Children's Council of San Francisco works to improve the well-being of children, parents, families, and child care providers.",
             "hours": "Monday - Friday, 8:30am - 5:00pm",
             "urls": [
-                "www.childrenscouncil.org"
+                "http://www.childrenscouncil.org"
             ],
             "address_attributes": {
                 "city": "San Francisco",
@@ -4099,7 +4099,7 @@
             ],
             "faxes_attibutes": [
                 {
-                    "number": "(415) 392-2399"
+                    "number": "415 392-2399"
                 }
             ],
             "name": "Children's Council of San Francisco",
@@ -4111,17 +4111,17 @@
             ],
             "phones_attributes": [
                 {
-                    "number": "(415) 276-2900"
+                    "number": "415 276-2900"
                 },
                 {
                     "department": "Resources & Referrals",
-                    "number": "(415) 343-3300"
+                    "number": "415 343-3300"
                 }
             ],
             "short_desc": "Children's Council of San Francisco works to improve the well-being of children, parents, families, and child care providers.",
             "hours": "Monday - Friday, 8:30am - 5:00pm",
             "urls": [
-                "www.childrenscouncil.org"
+                "http://www.childrenscouncil.org"
             ],
             "address_attributes": {
                 "city": "San Francisco",
@@ -4150,7 +4150,7 @@
             ],
             "faxes_attibutes": [
                 {
-                    "number": "(415) 920-7729"
+                    "number": "415 920-7729"
                 }
             ],
             "name": "Children's System of Care",
@@ -4162,7 +4162,7 @@
             ],
             "phones_attributes": [
                 {
-                    "number": "(415) 920-7700"
+                    "number": "415 920-7700"
                 }
             ],
             "short_desc": "Children's System of Care (CSOC) provides intensive care management services to children, youth and families involved in multiple service systems (mental health, juvenile justice, child welfare and special education) who are at-risk for out of home placement.",
@@ -4199,14 +4199,14 @@
             ],
             "faxes_attibutes": [
                 {
-                    "number": "(415) 433-0953"
+                    "number": "415 433-0953"
                 }
             ],
             "name": "Chinatown Child Development Center",
             "phones_attributes": [
                 {
                     "type": "24/7",
-                    "number": "(415) 392-4453"
+                    "number": "415 392-4453"
                 }
             ],
             "short_desc": "The Chinatown Child Development Center (CCDC) is a mental health clinic for children and is under the umbrella of the SF Department of Public Health, Community Behavioral Health Services, Children, Youth and Family section.",
@@ -4236,7 +4236,7 @@
             ],
             "faxes_attibutes": [
                 {
-                    "number": "(415) 362-7992"
+                    "number": "415 362-7992"
                 }
             ],
             "name": "Chinatown Community Development Center",
@@ -4248,17 +4248,17 @@
             ],
             "phones_attributes": [
                 {
-                    "number": "(415) 984-1450"
+                    "number": "415 984-1450"
                 },
                 {
                     "type": "TTY",
-                    "number": "(415) 984-9910"
+                    "number": "415 984-9910"
                 }
             ],
             "short_desc": "Chinatown CDC is a community development organization with many roles, serving as neighborhood advocates, organizers, planners, and developers and managers of affordable housing.",
             "hours": "Monday - Friday, 9:00am - 5:00pm; Drop-In and Counseling Hours: Monday & Friday, 2:00pm - 4:00pm",
             "urls": [
-                "www.chinatowncdc.org"
+                "http://www.chinatowncdc.org"
             ],
             "address_attributes": {
                 "city": "San Francisco",
@@ -4279,7 +4279,7 @@
             ],
             "faxes_attibutes": [
                 {
-                    "number": "(415) 362-7992"
+                    "number": "415 362-7992"
                 }
             ],
             "name": "Chinatown Community Development Center",
@@ -4291,17 +4291,17 @@
             ],
             "phones_attributes": [
                 {
-                    "number": "(415) 984-1450"
+                    "number": "415 984-1450"
                 },
                 {
                     "type": "TTY",
-                    "number": "(415) 984-9910"
+                    "number": "415 984-9910"
                 }
             ],
             "short_desc": "Chinatown CDC is a community development organization with many roles, serving as neighborhood advocates, organizers, planners, and developers and managers of affordable housing.",
             "hours": "Monday - Friday, 9:00am - 5:00pm; Drop-In and Counseling Hours: Monday & Friday, 2:00pm - 4:00pm",
             "urls": [
-                "www.chinatowncdc.org"
+                "http://www.chinatowncdc.org"
             ],
             "address_attributes": {
                 "city": "San Francisco",
@@ -4334,13 +4334,13 @@
             ],
             "faxes_attibutes": [
                 {
-                    "number": "(415) 352-2050"
+                    "number": "415 352-2050"
                 }
             ],
             "name": "Chinatown North Beach Mental Health Services",
             "phones_attributes": [
                 {
-                    "number": "(415) 352-2000"
+                    "number": "415 352-2000"
                 }
             ],
             "short_desc": "Chinatown North Beach Mental Health Services offers a variety of mental health services, including psychiatric evaluation, individual therapy and counseling, family intervention, crisis intervention, urgent care, acupuncture treatment for psychiatric disorders, group activities and therapy, case management, consultation, education and information activities, medication, and adult/geriatric socialization.",
@@ -4369,7 +4369,7 @@
             ],
             "faxes_attibutes": [
                 {
-                    "number": "(415) 397-8770"
+                    "number": "415 397-8770"
                 }
             ],
             "name": "Chinese for Affirmative Action",
@@ -4380,13 +4380,13 @@
             ],
             "phones_attributes": [
                 {
-                    "number": "(415) 274-6750"
+                    "number": "415 274-6750"
                 }
             ],
             "short_desc": "Chinese for Affirmative Action (CAA) advocates for equal access to employment opportunities for Asian Americans.",
             "hours": "Monday - Friday, 9:00am - 5:00pm",
             "urls": [
-                "www.caasf.org"
+                "http://www.caasf.org"
             ],
             "address_attributes": {
                 "city": "San Francisco",
@@ -4416,7 +4416,7 @@
             ],
             "faxes_attibutes": [
                 {
-                    "number": "(415) 421-2323"
+                    "number": "415 421-2323"
                 }
             ],
             "name": "Chinese Newcomers Service Center",
@@ -4428,13 +4428,13 @@
             ],
             "phones_attributes": [
                 {
-                    "number": "(415) 421-2111"
+                    "number": "415 421-2111"
                 }
             ],
             "short_desc": "The Chinese Newcomers Service Center (CNSC) provides multilingual services that help Chinese immigrants adapt to life in the United States.",
             "hours": "Monday - Thursday, 9:00am - 12:00pm and 1:00pm - 5:00pm",
             "urls": [
-                "www.chinesenewcomers.org"
+                "http://www.chinesenewcomers.org"
             ],
             "address_attributes": {
                 "city": "San Francisco",
@@ -4459,7 +4459,7 @@
         {
             "faxes_attibutes": [
                 {
-                    "number": "(415) 239-3735"
+                    "number": "415 239-3735"
                 }
             ],
             "name": "City College of San Francisco",
@@ -4475,11 +4475,11 @@
             ],
             "phones_attributes": [
                 {
-                    "number": "(415) 239-3000"
+                    "number": "415 239-3000"
                 },
                 {
                     "type": "TDD",
-                    "number": "(415) 452-5451"
+                    "number": "415 452-5451"
                 }
             ],
             "short_desc": "City College offers a wide variety of educational and vocational training opportunities at several locations throughout the city.",
@@ -4487,7 +4487,7 @@
                 "English"
             ],
             "urls": [
-                "www.ccsf.edu"
+                "http://www.ccsf.edu"
             ],
             "address_attributes": {
                 "city": "San Francisco",
@@ -4515,19 +4515,19 @@
             ],
             "faxes_attibutes": [
                 {
-                    "number": "(415) 861-8687"
+                    "number": "415 861-8687"
                 }
             ],
             "name": "CityTeam International",
             "phones_attributes": [
                 {
-                    "number": "(415) 861-8688"
+                    "number": "415 861-8688"
                 }
             ],
             "short_desc": "CityTeam International is a nonprofit organization serving the poor and homeless in San Jose, San Francisco, Oakland, Portland, Philadelphia and partnerships in 42 other countries around the world.",
             "hours": "Monday - Friday, 9:00am - 4:00pm",
             "urls": [
-                "www.cityteam.org"
+                "http://www.cityteam.org"
             ],
             "address_attributes": {
                 "city": "San Francisco",
@@ -4552,13 +4552,13 @@
         {
             "faxes_attibutes": [
                 {
-                    "number": "(415) 405-0223"
+                    "number": "415 405-0223"
                 }
             ],
             "name": "Clinic by the Bay",
             "phones_attributes": [
                 {
-                    "number": "(415) 405-0222"
+                    "number": "415 405-0222"
                 }
             ],
             "short_desc": "Clinic by the Bay is a private, nonprofit medical clinic that provides free health care for working, uninsured adults residing in the Excelsior neighborhood (94112), Visitacion Valley/Portola (94134), and Daly City (94014, 94015).",
@@ -4599,7 +4599,7 @@
             ],
             "faxes_attibutes": [
                 {
-                    "number": "(415) 239-0584"
+                    "number": "415 239-0584"
                 }
             ],
             "name": "Coleman Advocates for Children and Youth",
@@ -4612,13 +4612,13 @@
             ],
             "phones_attributes": [
                 {
-                    "number": "(415) 239-0161"
+                    "number": "415 239-0161"
                 }
             ],
             "short_desc": "Coleman Advocates is a member-led, multiracial community organization working to make San Francisco a city of hope, justice and opportunity for children and families.",
             "hours": "Monday - Friday, 9:00am - 5:00pm",
             "urls": [
-                "www.colemanadvocates.org"
+                "http://www.colemanadvocates.org"
             ],
             "address_attributes": {
                 "city": "San Francisco",
@@ -4645,7 +4645,7 @@
             ],
             "faxes_attibutes": [
                 {
-                    "number": "(415) 241-1176"
+                    "number": "415 241-1176"
                 }
             ],
             "name": "Community Awareness & Treatment Services, Inc.",
@@ -4657,10 +4657,10 @@
             ],
             "phones_attributes": [
                 {
-                    "number": "(415) 241-1181"
+                    "number": "415 241-1181"
                 },
                 {
-                    "number": "(415) 241-1199"
+                    "number": "415 241-1199"
                 }
             ],
             "short_desc": "CATS provides a continuum of care for people with drug and alcohol abuse problems.",
@@ -4690,25 +4690,25 @@
         {
             "faxes_attibutes": [
                 {
-                    "number": "(415) 255-3629"
+                    "number": "415 255-3629"
                 }
             ],
             "name": "\ufffcCommunity Behavior Health Services, Behavioral Health Access Center (BHAC)",
             "contacts_attributes": [
                 {
-                    "phone": "(415) 255-3737",
+                    "phone": "415 255-3737",
                     "name": "Steve Benoit",
                     "title": "ACCESS Point of Contact"
                 },
                 {
-                    "phone": "(415) 503-4730",
+                    "phone": "415 503-4730",
                     "name": "Phil Castiglione",
                     "title": "TAP Point of Contact"
                 }
             ],
             "phones_attributes": [
                 {
-                    "number": "(415) 255-3633"
+                    "number": "415 255-3633"
                 },
                 {
                     "department": "TAP",
@@ -4753,7 +4753,7 @@
             ],
             "faxes_attibutes": [
                 {
-                    "number": "(415) 597-8004"
+                    "number": "415 597-8004"
                 }
             ],
             "name": "Community Focus (UCSF)",
@@ -4766,13 +4766,13 @@
             ],
             "phones_attributes": [
                 {
-                    "number": "(415) 597-8065"
+                    "number": "415 597-8065"
                 }
             ],
             "short_desc": "Community Focus is an intensive and assertive case management program, with an emphasis on psychosocial rehabilitation, that serves as the single point of responsibility for clients, their families, support systems, and service providers.",
             "hours": "Monday- Friday, 8:30am - 4:45pm",
             "urls": [
-                "www.cw-cf.org"
+                "http://www.cw-cf.org"
             ],
             "address_attributes": {
                 "city": "San Francisco",
@@ -4797,7 +4797,7 @@
             ],
             "faxes_attibutes": [
                 {
-                    "number": "(415) 749-2791"
+                    "number": "415 749-2791"
                 }
             ],
             "name": "Community Housing Partnership",
@@ -4809,13 +4809,13 @@
             ],
             "phones_attributes": [
                 {
-                    "number": "(415) 929-2470"
+                    "number": "415 929-2470"
                 }
             ],
             "short_desc": "Community Housing Partnership (CHP) provides permanent, affordable (subsidized) SRO and small family units to eligible applicants, as well as on-site support services that include: mental health and substance abuse counseling; employment and economic development opportunities for tenants, homeless people and staff; consultations, technical assistance, and advocacy for the development of supportive subsidized housing for very low-income and homeless persons.",
             "hours": "Administrative: Monday - Friday, 9:00am - 5:00pm; On-site Property Management: 24/7",
             "urls": [
-                "www.chp-sf.org"
+                "http://www.chp-sf.org"
             ],
             "address_attributes": {
                 "city": "San Francisco",
@@ -4842,16 +4842,16 @@
             ],
             "faxes_attibutes": [
                 {
-                    "number": "(415) 346-0413"
+                    "number": "415 346-0413"
                 }
             ],
             "name": "Community Justice Center: Violence Intervention Program",
             "phones_attributes": [
                 {
-                    "number": "(415) 202-2810"
+                    "number": "415 202-2810"
                 },
                 {
-                    "number": "(415) 292-2565'"
+                    "number": "415 292-2565'"
                 }
             ],
             "short_desc": "The Violence Intervention Program (VIP), formerly known as the Center for Special Problems, is a Department of Public Health program offered at the Community Justice Center.",
@@ -4883,7 +4883,7 @@
             ],
             "faxes_attibutes": [
                 {
-                    "number": "(415) 777-5565"
+                    "number": "415 777-5565"
                 }
             ],
             "name": "Community United Against Violence",
@@ -4894,19 +4894,19 @@
             ],
             "phones_attributes": [
                 {
-                    "number": "(415) 777-5500"
+                    "number": "415 777-5500"
                 },
                 {
-                    "vanity_number": "(415) 333-HELP",
+                    "vanity_number": "415 333-HELP",
                     "type": "24/7",
                     "department": "Crisis Line",
-                    "number": "(415) 333-4357"
+                    "number": "415 333-4357"
                 }
             ],
             "short_desc": "Community United Against Violence (CUAV) provides violence prevention and victim services to the lesbian, gay, bisexual, and transgender communities. ",
             "hours": "Monday - Friday, 10:00am - 6:00pm; Walk-in: Wednesday, 11:00am - 1:00pm",
             "urls": [
-                "www.cuav.org"
+                "http://www.cuav.org"
             ],
             "address_attributes": {
                 "city": "San Francisco",
@@ -4936,7 +4936,7 @@
             ],
             "faxes_attibutes": [
                 {
-                    "number": "(415) 544-0351"
+                    "number": "415 544-0351"
                 }
             ],
             "name": "Community Vocational Enterprises, Inc.",
@@ -4949,17 +4949,17 @@
             ],
             "phones_attributes": [
                 {
-                    "number": "(415) 544-0424"
+                    "number": "415 544-0424"
                 },
                 {
                     "type": "TDD",
-                    "number": "(415) 615-0103"
+                    "number": "415 615-0103"
                 }
             ],
             "short_desc": "CVE provides opportunities, training, and support to individuals with mental health disabilities, empowering then to fulfill their employment potential.",
             "hours": "Monday - Friday, 8:30am - 5:00pm",
             "urls": [
-                "www.cve.org"
+                "http://www.cve.org"
             ],
             "address_attributes": {
                 "city": "San Francisco",
@@ -4987,7 +4987,7 @@
             ],
             "faxes_attibutes": [
                 {
-                    "number": "(415) 775-1345"
+                    "number": "415 775-1345"
                 }
             ],
             "name": "Community Youth Center",
@@ -5003,13 +5003,13 @@
             ],
             "phones_attributes": [
                 {
-                    "number": "(415) 775-2636"
+                    "number": "415 775-2636"
                 }
             ],
             "short_desc": "CYC offers a range of programs and services to help youth succeed on every level, including youth employment programs, after-school tutoring and career/college planning support, a central intake system to provide referrals and case management services for high-risk youth and their families, street outreach services that respond to violent incidents, and violence prevention education programs.",
             "hours": "Monday - Friday, 9:00am - 6:00pm",
             "urls": [
-                "www.cycsf.org"
+                "http://www.cycsf.org"
             ],
             "address_attributes": {
                 "city": "San Francisco",
@@ -5040,7 +5040,7 @@
             ],
             "faxes_attibutes": [
                 {
-                    "number": "(415) 644-0514"
+                    "number": "415 644-0514"
                 }
             ],
             "name": "Compass Community Services",
@@ -5053,7 +5053,7 @@
             ],
             "phones_attributes": [
                 {
-                    "number": "(415) 644-0504"
+                    "number": "415 644-0504"
                 },
                 {
                     "department": "Toll-Free Connecting Point Hotline",
@@ -5064,7 +5064,7 @@
             "short_desc": "Compass Community Services offers programs for homeless and at- risk families, including Connecting Point - A citywide access center for all families seeking shelter in San Francisco; Compass Family Center - A homeless shelter for families with private rooms and baths, plus prevention and aftercare services; Clara House - A two-year transitional housing program with individual family apartments and intensive support services and on-site childcare; Tenderloin Childcare Center (TLC) - Compass\u2019s model child development and education center for children from homeless and very low-income families; and The Positive Parenthood Project.",
             "hours": "Monday - Wednesday, 9:00am - 12:00pm, 1:00pm - 5:00pm",
             "urls": [
-                "www.compass-sf.org"
+                "http://www.compass-sf.org"
             ],
             "address_attributes": {
                 "city": "San Francisco",
@@ -5095,7 +5095,7 @@
             ],
             "faxes_attibutes": [
                 {
-                    "number": "(415) 970-3855"
+                    "number": "415 970-3855"
                 }
             ],
             "name": "Comprehensive Child Crisis Services",
@@ -5108,7 +5108,7 @@
             "phones_attributes": [
                 {
                     "type": "24/7",
-                    "number": "(415) 970-3800"
+                    "number": "415 970-3800"
                 }
             ],
             "short_desc": "Comprehensive Child Crisis Services (CCCS) is a 24/7 multilingual crisis intervention service for San Francisco children and their families.",
@@ -5135,7 +5135,7 @@
             ],
             "faxes_attibutes": [
                 {
-                    "number": "(415) 864-2231"
+                    "number": "415 864-2231"
                 }
             ],
             "name": "Conard House Cooperative",
@@ -5147,11 +5147,11 @@
             ],
             "phones_attributes": [
                 {
-                    "number": "(415) 864-7833"
+                    "number": "415 864-7833"
                 },
                 {
                     "department": "Referral Line",
-                    "number": "(415) 864-7359"
+                    "number": "415 864-7359"
                 },
                 {
                     "department": "Permanent Supportive Housing",
@@ -5166,7 +5166,7 @@
             "short_desc": "Conard House provides housing, case management and mental health services for adults with psychiatric illness.",
             "hours": "Monday - Friday, 9:00am - 5:00pm",
             "urls": [
-                "www.conard.org"
+                "http://www.conard.org"
             ],
             "address_attributes": {
                 "city": "San Francisco",
@@ -5199,7 +5199,7 @@
                 "English"
             ],
             "urls": [
-                "www.seniors.org"
+                "http://www.seniors.org"
             ],
             "address_attributes": {
                 "city": "Sacramento",
@@ -5225,7 +5225,7 @@
             ],
             "faxes_attibutes": [
                 {
-                    "number": "(415) 241-9491"
+                    "number": "415 241-9491"
                 }
             ],
             "name": "Cooperative Restraining Order Clinic",
@@ -5238,15 +5238,15 @@
             ],
             "phones_attributes": [
                 {
-                    "number": "(415) 864-1790"
+                    "number": "415 864-1790"
                 },
                 {
-                    "number": "(415) 252-2844",
+                    "number": "415 252-2844",
                     "department": "Clinic Sign-Up"
                 },
                 {
                     "department": "Crisis Line",
-                    "number": "(415) 255-0165"
+                    "number": "415 255-0165"
                 }
             ],
             "short_desc": "The Cooperative Restraining Order Clinic (CROC) is a collaborative city-wide project helping domestic violence survivors in San Francisco obtain restraining orders against their abusers.",
@@ -5282,7 +5282,7 @@
             ],
             "faxes_attibutes": [
                 {
-                    "number": "(415) 921-7132"
+                    "number": "415 921-7132"
                 }
             ],
             "name": "Cross Cultural Family Center, Inc.",
@@ -5293,13 +5293,13 @@
             ],
             "phones_attributes": [
                 {
-                    "number": "(415) 921-7019"
+                    "number": "415 921-7019"
                 }
             ],
             "short_desc": "Cross Cultural Family Center provides cross-cultural child care and education programs.",
             "hours": "Monday - Friday, 7:30am - 5:30pm",
             "urls": [
-                "www.crossculturalsf.org"
+                "http://www.crossculturalsf.org"
             ],
             "mail_address_attributes": {
                 "city": "San Francisco",
