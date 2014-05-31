@@ -358,7 +358,7 @@
                     "city": "San Francisco",
                     "state": "CA",
                     "street": "Mobile",
-                    "zip": "Mobile"
+                    "zip": ""
                 },
                 "description": "Mobile Crisis Treatment Team (MCTT) provides crisis intervention services conducted in the field for early intervention before symptoms or behaviors escalate and require emergency or acute care. MCTT links individuals with the least restrictive level of care and provides short-term case management and medication support."
             }
@@ -487,7 +487,7 @@
                     },
                     {
                         "type": "Hotline",
-                        "number": "1 800 215-7348"
+                        "number": "800 215-7348"
                     },
                     {
                         "type": "Business Line",
@@ -546,8 +546,8 @@
                     },
                     {
                         "department": "Help Line",
-                        "vanity_number": "1 800 950-NAMI",
-                        "number": "1 800 950-6264"
+                        "vanity_number": "800 950-NAMI",
+                        "number": "800 950-6264"
                     }
                 ],
                 "short_desc": "NAMI California is an organization of families and individuals whose lives have been affected by serious mental illness.",
@@ -2557,7 +2557,7 @@
                     },
                     {
                         "department": "Toll Free (CA Only)",
-                        "number": "1 800 807-5799"
+                        "number": "800 807-5799"
                     }
                 ],
                 "short_desc": "The San Francisco County Veterans Service Office assists veterans and their dependents in understanding and applying for benefits and entitlements from the U.S. Department of Veterans Affairs.",
@@ -2609,48 +2609,48 @@
                 "phones_attributes": [
                     {
                         "department": "MEDICAL (DENTI-CAL)",
-                        "number": "1 800 322-6384"
+                        "number": "800 322-6384"
                     },
                     {
                         "department": "HEALTHY FAMILIES",
-                        "number": "1 800 880-5305"
+                        "number": "800 880-5305"
                     },
                     {
                         "department": "Delta Dental",
-                        "number": "1 877 580-1042"
+                        "number": "877 580-1042"
                     },
                     {
                         "department": "Access Dental",
-                        "number": "1 888 849-8440"
+                        "number": "888 849-8440"
                     },
                     {
                         "department": "Premier Access Dental",
-                        "number": "1 888 584-5830"
+                        "number": "888 584-5830"
                     },
                     {
                         "department": "Health Net Dental",
-                        "number": "1 800 213-6991"
+                        "number": "800 213-6991"
                     },
                     {
                         "department": "Safeguard Dental",
-                        "number": "1 800 880-3080"
+                        "number": "800 880-3080"
                     },
                     {
                         "department": "Western Dental",
-                        "number": "1 800 805-8000"
+                        "number": "800 805-8000"
                     },
                     {
                         "department": "Healthy Kids",
                         "vanity_number": "Healthy Kids",
-                        "number": "1 800 288-5555"
+                        "number": "800 288-5555"
                     },
                     {
                         "department": "Denta Dental",
-                        "number": "1 877 850-1042"
+                        "number": "877 850-1042"
                     },
                     {
                         "department": "San Francisco Women and Children Health Referral Line",
-                        "number": "1 800 300-9950"
+                        "number": "800 300-9950"
                     },
                     {
                         "department": "San Francisco Dental Society",
@@ -2663,8 +2663,8 @@
                 "address_attributes": {
                     "city": "San Francisco",
                     "state": "CA",
-                    "street": "Phone",
-                    "zip": "Phone"
+                    "street": "",
+                    "zip": ""
                 }
             }
         ],
@@ -2697,7 +2697,7 @@
                 ],
                 "phones_attributes": [
                     {
-                        "number": "1-866-901-3212"
+                        "number": "866 901-3212"
                     },
                     {
                         "type": "TTY",
@@ -2987,7 +2987,7 @@
                 "short_desc": "The San Francisco Family Support Network is a unique partnership of the stakeholders in the Family Support field, including families, community-based organizations, public departments, and private foundations.",
                 "hours": "Call for information",
                 "urls": [
-                    "sffsn.org"
+                    "http://sffsn.org"
                 ],
                 "address_attributes": {
                     "city": "San Francisco",
@@ -3154,7 +3154,7 @@
                     "street": "205 13th Street, Suite 3280",
                     "zip": "94103"
                 },
-                "emails": [
+                "urls": [
                     "http://www.sfheadstart.org"
                 ],
                 "description": "Head Start is a comprehensive child development service program for income-eligible families with children 3-5 years old. Special needs services are available. Apply at any Head Start center."
@@ -3524,7 +3524,7 @@
                         "number": "415 552-8100"
                     },
                     {
-                        "number": "1 800 729-7727"
+                        "number": "800 729-7727"
                     }
                 ],
                 "short_desc": "The San Francisco Mental Health Clients' Rights Advocates is committed to empowering their clients through the exercise of their civil rights.",
@@ -3569,7 +3569,7 @@
                 "short_desc": "The San Francisco Police Department is divided into three department offices, The Office of Chief of Staff, The Office of Operations, and the Office of Administration, in order to operate efficiently and to better serve the citizens of San Francisco.",
                 "hours": "24/7",
                 "urls": [
-                    "sf-police.org"
+                    "http://sf-police.org"
                 ],
                 "address_attributes": {
                     "city": "San Francisco",
@@ -4253,8 +4253,8 @@
                     },
                     {
                         "department": "AIDS Nightline (5pm-5am)",
-                        "vanity_number": "1 800 273-AIDS",
-                        "number": "1 800 273-2437"
+                        "vanity_number": "800 273-AIDS",
+                        "number": "800 273-2437"
                     },
                     {
                         "department": "Drug and alcohol treatment referrals and information",
@@ -4372,9 +4372,6 @@
                     "street": "555 Franklin Street",
                     "zip": "94102"
                 },
-                "emails": [
-                    "See website"
-                ],
                 "description": "San Francisco Unified School District (SFUSD) educates approximately 55,000 of San Francisco's preschool, elementary, middle and high school students. The administrative office for the School District provides information regarding enrollment, and curriculum. The administrative office also provides information regarding bilingual education, children's centers, special education, school health and nutrition services, and support services for gay and lesbian youth."
             }
         ],
@@ -5389,7 +5386,7 @@
                 "short_desc": "San Francisco’s TAPP is a comprehensive case management program for pregnant and parenting teens.",
                 "hours": "Monday – Friday, 9:00am - 5:00pm",
                 "urls": [
-                    "FSASF.org"
+                    "http://FSASF.org"
                 ],
                 "address_attributes": {
                     "city": "San Francisco",
@@ -5892,7 +5889,7 @@
                 "description": "The United States Department of Veterans Affairs helps veterans get access to a variety of resources that are available to them. These resources include health care, disability compensation, pensions, the GI Bill, vocational rehabilitation and employment, dependents' education assistance, survivor benefits, home loans, life insurance, traumatic injury insurance, cemetery services, burials, headstones and markers, presidential memorial certificates, a nationwide gravesite locator, burial flags, and burial allowances.",
                 "phones_attributes": [
                     {
-                        "number": "1 800 827-1000"
+                        "number": "800 827-1000"
                     }
                 ],
                 "short_desc": "The United States Department of Veterans Affairs helps veterans get access to a variety of resources that are available to them.",
@@ -6316,7 +6313,6 @@
                 "name": "Women in Dialogue: In Defense of Prostitute Women's Safety Collaboration with U.S. Prostitutes Collective",
                 "contacts_attributes": [
                     {
-                        "email": "\\",
                         "name": "Rachel West",
                         "phone": "415 640-4250",
                         "title": "U.S. Prostitutes Collective Coordinator"
