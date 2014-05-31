@@ -261,7 +261,7 @@
             "number": "415 355-3555"
           },
           {
-            "number": 800 814-0009,
+            "number": "800 814-0009",
             "department": "Report Abuse Hotline"
           }
         ],
@@ -909,9 +909,9 @@
         ],
         "contact_attributes": [
           {
-            "name": "Phil Clark",
+            "name": "Phil Clark"
           }
-        ]
+        ],
         "transportation": "",
         "description": "Episcopal Community Services (ECS) helps homeless and extremely low-income individuals obtain the housing, jobs, shelter, and essential services that each person needs to prevent and end homelessness. The Canon Kip Senior Center (705 Natoma St., S.F., CA 94103) provides a hot lunch and fellowship to low-income elders. The Center also offers exercise classes, support groups, nutrition workshops, and field trips. For more information please contact Lolita Kintanar, 415 487-3780, ikintanat@ecs-sf.org. The Skills Center provides an individualized learning environment for students who are coping with the inter-related challenges of homelessness, illiteracy, learning disabilities, substance abuse, and mental health issues. For more information, please contact Phil Clark, 415 487-3790. ECS operates shelters for homeless adults at The Sanctuary and Next Door, where they receive hot meals, showers, and laundry facilities. For more information, please contact Kathy Treggiari, 415 487-3740. Supportive Housing is also offered by ECS. For more information, please contact Kevin Sharps, 415 487- 3741, ksharps@ecs-sf.org.",
         "address_attributes": {
