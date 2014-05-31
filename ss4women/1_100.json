@@ -4698,7 +4698,7 @@
                 {
                     "phone": "(415) 255-3737",
                     "name": "Steve Benoit",
-                    "ACCESS Point of Contact"
+                    "title": "ACCESS Point of Contact"
                 },
                 {
                     "phone": "(415) 503-4730",
@@ -5318,5 +5318,5 @@
         "fees": "None"
     },
     "name": "Cross Cultural Family Center, Inc."
-},
+}
 ]
