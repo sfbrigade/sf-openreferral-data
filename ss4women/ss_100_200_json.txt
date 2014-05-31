@@ -892,7 +892,7 @@
             "number": "415 487-3700"
           }
         ],
-        "contact_attributes": [
+        "contacts_attributes": [
           {
             "name": "Phil Clark"
           }
