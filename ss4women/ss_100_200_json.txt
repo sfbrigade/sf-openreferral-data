@@ -23,7 +23,7 @@
             "audience": "", 
             "how_to_apply": "", 
             "fees": "None", 
-            "eligibility": "12 ­ 60 years old", 
+            "eligibility": "12 Â­ 60 years old", 
             "service_areas": [], 
             "wait": ""
           }
@@ -36,7 +36,7 @@
           "zip": "94115"
         }, 
         "accessibility": [], 
-        "hours": "Monday ­ Thursday, 10:00am - 5:00pm", 
+        "hours": "Monday Â­ Thursday, 10:00am - 5:00pm", 
         "emails": [
           [
             "rhodessa@culturalodyssey.org"
@@ -101,7 +101,7 @@
           "zip": "94102"
         }, 
         "accessibility": [], 
-        "hours": "Monday ­- Friday, 9:00am - 5:00pm", 
+        "hours": "Monday Â­- Friday, 9:00am - 5:00pm", 
         "emails": [
           [
             "info@curryseniorcenter.org", 
@@ -301,7 +301,7 @@
           "zip": "94103"
         }, 
         "accessibility": [], 
-        "hours": "Monday ­ Friday, 8:00am - 5:00pm", 
+        "hours": "Monday Â­ Friday, 8:00am - 5:00pm", 
         "emails": [
           [
             "DAAS@sfgov.org"
@@ -372,7 +372,7 @@
           "zip": "94102"
         }, 
         "accessibility": [], 
-        "hours": "Monday ­- Friday, 8:30am - 5:30pm", 
+        "hours": "Monday Â­- Friday, 8:30am - 5:30pm", 
         "emails": [
           [
             "info@dcyf.org"
@@ -694,7 +694,7 @@
             "audience": "", 
             "how_to_apply": "", 
             "fees": "Sliding scale", 
-            "eligibility": "6 ­- 16 years old and their families", 
+            "eligibility": "6 Â­- 16 years old and their families", 
             "service_areas": [], 
             "wait": ""
           }
@@ -707,7 +707,7 @@
           "zip": "94116"
         }, 
         "accessibility": [], 
-        "hours": "Monday ­- Friday, 8:30am - 5:00pm", 
+        "hours": "Monday Â­- Friday, 8:30am - 5:00pm", 
         "emails": [
           [
             ""
@@ -838,7 +838,7 @@
           "zip": "20077"
         }, 
         "accessibility": [], 
-        "hours": "Monday ­- Friday, 9:00am - 6:00pm (Eastern Time)", 
+        "hours": "Monday Â­- Friday, 9:00am - 6:00pm (Eastern Time)", 
         "emails": [
           [
             "www.emilyslist.org"
@@ -890,7 +890,7 @@
             "audience": "", 
             "how_to_apply": "", 
             "fees": "None", 
-            "eligibility": "14 -­ 18 years old, High school age", 
+            "eligibility": "14 -Â­ 18 years old, High school age", 
             "service_areas": [], 
             "wait": ""
           }
@@ -1038,7 +1038,7 @@
           "zip": "94105"
         }, 
         "accessibility": [], 
-        "hours": "Monday ­ Friday, 9:00am - 5:00pm", 
+        "hours": "Monday Â­ Friday, 9:00am - 5:00pm", 
         "emails": [
           [
             "info@equalrights.org", 
@@ -1105,7 +1105,7 @@
           "zip": "94103"
         }, 
         "accessibility": [], 
-        "hours": "Drop-in hours: Monday ­- Friday, 9:30am - 11:30am; 1:00am ­ 3:00pm", 
+        "hours": "Drop-in hours: Monday Â­- Friday, 9:30am - 11:30am; 1:00am Â­ 3:00pm", 
         "emails": [
           [
             "admin@evictiondefense.org"
@@ -1252,7 +1252,7 @@
           "zip": "94112"
         }, 
         "accessibility": [], 
-        "hours": "Monday ­ Friday, 9:00am - 3:00pm", 
+        "hours": "Monday Â­ Friday, 9:00am - 3:00pm", 
         "emails": [
           [
             "tfaulkne@ccsf.edu"
@@ -1430,7 +1430,7 @@
           }
         ], 
         "transportation": "", 
-        "description": "The Human Services agency manages an innovative First Source Hiring program which serves employers and employment-seekers in San Francisco. City vendors and land developers must look first to program graduates when recruiting new employees. In addition, First Source Hiring funds a variety of training programs tailored to the needs of these employers, while providing job-seekers specialized training that directly leads to employment. All One Stop Career Link Center office hours are Monday ­ Friday, 9:00am ­ 5:00pm unless indicated otherwise. Chinatown: 601 Jackson St., SF, CA 94133, (415) 677-7500 SOMA: 1500 Mission St., SF, CA 94102, (415) 575-4570 Western Addition: 1449 Webster Ave., SF, CA 94115, (415) 655-2620 Visitacion Valley: 73 Leland Ave., SF, CA 94134, (415) 239-8705 Main: Civic Center: 801 Turk St., SF, CA 94102, (415) 749-7503 Mission Street : 3120 Mission St., SF, CA 94110, (415) 401-4800 Mission Neighborhood Workforce Center (Mon - Fri, 9am - 4:30 pm) 1850 Mission St. (Arriba Juntos), SF, CA 94103, (415) 487-3240", 
+        "description": "The Human Services agency manages an innovative First Source Hiring program which serves employers and employment-seekers in San Francisco. City vendors and land developers must look first to program graduates when recruiting new employees. In addition, First Source Hiring funds a variety of training programs tailored to the needs of these employers, while providing job-seekers specialized training that directly leads to employment. All One Stop Career Link Center office hours are Monday Â­ Friday, 9:00am Â­ 5:00pm unless indicated otherwise. Chinatown: 601 Jackson St., SF, CA 94133, (415) 677-7500 SOMA: 1500 Mission St., SF, CA 94102, (415) 575-4570 Western Addition: 1449 Webster Ave., SF, CA 94115, (415) 655-2620 Visitacion Valley: 73 Leland Ave., SF, CA 94134, (415) 239-8705 Main: Civic Center: 801 Turk St., SF, CA 94102, (415) 749-7503 Mission Street : 3120 Mission St., SF, CA 94110, (415) 401-4800 Mission Neighborhood Workforce Center (Mon - Fri, 9am - 4:30 pm) 1850 Mission St. (Arriba Juntos), SF, CA 94103, (415) 487-3240", 
         "address_attributes": {
           "city": "San Francisco", 
           "state": "CA", 
@@ -1522,7 +1522,7 @@
           "zip": "94117"
         }, 
         "accessibility": [], 
-        "hours": "Monday ­ Friday, 7:30am - 5:30pm; Varies by site, please call for more information.", 
+        "hours": "Monday Â­ Friday, 7:30am - 5:30pm; Varies by site, please call for more information.", 
         "emails": [
           [
             "jgrant@scs-sf.org"
@@ -1731,7 +1731,7 @@
           "zip": "94129"
         }, 
         "accessibility": [], 
-        "hours": "Monday ­ Friday, 9:00am - 5:00pm", 
+        "hours": "Monday Â­ Friday, 9:00am - 5:00pm", 
         "emails": [
           [
             "info@futureswithoutviolence.org"
@@ -1846,7 +1846,7 @@
             "audience": "", 
             "how_to_apply": "", 
             "fees": "None", 
-            "eligibility": "5 ­- 17 years old", 
+            "eligibility": "5 Â­- 17 years old", 
             "service_areas": [], 
             "wait": ""
           }
@@ -1978,7 +1978,7 @@
             "audience": "", 
             "how_to_apply": "", 
             "fees": "None", 
-            "eligibility": "9 ­ 18 years old", 
+            "eligibility": "9 Â­ 18 years old", 
             "service_areas": [], 
             "wait": ""
           }
@@ -1991,7 +1991,7 @@
           "zip": "94124"
         }, 
         "accessibility": [], 
-        "hours": "Monday ­ Friday, 4:00pm - 8:00pm", 
+        "hours": "Monday Â­ Friday, 4:00pm - 8:00pm", 
         "emails": [
           [
             "brandi@hunterspointfamily.org"
@@ -2043,7 +2043,7 @@
             "audience": "", 
             "how_to_apply": "", 
             "fees": "None", 
-            "eligibility": "6 ­- 24 years old", 
+            "eligibility": "6 Â­- 24 years old", 
             "service_areas": [], 
             "wait": ""
           }
@@ -2056,7 +2056,7 @@
           "zip": "94134"
         }, 
         "accessibility": [], 
-        "hours": "School Hours: Monday ­ Friday, 11:00am - 7:00pm; Summer Hours: Monday - Friday, 11:00am - 5:00pm", 
+        "hours": "School Hours: Monday Â­ Friday, 11:00am - 7:00pm; Summer Hours: Monday - Friday, 11:00am - 5:00pm", 
         "emails": [
           [
             "info@gasahouse.org"
@@ -2186,7 +2186,7 @@
           "zip": "94102"
         }, 
         "accessibility": [], 
-        "hours": "Monday ­ Friday, 9:00am - 5:00pm; Specific program hours vary", 
+        "hours": "Monday Â­ Friday, 9:00am - 5:00pm; Specific program hours vary", 
         "emails": [
           [
             "info@glide.org"
@@ -2318,7 +2318,7 @@
           "zip": "94110"
         }, 
         "accessibility": [], 
-        "hours": "Monday ­ Friday, 9:00am - 6:00pm; Childcare: Monday - Friday, 8:00am - 6:00pm", 
+        "hours": "Monday Â­ Friday, 9:00am - 6:00pm; Childcare: Monday - Friday, 8:00am - 6:00pm", 
         "emails": [
           [
             "goodsam@goodsamfrc.org"
@@ -2449,7 +2449,7 @@
           "zip": "94103"
         }, 
         "accessibility": [], 
-        "hours": "Monday ­- Friday: 8:00am - 5:00pm", 
+        "hours": "Monday Â­- Friday: 8:00am - 5:00pm", 
         "emails": [
           [
             "info@sfgoodwill.org"
@@ -2517,7 +2517,7 @@
           "zip": "94108"
         }, 
         "accessibility": [], 
-        "hours": "Monday ­ Friday: 9:00am - 6:00pm", 
+        "hours": "Monday Â­ Friday: 9:00am - 6:00pm", 
         "emails": [
           [
             "gummoon@gummoon.org", 
@@ -2651,7 +2651,7 @@
           "zip": "94117"
         }, 
         "accessibility": [], 
-        "hours": "24 hours; Office: Monday ­ Friday, 9:00am - 5:00pm", 
+        "hours": "24 hours; Office: Monday Â­ Friday, 9:00am - 5:00pm", 
         "emails": [
           [
             ""
@@ -2717,7 +2717,7 @@
           "zip": "94102"
         }, 
         "accessibility": [], 
-        "hours": "Monday ­ Friday, 9:00am to 5:00pm", 
+        "hours": "Monday Â­ Friday, 9:00am to 5:00pm", 
         "emails": [
           [
             "info@hify.org", 
@@ -2965,7 +2965,7 @@
             "audience": "", 
             "how_to_apply": "", 
             "fees": "None", 
-            "eligibility": "0 ­- 24 years old", 
+            "eligibility": "0 Â­- 24 years old", 
             "service_areas": [], 
             "wait": ""
           }
@@ -2978,7 +2978,7 @@
           "zip": "94110"
         }, 
         "accessibility": [], 
-        "hours": "Monday ­- Friday, 9:30am - 6:00pm", 
+        "hours": "Monday Â­- Friday, 9:30am - 6:00pm", 
         "emails": [
           [
             "info@hcnkids.org"
@@ -3046,7 +3046,7 @@
           "zip": "94110"
         }, 
         "accessibility": [], 
-        "hours": "Monday ­ Thursday, 9:00am - 5:00pm; Friday, 1:00pm - 4:00pm, Closed for lunch; Intake hours: 9:00am - 11:00am, 1:00pm - 3:00pm", 
+        "hours": "Monday Â­ Thursday, 9:00am - 5:00pm; Friday, 1:00pm - 4:00pm, Closed for lunch; Intake hours: 9:00am - 11:00am, 1:00pm - 3:00pm", 
         "emails": [
           [
             "info@homelessprenatal.org"
@@ -3099,7 +3099,7 @@
             "audience": "", 
             "how_to_apply": "", 
             "fees": "None", 
-            "eligibility": "14 ­- 17 years old", 
+            "eligibility": "14 Â­- 17 years old", 
             "service_areas": [], 
             "wait": ""
           }
@@ -3165,7 +3165,7 @@
             "audience": "", 
             "how_to_apply": "", 
             "fees": "None", 
-            "eligibility": "11 ­- 24 years old", 
+            "eligibility": "11 Â­- 24 years old", 
             "service_areas": [], 
             "wait": ""
           }
@@ -3244,7 +3244,7 @@
           "zip": "94103"
         }, 
         "accessibility": [], 
-        "hours": "Monday ­ Friday, 8:00am - 5:00pm", 
+        "hours": "Monday Â­ Friday, 8:00am - 5:00pm", 
         "emails": [
         ], 
         "contacts_attributes": [
@@ -3280,7 +3280,7 @@
           }
         ], 
         "transportation": "", 
-        "description": "Hunters Point Community Youth Program (HPCYF) provides youth with educational, recreational and cultural programs. HPCYF provides much needed services on school holidays, school development days and every Saturday of the month. HPCYF offers children classes in Afro-Haitian dance, ballet, macramé, and sewing, as well as tutoring in reading, math and the sciences. Summer programs include volleyball, baseball, kickball and tennis, as well as numerous field trips. The program also provides a breakfast program serving a nutritious meal with an educational component.", 
+        "description": "Hunters Point Community Youth Program (HPCYF) provides youth with educational, recreational and cultural programs. HPCYF provides much needed services on school holidays, school development days and every Saturday of the month. HPCYF offers children classes in Afro-Haitian dance, ballet, macramÃ©, and sewing, as well as tutoring in reading, math and the sciences. Summer programs include volleyball, baseball, kickball and tennis, as well as numerous field trips. The program also provides a breakfast program serving a nutritious meal with an educational component.", 
         "address_attributes": {
           "city": "San Francisco", 
           "state": "CA", 
@@ -3307,7 +3307,7 @@
           "zip": "94124"
         }, 
         "accessibility": [], 
-        "hours": "Tuesday - Friday, 9:00am -12:00pm; Saturday, 9:00am ­ 4:00pm", 
+        "hours": "Tuesday - Friday, 9:00am -12:00pm; Saturday, 9:00am Â­ 4:00pm", 
         "emails": [
           [
             "hamptondistrict@yahoo.com"
@@ -3375,7 +3375,7 @@
           "zip": "94105"
         }, 
         "accessibility": [], 
-        "hours": "Monday ­ Thursday, 9:00am - 4:30pm; Friday, 9:00am - 4:00pm", 
+        "hours": "Monday Â­ Thursday, 9:00am - 4:30pm; Friday, 9:00am - 4:00pm", 
         "emails": [
           [
             "info@ilrcsf.org"
@@ -3442,7 +3442,7 @@
           "zip": "94112"
         }, 
         "accessibility": [], 
-        "hours": "Monday ­- Thursday, 3:00am - 6:00pm", 
+        "hours": "Monday Â­- Thursday, 3:00am - 6:00pm", 
         "emails": [
           [
             ""
@@ -3507,7 +3507,7 @@
           "zip": "94118"
         }, 
         "accessibility": [], 
-        "hours": "Monday ­- Friday, 9:00am - 5:00pm", 
+        "hours": "Monday Â­- Friday, 9:00am - 5:00pm", 
         "emails": [
           [
             "info@ioaging.org"
@@ -3576,7 +3576,7 @@
           "zip": "94110"
         }, 
         "accessibility": [], 
-        "hours": "Healthy Kids. Typically, we charge a sliding fee. Monday ­ Friday, 8:00am - 7:00pm; Saturday, 9:00am - 2:00pm", 
+        "hours": "Healthy Kids. Typically, we charge a sliding fee. Monday Â­ Friday, 8:00am - 7:00pm; Saturday, 9:00am - 2:00pm", 
         "emails": [
           [
             "estela.garcia@ifrsf.org"
@@ -3714,7 +3714,7 @@
           "zip": "94103"
         }, 
         "accessibility": [], 
-        "hours": "Monday ­ Friday, 9:00 am - 5:00 pm; closed first and last Tuesday of the Month", 
+        "hours": "Monday Â­ Friday, 9:00 am - 5:00 pm; closed first and last Tuesday of the Month", 
         "emails": [
           [
             "pgrimm@iriscenter.org"
@@ -3961,7 +3961,7 @@
             "audience": "", 
             "how_to_apply": "", 
             "fees": "None, except some summer programs", 
-            "eligibility": "5 ­- 18 years old and families", 
+            "eligibility": "5 Â­- 18 years old and families", 
             "service_areas": [], 
             "wait": ""
           }
@@ -3974,7 +3974,7 @@
           "zip": "94115"
         }, 
         "accessibility": [], 
-        "hours": "Monday -­ Friday, 9:00am - 5:00pm", 
+        "hours": "Monday -Â­ Friday, 9:00am - 5:00pm", 
         "emails": [
           [
             "info@jcyc.org"
@@ -4110,7 +4110,7 @@
           "zip": ""
         }, 
         "accessibility": [], 
-        "hours": "Monday ­ Friday, 8:30am - 8:00pm", 
+        "hours": "Monday Â­ Friday, 8:30am - 8:00pm", 
         "emails": [
           [
             "admin@jfcs.org"
@@ -4179,7 +4179,7 @@
           "zip": "94115"
         }, 
         "accessibility": [], 
-        "hours": "Monday ­ Friday, 8:30am - 8:00pm", 
+        "hours": "Monday Â­ Friday, 8:30am - 8:00pm", 
         "emails": [
           [
             "admin@jfcs.org"
@@ -4248,7 +4248,7 @@
           "zip": "94104"
         }, 
         "accessibility": [], 
-        "hours": "Monday ­ Friday, 9:00am - 5:00pm", 
+        "hours": "Monday Â­ Friday, 9:00am - 5:00pm", 
         "emails": [
           [
             "hire@jvs.org"
@@ -4379,7 +4379,7 @@
           "zip": "94115"
         }, 
         "accessibility": [], 
-        "hours": "Monday ­ Friday, 9:00am - 5:00pm", 
+        "hours": "Monday Â­ Friday, 9:00am - 5:00pm", 
         "emails": [
           [
             "kimochikai@kimochi-Inc.org"
@@ -4446,7 +4446,7 @@
           "zip": "94109"
         }, 
         "accessibility": [], 
-        "hours": "Monday ­ Friday, 9:00am - 6:00pm", 
+        "hours": "Monday Â­ Friday, 9:00am - 6:00pm", 
         "emails": [
           [
             "cj@iic.edu"
@@ -4512,7 +4512,7 @@
           "zip": "94103"
         }, 
         "accessibility": [], 
-        "hours": "Office: Monday ­ Friday, 9:00am - 5:00pm; Emergency Shelter Intakes: 24/7 (including nights and weekends)", 
+        "hours": "Office: Monday Â­ Friday, 9:00am - 5:00pm; Emergency Shelter Intakes: 24/7 (including nights and weekends)", 
         "emails": [
           [
             "info@lacasa.org"
@@ -4981,7 +4981,7 @@
           "zip": "95814"
         }, 
         "accessibility": [], 
-        "hours": "Monday ­- Friday, 8:00am - 5:00pm", 
+        "hours": "Monday Â­- Friday, 8:00am - 5:00pm", 
         "emails": [
           [
             "Egarcia@lulac.org"
@@ -5047,7 +5047,7 @@
           "zip": "94107"
         }, 
         "accessibility": [], 
-        "hours": "Monday ­ Friday, 9:00am - 5:00pm; Evening Workers' Rights Clinic (please call for details)", 
+        "hours": "Monday Â­ Friday, 9:00am - 5:00pm; Evening Workers' Rights Clinic (please call for details)", 
         "emails": [
           [
             "info@las-elc.org"
@@ -5183,7 +5183,7 @@
           "zip": "94102"
         }, 
         "accessibility": [], 
-        "hours": "Warm Line: Monday - Thursday, 1:30pm - 5:00pm; Clinic Hours: Wednesdays, 4:00pm - 6:00pm; Intake: Monday ­ Friday, 1:30pm - 5:00pm", 
+        "hours": "Warm Line: Monday - Thursday, 1:30pm - 5:00pm; Clinic Hours: Wednesdays, 4:00pm - 6:00pm; Intake: Monday Â­ Friday, 1:30pm - 5:00pm", 
         "emails": [
           [
             ""
@@ -5253,7 +5253,7 @@
           "zip": "94102"
         }, 
         "accessibility": [], 
-        "hours": "Office Hours: Monday ­ Friday, 9:00am - 5:00pm", 
+        "hours": "Office Hours: Monday Â­ Friday, 9:00am - 5:00pm", 
         "emails": [
           [
             "info@prisonerswithchildren.org"
@@ -5319,7 +5319,7 @@
           "zip": "94102"
         }, 
         "accessibility": [], 
-        "hours": "Office Hours: Monday ­ Friday, 8:30am to 5:00pm", 
+        "hours": "Office Hours: Monday Â­ Friday, 8:30am to 5:00pm", 
         "emails": [
           [
             "info@lighthouse-sf.org"
@@ -5386,7 +5386,7 @@
           "zip": "94115"
         }, 
         "accessibility": [], 
-        "hours": "Monday ­ Friday, 9:00am - 5:00pm", 
+        "hours": "Monday Â­ Friday, 9:00am - 5:00pm", 
         "emails": [
         ], 
         "contacts_attributes": [
@@ -5488,7 +5488,7 @@
           }
         ], 
         "transportation": "", 
-        "description": "In San Francisco, LSS currently provides two primary types of services ­ money management services for formerly homeless adults living with both physical and mental disabilities and case management services for adults, families and seniors living in supportive housing sites. The shared goal of LSS housing services and money management programs is to help clients live a more stable and productive lives. LSS assists their clients in accessing and maintaining safe, adequate and stable housing.", 
+        "description": "In San Francisco, LSS currently provides two primary types of services Â­ money management services for formerly homeless adults living with both physical and mental disabilities and case management services for adults, families and seniors living in supportive housing sites. The shared goal of LSS housing services and money management programs is to help clients live a more stable and productive lives. LSS assists their clients in accessing and maintaining safe, adequate and stable housing.", 
         "address_attributes": {
           "city": "San Francisco", 
           "state": "CA", 
@@ -5539,7 +5539,7 @@
             "number": "(415) 581-0899"
           }
         ], 
-        "short_description": "In San Francisco, LSS currently provides two primary types of services ­ money management services for formerly homeless adults living with both physical and mental disabilities and case management services for adults, families and seniors living in supportive housing sites."
+        "short_description": "In San Francisco, LSS currently provides two primary types of services Â­ money management services for formerly homeless adults living with both physical and mental disabilities and case management services for adults, families and seniors living in supportive housing sites."
       }
     ]
   }, 
@@ -5580,7 +5580,7 @@
           "zip": "94102"
         }, 
         "accessibility": [], 
-        "hours": "Monday ­- Friday, 9:00am - 5:00pm", 
+        "hours": "Monday Â­- Friday, 9:00am - 5:00pm", 
         "emails": [
           [
             "info@lyon-martin.org"
@@ -6026,7 +6026,7 @@
             "audience": "", 
             "how_to_apply": "", 
             "fees": "Call for information", 
-            "eligibility": "12 ­- 18 years old", 
+            "eligibility": "12 Â­- 18 years old", 
             "service_areas": [], 
             "wait": ""
           }
@@ -6091,7 +6091,7 @@
             "audience": "", 
             "how_to_apply": "", 
             "fees": "Call for information", 
-            "eligibility": "12 ­- 18 years old", 
+            "eligibility": "12 Â­- 18 years old", 
             "service_areas": [], 
             "wait": ""
           }
@@ -6367,7 +6367,7 @@
           "zip": "94112"
         }, 
         "accessibility": [], 
-        "hours": "Office: Monday ­ Friday, 9:00am - 5:00pm; Center: 7:00am - 5:30pm; Child care: Monday - Friday, 7:00am - 6:00pm", 
+        "hours": "Office: Monday Â­ Friday, 9:00am - 5:00pm; Center: 7:00am - 5:30pm; Child care: Monday - Friday, 7:00am - 6:00pm", 
         "emails": [
           [
             "julielara.mccc@yahoo.com"
@@ -6632,7 +6632,7 @@
           "zip": "94103"
         }, 
         "accessibility": [], 
-        "hours": "Monday ­ Thursday, 9:00am -5:00pm; Friday, 9:00am - 4:30pm", 
+        "hours": "Monday Â­ Thursday, 9:00am -5:00pm; Friday, 9:00am - 4:30pm", 
         "emails": [
           [
             "info@missionhiringhall.org"
