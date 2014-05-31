@@ -60,7 +60,7 @@
             "number": "415 346-9163"
           }
         ],
-        "short_description": "The Medea Project, a production of Cultural Odyssey, is a residency project theater offering public performances by incarcerated women and ex-inmates."
+        "short_desc": "The Medea Project, a production of Cultural Odyssey, is a residency project theater offering public performances by incarcerated women and ex-inmates."
       }
     ]
   },
@@ -128,7 +128,7 @@
             "number": "415 885-2344"
           }
         ],
-        "short_description": "Curry Senior Center offers comprehensive, multilingual health and social services for elders."
+        "short_desc": "Curry Senior Center offers comprehensive, multilingual health and social services for elders."
       }
     ]
   },
@@ -194,7 +194,7 @@
             "number": "(510) 740-0946"
           }
         ],
-        "short_description": "The mission at DeafHope is to end domestic and sexual violence against deaf women and children through empowerment, education and services."
+        "short_desc": "The mission at DeafHope is to end domestic and sexual violence against deaf women and children through empowerment, education and services."
       }
     ]
   },
@@ -248,7 +248,7 @@
             "number": "415 512-5141"
           }
         ],
-        "short_description": "Delancey Street is a residential self-help organization for former substance abusers, ex-convicts, homeless and others."
+        "short_desc": "Delancey Street is a residential self-help organization for former substance abusers, ex-convicts, homeless and others."
       }
     ]
   },
@@ -323,7 +323,7 @@
             "number": "415 355-6785"
           }
         ],
-        "short_description": "The Department of Aging and Adult Services (DAAS) is the Area Agency on Aging for the City and County of San Francisco."
+        "short_desc": "The Department of Aging and Adult Services (DAAS) is the Area Agency on Aging for the City and County of San Francisco."
       }
     ]
   },
@@ -391,7 +391,7 @@
             "number": "415 554-8965"
           }
         ],
-        "short_description": "The San Francisco Department of Children, Youth & their Families (DCYF) creates and facilitates innovative citywide policies and projects in support of children, youth and families."
+        "short_desc": "The San Francisco Department of Children, Youth & their Families (DCYF) creates and facilitates innovative citywide policies and projects in support of children, youth and families."
       }
     ]
   },
@@ -447,7 +447,7 @@
             "number": "415 557-5214"
           }
         ],
-        "short_description": "The Department of Human Services (Human Services Agency) serves almost 100,000 San Franciscans each year."
+        "short_desc": "The Department of Human Services (Human Services Agency) serves almost 100,000 San Franciscans each year."
       }
     ]
   },
@@ -502,7 +502,7 @@
         "urls": [
           "http://www.sfdph.org"
         ],
-        "short_description": "SFDPH operates San Francisco General Hospital and Laguna Honda Hospital."
+        "short_desc": "SFDPH operates San Francisco General Hospital and Laguna Honda Hospital."
       }
     ]
   },
@@ -571,7 +571,7 @@
             "number": "415 749-3205"
           }
         ],
-        "short_description": "Divorce Center of San Francesco offers low cost legal and paralegal services for family law and domestic violence cases."
+        "short_desc": "Divorce Center of San Francesco offers low cost legal and paralegal services for family law and domestic violence cases."
       }
     ]
   },
@@ -640,7 +640,7 @@
             "number": "415 781-0605"
           }
         ],
-        "short_description": "Donaldina Cameron House is a Chinatown-based multi-service agency serving Asian communities in the San Francisco Bay Area."
+        "short_desc": "Donaldina Cameron House is a Chinatown-based multi-service agency serving Asian communities in the San Francisco Bay Area."
       }
     ]
   },
@@ -701,7 +701,7 @@
             "number": "415 664-7094"
           }
         ],
-        "short_description": "Edgewood Center for Children and Families (Edgewood) helps children and families take back their future by working with them to overcome severe challenges such as abuse, neglect, mental illness, and family crisis."
+        "short_desc": "Edgewood Center for Children and Families (Edgewood) helps children and families take back their future by working with them to overcome severe challenges such as abuse, neglect, mental illness, and family crisis."
       }
     ]
   },
@@ -766,7 +766,7 @@
             "number": "415 567-0450"
           }
         ],
-        "short_description": "The Ella Hill Hutch Community Center offers GED courses, computer technology training, mentoring and more for at-risk youth."
+        "short_desc": "The Ella Hill Hutch Community Center offers GED courses, computer technology training, mentoring and more for at-risk youth."
       }
     ]
   },
@@ -820,7 +820,7 @@
             "number": "(202) 326-1415"
           }
         ],
-        "short_description": "EMILY's List is a nationwide organization that helps women who are running for government office by providing strategy assistance, financial support for campaigns, and training for the candidate's staff."
+        "short_desc": "EMILY's List is a nationwide organization that helps women who are running for government office by providing strategy assistance, financial support for campaigns, and training for the candidate's staff."
       }
     ]
   },
@@ -879,7 +879,7 @@
             "number": "415 392-7611"
           }
         ],
-        "short_description": "Enterprise for High School Students (EHSS) empowers and prepares young people for success in employment and higher education."
+        "short_desc": "Enterprise for High School Students (EHSS) empowers and prepares young people for success in employment and higher education."
       }
     ]
   },
@@ -943,7 +943,7 @@
             "number": "415 487-3795"
           }
         ],
-        "short_description": "Episcopal Community Services (ECS) helps homeless and extremely low-income individuals obtain the housing, jobs, shelter, and essential services that each person needs to prevent and end homelessness."
+        "short_desc": "Episcopal Community Services (ECS) helps homeless and extremely low-income individuals obtain the housing, jobs, shelter, and essential services that each person needs to prevent and end homelessness."
       }
     ]
   },
@@ -1010,7 +1010,7 @@
             "number": "415 621-6744"
           }
         ],
-        "short_description": "Equal Rights Advocates (ERA) aims to protect and secure equal rights and economic opportunities for women and girls through litigation and advocacy."
+        "short_desc": "Equal Rights Advocates (ERA) aims to protect and secure equal rights and economic opportunities for women and girls through litigation and advocacy."
       }
     ]
   },
@@ -1071,7 +1071,7 @@
             "number": "415 947-0331"
           }
         ],
-        "short_description": "The Eviction Defense Collaborative is the principal organization in San Francisco helping low-income tenants respond to eviction lawsuits."
+        "short_desc": "The Eviction Defense Collaborative is the principal organization in San Francisco helping low-income tenants respond to eviction lawsuits."
       }
     ]
   },
@@ -1144,7 +1144,7 @@
         "emails": [
           "HHammer@fcm.ucsf.edu"
         ],
-        "short_description": "The Family Health Center (FHC), including the Refugee Medical Clinic (RMC), provides comprehensive, multidisciplinary health care services to patients along a continuum of care, including health promotion, disease prevention, urgent care, ambulatory care services, and specialty clinics."
+        "short_desc": "The Family Health Center (FHC), including the Refugee Medical Clinic (RMC), provides comprehensive, multidisciplinary health care services to patients along a continuum of care, including health promotion, disease prevention, urgent care, ambulatory care services, and specialty clinics."
       }
     ]
   },
@@ -1210,7 +1210,7 @@
             "number": "415 239-3739"
           }
         ],
-        "short_description": "The Family Resource Center, located at the City College of San Francisco in the upper level of the student union, posts information pertaining to local support services and resources for families who seek assistance, as a courtesy and service to students."
+        "short_desc": "The Family Resource Center, located at the City College of San Francisco in the upper level of the student union, posts information pertaining to local support services and resources for families who seek assistance, as a courtesy and service to students."
       }
     ]
   },
@@ -1279,7 +1279,7 @@
             "number": "415 931-3773"
           }
         ],
-        "short_description": "Children, Youth and Family Services offer counseling, family interventions, medical assessments, mental health services, developmental education for parents, a Japanese family service program, a teen peer support group, and teenage pregnancy and parenting support and resources."
+        "short_desc": "Children, Youth and Family Services offer counseling, family interventions, medical assessments, mental health services, developmental education for parents, a Japanese family service program, a teen peer support group, and teenage pregnancy and parenting support and resources."
       }
     ]
   },
@@ -1349,7 +1349,7 @@
             "number": "415 333-6495"
           }
         ],
-        "short_description": "The FCC seeks to provide a safe space where Filipino families can access services, meet, and hold activities."
+        "short_desc": "The FCC seeks to provide a safe space where Filipino families can access services, meet, and hold activities."
       }
     ]
   },
@@ -1411,7 +1411,7 @@
             "number": "415 581-2317"
           }
         ],
-        "short_description": "The Human Services agency manages an innovative First Source Hiring program which serves employers and employment-seekers in San Francisco."
+        "short_desc": "The Human Services agency manages an innovative First Source Hiring program which serves employers and employment-seekers in San Francisco."
       }
     ]
   },
@@ -1478,7 +1478,7 @@
             "number": "415 567-2476"
           }
         ],
-        "short_description": "The Florence Crittenton Services' Infant and Toddlers Child Development Program offers the Child Care Center (Buchanan site), and the Family Child Care Network."
+        "short_desc": "The Florence Crittenton Services' Infant and Toddlers Child Development Program offers the Child Care Center (Buchanan site), and the Family Child Care Network."
       }
     ]
   },
@@ -1548,7 +1548,7 @@
             "number": "415 865-5428"
           }
         ],
-        "short_description": "Friendship House Association of American Indians, Inc. provides 90- day residential substance abuse treatment and 90-day aftercare services to individuals with Native American values, cultures and spiritual focus."
+        "short_desc": "Friendship House Association of American Indians, Inc. provides 90- day residential substance abuse treatment and 90-day aftercare services to individuals with Native American values, cultures and spiritual focus."
       }
     ]
   },
@@ -1614,7 +1614,7 @@
             "number": "415 529-2930"
           }
         ],
-        "short_description": "For more than two decades, the Family Violence Prevention Fund (FVPF) has worked to end violence against women and children around the world because everyone has the right to a life free of violence."
+        "short_desc": "For more than two decades, the Family Violence Prevention Fund (FVPF) has worked to end violence against women and children around the world because everyone has the right to a life free of violence."
       }
     ]
   },
@@ -1676,7 +1676,7 @@
             "number": "415 928-1410"
           }
         ],
-        "short_description": "The General Assistance Advocacy Project (GAAP) provides education, empowerment and advocacy to those who need it most."
+        "short_desc": "The General Assistance Advocacy Project (GAAP) provides education, empowerment and advocacy to those who need it most."
       }
     ]
   },
@@ -1736,7 +1736,7 @@
             "number": "(510) 633-7925"
           }
         ],
-        "short_description": "The Girl Scouts of the San Francisco Bay Area (GSSBA) serve Alameda, Contra Costa, Marin, San Francisco, and San Mateo counties."
+        "short_desc": "The Girl Scouts of the San Francisco Bay Area (GSSBA) serve Alameda, Contra Costa, Marin, San Francisco, and San Mateo counties."
       }
     ]
   },
@@ -1802,7 +1802,7 @@
             "number": "415 864-3464"
           }
         ],
-        "short_description": "Girl Ventures empowers adolescent girls to develop and express their strengths by exploring self, community, culture and environment through outdoor adventure, creative arts and group experiences."
+        "short_desc": "Girl Ventures empowers adolescent girls to develop and express their strengths by exploring self, community, culture and environment through outdoor adventure, creative arts and group experiences."
       }
     ]
   },
@@ -1867,7 +1867,7 @@
             "number": "415 824-3209"
           }
         ],
-        "short_description": "Girls 2000 offers case management, conflict resolution and mediation, violence prevention services, individual and group counseling, life skills and computer skills training, mental health services, STD screening, HIV/STD prevention, family planning, pregnancy-related services, substance abuse services, and crisis intervention."
+        "short_desc": "Girls 2000 offers case management, conflict resolution and mediation, violence prevention services, individual and group counseling, life skills and computer skills training, mental health services, STD screening, HIV/STD prevention, family planning, pregnancy-related services, substance abuse services, and crisis intervention."
       }
     ]
   },
@@ -1932,7 +1932,7 @@
             "number": "415 406-1922"
           }
         ],
-        "short_description": "Girls After School Academy offers a comprehensive after school program, with an emphasis on African American girls."
+        "short_desc": "Girls After School Academy offers a comprehensive after school program, with an emphasis on African American girls."
       }
     ]
   },
@@ -1997,7 +1997,7 @@
             "number": "415 863-8989"
           }
         ],
-        "short_description": "The mission of Girls on the Run of the Bay Area is to educate and build confidence in young girls through non-competitive, curriculum- based running programs in San Francisco and other Bay Area cities."
+        "short_desc": "The mission of Girls on the Run of the Bay Area is to educate and build confidence in young girls through non-competitive, curriculum- based running programs in San Francisco and other Bay Area cities."
       }
     ]
   },
@@ -2059,7 +2059,7 @@
             "number": "415 921-6951"
           }
         ],
-        "short_description": "Glide's programs seek to meet basic human needs, providing prevention, intervention, and educational services in a culturally and economically diverse setting."
+        "short_desc": "Glide's programs seek to meet basic human needs, providing prevention, intervention, and educational services in a culturally and economically diverse setting."
       }
     ]
   },
@@ -2117,7 +2117,7 @@
             "number": "415 546-9203"
           }
         ],
-        "short_description": "Golden Gate Regional Center works towards a future where all people with developmental disabilities and their families have the opportunity to belong, contribute and thrive in their home communities by directing their own lives."
+        "short_desc": "Golden Gate Regional Center works towards a future where all people with developmental disabilities and their families have the opportunity to belong, contribute and thrive in their home communities by directing their own lives."
       }
     ]
   },
@@ -2177,7 +2177,7 @@
             "number": "415 824-9527"
           }
         ],
-        "short_description": "Good Samaritan Family Resource Center, Inc. offers literary classes, leadership classes, school readiness programs, community workshops, a kids clubs, a child development center, family advocacy, support for parents, a family planning clinic, after-school programs, and a soccer program."
+        "short_desc": "Good Samaritan Family Resource Center, Inc. offers literary classes, leadership classes, school readiness programs, community workshops, a kids clubs, a child development center, family advocacy, support for parents, a family planning clinic, after-school programs, and a soccer program."
       }
     ]
   },
@@ -2242,7 +2242,7 @@
             "number": "415 586-0355"
           }
         ],
-        "short_description": "Good Shepherd Gracenter's Enhanced Sober Living Environment is a residence for working women who have completed a 30-day recovery program, or are involved with out-patient substance abuse services."
+        "short_desc": "Good Shepherd Gracenter's Enhanced Sober Living Environment is a residence for working women who have completed a 30-day recovery program, or are involved with out-patient substance abuse services."
       }
     ]
   },
@@ -2304,7 +2304,7 @@
             "number": "415 575-2170"
           }
         ],
-        "short_description": "Goodwill Industries offers job training and work experience to people with employment barriers by providing assistance with career development and job placement."
+        "short_desc": "Goodwill Industries offers job training and work experience to people with employment barriers by providing assistance with career development and job placement."
       }
     ]
   },
@@ -2373,7 +2373,7 @@
             "number": "415 397-6836"
           }
         ],
-        "short_description": "Gum Moon provides transitional housing facilities for women."
+        "short_desc": "Gum Moon provides transitional housing facilities for women."
       }
     ]
   },
@@ -2433,7 +2433,7 @@
             "number": "415 746-1941"
           }
         ],
-        "short_description": "The Haight Ashbury Free Clinic provides free, high-quality, demystified and comprehensive health care that is culturally sensitive, non- judgmental and accessible to all in need."
+        "short_desc": "The Haight Ashbury Free Clinic provides free, high-quality, demystified and comprehensive health care that is culturally sensitive, non- judgmental and accessible to all in need."
       }
     ]
   },
@@ -2494,7 +2494,7 @@
             "number": "415 345-0470"
           }
         ],
-        "short_description": "Hamilton Family Center (HFC) serves the emergency needs of homeless families by providing a temporary safe and stable environment, and offering critical support services."
+        "short_desc": "Hamilton Family Center (HFC) serves the emergency needs of homeless families by providing a temporary safe and stable environment, and offering critical support services."
       }
     ]
   },
@@ -2557,7 +2557,7 @@
             "number": "415 274-1976"
           }
         ],
-        "short_description": "Health Initiatives for Youth (HIFY) creates resource materials and facilitates workshops and trainings for youth and the providers that work with them on a variety of health topics, such as body image, sexuality, STDs and HIV, substance use, self-esteem and mental health, relationships, and violence."
+        "short_desc": "Health Initiatives for Youth (HIFY) creates resource materials and facilitates workshops and trainings for youth and the providers that work with them on a variety of health topics, such as body image, sexuality, STDs and HIV, substance use, self-esteem and mental health, relationships, and violence."
       }
     ]
   },
@@ -2617,7 +2617,7 @@
             "number": "415 626-0170"
           }
         ],
-        "short_description": "Ohlhoff Recovery Programs provide quality, affordable programs for adults and adolescents in recovery from alcoholism, chemical dependency and eating disorders."
+        "short_desc": "Ohlhoff Recovery Programs provide quality, affordable programs for adults and adolescents in recovery from alcoholism, chemical dependency and eating disorders."
       }
     ]
   },
@@ -2676,7 +2676,7 @@
             "number": "415 575-3132"
           }
         ],
-        "short_description": "Homeless Advocacy Project (HAP) is a community-based organization dedicated to providing supplemental security income (SSI) assistance to individuals who are homeless with disabilities."
+        "short_desc": "Homeless Advocacy Project (HAP) is a community-based organization dedicated to providing supplemental security income (SSI) assistance to individuals who are homeless with disabilities."
       }
     ]
   },
@@ -2738,7 +2738,7 @@
             "number": "415 437-3994"
           }
         ],
-        "short_description": "The Homeless Children's Network (HCN) provides comprehensive mental health services, case management, and family support services for homeless children, youth, and their families throughout San Francisco."
+        "short_desc": "The Homeless Children's Network (HCN) provides comprehensive mental health services, case management, and family support services for homeless children, youth, and their families throughout San Francisco."
       }
     ]
   },
@@ -2804,7 +2804,7 @@
             "number": "415 546-6778"
           }
         ],
-        "short_description": "The Homeless Prenatal Program provides support services to homeless and low-income pregnant and parenting women, including counseling and support groups, assistance with emergency/transitional permanent housing, food and clothing, immigration assistance, and family reunification."
+        "short_desc": "The Homeless Prenatal Program provides support services to homeless and low-income pregnant and parenting women, including counseling and support groups, assistance with emergency/transitional permanent housing, food and clothing, immigration assistance, and family reunification."
       }
     ]
   },
@@ -2864,7 +2864,7 @@
             "number": "415 487-6724"
           }
         ],
-        "short_description": "Females Against Violence (FAV) is a peer education program of Horizons Unlimited that is comprised of young women ages14-17."
+        "short_desc": "Females Against Violence (FAV) is a peer education program of Horizons Unlimited that is comprised of young women ages14-17."
       }
     ]
   },
@@ -2924,7 +2924,7 @@
             "number": "415 668-0631"
           }
         ],
-        "short_description": "Huckleberry Youth Programs engage adolescents and their families in San Francisco and Marin Counties in a comprehensive array of quality services addressing prevention and health promotion, crisis intervention, stabilization and growth."
+        "short_desc": "Huckleberry Youth Programs engage adolescents and their families in San Francisco and Marin Counties in a comprehensive array of quality services addressing prevention and health promotion, crisis intervention, stabilization and growth."
       }
     ]
   },
@@ -2981,7 +2981,7 @@
             "number": "415 431-9270"
           }
         ],
-        "short_description": "HSA administers federal, state, and county mandated programs: CalWORKs - financial assistance and job training and support services (e.g."
+        "short_desc": "HSA administers federal, state, and county mandated programs: CalWORKs - financial assistance and job training and support services (e.g."
       }
     ]
   },
@@ -3049,7 +3049,7 @@
             "number": "415 285-4519"
           }
         ],
-        "short_description": "Hunters Point Community Youth Program (HPCYF) provides youth with educational, recreational and cultural programs."
+        "short_desc": "Hunters Point Community Youth Program (HPCYF) provides youth with educational, recreational and cultural programs."
       }
     ]
   },
@@ -3116,7 +3116,7 @@
             "number": "415 543-6318"
           }
         ],
-        "short_description": "Independent Living Resource Center (ILRC) provides services to people with disabilities who want to live independently, including advocacy, SSI/SSDI counseling, peer counseling, housing assistance, information and referrals, and community education."
+        "short_desc": "Independent Living Resource Center (ILRC) provides services to people with disabilities who want to live independently, including advocacy, SSI/SSDI counseling, peer counseling, housing assistance, information and referrals, and community education."
       }
     ]
   },
@@ -3173,7 +3173,7 @@
             "number": "415 587-4601"
           }
         ],
-        "short_description": "The Ingleside Community Center offers technology and employment training, cultural arts enrichment, crime prevention activities, positive recreational activities, cultural diversity activities, academic tutorial assistance, health services referrals, and other youth support services as needed."
+        "short_desc": "The Ingleside Community Center offers technology and employment training, cultural arts enrichment, crime prevention activities, positive recreational activities, cultural diversity activities, academic tutorial assistance, health services referrals, and other youth support services as needed."
       }
     ]
   },
@@ -3236,7 +3236,7 @@
             "number": "415 750-5337"
           }
         ],
-        "short_description": "The Elder Abuse Prevention (EAP) Program offers affordable, compassionate and innovative health and social services to seniors and their families."
+        "short_desc": "The Elder Abuse Prevention (EAP) Program offers affordable, compassionate and innovative health and social services to seniors and their families."
       }
     ]
   },
@@ -3306,7 +3306,7 @@
             "number": "415 647-0740"
           }
         ],
-        "short_description": "The Institututo Familiar de la Raza provides direct services, such as mental health assessments, evaluation and therapy, counseling (individual, couples, family and group), and HIV prevention/education for gay/bisexual men and women."
+        "short_desc": "The Institututo Familiar de la Raza provides direct services, such as mental health assessments, evaluation and therapy, counseling (individual, couples, family and group), and HIV prevention/education for gay/bisexual men and women."
       }
     ]
   },
@@ -3374,7 +3374,7 @@
             "number": "415 538-8111"
           }
         ],
-        "short_description": "The International Institute of San Francisco protects the rights of immigrants and refugees by educating the public about immigration and offering legal assistance to immigrants and refugees."
+        "short_desc": "The International Institute of San Francisco protects the rights of immigrants and refugees by educating the public about immigration and offering legal assistance to immigrants and refugees."
       }
     ]
   },
@@ -3440,7 +3440,7 @@
             "number": "415 864-0116"
           }
         ],
-        "short_description": "Iris Center provides specialized, affordable counseling regarding mental health, substance abuse, and HIV prevention to low-income women and their families."
+        "short_desc": "Iris Center provides specialized, affordable counseling regarding mental health, substance abuse, and HIV prevention to low-income women and their families."
       }
     ]
   },
@@ -3506,7 +3506,7 @@
             "number": "415 362-3565"
           }
         ],
-        "short_description": "Italian Community Services provides Bay Area Italian-American seniors and families with trusted resources to help them live healthy, independent and productive lives."
+        "short_desc": "Italian Community Services provides Bay Area Italian-American seniors and families with trusted resources to help them live healthy, independent and productive lives."
       }
     ]
   },
@@ -3563,7 +3563,7 @@
             "number": "415 647-4718"
           }
         ],
-        "short_description": "Jamestown Community Center provides youth with as many positive experiences as they need in order to grow up healthy and productive."
+        "short_desc": "Jamestown Community Center provides youth with as many positive experiences as they need in order to grow up healthy and productive."
       }
     ]
   },
@@ -3628,7 +3628,7 @@
             "number": "415 665-7543"
           }
         ],
-        "short_description": "The Janet Pomeroy Center provides recreation and leisure services for individuals of all ages, with all types of disabilities."
+        "short_desc": "The Janet Pomeroy Center provides recreation and leisure services for individuals of all ages, with all types of disabilities."
       }
     ]
   },
@@ -3692,7 +3692,7 @@
             "number": "415 921-1841"
           }
         ],
-        "short_description": "The JCYC provides emotional and educational counseling, client advocacy, and recreation programs."
+        "short_desc": "The JCYC provides emotional and educational counseling, client advocacy, and recreation programs."
       }
     ]
   },
@@ -3752,7 +3752,7 @@
             "number": "415 671-1042"
           }
         ],
-        "short_description": "Jelani House offers substance abuse treatment for pregnant and postpartum women and women with children up to age 5."
+        "short_desc": "Jelani House offers substance abuse treatment for pregnant and postpartum women and women with children up to age 5."
       }
     ]
   },
@@ -3821,7 +3821,7 @@
             "number": "415 449-3839"
           }
         ],
-        "short_description": "Jewish Family and Children's Services (JFCS) offers a wide variety of services to adults and families, children, teens, seniors, and recent immigrants."
+        "short_desc": "Jewish Family and Children's Services (JFCS) offers a wide variety of services to adults and families, children, teens, seniors, and recent immigrants."
       }
     ]
   },
@@ -3884,7 +3884,7 @@
             "number": "415 391-3617"
           }
         ],
-        "short_description": "JVS links employers and individuals together, building skills needed to succeed in today's workplace."
+        "short_desc": "JVS links employers and individuals together, building skills needed to succeed in today's workplace."
       }
     ]
   },
@@ -3940,7 +3940,7 @@
             "number": "415 392-0485"
           }
         ],
-        "short_description": "Sponsored by the San Francisco Chamber of Commerce, the Job Forum is a unique and free counseling service for job seekers and career changers."
+        "short_desc": "Sponsored by the San Francisco Chamber of Commerce, the Job Forum is a unique and free counseling service for job seekers and career changers."
       }
     ]
   },
@@ -4007,7 +4007,7 @@
             "number": "415 931-2299"
           }
         ],
-        "short_description": "Kimochi, Inc. provides arts and crafts, exercise, case management, transportation, health education, a library, music, nutrition education, congregate and home-delivered meals, bilingual information and referrals, and residential care for elderly individuals."
+        "short_desc": "Kimochi, Inc. provides arts and crafts, exercise, case management, transportation, health education, a library, music, nutrition education, congregate and home-delivered meals, bilingual information and referrals, and residential care for elderly individuals."
       }
     ]
   },
@@ -4073,7 +4073,7 @@
             "number": "415 441-1889"
           }
         ],
-        "short_description": "The Korean Center, Inc. offers seniors a hot meal program and other social services programs."
+        "short_desc": "The Korean Center, Inc. offers seniors a hot meal program and other social services programs."
       }
     ]
   },
@@ -4140,7 +4140,7 @@
             "number": "415 503-0301"
           }
         ],
-        "short_description": "La Casa provides victims of domestic violence with an eight week shelter program, a drop-in counseling center, community support groups, community education outreach and volunteer programs, employment and legal referrals for clients, and a teen intervention and prevention program."
+        "short_desc": "La Casa provides victims of domestic violence with an eight week shelter program, a drop-in counseling center, community support groups, community education outreach and volunteer programs, employment and legal referrals for clients, and a teen intervention and prevention program."
       }
     ]
   },
@@ -4207,7 +4207,7 @@
             "number": "415 824-2756"
           }
         ],
-        "short_description": "La Cocina assists lower income micro-entrepreneurs in becoming economically self-sufficient and achieving business sustainability by providing an affordable commercial kitchen space, technical assistance, and access to new market opportunities."
+        "short_desc": "La Cocina assists lower income micro-entrepreneurs in becoming economically self-sufficient and achieving business sustainability by providing an affordable commercial kitchen space, technical assistance, and access to new market opportunities."
       }
     ]
   },
@@ -4278,7 +4278,7 @@
             "number": "415 255-7593"
           }
         ],
-        "short_description": "La Raza Centro Legal is a community-based legal organization dedicated to empowering Latino, immigrant and low-income communities of San Francisco to advocate for their civil and human rights."
+        "short_desc": "La Raza Centro Legal is a community-based legal organization dedicated to empowering Latino, immigrant and low-income communities of San Francisco to advocate for their civil and human rights."
       }
     ]
   },
@@ -4348,7 +4348,7 @@
             "number": "415 863-1690"
           }
         ],
-        "short_description": "La Raza Community Resource Center (La Raza) is a bilingual, multi- service, non-profit organization designed to meet the needs of low- income Latino families and individuals in the San Francisco Bay Area."
+        "short_desc": "La Raza Community Resource Center (La Raza) is a bilingual, multi- service, non-profit organization designed to meet the needs of low- income Latino families and individuals in the San Francisco Bay Area."
       }
     ]
   },
@@ -4416,7 +4416,7 @@
             "number": "415 749-3838"
           }
         ],
-        "short_description": "Larkin Street Youth Services provides a full spectrum of services to help homeless and runaway youth move beyond life on the street."
+        "short_desc": "Larkin Street Youth Services provides a full spectrum of services to help homeless and runaway youth move beyond life on the street."
       }
     ]
   },
@@ -4483,7 +4483,7 @@
             "number": "415 703-6153"
           }
         ],
-        "short_description": "LYRIC builds communities and inspires positive social change through education enhancement, career trainings, health promotion, and leadership development with lesbian, gay, bisexual, transgender, queer, and questioning youth, their families, and allies of all races, classes, genders, and abilities."
+        "short_desc": "LYRIC builds communities and inspires positive social change through education enhancement, career trainings, health promotion, and leadership development with lesbian, gay, bisexual, transgender, queer, and questioning youth, their families, and allies of all races, classes, genders, and abilities."
       }
     ]
   },
@@ -4554,7 +4554,7 @@
             "number": "415 543-0296"
           }
         ],
-        "short_description": "The Lawyers' Committee for Civil Rights champions the legal rights of people of color, poor people, immigrants and refugees, with a special commitment to African-Americans."
+        "short_desc": "The Lawyers' Committee for Civil Rights champions the legal rights of people of color, poor people, immigrants and refugees, with a special commitment to African-Americans."
       }
     ]
   },
@@ -4620,7 +4620,7 @@
             "number": "(916) 448-3248"
           }
         ],
-        "short_description": "LULAC is a national organization that promotes the advancement of Latin Americans by providing guidance to local resources."
+        "short_desc": "LULAC is a national organization that promotes the advancement of Latin Americans by providing guidance to local resources."
       }
     ]
   },
@@ -4682,7 +4682,7 @@
             "number": "415 593-0096"
           }
         ],
-        "short_description": "The Legal Aid Society - Employment Law Center promotes the stability of low-income and disadvantaged workers and their families by addressing issues that affect their ability to achieve self-sufficiency."
+        "short_desc": "The Legal Aid Society - Employment Law Center promotes the stability of low-income and disadvantaged workers and their families by addressing issues that affect their ability to achieve self-sufficiency."
       }
     ]
   },
@@ -4750,7 +4750,7 @@
             "number": "415 538-3316"
           }
         ],
-        "short_description": "The Elder Abuse Prevention program provides free legal advice and representation to San Francisco residents age 60 and older, including how to obtain and retain Social Security and Medi-Cal benefits, how to avoid physical and financial abuse, tenant advice and representation, consumer and debt collection issues, assistance with evictions, rent control disputes, code violations, foreclosures, and subsidized housing."
+        "short_desc": "The Elder Abuse Prevention program provides free legal advice and representation to San Francisco residents age 60 and older, including how to obtain and retain Social Security and Medi-Cal benefits, how to avoid physical and financial abuse, tenant advice and representation, consumer and debt collection issues, assistance with evictions, rent control disputes, code violations, foreclosures, and subsidized housing."
       }
     ]
   },
@@ -4809,7 +4809,7 @@
             "number": "415 863-7708"
           }
         ],
-        "short_description": "Legal Services for Children provides free legal and social services to children and youth."
+        "short_desc": "Legal Services for Children provides free legal and social services to children and youth."
       }
     ]
   },
@@ -4869,7 +4869,7 @@
             "number": "415 552-3150"
           }
         ],
-        "short_description": "LSPC advocates for the human rights and empowerment of incarcerated parents, children, family members and people at risk for incarceration."
+        "short_desc": "LSPC advocates for the human rights and empowerment of incarcerated parents, children, family members and people at risk for incarceration."
       }
     ]
   },
@@ -4930,7 +4930,7 @@
             "number": "415 863-7568"
           }
         ],
-        "short_description": "LightHouse promotes the independence, equality and self-reliance of people who are blind or visually impaired through rehabilitation training and relevant services, such as access to employment, education, government, information, and transportation."
+        "short_desc": "LightHouse promotes the independence, equality and self-reliance of people who are blind or visually impaired through rehabilitation training and relevant services, such as access to employment, education, government, information, and transportation."
       }
     ]
   },
@@ -4993,7 +4993,7 @@
             "number": "415 885-7580"
           }
         ],
-        "short_description": "Living in a Nonviolent Community (LINC) is a comprehensive, community-oriented program that aims to reduce the incidence of domestic violence and its impact on children, youth, and their families."
+        "short_desc": "Living in a Nonviolent Community (LINC) is a comprehensive, community-oriented program that aims to reduce the incidence of domestic violence and its impact on children, youth, and their families."
       }
     ]
   },
@@ -5054,7 +5054,7 @@
             "number": "415 864-5627"
           }
         ],
-        "short_description": "Loco is a youth development organization that promotes San Francisco youth's healthy transition into adulthood by engaging them in the creation and performance of music, dance and theater reflecting the cultural diversity of the Americas."
+        "short_desc": "Loco is a youth development organization that promotes San Francisco youth's healthy transition into adulthood by engaging them in the creation and performance of music, dance and theater reflecting the cultural diversity of the Americas."
       }
     ]
   },
@@ -5108,7 +5108,7 @@
             "number": "415 581-0899"
           }
         ],
-        "short_description": "In San Francisco, LSS currently provides two primary types of services ­ money management services for formerly homeless adults living with both physical and mental disabilities and case management services for adults, families and seniors living in supportive housing sites."
+        "short_desc": "In San Francisco, LSS currently provides two primary types of services ­ money management services for formerly homeless adults living with both physical and mental disabilities and case management services for adults, families and seniors living in supportive housing sites."
       }
     ]
   },
@@ -5168,7 +5168,7 @@
             "number": "415 252-7512"
           }
         ],
-        "short_description": "Lyon-Martin offers primary care services for lesbian, gay, bisexual, transgender women, including HIV testing and care, support groups, case management, smoking cessation, safer sex outreach and education, and other health education and support groups."
+        "short_desc": "Lyon-Martin offers primary care services for lesbian, gay, bisexual, transgender women, including HIV testing and care, support groups, case management, smoking cessation, safer sex outreach and education, and other health education and support groups."
       }
     ]
   },
@@ -5236,7 +5236,7 @@
             "number": "415 441-7451"
           }
         ],
-        "short_description": "Mary Elizabeth Inn provides permanent and transitional housing for students, women in recovery, working women, women with disabilities, and formerly homeless women."
+        "short_desc": "Mary Elizabeth Inn provides permanent and transitional housing for students, women in recovery, working women, women with disabilities, and formerly homeless women."
       }
     ]
   },
@@ -5295,7 +5295,7 @@
             "number": "415 554-6160"
           }
         ],
-        "short_description": "The Mayor authors the City budget each fiscal year which allows for funding of City departments and activities."
+        "short_desc": "The Mayor authors the City budget each fiscal year which allows for funding of City departments and activities."
       }
     ]
   },
@@ -5360,7 +5360,7 @@
             "number": "415 554-6474"
           }
         ],
-        "short_description": "MONS is dedicated to helping the citizens of the City & County of San Francisco receive the highest levels of service possible from all areas of City government."
+        "short_desc": "MONS is dedicated to helping the citizens of the City & County of San Francisco receive the highest levels of service possible from all areas of City government."
       }
     ]
   },
@@ -5419,7 +5419,7 @@
             "number": "415 554-6159"
           }
         ],
-        "short_description": "The mission of the Mayor's Office on Disability is to ensure that every program, service, benefit, activity and facility operated or funded by the City of San Francisco is fully accessible to, and useable by, people with disabilities."
+        "short_desc": "The mission of the Mayor's Office on Disability is to ensure that every program, service, benefit, activity and facility operated or funded by the City of San Francisco is fully accessible to, and useable by, people with disabilities."
       }
     ]
   },
@@ -5484,7 +5484,7 @@
             "number": "415 750-4912"
           }
         ],
-        "short_description": "The McAuley Institute at St. Mary's Medical Center provides comprehensive mental health treatment to adolescents and their families."
+        "short_desc": "The McAuley Institute at St. Mary's Medical Center provides comprehensive mental health treatment to adolescents and their families."
       }
     ]
   },
@@ -5544,7 +5544,7 @@
             "number": "415 920-1110"
           }
         ],
-        "short_description": "Meals on Wheels SF delivers nutritionally balanced meals to homebound seniors in San Francisco since 1970."
+        "short_desc": "Meals on Wheels SF delivers nutritionally balanced meals to homebound seniors in San Francisco since 1970."
       }
     ]
   },
@@ -5610,7 +5610,7 @@
             "number": "(510) 238-8557"
           }
         ],
-        "short_description": "Media Alliance offers classes in writing skills-grammar, proofreading, copy-editing, feature writing, investigative reporting, media press relations and publicity techniques."
+        "short_desc": "Media Alliance offers classes in writing skills-grammar, proofreading, copy-editing, feature writing, investigative reporting, media press relations and publicity techniques."
       }
     ]
   },
@@ -5673,7 +5673,7 @@
             "number": "415 401-2774"
           }
         ],
-        "short_description": "Mission ACT is a neighborhood-based assertive community team."
+        "short_desc": "Mission ACT is a neighborhood-based assertive community team."
       }
     ]
   },
@@ -5741,7 +5741,7 @@
             "number": "415 586-2339"
           }
         ],
-        "short_description": "Mission Child Care Consortium operates a child care center for low- income Bay Area children, providing developmental educational and recreational activities in a bilingual, and cross-cultural environment."
+        "short_desc": "Mission Child Care Consortium operates a child care center for low- income Bay Area children, providing developmental educational and recreational activities in a bilingual, and cross-cultural environment."
       }
     ]
   },
@@ -5805,7 +5805,7 @@
             "number": "415 826-6774"
           }
         ],
-        "short_description": "The Mission Council provides services that minimize and prevent alcohol and other drug-related problems for individuals, families, and groups."
+        "short_desc": "The Mission Council provides services that minimize and prevent alcohol and other drug-related problems for individuals, families, and groups."
       }
     ]
   },
@@ -5868,7 +5868,7 @@
             "number": "415 695-6963"
           }
         ],
-        "short_description": "The Mission Family Center offers an outpatient mental health clinic serving children, adolescents, and families of the Mission, Potrero Hill, and Castro-Valley neighborhoods and the citywide Latino population."
+        "short_desc": "The Mission Family Center offers an outpatient mental health clinic serving children, adolescents, and families of the Mission, Potrero Hill, and Castro-Valley neighborhoods and the citywide Latino population."
       }
     ]
   },
@@ -5924,7 +5924,7 @@
             "number": "415 864-0916"
           }
         ],
-        "short_description": "Mission Graduates is a nonprofit organization that increases the number of K-12 students in San Francisco's Mission District who are prepared for, and complete a college education."
+        "short_desc": "Mission Graduates is a nonprofit organization that increases the number of K-12 students in San Francisco's Mission District who are prepared for, and complete a college education."
       }
     ]
   },
@@ -5993,7 +5993,7 @@
             "number": "415 865-2102"
           }
         ],
-        "short_description": "MHH assists skilled, job-ready candidates with recruitment, assessments, counseling, referrals, and screenings."
+        "short_desc": "MHH assists skilled, job-ready candidates with recruitment, assessments, counseling, referrals, and screenings."
       }
     ]
   }
