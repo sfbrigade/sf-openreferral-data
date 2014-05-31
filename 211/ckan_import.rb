@@ -286,22 +286,22 @@ def construct_hash(loc)
     "name" => "",
     "description" => "",
     "short_desc" => "",
-    "address" => {},
-    "mail_address" => {},
+    "address_attributes" => {},
+    "mail_address_attributes" => {},
     "hours" => "",
     #no mapping
     "accessibility" => [],
-    "contacts" => [],
+    "contacts_attributes" => [],
     "coordinates" => [],
     "emails" => [],
-    "faxes" => [],
+    "faxes_attributes" => [],
     #no mapping
     "kind" => "",
     "languages" => [],
-    "phones" => [],
+    "phones_attributes" => [],
     "transportation" => "",
     "urls" => [],
-    "servs" => []
+    "services_attributes" => []
   }
   #strings
   locs["name"] = loc.name
@@ -315,16 +315,16 @@ def construct_hash(loc)
   locs["emails"] = loc.emails
   locs["languages"] = loc.languages
   loc.faxes.each do |fax|
-    locs["faxes"] << {"number"=>fax.number}
+    locs["faxes_attributes"] << {"number"=>fax.number}
   end
-  locs["address"] = {
+  locs["address_attributes"] = {
     "street"=>loc.address.street,
     "city"=>loc.address.city,
     "state"=>loc.address.state,
     "zip"=>loc.address.zip
   }
   if loc.mail_address.street
-    locs["mail_address"] = {
+    locs["mail_address_attributes"] = {
       "street"=>loc.mail_address.street,
       "city"=>loc.mail_address.city,
       "state"=>loc.mail_address.state,
@@ -332,14 +332,14 @@ def construct_hash(loc)
     }
   end
   loc.phones.each do |phone|
-    locs["phones"] << {"number"=>phone.number, "department"=>phone.department}
+    locs["phones_attributes"] << {"number"=>phone.number, "department"=>phone.department}
   end
   locs["urls"] = loc.urls
   loc.contacts.each do |contact|
-    locs["contacts"] = {"name"=>contact.name,"title"=>contact.title}
+    locs["contacts_attributes"] = {"name"=>contact.name,"title"=>contact.title}
   end
   loc.services.each do |service|
-    locs["servs"] = {
+    locs["services_attributes"] = {
       "audience" => service.audience,
       "eligibility" => service.eligibility,
       "fees" => service.fees,
@@ -363,14 +363,14 @@ orgs = {}
 
 json.data.each do |row|
   if row[:parentagencynum] == "0"
-    orgs[row[:resourceagencynum]] = {"name" =>json.find_agency(row), "locs" => [], "urls" => [row[:websiteaddress]].compact }
+    orgs[row[:resourceagencynum]] = {"name" =>json.find_agency(row), "locations" => [], "urls" => [row[:websiteaddress]].compact }
     json.map_row(row).each do |location|
-        orgs[row[:resourceagencynum]]["locs"] << construct_hash(location)
+        orgs[row[:resourceagencynum]]["locations"] << construct_hash(location)
     end
   else
     if orgs[row[:parentagencynum]]
       json.map_row(row).each do |location|
-        orgs[row[:parentagencynum]]["locs"] << construct_hash(location)
+        orgs[row[:parentagencynum]]["locations"] << construct_hash(location)
       end
     end
   end
