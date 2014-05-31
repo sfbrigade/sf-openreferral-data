@@ -433,11 +433,6 @@
         },
         "accessibility": [],
         "hours": "Monday - Friday, 8:00am - 5:00pm",
-        "emails": [
-          [
-            ""
-          ]
-        ],
         "name": "Department of Human Services",
         "languages": [
           "Spanish",
@@ -687,11 +682,6 @@
         },
         "accessibility": [],
         "hours": "Monday ­- Friday, 8:30am - 5:00pm",
-        "emails": [
-          [
-            ""
-          ]
-        ],
         "contacts_attributes": [
           {
             "name": "Matt Madaus",
@@ -818,11 +808,6 @@
         },
         "accessibility": [],
         "hours": "Monday ­- Friday, 9:00am - 6:00pm (Eastern Time)",
-        "emails": [
-          [
-            "http://www.emilyslist.org"
-          ]
-        ],
         "name": "EMILY's List",
         "languages": [
           "English"
@@ -1486,7 +1471,7 @@
           "Cantonese"
         ],
         "urls": [
-          "scs-wycdc.org"
+          "http://www.facessf.org/"
         ],
         "faxes_attributes": [
           {
@@ -1498,70 +1483,14 @@
     ]
   },
   {
-    "name": "Freedom House",
-    "locations": [
-      {
-        "phones_attributes": [
-          {
-            "number": "650 488-0835"
-          }
-        ],
-        "transportation": "",
-        "description": "Freedom House offers up to 18 months of transitional housing and aftercare for victims of slavery and human trafficking. Services include advocacy, career counseling, case management, counseling and therapy, shelter and transitional housing, translation and language support, and spiritual healing.",
-        "address_attributes": {
-          "city": "",
-          "state": "",
-          "street": "San Francisco Bay Area",
-          "zip": ""
-        },
-        "services_attributes": [
-          {
-            "funding_sources": [],
-            "keywords": [],
-            "audience": "",
-            "how_to_apply": "",
-            "fees": "None",
-            "eligibility": "18+",
-            "service_areas": [],
-            "wait": ""
-          }
-        ],
-        "mail_address_attributes": {
-          "city": "",
-          "state": "",
-          "attention": "Freedom House",
-          "street": "San Francisco Bay Area",
-          "zip": ""
-        },
-        "accessibility": [],
-        "hours": "Monday - Friday, 9:00am - 5:00pm",
-        "emails": [
-          [
-            "info@freedom-house.us.com"
-          ]
-        ],
-        "name": "Freedom House",
-        "languages": [
-          "Arabic",
-          "Burmese",
-          "Cantonese",
-          "English",
-          "Hmong",
-          "Japanese",
-          "Korean",
-          "Mandarin",
-          "Russian",
-          "Spanish",
-          "Tagalog",
-          "Thai",
-          "Vietnamese"
-        ],
-        "urls": [
-          "http://www.freedom-house.us.com"
-        ],
-        "short_description": "Freedom House offers up to 18 months of transitional housing and aftercare for victims of slavery and human trafficking."
-      }
-    ]
+    "servs": {
+      "desciption": "Freedom House offers up to 18 months of transitional housing and aftercare for victims of slavery and human trafficking. Services include advocacy, career counseling, case management, counseling and therapy, shelter and transitional housing, translation and language support, and spiritual healing.", 
+      "audience": "18 years old and older",
+      "short_desc": "Freedom House offers up to 18 months of transitional housing and aftercare for victims of slavery and human trafficking.", 
+      "urls": ["http://www.freedom-house.us.com", "http://www.freedom-house.us.com"], 
+      "fees": "None"
+    }, 
+    "name": "Freedom House"
   },
   {
     "name": "Friendship House Association of American Indians, Inc.",
@@ -1931,7 +1860,7 @@
           "English"
         ],
         "urls": [
-          "hunterspointfamily.org"
+          "http://hunterspointfamily.org"
         ],
         "faxes_attributes": [
           {
@@ -2486,11 +2415,6 @@
         },
         "accessibility": [],
         "hours": "Monday - Friday, 8:45am - 5:30pm",
-        "emails": [
-          [
-            ""
-          ]
-        ],
         "contacts_attributes": [
           {
             "name": "Jean Merwin",
@@ -2551,11 +2475,6 @@
         },
         "accessibility": [],
         "hours": "24 hours; Office: Monday ­ Friday, 9:00am - 5:00pm",
-        "emails": [
-          [
-            ""
-          ]
-        ],
         "contacts_attributes": [
           {
             "name": "Diane Luther",
@@ -2583,9 +2502,12 @@
     "name": "Health Initiatives for Youth",
     "locations": [
       {
-        "phones_attributes": [
+        "contacts_attributes": [
           {
-            "number": "415 274-1970 Elizabeth Samayoa, Executive Director, ext. 0021"
+            "name": "Elizabeth Samayoa",
+            "title": "Executive Director",
+            "phone": "415 274-1970",
+            "extension": "x0021"
           }
         ],
         "transportation": "",
@@ -3294,11 +3216,6 @@
         },
         "accessibility": [],
         "hours": "Monday ­- Thursday, 3:00am - 6:00pm",
-        "emails": [
-          [
-            ""
-          ]
-        ],
         "contacts_attributes": [
           {
             "name": "Lyn Reddicks",
@@ -3700,7 +3617,7 @@
           "English"
         ],
         "urls": [
-          "jamestownsf.org"
+          "http://jamestownsf.org"
         ],
         "faxes_attributes": [
           {
@@ -3765,7 +3682,7 @@
           "English"
         ],
         "urls": [
-          ""
+          "http://www.prrcsf.org/"
         ],
         "faxes_attributes": [
           {
@@ -4363,7 +4280,8 @@
       {
         "phones_attributes": [
           {
-            "number": "415 824-2729, ext. 302"
+            "number": "415 824-2729",
+            "extension": "x302"
           }
         ],
         "transportation": "",
@@ -4429,7 +4347,11 @@
       {
         "phones_attributes": [
           {
-            "number": "415 575-3500, TTY: 711"
+            "number": "415 575-3500"
+          },
+          {
+            "number": "711",
+            "number_type": "TTY"
           }
         ],
         "transportation": "",
@@ -4566,7 +4488,10 @@
       {
         "phones_attributes": [
           {
-            "number": "415 673-0911 If you are a youth in need of service, please call 1-800-669-6196."
+            "number": "415 673-0911"
+          },
+          {
+            "number": "800 669-6196"
           }
         ],
         "transportation": "",
@@ -4997,11 +4922,6 @@
         },
         "accessibility": [],
         "hours": "Warm Line: Monday - Thursday, 1:30pm - 5:00pm; Clinic Hours: Wednesdays, 4:00pm - 6:00pm; Intake: Monday ­ Friday, 1:30pm - 5:00pm",
-        "emails": [
-          [
-            ""
-          ]
-        ],
         "name": "Legal Services for Children, Inc.",
         "languages": [
           "Cantonese",
@@ -5133,7 +5053,7 @@
           "Translation upon Request"
         ],
         "urls": [
-          "lighthouse-sf.org"
+          "http://lighthouse-sf.org"
         ],
         "faxes_attributes": [
           {
@@ -5213,7 +5133,8 @@
       {
         "phones_attributes": [
           {
-            "number": "415 864-LOCO (5626)"
+            "number": "415 864-5626"
+            "vanity_number": "415 864-LOCO"
           }
         ],
         "transportation": "",
@@ -5305,11 +5226,6 @@
         },
         "accessibility": [],
         "hours": "",
-        "emails": [
-          [
-            ""
-          ]
-        ],
         "name": "Lutheran Social Services of Northern California (LSS)",
         "languages": [
           ""
@@ -5466,65 +5382,6 @@
         "transportation": "",
         "description": "The Mayor authors the City budget each fiscal year which allows for funding of City departments and activities. The Mayor appoints people to positions in the city government, occasionally with the consent of the Board of Supervisors. S/he also signs legislation into law. The Mayor may also veto legislation and return it to the Board of Supervisors for revision. If there is a vacancy on the Board of Supervisors or another elected office, the Mayor appoints a replacement to fill the vacancy. The Mayor also appoints Commissioners to the more than 50 citizen-driven Commissions that oversee City departments.",
         "address_attributes": {
-          "city": "",
-          "state": "",
-          "street": "City Hall",
-          "zip": ""
-        },
-        "services_attributes": [
-          {
-            "funding_sources": [],
-            "keywords": [],
-            "audience": "",
-            "how_to_apply": "",
-            "fees": "None",
-            "eligibility": "All ages",
-            "service_areas": [],
-            "wait": ""
-          }
-        ],
-        "mail_address_attributes": {
-          "city": "",
-          "state": "",
-          "attention": "Mayor of San Francisco",
-          "street": "City Hall",
-          "zip": ""
-        },
-        "accessibility": [],
-        "hours": "Monday - Friday, 9:00am - 5:00pm",
-        "emails": [
-          [
-            "mayoredwinlee@sfgov.org"
-          ]
-        ],
-        "name": "Mayor of San Francisco",
-        "languages": [
-          "English"
-        ],
-        "urls": [
-          "http://www.sfmayor.org/"
-        ],
-        "faxes_attributes": [
-          {
-            "number": "415 554-6160"
-          }
-        ],
-        "short_description": "The Mayor authors the City budget each fiscal year which allows for funding of City departments and activities."
-      }
-    ]
-  },
-  {
-    "name": "Mayor of San Francisco",
-    "locations": [
-      {
-        "phones_attributes": [
-          {
-            "number": "415 554-6141"
-          }
-        ],
-        "transportation": "",
-        "description": "The Mayor authors the City budget each fiscal year which allows for funding of City departments and activities. The Mayor appoints people to positions in the city government, occasionally with the consent of the Board of Supervisors. S/he also signs legislation into law. The Mayor may also veto legislation and return it to the Board of Supervisors for revision. If there is a vacancy on the Board of Supervisors or another elected office, the Mayor appoints a replacement to fill the vacancy. The Mayor also appoints Commissioners to the more than 50 citizen-driven Commissions that oversee City departments.",
-        "address_attributes": {
           "city": "San Francisco",
           "state": "CA",
           "street": "1 Dr. Carlton B. Goodlett Place, Room 200",
@@ -5556,7 +5413,7 @@
             "mayoredwinlee@sfgov.org"
           ]
         ],
-        "name": "Mayor of San Francisco",
+        "name": "City Hall",
         "languages": [
           "English"
         ],
@@ -5569,71 +5426,6 @@
           }
         ],
         "short_description": "The Mayor authors the City budget each fiscal year which allows for funding of City departments and activities."
-      }
-    ]
-  },
-  {
-    "name": "Mayor's Office of Neighborhood Services (MONS)",
-    "locations": [
-      {
-        "phones_attributes": [
-          {
-            "number": "415 554-7111"
-          }
-        ],
-        "transportation": "",
-        "description": "MONS is dedicated to helping the citizens of the City & County of San Francisco receive the highest levels of service possible from all areas of City government. District and community liaisons work to ensure that the Mayor's Office is involved with helping to improve the quality of life for all San Francisco residents.",
-        "address_attributes": {
-          "city": "",
-          "state": "",
-          "street": "City Hall",
-          "zip": ""
-        },
-        "services_attributes": [
-          {
-            "funding_sources": [],
-            "keywords": [],
-            "audience": "",
-            "how_to_apply": "",
-            "fees": "None",
-            "eligibility": "All ages",
-            "service_areas": [],
-            "wait": ""
-          }
-        ],
-        "mail_address_attributes": {
-          "city": "",
-          "state": "",
-          "attention": "Mayor's Office of Neighborhood Services (MONS)",
-          "street": "City Hall",
-          "zip": ""
-        },
-        "accessibility": [],
-        "hours": "Monday - Friday, 8:30am - 5:30pm",
-        "emails": [
-          [
-            "Joaquin.Torres@sfgov.org"
-          ]
-        ],
-        "contacts_attributes": [
-          {
-            "name": "Joaquin Torres",
-            "title": "Director"
-          }
-        ],
-        "name": "Mayor's Office of Neighborhood Services (MONS)",
-        "languages": [
-          "English"
-        ],
-        "urls": [
-          "http://sfmayor.org/index.aspx?page=20"
-        ],
-        "faxes_attributes": [
-          {
-            "number": "415 554-6474"
-          }
-        ],
-        "short_description": "MONS is dedicated to helping the citizens of the City & County of San Francisco receive the highest levels of service possible from all areas of City government."
       }
     ]
   },
@@ -5686,7 +5478,7 @@
             "title": "Director"
           }
         ],
-        "name": "Mayor's Office of Neighborhood Services (MONS)",
+        "name": "City Hall",
         "languages": [
           "English"
         ],
@@ -6071,9 +5863,6 @@
           "English",
           "Spanish"
         ],
-        "urls": [
-          ""
-        ],
         "faxes_attributes": [
           {
             "number": "415 401-2774"
@@ -6269,9 +6058,6 @@
           "English",
           "Spanish"
         ],
-        "urls": [
-          ""
-        ],
         "faxes_attributes": [
           {
             "number": "415 695-6963"
@@ -6319,11 +6105,6 @@
         },
         "accessibility": [],
         "hours": "Office Hours: Monday - Friday, 10:00am - 6:00pm",
-        "emails": [
-          [
-            "Email Form on Website"
-          ]
-        ],
         "name": "Mission Graduates",
         "languages": [
           "English",
