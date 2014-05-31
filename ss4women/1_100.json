@@ -26,7 +26,7 @@
                 "city": "San Francisco",
                 "state": "CA",
                 "street": "225 30th Street, 3rd Floor",
-                "zipcode": "94131"
+                "zip": "94131"
             },
             "emails": [
                 "30thStSeniorServices@onlok.org"
@@ -81,7 +81,7 @@
                 "city": "San Francisco",
                 "state": "CA",
                 "street": "3177 17th Street",
-                "zipcode": "94110"
+                "zip": "94110"
             },
             "emails": [
                 "info@7tepees.org"
@@ -126,7 +126,7 @@
                 "city": "San Francisco",
                 "state": "CA",
                 "street": "1329 7th Avenue",
-                "zipcode": "94122"
+                "zip": "94122"
             },
             "emails": [
                 "office@seventhavenuechruch.org"
@@ -175,7 +175,7 @@
                 "city": "San Francisco",
                 "state": "CA",
                 "street": "2500 18th Street",
-                "zipcode": "94110"
+                "zip": "94110"
             },
             "emails": [
                 "admin@ahomewithin.org"
@@ -213,7 +213,7 @@
                 "city": "San Francisco",
                 "state": "CA",
                 "street": "1032 Irving Street, No. 610",
-                "zipcode": "94122"
+                "zip": "94122"
             },
             "emails": [
                 "info@amendingangel.org",
@@ -254,7 +254,7 @@
                 "city": "San Francisco",
                 "state": "CA",
                 "street": "441 Sutter Street",
-                "zipcode": "94108"
+                "zip": "94108"
             },
             "emails": [
                 "info@aminermiracle.org"
@@ -306,7 +306,7 @@
                 "city": "Oakland",
                 "state": "CA",
                 "street": "P.O. Box 3609",
-                "zipcode": "94609"
+                "zip": "94609"
             },
             "emails": [
                 "info@accesswhj.org"
@@ -346,7 +346,7 @@
                 "city": "San Francisco",
                 "state": "CA",
                 "street": "90 7th Street, 9th Floor",
-                "zipcode": "94103"
+                "zip": "94103"
             },
             "description": "ACF Region 9 is dedicated to promoting and enhancing the economic independence and social well-being of children, families, individuals, and communities. AFC Region 9 is responsible for the program and technical administration of the Temporary Assistance for Needy Families (TANF), child welfare, child support enforcement, child care, and Head Start/Early Head Start programs. AFC Region 9 also assists with activities relating to developmental disabilities, runaway and homeless youth, refugee resettlement, economic and community development, tribal and special initiative activities."
         }
@@ -390,7 +390,7 @@
                 "city": "San Francisco",
                 "state": "CA",
                 "street": "880 Bryant Street, Room 200",
-                "zipcode": "94103"
+                "zip": "94103"
             },
             "emails": [
                 "AdultProbationWebContact@sfgov.org"
@@ -431,7 +431,7 @@
                 "city": "San Francisco",
                 "state": "CA",
                 "street": "378 18th Avenue",
-                "zipcode": "94121"
+                "zip": "94121"
             },
             "emails": [
                 "accsf@sbcglobal.net"
@@ -480,7 +480,7 @@
                 "city": "San Francisco",
                 "state": "CA",
                 "street": "1930 Market Street",
-                "zipcode": "94102"
+                "zip": "94102"
             },
             "emails": [
                 "lori.thoemmes@ucsf.edu"
@@ -536,7 +536,7 @@
                 "city": "San Francisco",
                 "state": "CA",
                 "street": "1821 Sacramento Street",
-                "zipcode": "94109"
+                "zip": "94109"
             },
             "emails": [
                 "aa@aasf.org",
@@ -584,7 +584,7 @@
                 "city": "San Francisco",
                 "state": "CA",
                 "street": "39 Drumm Street",
-                "zipcode": "94111"
+                "zip": "94111"
             },
             "emails": [
                 "organizing@aclunc.org"
@@ -630,7 +630,7 @@
                 "city": "San Francisco",
                 "state": "CA",
                 "street": "10-12 Nottingham Place",
-                "zipcode": "94133"
+                "zip": "94133"
             },
             "emails": [
                 "info@apafss.org"
@@ -677,7 +677,7 @@
                 "city": "San Francisco",
                 "state": "CA",
                 "street": "\ufffc2 Plaza Street",
-                "zipcode": "94116"
+                "zip": "94116"
             },
             "emails": [
                 "info@arabculturalcenter.org"
@@ -732,7 +732,7 @@
                 "city": "San Francisco",
                 "state": "CA",
                 "street": "1500 Howard Street",
-                "zipcode": "94103"
+                "zip": "94103"
             },
             "emails": [
                 "info@thearcsf.org"
@@ -781,7 +781,7 @@
                 "city": "San Francisco",
                 "state": "CA",
                 "street": "1850 Mission Street",
-                "zipcode": "94103"
+                "zip": "94103"
             },
             "emails": [
                 "info@arribajuntos.org"
@@ -836,7 +836,7 @@
                 "city": "San Francisco",
                 "state": "CA",
                 "street": "2166 Hayes Street, Suite 206",
-                "zipcode": "94117"
+                "zip": "94117"
             },
             "description": "COPPASA offers primary and secondary prevention services with API focus, and culturally sensitive support, case management, assessment, referral, advocacy, intervention, health information, family and individual counseling, emotional support, and crisis intervention."
         },
@@ -879,7 +879,7 @@
                 "city": "San Francisco",
                 "state": "CA",
                 "street": "2166 Hayes St, Suite 303",
-                "zipcode": "94117"
+                "zip": "94117"
             },
             "description": "Provides outpatient substance abuse and mental health treatment services to women, with specific outreach to pregnant women and women with children. Therapeutic childcare and group therapy are also offered."
         },
@@ -922,7 +922,7 @@
                 "city": "San Francisco",
                 "state": "CA",
                 "street": "2020 Hayes Street",
-                "zipcode": "94117"
+                "zip": "94117"
             },
             "description": "ADAPT offers comprehensive multi-cultural and multi-lingual outpatient programming that provides an integrated approach to substance abuse and mental health services."
         }
@@ -964,7 +964,7 @@
                 "city": "San Francisco",
                 "state": "CA",
                 "street": "\ufffc85 Second Street, 8th Floor",
-                "zipcode": "94105"
+                "zip": "94105"
             },
             "emails": [
                 "arcbainfo@usa.redcross.org"
@@ -1008,7 +1008,7 @@
                 "city": "San Francisco",
                 "state": "CA",
                 "street": "1701 Ocean Avenue",
-                "zipcode": "94112"
+                "zip": "94112"
             },
             "emails": [
                 "justin.loney@sfdph.org"
@@ -1056,7 +1056,7 @@
                 "city": "San Francisco",
                 "state": "CA",
                 "street": "730 Polk Street, 4th Floor",
-                "zipcode": "94109"
+                "zip": "94109"
             },
             "description": "Asian and Pacific Islander Wellness Center aims to educate, support, empower and advocate for Asian and Pacific Islander communities - particularly those in the community living with, or at-risk for, HIV/AIDS. A&PI Wellness Center's HIV Care Services provides free and confidential HIV treatment case management, mental health and substance abuse counseling, on-site primary medical and psychiatric care, client and treatment advocacy, and group and individual support to those living with HIV/AIDS. Their HIV/STD Prevention Services reaches youth (heterosexual, homosexual and questioning), gay and bisexual men, and transgender persons through community organizing and outreach, workshops and support groups, peer counseling, and prevention case management. The Center offers testing for HIV, STDs, and hepatitis. The Center also offers support groups, social marketing and health promotion campaigns, community events, internships, and volunteer opportunities."
         }
@@ -1103,7 +1103,7 @@
                 "city": "San Francisco",
                 "state": "CA",
                 "street": "55 Columbus Avenue",
-                "zipcode": "94111"
+                "zip": "94111"
             },
             "emails": [
                 "angelac@asianlawcaucus.org"
@@ -1149,7 +1149,7 @@
                 "city": "San Francisco",
                 "state": "CA",
                 "street": "1245 Howard Street",
-                "zipcode": "94103"
+                "zip": "94103"
             },
             "emails": [
                 "info@andnet.org"
@@ -1202,7 +1202,7 @@
                 "city": "San Francisco",
                 "state": "CA",
                 "street": "1121 Mission Street",
-                "zipcode": "94103"
+                "zip": "94103"
             },
             "emails": [
                 "dliou@apilegaloutreach.org",
@@ -1269,7 +1269,7 @@
                 "city": "San Francisco",
                 "state": "CA",
                 "street": "3543 18th Street, No. 19",
-                "zipcode": "94110"
+                "zip": "94110"
             },
             "emails": [
                 "info@sfaws.org",
@@ -1315,7 +1315,7 @@
                 "city": "San Francisco",
                 "state": "CA",
                 "street": "1167 Mission Street, 4th Floor",
-                "zipcode": "94103"
+                "zip": "94103"
             },
             "emails": [
                 "info@asianinc.org"
@@ -1363,7 +1363,7 @@
                 "city": "South San Francisco",
                 "state": "CA",
                 "street": "400 Oyster Point, Suite 501",
-                "zipcode": "94080"
+                "zip": "94080"
             },
             "emails": [
                 "info@aspiranet.org",
@@ -1413,7 +1413,7 @@
                 "city": "San Francisco",
                 "state": "CA",
                 "street": "1399 McAllister Street",
-                "zipcode": "94115"
+                "zip": "94115"
             },
             "emails": [
                 "riseup@backontracksf.org"
@@ -1461,7 +1461,7 @@
                 "city": "San Francisco",
                 "state": "CA",
                 "street": "1000 Brannan Street, Suite 401",
-                "zipcode": "94103"
+                "zip": "94103"
             },
             "emails": [
                 "info@bakerplaces.org"
@@ -1511,7 +1511,7 @@
                 "city": "San Francisco",
                 "state": "CA",
                 "street": "1000 Cayuga Avenue, Room 156",
-                "zipcode": "94112"
+                "zip": "94112"
             },
             "description": "Balboa Teen Health Center offers a wide array of services and programs, including treatment for minor illness and injury, sports physicals, immunization and TB tests, nutrition counseling, substance abuse counseling, general health education, chronic disease management, reproductive health care, condoms and birth control, peer health education, pregnancy testing, treatment for STDs, mental health counseling, and support groups."
         }
@@ -1557,7 +1557,7 @@
                 "city": "San Francisco",
                 "state": "CA",
                 "street": "301 Battery Street, Third Floor",
-                "zipcode": "94111"
+                "zip": "94111"
             },
             "description": "The Volunteer Legal Services Program and the Family Law Project of the Bar Association provides family law legal services to women who have experienced domestic violence. The Bar Association also offers the support and resources necessary for women of low-income backgrounds to make a permanent transition from violence to safety and self-sufficiency for themselves and their children."
         }
@@ -1604,7 +1604,7 @@
                 "city": "San Francisco",
                 "state": "CA",
                 "street": "1111 Market Street",
-                "zipcode": "94103"
+                "zip": "94103"
             },
             "description": "Bay Area Addiction Research & Treatment, Inc. (BAART) offers comprehensive substance abuse treatment, specializing in outpatient methadone treatment and detoxification (detox programs range in duration from 21-180 days). Buprenorphine is also available. BAART offers low cost primary care for substance abusers and non- substance abusers, child care while their parent is on-site, and a specialized FACET program for pregnant opiate dependent women. Walk-ins are welcome."
         },
@@ -1642,7 +1642,7 @@
                 "city": "San Francisco",
                 "state": "CA",
                 "street": "433 Turk St.",
-                "zipcode": "94102"
+                "zip": "94102"
             },
             "description": "Bay Area Addiction Research & Treatment, Inc. (BAART) offers comprehensive substance abuse treatment, specializing in outpatient methadone treatment and detoxification (detox programs range in duration from 21-180 days). Buprenorphine is also available. BAART offers low cost primary care for substance abusers and non- substance abusers, child care while their parent is on-site, and a specialized FACET program for pregnant opiate dependent women. Walk-ins are welcome."
         }
@@ -1701,7 +1701,7 @@
                 "city": "San Francisco",
                 "state": "CA",
                 "street": "1035 Market Street, 6th Floor",
-                "zipcode": "94103"
+                "zip": "94103"
             },
             "description": "Bay Area Legal Aid's mission is to help individuals escape poverty and to safeguard the basic rights of those who cannot. They specialize in providing expert legal assistance to low-income individuals regarding domestic violence, safe and affordable housing, and health care."
         }
@@ -1748,7 +1748,7 @@
                 "city": "San Francisco",
                 "state": "CA",
                 "street": "2727 Mariposa Street, 2nd Floor",
-                "zipcode": "94110"
+                "zip": "94110"
             },
             "emails": [
                 "info@bavc.org"
@@ -1792,7 +1792,7 @@
                 "city": "Oakland",
                 "state": "CA",
                 "street": "470 27th Street",
-                "zipcode": "94612"
+                "zip": "94612"
             },
             "emails": [
                 "bawar@bawar.org",
@@ -1843,7 +1843,7 @@
                 "city": "San Francisco",
                 "state": "CA",
                 "street": "318 Leavenworth Street",
-                "zipcode": "94102"
+                "zip": "94102"
             },
             "description": "Bay Area Women's and Children's Center (BAWCC) focuses entirely on the needs and issues of low-income families, children, and women. BAWCC offers a variety of direct services that address immediate needs and assist with achieving long-term stability. Services for women and families include: Drop-in services: Tuesday and Thursday, 8:30am - 12:30pm; Job related services - by appointment; A Clothes closet - Tuesday and Thursday, 8:30am - 12:30pm; Parent and child program; and a food pantry for Tenderloin families. Other programs include: The Angel Child Program, a gift giving program for Tenderloin children each holiday season; The Tenderloin Family Center at the new Tenderloin Community School; The Tenderloin Scholarship Fund; and general advocacy programs for women, children and families in the Tenderloin."
         }
@@ -1880,7 +1880,7 @@
                 "city": "San Francisco",
                 "state": "CA",
                 "street": "1010 Mission Street",
-                "zipcode": "94103"
+                "zip": "94103"
             },
             "description": "The Bayanihan Center includes the Veterans Equity Center office, community program space, conference room, and a technology center with 20 computers. Clients are able to access neighborhood information and provide referrals for affordable housing and services available in S.F. Other programs include The Galing Bata After-School Program at the Filipino Education Center at 824 Harrison Street and at Bessie Carmichael Elementary at 375 - 7th Street, and a Filipino cultural enrichment after-school program for children in grades K-7. Bayanihan Krew\u2019s Bridgin\u2019 the Gap Program at the Bayanihan Community Center is an after-school program for youth ages 18-24 years, targeting South of Market high school Filipino immigrant youth. The program facilitates creative writing, hip hop and dance, youth leadership, and employment and career readiness. Meetings are Wednesday and Friday from 4:30pm - 6:30pm. Performances are hosted each quarter."
         }
@@ -1917,7 +1917,7 @@
                 "city": "San Francisco",
                 "state": "CA",
                 "street": "P.O. Box 210256",
-                "zipcode": "94121"
+                "zip": "94121"
             },
             "emails": [
                 "info@bayswan.org",
@@ -1964,7 +1964,7 @@
                 "city": "San Francisco",
                 "state": "CA",
                 "street": "150 Executive Park Boulevard, Suite 2800",
-                "zipcode": "94134"
+                "zip": "94134"
             },
             "emails": [
                 "admin.admin@bayviewci.org"
@@ -2002,7 +2002,7 @@
                 "city": "San Francisco",
                 "state": "CA",
                 "street": "5815 Third Street",
-                "zipcode": "94124"
+                "zip": "94124"
             },
             "emails": [
                 "admin.admin@bayviewci.org"
@@ -2039,7 +2039,7 @@
                 "city": "San Francisco",
                 "state": "CA",
                 "street": "1000 Cayuga Avenue",
-                "zipcode": "94112"
+                "zip": "94112"
             },
             "emails": [
                 "admin.admin@bayviewci.org"
@@ -2075,7 +2075,7 @@
                 "city": "San Francisco",
                 "state": "CA",
                 "street": "1701 Ocean Avenue",
-                "zipcode": "94112"
+                "zip": "94112"
             },
             "emails": [
                 "admin.admin@bayviewci.org"
@@ -2112,7 +2112,7 @@
                 "city": "San Francisco",
                 "state": "CA",
                 "street": "1309 Evans Street",
-                "zipcode": "94124"
+                "zip": "94124"
             },
             "emails": [
                 "admin.admin@bayviewci.org"
@@ -2150,7 +2150,7 @@
                 "city": "San Francisco",
                 "state": "CA",
                 "street": "1625 Carroll Avenue",
-                "zipcode": "94124"
+                "zip": "94124"
             },
             "emails": [
                 "admin.admin@bayviewci.org",
@@ -2190,7 +2190,7 @@
                 "city": "San Francisco",
                 "state": "CA",
                 "street": "P.O. Box 210256",
-                "zipcode": "94121"
+                "zip": "94121"
             },
             "emails": [
                 "info@bayswan.org",
@@ -2237,7 +2237,7 @@
                 "city": "San Francisco",
                 "state": "CA",
                 "street": "828 Innes Avenue, Suite 110",
-                "zipcode": "94124"
+                "zip": "94124"
             },
             "description": "HERC community programs are centered around two major health problems, asthma and women-specific cancer. Their programs are tailored for all ages, those who have health problems, as well as family, friends, and interested volunteers."
         },
@@ -2271,7 +2271,7 @@
                 "city": "San Francisco",
                 "state": "CA",
                 "street": "2 Cameron Way",
-                "zipcode": "94124"
+                "zip": "94124"
             },
             "description": "HERC community programs are centered around two major health problems, asthma and women-specific cancer. Their programs are tailored for all ages, those who have health problems, as well as family, friends, and interested volunteers."
         }
@@ -2311,7 +2311,7 @@
                 "city": "San Francisco",
                 "state": "CA",
                 "street": "1706 Yosemite Avenue",
-                "zipcode": "94124"
+                "zip": "94124"
             },
             "emails": [
                 "bhpmss1@aol.com"
@@ -2345,7 +2345,7 @@
                 "city": "San Francisco",
                 "state": "CA",
                 "street": "1250 LaSalle",
-                "zipcode": "94124"
+                "zip": "94124"
             },
             "emails": [
                 "bhpmss1@aol.com"
@@ -2379,7 +2379,7 @@
                 "city": "San Francisco",
                 "state": "CA",
                 "street": "5600A Third St.",
-                "zipcode": "94124"
+                "zip": "94124"
             },
             "emails": [
                 "bhpmss1@aol.com"
@@ -2413,7 +2413,7 @@
                 "city": "San Francisco",
                 "state": "CA",
                 "street": "1309 1/2 Turk St.",
-                "zipcode": "94124"
+                "zip": "94124"
             },
             "emails": [
                 "bhpmss1@aol.com"
@@ -2460,7 +2460,7 @@
                 "city": "San Francisco",
                 "state": "CA",
                 "street": "555 7th Street, Suite 201",
-                "zipcode": "94103"
+                "zip": "94103"
             },
             "emails": [
                 "community@bayviewmagic.org"
@@ -2505,7 +2505,7 @@
                 "city": "San Francisco",
                 "state": "CA",
                 "street": "357 Ellis Street",
-                "zipcode": "94102"
+                "zip": "94102"
             },
             "emails": [
                 "Info@becausejusticematters.org"
@@ -2569,7 +2569,7 @@
                 "city": "San Francisco",
                 "state": "CA",
                 "street": "515 Cortland Avenue",
-                "zipcode": "94110"
+                "zip": "94110"
             },
             "emails": [
                 "info@bhnc.org"
@@ -2612,7 +2612,7 @@
                 "city": "San Francisco",
                 "state": "CA",
                 "street": "4468 Mission Street",
-                "zipcode": "94112"
+                "zip": "94112"
             },
             "emails": [
                 "info@bhnc.org"
@@ -2662,7 +2662,7 @@
                 "city": "San Francisco",
                 "state": "CA",
                 "street": "731 Market Street, 6th Floor",
-                "zipcode": "94103"
+                "zip": "94103"
             },
             "emails": [
                 "info@bbbsba.org"
@@ -2712,7 +2712,7 @@
                 "city": "San Francisco",
                 "state": "CA",
                 "street": "2800 Third Street",
-                "zipcode": "94107"
+                "zip": "94107"
             },
             "emails": [
                 "bcoa@bcoa.org"
@@ -2752,7 +2752,7 @@
                 "city": "San Francisco",
                 "state": "CA",
                 "street": "1 Dr. Carlton B. Goodlett Place, Room 250 & Room 244",
-                "zipcode": "94102"
+                "zip": "94102"
             },
             "emails": [
                 "board.of.supervisors@sfgov.org"
@@ -2798,7 +2798,7 @@
                 "city": "San Francisco",
                 "state": "CA",
                 "street": "55 Hawthorne Street, Suite 600",
-                "zipcode": "94105"
+                "zip": "94105"
             },
             "description": "Boys & Girls Clubs of San Francisco (BGCSF) serves youth and teens at nine neighborhood Clubhouses. Dedicated to helping kids from disadvantaged circumstances, BGCSF provides a broad range of programs to inspire young people to realize their full potential as productive, responsible and caring citizens. Clubs provide at-risk youth access to a wide variety of programs and activities, including technology and leadership skills, gang intervention, fine arts and athletics. BGCSF also offers health services, daily homework assistance and tutoring, as well as specialized programs for young girls and teens."
         },
@@ -2817,7 +2817,7 @@
                 "city": "San Francisco",
                 "state": "CA",
                 "street": "450 Guerrero St.",
-                "zipcode": "94105"
+                "zip": "94105"
             },
             "name": "Columbia Park Clubhouse"
         },
@@ -2836,7 +2836,7 @@
                 "city": "San Francisco",
                 "state": "CA",
                 "street": "1950 Page St.",
-                "zipcode": "94105"
+                "zip": "94105"
             },
             "description": "Boys & Girls Clubs of San Francisco (BGCSF) serves youth and teens at nine neighborhood Clubhouses. Dedicated to helping kids from disadvantaged circumstances, BGCSF provides a broad range of programs to inspire young people to realize their full potential as productive, responsible and caring citizens. Clubs provide at-risk youth access to a wide variety of programs and activities, including technology and leadership skills, gang intervention, fine arts and athletics. BGCSF also offers health services, daily homework assistance and tutoring, as well as specialized programs for young girls and teens."
         },
@@ -2855,7 +2855,7 @@
                 "city": "San Francisco",
                 "state": "CA",
                 "street": "163 London St.",
-                "zipcode": "94105"
+                "zip": "94105"
             },
             "name": "Excelsior Clubhouse"
         },
@@ -2874,7 +2874,7 @@
                 "city": "San Francisco",
                 "state": "CA",
                 "street": "115 Jones Street",
-                "zipcode": "94105"
+                "zip": "94105"
             },
             "name": "Tenderloin Clubhouse"
         },
@@ -2893,7 +2893,7 @@
                 "city": "San Francisco",
                 "state": "CA",
                 "street": "1099 Sunnydale Ave.",
-                "zipcode": "94105"
+                "zip": "94105"
             },
             "name": "Visitaciaon Valley"
         },
@@ -2912,7 +2912,7 @@
                 "city": "San Francisco",
                 "state": "CA",
                 "street": "Bryant Elementary",
-                "zipcode": "94105"
+                "zip": "94105"
             },
             "name": "Mission Clubhouse"
         },
@@ -2931,7 +2931,7 @@
                 "city": "San Francisco",
                 "state": "CA",
                 "street": "1654 Sunnydale Ave.",
-                "zipcode": "94105"
+                "zip": "94105"
             },
             "name": "Sunnydale Clubhouse"
         },
@@ -2950,7 +2950,7 @@
                 "city": "San Francisco",
                 "state": "CA",
                 "street": "401 13th Ave.",
-                "zipcode": "94105"
+                "zip": "94105"
             },
             "name": "Treasure Island Clubhouse"
         },
@@ -2969,7 +2969,7 @@
                 "city": "San Francisco",
                 "state": "CA",
                 "street": "195 Kiska Road",
-                "zipcode": "94105"
+                "zip": "94105"
             },
             "name": "Willie Mays Boys & Girls Club at Hunters Point"
         }
@@ -3017,7 +3017,7 @@
                 "city": "San Francisco",
                 "state": "CA",
                 "street": "55 New Montgomery, Suite 323",
-                "zipcode": "94105"
+                "zip": "94105"
             },
             "emails": [
                 "info@bcaction.org"
@@ -3069,7 +3069,7 @@
                 "city": "San Francisco",
                 "state": "CA",
                 "street": "785 Market Street",
-                "zipcode": "94103"
+                "zip": "94103"
             },
             "description": "Bridges from School to Work assists high school seniors in the San Francisco Unified School District to obtain part time employment for pay. To qualify, youth must be 16-24 years old, and enrolled in a San Francisco high school special education program. Women-specific services include a mentorship program."
         }
@@ -3111,7 +3111,7 @@
                 "city": "San Francisco",
                 "state": "CA",
                 "street": "1235 Mission Street",
-                "zipcode": "94103"
+                "zip": "94103"
             },
             "emails": [
                 "piar@dss.ca.gov"
@@ -3158,7 +3158,7 @@
                 "city": "San Francisco",
                 "state": "CA",
                 "street": "111 New Montgomery Street, 7th Floor",
-                "zipcode": "94105"
+                "zip": "94105"
             },
             "emails": [
                 "info@rrnetwork.org"
@@ -3205,7 +3205,7 @@
                 "city": "San Francisco",
                 "state": "CA",
                 "street": "1540 Market Street, Suite 490",
-                "zipcode": "94102"
+                "zip": "94102"
             },
             "emails": [
                 "info@womenprisoners.org"
@@ -3252,7 +3252,7 @@
                 "city": "San Francisco",
                 "state": "CA",
                 "street": "801 Turk Street",
-                "zipcode": "94110"
+                "zip": "94110"
             },
             "description": "EDD Career Link offers employment services, including interview preparation, job-listings, resume workshops, career counseling, and information on how to receive and pay for training. Other EDD programs include Job Service, which provides a variety of employment related services such as referrals and placement. The Unemployment Insurance Office and State Disability Claims Office provides support services regarding filing insurance claims via telephone, including field visits."
         },
@@ -3287,7 +3287,7 @@
                 "city": "San Francisco",
                 "state": "CA",
                 "street": "601 Jackson Street",
-                "zipcode": "94133"
+                "zip": "94133"
             },
             "description": "EDD Career Link offers employment services, including interview preparation, job-listings, resume workshops, career counseling, and information on how to receive and pay for training. Other EDD programs include Job Service, which provides a variety of employment related services such as referrals and placement. The Unemployment Insurance Office and State Disability Claims Office provides support services regarding filing insurance claims via telephone, including field visits."
         },
@@ -3322,7 +3322,7 @@
                 "city": "San Francisco",
                 "state": "CA",
                 "street": "73 Leland Avenue",
-                "zipcode": "94134"
+                "zip": "94134"
             },
             "description": "EDD Career Link offers employment services, including interview preparation, job-listings, resume workshops, career counseling, and information on how to receive and pay for training. Other EDD programs include Job Service, which provides a variety of employment related services such as referrals and placement. The Unemployment Insurance Office and State Disability Claims Office provides support services regarding filing insurance claims via telephone, including field visits."
         },
@@ -3357,7 +3357,7 @@
                 "city": "San Francisco",
                 "state": "CA",
                 "street": "1500 Mission Street",
-                "zipcode": "94102"
+                "zip": "94102"
             },
             "description": "EDD Career Link offers employment services, including interview preparation, job-listings, resume workshops, career counseling, and information on how to receive and pay for training. Other EDD programs include Job Service, which provides a variety of employment related services such as referrals and placement. The Unemployment Insurance Office and State Disability Claims Office provides support services regarding filing insurance claims via telephone, including field visits."
         },
@@ -3392,7 +3392,7 @@
                 "city": "San Francisco",
                 "state": "CA",
                 "street": "3120 Mission Street",
-                "zipcode": "94110"
+                "zip": "94110"
             },
             "description": "EDD Career Link offers employment services, including interview preparation, job-listings, resume workshops, career counseling, and information on how to receive and pay for training. Other EDD programs include Job Service, which provides a variety of employment related services such as referrals and placement. The Unemployment Insurance Office and State Disability Claims Office provides support services regarding filing insurance claims via telephone, including field visits."
         },
@@ -3427,7 +3427,7 @@
                 "city": "San Francisco",
                 "state": "CA",
                 "street": "1449 Webster Avenue",
-                "zipcode": "94115"
+                "zip": "94115"
             },
             "description": "EDD Career Link offers employment services, including interview preparation, job-listings, resume workshops, career counseling, and information on how to receive and pay for training. Other EDD programs include Job Service, which provides a variety of employment related services such as referrals and placement. The Unemployment Insurance Office and State Disability Claims Office provides support services regarding filing insurance claims via telephone, including field visits."
         },
@@ -3462,7 +3462,7 @@
                 "city": "San Francisco",
                 "state": "CA",
                 "street": "1850 Mission Street",
-                "zipcode": "94103"
+                "zip": "94103"
             },
             "description": "EDD Career Link offers employment services, including interview preparation, job-listings, resume workshops, career counseling, and information on how to receive and pay for training. Other EDD programs include Job Service, which provides a variety of employment related services such as referrals and placement. The Unemployment Insurance Office and State Disability Claims Office provides support services regarding filing insurance claims via telephone, including field visits."
         }
@@ -3500,7 +3500,7 @@
                 "city": "San Francisco",
                 "state": "CA",
                 "street": "604 Mission Street, 9th Floor",
-                "zipcode": "94105"
+                "zip": "94105"
             },
             "emails": [
                 "info@calyouthconn.org"
@@ -3561,7 +3561,7 @@
                 "city": "San Francisco",
                 "state": "CA",
                 "street": "180 Howard Street, Suite 100",
-                "zipcode": "94105"
+                "zip": "94105"
             },
             "emails": [
                 "moreinfo@cccyo.org"
@@ -3608,7 +3608,7 @@
                 "city": "San Francisco",
                 "state": "CA",
                 "street": "200 McAllister Street",
-                "zipcode": "94102"
+                "zip": "94102"
             },
             "emails": [
                 "cgrs@uchastings.edu"
@@ -3658,7 +3658,7 @@
                 "city": "San Francisco",
                 "state": "CA",
                 "street": "835 Market Street, Suite 517",
-                "zipcode": "94103"
+                "zip": "94103"
             },
             "emails": [
                 "cregs@sfsu.edu"
@@ -3699,7 +3699,7 @@
                 "city": "San Francisco",
                 "state": "CA",
                 "street": "832 Folsom Street, Suite 700",
-                "zipcode": "94107"
+                "zip": "94107"
             },
             "emails": [
                 "marlene@cywd.org"
@@ -3748,7 +3748,7 @@
                 "city": "San Francisco",
                 "state": "CA",
                 "street": "440 9th Street",
-                "zipcode": "94103"
+                "zip": "94103"
             },
             "description": "The Detention Diversion Advocacy Project (DDAP) provides intensive case management services and court ordered supervision to high-risk youth within the criminal justice system. A minimum of three face-to- face home visits per week are made with each youth and their families. Referrals are made to appropriate services for anger management, violence prevention, counseling and employment training programs, court advocacy, and 24/7 crisis intervention."
         }
@@ -3791,7 +3791,7 @@
                 "city": "San Francisco",
                 "state": "CA",
                 "street": "3101 Mission Street",
-                "zipcode": "94110"
+                "zip": "94110"
             },
             "emails": [
                 "info@carecensf.org"
@@ -3843,7 +3843,7 @@
                 "city": "San Francisco",
                 "state": "CA",
                 "street": "290 Turk Street",
-                "zipcode": "94102"
+                "zip": "94102"
             },
             "emails": [
                 "info@hospitalityhouse.org"
@@ -3892,7 +3892,7 @@
                 "city": "San Francisco",
                 "state": "CA",
                 "street": "90 Van Ness Avenue",
-                "zipcode": "94102"
+                "zip": "94102"
             },
             "description": "The Central City Older Adult Clinic provides mental health services to clients residing in the Civic Center, South of Market, and Tenderloin areas of the city. The clinic also serves a large homeless population. Services include medication management, crisis intervention, dual diagnosis treatment, group therapy, case management and consultation services."
         }
@@ -3934,7 +3934,7 @@
                 "city": "San Francisco",
                 "state": "CA",
                 "street": "1656 15th Street",
-                "zipcode": "94103"
+                "zip": "94103"
             },
             "emails": [
                 "bgclsf@hotmail.com"
@@ -3982,7 +3982,7 @@
                 "city": "San Francisco",
                 "state": "CA",
                 "street": "995 Potrero Avenue, Bldg. 80, Room 239",
-                "zipcode": "94110"
+                "zip": "94110"
             },
             "description": "CASARC serves children and adolescents who have been sexually or physically abused, or who have witnessed severe violence. Forensic medical and crisis management services are available 24/7. CASARC provides trauma-focused psychotherapy for individuals, groups and families. CASARC also provides educational trainings for community providers, including teachers, students, health care providers, and mental health professionals. CASARC also offers forensic interviews, including multidisciplinary interviews (MDI) and screening interviews; forensic medical exams/evidence collection for sexual abuse or assault; mental health services and psychiatry services, including medication; crisis intervention and critical incident debriefing; consultation; fact and expert testimony; community outreach and education; and professional collaborations, including program development and evaluation."
         }
@@ -4028,7 +4028,7 @@
                 "city": "San Francisco",
                 "state": "CA",
                 "street": "445 Church Street",
-                "zipcode": "94114"
+                "zip": "94114"
             },
             "emails": [
                 "info@childcarelaw.org"
@@ -4082,7 +4082,7 @@
                 "city": "San Francisco",
                 "state": "CA",
                 "street": "445 Church Street",
-                "zipcode": "94124"
+                "zip": "94124"
             },
             "emails": [
                 "rr@childrenscouncil.org"
@@ -4127,7 +4127,7 @@
                 "city": "San Francisco",
                 "state": "CA",
                 "street": "1319 Evans Ave., 2nd Floor",
-                "zipcode": "94114"
+                "zip": "94114"
             },
             "emails": [
                 "rr@childrenscouncil.org"
@@ -4174,7 +4174,7 @@
                 "city": "San Francisco",
                 "state": "CA",
                 "street": "1305 Evans Avenue",
-                "zipcode": "94124"
+                "zip": "94124"
             },
             "description": "Children's System of Care (CSOC) provides intensive care management services to children, youth and families involved in multiple service systems (mental health, juvenile justice, child welfare and special education) who are at-risk for out of home placement. CSOC care managers apply the System of Care principals (family driven and youth-guided care) to engage caregivers and parents as partners in service planning and delivery. CSOC care managers collaborate with system partners and community agencies to access and coordinate services. The goals of the agency are to keep children and youth at home, in school, and out of trouble."
         }
@@ -4215,7 +4215,7 @@
                 "city": "San Francisco",
                 "state": "CA",
                 "street": "720 Sacramento Street",
-                "zipcode": "94108"
+                "zip": "94108"
             },
             "description": "The Chinatown Child Development Center (CCDC) is a mental health clinic for children and is under the umbrella of the SF Department of Public Health, Community Behavioral Health Services, Children, Youth and Family section. CCDC provides mental health services to children from birth to 18 years of age and their families within the Chinatown community. Mental health services include individual and group psychotherapy, psychological and medication evaluations, treatment groups for preschool-age and elementary-age children, mental health education and an infant development program. Parenting services include workshops, parent support groups and an early intervention program for parents and children. The Center also provides consultation services to community agencies regarding children's mental health and parenting issues."
         }
@@ -4264,7 +4264,7 @@
                 "city": "San Francisco",
                 "state": "CA",
                 "street": "1525 Grant Avenue",
-                "zipcode": "94133"
+                "zip": "94133"
             },
             "emails": [
                 "info@chinatowncdc.org"
@@ -4307,7 +4307,7 @@
                 "city": "San Francisco",
                 "state": "CA",
                 "street": "663 Clay St.",
-                "zipcode": "94108"
+                "zip": "94108"
             },
             "emails": [
                 "info@chinatowncdc.org"
@@ -4349,7 +4349,7 @@
                 "city": "San Francisco",
                 "state": "CA",
                 "street": "729 Filbert Street",
-                "zipcode": "94133"
+                "zip": "94133"
             },
             "description": "Chinatown North Beach Mental Health Services offers a variety of mental health services, including psychiatric evaluation, individual therapy and counseling, family intervention, crisis intervention, urgent care, acupuncture treatment for psychiatric disorders, group activities and therapy, case management, consultation, education and information activities, medication, and adult/geriatric socialization. Referrals to other city-funded programs are provided if the treament is not provided on-site. Services are also provided at Galileo High School."
         }
@@ -4392,7 +4392,7 @@
                 "city": "San Francisco",
                 "state": "CA",
                 "street": "17 Walter U. Lum Place",
-                "zipcode": "94108"
+                "zip": "94108"
             },
             "emails": [
                 "info@caasf.org"
@@ -4440,7 +4440,7 @@
                 "city": "San Francisco",
                 "state": "CA",
                 "street": "777 Stockton Street, No. 104",
-                "zipcode": "94108"
+                "zip": "94108"
             },
             "emails": [
                 "cnsc@chinesenewcomers.org"
@@ -4493,7 +4493,7 @@
                 "city": "San Francisco",
                 "state": "CA",
                 "street": "50 Phelan Avenue",
-                "zipcode": "94112"
+                "zip": "94112"
             },
             "emails": [
                 "register@ccsf.edu"
@@ -4533,7 +4533,7 @@
                 "city": "San Francisco",
                 "state": "CA",
                 "street": "164 6th Street",
-                "zipcode": "94103"
+                "zip": "94103"
             },
             "emails": [
                 "sanfrancisco@cityteam.org"
@@ -4575,7 +4575,7 @@
                 "city": "San Francisco",
                 "state": "CA",
                 "street": "4877 Mission Street",
-                "zipcode": "94112"
+                "zip": "94112"
             },
             "emails": [
                 "info@clinicbythebay.org"
@@ -4624,7 +4624,7 @@
                 "city": "San Francisco",
                 "state": "CA",
                 "street": "459 Vienna Street",
-                "zipcode": "94112"
+                "zip": "94112"
             },
             "emails": [
                 "info@colemanadvocates.org"
@@ -4672,7 +4672,7 @@
                 "city": "San Francisco",
                 "state": "CA",
                 "street": "1171 Mission Street, 2nd Floor",
-                "zipcode": "94103"
+                "zip": "94103"
             },
             "emails": [
                 "admin@catsinc.org"
@@ -4727,7 +4727,7 @@
                 "city": "San Francisco",
                 "state": "CA",
                 "street": "1380 Howard Street, 1st Floor",
-                "zipcode": "94103"
+                "zip": "94103"
             },
             "description": "Through the Treatment Access Program (TAP) and Mental Health Access (Access), BHAC provides evaluations, referrals, and brief treatment services to San Francisco residents seeking mental health and/or substance abuse treatment services. BHAC provides a centralized, integrated and welcoming venue for accessing services. Consumers of these services, known as system navigators, provide information and help patients get to where they need to go."
         }
@@ -4778,7 +4778,7 @@
                 "city": "San Francisco",
                 "state": "CA",
                 "street": "982 Mission Street",
-                "zipcode": "94103"
+                "zip": "94103"
             },
             "description": "Community Focus is an intensive and assertive case management program, with an emphasis on psychosocial rehabilitation, that serves as the single point of responsibility for clients, their families, support systems, and service providers. Community Focus consists of teams that focus on distinct groups. Adelante focuses on Asian/Pacific Islanders and Latino clients, offering culturally and linguistically competent services. The Kujichagulia Project, the longest established Community Focus team, provides services specific to African-American patients. Clients may participate in recreational and artistic activities and attend spiritual support groups. There is an emphasis on supportive and independent housing. Some clients may earn stipends through the program in job training positions. Community Focus has a wide range of clinicians including psychiatrists, social workers, psychiatry residents, nurses, psychiatric technicians, peer counselors, and administrators."
         }
@@ -4821,7 +4821,7 @@
                 "city": "San Francisco",
                 "state": "CA",
                 "street": "280 Turk Street",
-                "zipcode": "94102"
+                "zip": "94102"
             },
             "description": "Community Housing Partnership (CHP) provides permanent, affordable (subsidized) SRO and small family units to eligible applicants, as well as on-site support services that include: mental health and substance abuse counseling; employment and economic development opportunities for tenants, homeless people and staff; consultations, technical assistance, and advocacy for the development of supportive subsidized housing for very low-income and homeless persons. CHP offers various women-specific support groups and professional development opportunities."
         }
@@ -4863,7 +4863,7 @@
                 "city": "San Francisco",
                 "state": "CA",
                 "street": "555 Polk Street",
-                "zipcode": "94102"
+                "zip": "94102"
             },
             "description": "The Violence Intervention Program (VIP), formerly known as the Center for Special Problems, is a Department of Public Health program offered at the Community Justice Center. VIP offers adult outpatient mental health services to San Francisco residents coping with mental health issues related to violent impulses, trauma, gender identity or HIV/AIDS. Case coordination and direct treatment services are available for violent offenders, victims of trauma, gender dysphonic individuals, sex offenders, and those living with HIV/AIDS. Services include individual and group psychotherapy, peer support services, psychotropic medication and monitoring, and clinical case management."
         }
@@ -4912,7 +4912,7 @@
                 "city": "San Francisco",
                 "state": "CA",
                 "street": "427 South Van Ness Avenue",
-                "zipcode": "94103"
+                "zip": "94103"
             },
             "emails": [
                 "info@cuav.org"
@@ -4965,7 +4965,7 @@
                 "city": "San Francisco",
                 "state": "CA",
                 "street": "818 Mission Street",
-                "zipcode": "94103"
+                "zip": "94103"
             },
             "description": "CVE provides opportunities, training, and support to individuals with mental health disabilities, empowering then to fulfill their employment potential. The program offers assessment, skills training, work experience, social support, job development, and placement and retention services. The Transitional Business Programs provides on- the-job skills, on-site feedback, and employer references in their choice of janitorial, clerical or cafe\u0301 businesses. Other programs include Youth Employment Services, serving 16 to 24 year olds, and Bilingual Employment Services and Training (BEST) for Spanish-speaking clients."
         }
@@ -5015,7 +5015,7 @@
                 "city": "San Francisco",
                 "state": "CA",
                 "street": "1038 Post Street",
-                "zipcode": "94109"
+                "zip": "94109"
             },
             "emails": [
                 "cyc@cycsf.org"
@@ -5070,7 +5070,7 @@
                 "city": "San Francisco",
                 "state": "CA",
                 "street": "49 Powell, 3rd Floor",
-                "zipcode": "94103"
+                "zip": "94103"
             },
             "description": "Compass Community Services offers programs for homeless and at- risk families, including Connecting Point - A citywide access center for all families seeking shelter in San Francisco; Compass Family Center - A homeless shelter for families with private rooms and baths, plus prevention and aftercare services; Clara House - A two-year transitional housing program with individual family apartments and intensive support services and on-site childcare; Tenderloin Childcare Center (TLC) - Compass\u2019s model child development and education center for children from homeless and very low-income families; and The Positive Parenthood Project."
         }
@@ -5117,7 +5117,7 @@
                 "city": "San Francisco",
                 "state": "CA",
                 "street": "3801 3rd Street, Suite 400",
-                "zipcode": "94124"
+                "zip": "94124"
             },
             "description": "Comprehensive Child Crisis Services (CCCS) is a 24/7 multilingual crisis intervention service for San Francisco children and their families. They offer child abuse counseling, clinical psychiatric evaluation, in- person crisis intervention, and telephone crisis intervention. CCCS provides services to children experiencing problems such as acute depression, suicidal ideation, homicidal ideation, psychosis, family violence, truancy and school behavioral problems. Immediate crisis evaluations and crisis stabilization services are offered both in the office and the community. Upon arrival the CCCS team conducts a crisis evaluation to determine if the child needs to be involuntarily hospitalized at a psychiatric facility, or if the child is safe to receive treatment on an outpatient basis. CCCS provides crisis stabilization services for up to two months."
         }
@@ -5172,7 +5172,7 @@
                 "city": "San Francisco",
                 "state": "CA",
                 "street": "1385 Mission Street, Suite 200",
-                "zipcode": "94103"
+                "zip": "94103"
             },
             "emails": [
                 "admin@conard.org"
@@ -5205,7 +5205,7 @@
                 "city": "Sacramento",
                 "state": "CA",
                 "street": "1230 N Street, Suite 201",
-                "zipcode": "95814"
+                "zip": "95814"
             },
             "description": "The Congress of California Seniors focuses on legislative and consumer issues that impact older adults. The CCS education and advocacy program has proved to be an effective tool in influencing public policy decisions made by the state legislature and other state officials. CCS analyzes and rates all state legislators on their voting record related to key senior issues and publishes the \"Friends and Foes of Seniors Legislative Report Card.\""
         }
@@ -5255,7 +5255,7 @@
                 "city": "San Francisco",
                 "state": "CA",
                 "street": "3543 18th Street, No. 5",
-                "zipcode": "94110"
+                "zip": "94110"
             },
             "description": "The Cooperative Restraining Order Clinic (CROC) is a collaborative city-wide project helping domestic violence survivors in San Francisco obtain restraining orders against their abusers. They also assist child support and custody issues, and stay-away orders. The services are free and confidential."
         }
@@ -5305,7 +5305,7 @@
                 "city": "San Francisco",
                 "state": "CA",
                 "street": "P.O. Box 15366",
-                "zipcode": "94115"
+                "zip": "94115"
             },
             "emails": [
                 "info@crossculturalsf.org"
