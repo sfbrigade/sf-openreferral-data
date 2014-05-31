@@ -903,7 +903,7 @@
                         "number": "415 788-6426"
                     },
                     {
-                        "number": "1-888-968-7888",
+                        "number": "888 968-7888",
                         "department": "24/7 Gambling Helpline"
                     }
                 ],
@@ -1996,7 +1996,7 @@
                 ],
                 "phones_attributes": [
                     {
-                        "number": "415 252-4600,"
+                        "number": "415 252-4600"
                     },
                     {
                         "department": "24/7 Informational and Counseling Line",
@@ -4647,7 +4647,7 @@
                 "phones_attributes": [
                     {
                         "type": "Toll Free",
-                        "number": "1 877 797-7299"
+                        "number": "877 797-7299"
                     }
                 ],
                 "short_desc": "Senior Center Without Wall is a free telephone program connecting California elders through activities, friendship, and community.",
