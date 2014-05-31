@@ -423,7 +423,7 @@
                 "faxes_attributes": [
                     {
                         "number": "415 861-8969"
-                    },
+                    }
                 ],
                 "name": "Mujeres Unidas y Activas",
                 "contacts_attributes": [
