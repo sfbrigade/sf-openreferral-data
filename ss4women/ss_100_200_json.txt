@@ -3226,9 +3226,6 @@
         "languages": [
           "English"
         ],
-        "urls": [
-          ""
-        ],
         "faxes_attributes": [
           {
             "number": "415 587-4601"
@@ -3829,75 +3826,6 @@
         "transportation": "",
         "description": "Jewish Family and Children's Services (JFCS) offers a wide variety of services to adults and families, children, teens, seniors, and recent immigrants. JFCS offers specialized services to people with specific needs, such as people with disabilities, individuals with HIV/AIDS, individuals with substance abuse problems, and lesbian, gay, bisexual, and transgender people. Other services include employment assistance, case management, community outreach and education, and support groups and counseling. Women-specific services include domestic violence services and Dream House, a transitional housing and intensive support program for homeless women, including single mothers and lesbians. Services also include case management and immigration and legal assistance for victims of human trafficking.",
         "address_attributes": {
-          "city": "",
-          "state": "",
-          "street": "The Miriam Schultz Professional Building",
-          "zip": ""
-        },
-        "services_attributes": [
-          {
-            "funding_sources": [],
-            "keywords": [],
-            "audience": "",
-            "how_to_apply": "",
-            "fees": "None",
-            "eligibility": "All ages",
-            "service_areas": [],
-            "wait": ""
-          }
-        ],
-        "mail_address_attributes": {
-          "city": "",
-          "state": "",
-          "attention": "",
-          "street": "The Miriam Schultz Professional Building",
-          "zip": ""
-        },
-        "accessibility": [],
-        "hours": "Monday ­ Friday, 8:30am - 8:00pm",
-        "emails": [
-          [
-            "admin@jfcs.org"
-          ]
-        ],
-        "contacts_attributes": [
-          {
-            "name": "Dr. Anita Friedman",
-            "title": "Executive Director"
-          }
-        ],
-        "name": "Jewish Family and Children's Services of San Francisco, the Peninsula, Marin, and Sonoma",
-        "languages": [
-          "English",
-          "French",
-          "Hebrew",
-          "Polish",
-          "Russian"
-        ],
-        "urls": [
-          "http://www.jfcs.org"
-        ],
-        "faxes_attributes": [
-          {
-            "number": "415 449-3839"
-          }
-        ],
-        "short_description": "Jewish Family and Children's Services (JFCS) offers a wide variety of services to adults and families, children, teens, seniors, and recent immigrants."
-      }
-    ]
-  },
-  {
-    "name": "Jewish Family and Children's Services of San Francisco, the Peninsula, Marin, and Sonoma",
-    "locations": [
-      {
-        "phones_attributes": [
-          {
-            "number": "415 449-1200"
-          }
-        ],
-        "transportation": "",
-        "description": "Jewish Family and Children's Services (JFCS) offers a wide variety of services to adults and families, children, teens, seniors, and recent immigrants. JFCS offers specialized services to people with specific needs, such as people with disabilities, individuals with HIV/AIDS, individuals with substance abuse problems, and lesbian, gay, bisexual, and transgender people. Other services include employment assistance, case management, community outreach and education, and support groups and counseling. Women-specific services include domestic violence services and Dream House, a transitional housing and intensive support program for homeless women, including single mothers and lesbians. Services also include case management and immigration and legal assistance for victims of human trafficking.",
-        "address_attributes": {
           "city": "San Francisco",
           "state": "CA",
           "street": "2150 Post Street",
@@ -3935,7 +3863,7 @@
             "title": "Executive Director"
           }
         ],
-        "name": "Jewish Family and Children's Services of San Francisco, the Peninsula, Marin, and Sonoma",
+        "name": "The Miriam Schultz Professional Building",
         "languages": [
           "English",
           "French",
@@ -4718,10 +4646,10 @@
           }
         ],
         "mail_address_attributes": {
-          "city": "",
+          "city": "Sacramento",
           "state": "CA",
           "attention": "League of United Latin American Citizens (LULAC)",
-          "street": "1225 8 Street, Suite 550, Sacramento",
+          "street": "1225 8 Street, Suite 550",
           "zip": "95814"
         },
         "accessibility": [],
@@ -5565,71 +5493,6 @@
         "transportation": "",
         "description": "The McAuley Institute at St. Mary's Medical Center provides comprehensive mental health treatment to adolescents and their families. The institute offers two programs: The Adolescent Day Treatment Program - An intensive, comprehensive day treatment program providing psychological and educational services to San Francisco youth. Admissions are by appointment only, please call 415 750-4909. The Adolescent Inpatient Program - A brief, intensive psychiatric inpatient hospitalization for adolescents suffering from severe emotional crisis. Admissions are available 24-hours a day through a referral service, please call 415 750-5649.",
         "address_attributes": {
-          "city": "",
-          "state": "",
-          "street": "St. Mary Medical Hospital",
-          "zip": ""
-        },
-        "services_attributes": [
-          {
-            "funding_sources": [],
-            "keywords": [],
-            "audience": "",
-            "how_to_apply": "",
-            "fees": "Call for information",
-            "eligibility": "12 ­- 18 years old",
-            "service_areas": [],
-            "wait": ""
-          }
-        ],
-        "mail_address_attributes": {
-          "city": "",
-          "state": "",
-          "attention": "McAuley Institute",
-          "street": "St. Mary Medical Hospital",
-          "zip": ""
-        },
-        "accessibility": [],
-        "hours": "Monday - Friday, 8:30am - 5:00pm",
-        "emails": [
-          [
-            "margaret.o'brien@dignityhealth.org"
-          ]
-        ],
-        "contacts_attributes": [
-          {
-            "name": "Peggy O'Brien",
-            "title": "Executive Director"
-          }
-        ],
-        "name": "McAuley Institute",
-        "languages": [
-          "English"
-        ],
-        "urls": [
-          "http://www.stmarysmedicalcenter.org/Medical_Services/198742"
-        ],
-        "faxes_attributes": [
-          {
-            "number": "415 750-4912"
-          }
-        ],
-        "short_description": "The McAuley Institute at St. Mary's Medical Center provides comprehensive mental health treatment to adolescents and their families."
-      }
-    ]
-  },
-  {
-    "name": "McAuley Institute",
-    "locations": [
-      {
-        "phones_attributes": [
-          {
-            "number": "415 750-5580"
-          }
-        ],
-        "transportation": "",
-        "description": "The McAuley Institute at St. Mary's Medical Center provides comprehensive mental health treatment to adolescents and their families. The institute offers two programs: The Adolescent Day Treatment Program - An intensive, comprehensive day treatment program providing psychological and educational services to San Francisco youth. Admissions are by appointment only, please call 415 750-4909. The Adolescent Inpatient Program - A brief, intensive psychiatric inpatient hospitalization for adolescents suffering from severe emotional crisis. Admissions are available 24-hours a day through a referral service, please call 415 750-5649.",
-        "address_attributes": {
           "city": "San Francisco",
           "state": "CA",
           "street": "2200 Hayes Street",
@@ -5667,7 +5530,7 @@
             "title": "Executive Director"
           }
         ],
-        "name": "McAuley Institute",
+        "name": "St. Mary Medical Hospital",
         "languages": [
           "English"
         ],
