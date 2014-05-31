@@ -5,7 +5,7 @@
       {
         "phones_attributes": [
           {
-            "number": "(415) 292-1850"
+            "number": "415 292-1850"
           }
         ], 
         "transportation": "", 
@@ -53,11 +53,11 @@
           "English"
         ], 
         "urls": [
-          "www.culturalodyssey.org/medea"
+          "http://www.culturalodyssey.org/medea"
         ], 
         "faxes_attributes": [
           {
-            "number": "(415) 346-9163"
+            "number": "415 346-9163"
           }
         ], 
         "short_description": "The Medea Project, a production of Cultural Odyssey, is a residency project theater offering public performances by incarcerated women and ex-inmates."
@@ -70,7 +70,7 @@
       {
         "phones_attributes": [
           {
-            "number": "(415) 885-2274"
+            "number": "415 885-2274"
           }
         ], 
         "transportation": "", 
@@ -108,12 +108,6 @@
             "abushnell@curryseniorcenter.org"
           ]
         ], 
-        "contacts_attributes": [
-          {
-            "name": "", 
-            "title": ""
-          }
-        ], 
         "name": "Curry Senior Center (formerly North of Market Senior Services)", 
         "languages": [
           "Cambodian", 
@@ -127,11 +121,11 @@
           "Spanish"
         ], 
         "urls": [
-          "www.curryseniorcenter.org"
+          "http://www.curryseniorcenter.org"
         ], 
         "faxes_attributes": [
           {
-            "number": "(415) 885-2344"
+            "number": "415 885-2344"
           }
         ], 
         "short_description": "Curry Senior Center offers comprehensive, multilingual health and social services for elders."
@@ -185,7 +179,7 @@
         "contacts_attributes": [
           {
             "name": "Trina Licht", 
-            "title": "interim Executive Director"
+            "title": "Interim Executive Director"
           }
         ], 
         "name": "DeafHope", 
@@ -193,7 +187,7 @@
           "American Sign Language"
         ], 
         "urls": [
-          "www.deaf-hope.org"
+          "http://www.deaf-hope.org"
         ], 
         "faxes_attributes": [
           {
@@ -210,7 +204,7 @@
       {
         "phones_attributes": [
           {
-            "number": "(415) 512-5104"
+            "number": "415 512-5104"
           }
         ], 
         "transportation": "", 
@@ -247,17 +241,16 @@
             ""
           ]
         ], 
-        "contacts_attributes": [], 
         "name": "Delancey Street Foundation, Inc.", 
         "languages": [
           "English"
         ], 
         "urls": [
-          "www.delanceystreetfoundation.org"
+          "http://www.delanceystreetfoundation.org"
         ], 
         "faxes_attributes": [
           {
-            "number": "(415) 512-5141"
+            "number": "415 512-5141"
           }
         ], 
         "short_description": "Delancey Street is a residential self-help organization for former substance abusers, ex-convicts, homeless and others."
@@ -270,7 +263,7 @@
       {
         "phones_attributes": [
           {
-            "number": "(415) 355-3555"
+            "number": "415 355-3555"
           }
         ], 
         "transportation": "", 
@@ -324,11 +317,11 @@
           "Vietnamese"
         ], 
         "urls": [
-          "www.sfhsa.org/DAAS.htm"
+          "http://www.sfhsa.org/DAAS.htm"
         ], 
         "faxes_attributes": [
           {
-            "number": "(415) 355-6785"
+            "number": "415 355-6785"
           }
         ], 
         "short_description": "The Department of Aging and Adult Services (DAAS) is the Area Agency on Aging for the City and County of San Francisco."
@@ -341,7 +334,7 @@
       {
         "phones_attributes": [
           {
-            "number": "(415) 554-8990"
+            "number": "415 554-8990"
           }
         ], 
         "transportation": "", 
@@ -392,11 +385,11 @@
           "Other"
         ], 
         "urls": [
-          "www.dcyf.org"
+          "http://www.dcyf.org"
         ], 
         "faxes_attributes": [
           {
-            "number": "(415) 554-8965"
+            "number": "415 554-8965"
           }
         ], 
         "short_description": "The San Francisco Department of Children, Youth & their Families (DCYF) creates and facilitates innovative citywide policies and projects in support of children, youth and families."
@@ -409,7 +402,7 @@
       {
         "phones_attributes": [
           {
-            "number": "(415) 557-5000"
+            "number": "415 557-5000"
           }
         ], 
         "transportation": "", 
@@ -446,12 +439,6 @@
             ""
           ]
         ], 
-        "contacts_attributes": [
-          {
-            "name": "", 
-            "title": ""
-          }
-        ], 
         "name": "Department of Human Services", 
         "languages": [
           "Spanish", 
@@ -463,7 +450,7 @@
         ], 
         "faxes_attributes": [
           {
-            "number": "(415) 557-5214"
+            "number": "415 557-5214"
           }
         ], 
         "short_description": "The Department of Human Services (Human Services Agency) serves almost 100,000 San Franciscans each year."
@@ -476,7 +463,7 @@
       {
         "phones_attributes": [
           {
-            "number": "(415) 554-2500"
+            "number": "415 554-2500"
           }
         ], 
         "transportation": "", 
@@ -510,8 +497,6 @@
         "hours": "Varied", 
         "emails": [
         ], 
-        "contacts_attributes": [
-        ], 
         "name": "Department of Public Health", 
         "languages": [
           "Cantonese", 
@@ -521,7 +506,7 @@
           "Vietnamese"
         ], 
         "urls": [
-          "www.sfdph.org"
+          "http://www.sfdph.org"
         ], 
         "faxes_attributes": [
           {
@@ -538,7 +523,7 @@
       {
         "phones_attributes": [
           {
-            "number": "(415) 956-5757"
+            "number": "415 956-5757"
           }
         ], 
         "transportation": "", 
@@ -594,7 +579,7 @@
         "urls": [], 
         "faxes_attributes": [
           {
-            "number": "(415) 749-3205"
+            "number": "415 749-3205"
           }
         ], 
         "short_description": "Divorce Center of San Francesco offers low cost legal and paralegal services for family law and domestic violence cases."
@@ -607,7 +592,7 @@
       {
         "phones_attributes": [
           {
-            "number": "(415) 781-0401"
+            "number": "415 781-0401"
           }
         ], 
         "transportation": "", 
@@ -659,11 +644,11 @@
           "Vietnamese"
         ], 
         "urls": [
-          "www.cameronhouse.org"
+          "http://www.cameronhouse.org"
         ], 
         "faxes_attributes": [
           {
-            "number": "(415) 781-0605"
+            "number": "415 781-0605"
           }
         ], 
         "short_description": "Donaldina Cameron House is a Chinatown-based multi-service agency serving Asian communities in the San Francisco Bay Area."
@@ -676,7 +661,7 @@
       {
         "phones_attributes": [
           {
-            "number": "(415) 681-3211"
+            "number": "415 681-3211"
           }
         ], 
         "transportation": "", 
@@ -715,8 +700,8 @@
         ], 
         "contacts_attributes": [
           {
-            "name": "Matt Madaus, CEO", 
-            "title": ""
+            "name": "Matt Madaus", 
+            "title": "CEO"
           }
         ], 
         "name": "Edgewood Center for Children and Families", 
@@ -725,11 +710,11 @@
           "Spanish"
         ], 
         "urls": [
-          "www.edgewoodcenter.org"
+          "http://www.edgewoodcenter.org"
         ], 
         "faxes_attributes": [
           {
-            "number": "(415) 664-7094"
+            "number": "415 664-7094"
           }
         ], 
         "short_description": "Edgewood Center for Children and Families (Edgewood) helps children and families take back their future by working with them to overcome severe challenges such as abuse, neglect, mental illness, and family crisis."
@@ -742,7 +727,7 @@
       {
         "phones_attributes": [
           {
-            "number": "(415) 567-0400"
+            "number": "415 567-0400"
           }
         ], 
         "transportation": "", 
@@ -781,8 +766,8 @@
         ], 
         "contacts_attributes": [
           {
-            "name": "Sheryl Davis, Executive Director", 
-            "title": ""
+            "name": "Sheryl Davis", 
+            "title": "Executive Director"
           }
         ], 
         "name": "Ella Hill Hutch Community Center", 
@@ -794,7 +779,7 @@
         ], 
         "faxes_attributes": [
           {
-            "number": "(415) 567-0450"
+            "number": "415 567-0450"
           }
         ], 
         "short_description": "The Ella Hill Hutch Community Center offers GED courses, computer technology training, mentoring and more for at-risk youth."
@@ -841,14 +826,8 @@
         "hours": "Monday ­- Friday, 9:00am - 6:00pm (Eastern Time)", 
         "emails": [
           [
-            "www.emilyslist.org"
+            "http://www.emilyslist.org"
           ]
-        ], 
-        "contacts_attributes": [
-          {
-            "name": "", 
-            "title": ""
-          }
         ], 
         "name": "EMILY's List", 
         "languages": [
@@ -872,7 +851,7 @@
       {
         "phones_attributes": [
           {
-            "number": "(415) 392-7600"
+            "number": "415 392-7600"
           }
         ], 
         "transportation": "", 
@@ -909,22 +888,16 @@
             "info@ehss.org"
           ]
         ], 
-        "contacts_attributes": [
-          {
-            "name": "", 
-            "title": ""
-          }
-        ], 
         "name": "Enterprise for High School Students", 
         "languages": [
           "English"
         ], 
         "urls": [
-          "www.ehss.org"
+          "http://www.ehss.org"
         ], 
         "faxes_attributes": [
           {
-            "number": "(415) 392-7611"
+            "number": "415 392-7611"
           }
         ], 
         "short_description": "Enterprise for High School Students (EHSS) empowers and prepares young people for success in employment and higher education."
@@ -937,11 +910,11 @@
       {
         "phones_attributes": [
           {
-            "number": "(415) 487-3700"
+            "number": "415 487-3700"
           }
         ], 
         "transportation": "", 
-        "description": "Episcopal Community Services (ECS) helps homeless and extremely low-income individuals obtain the housing, jobs, shelter, and essential services that each person needs to prevent and end homelessness. The Canon Kip Senior Center (705 Natoma St., S.F., CA 94103) provides a hot lunch and fellowship to low-income elders. The Center also offers exercise classes, support groups, nutrition workshops, and field trips. For more information please contact Lolita Kintanar, (415) 487-3780, ikintanat@ecs-sf.org. The Skills Center provides an individualized learning environment for students who are coping with the inter-related challenges of homelessness, illiteracy, learning disabilities, substance abuse, and mental health issues. For more information, please contact Phil Clark, (415) 487-3790. ECS operates shelters for homeless adults at The Sanctuary and Next Door, where they receive hot meals, showers, and laundry facilities. For more information, please contact Kathy Treggiari, (415) 487-3740. Supportive Housing is also offered by ECS. For more information, please contact Kevin Sharps, (415) 487- 3741, ksharps@ecs-sf.org.", 
+        "description": "Episcopal Community Services (ECS) helps homeless and extremely low-income individuals obtain the housing, jobs, shelter, and essential services that each person needs to prevent and end homelessness. The Canon Kip Senior Center (705 Natoma St., S.F., CA 94103) provides a hot lunch and fellowship to low-income elders. The Center also offers exercise classes, support groups, nutrition workshops, and field trips. For more information please contact Lolita Kintanar, 415 487-3780, ikintanat@ecs-sf.org. The Skills Center provides an individualized learning environment for students who are coping with the inter-related challenges of homelessness, illiteracy, learning disabilities, substance abuse, and mental health issues. For more information, please contact Phil Clark, 415 487-3790. ECS operates shelters for homeless adults at The Sanctuary and Next Door, where they receive hot meals, showers, and laundry facilities. For more information, please contact Kathy Treggiari, 415 487-3740. Supportive Housing is also offered by ECS. For more information, please contact Kevin Sharps, 415 487- 3741, ksharps@ecs-sf.org.", 
         "address_attributes": {
           "city": "San Francisco", 
           "state": "CA", 
@@ -974,12 +947,6 @@
             "See specific program"
           ]
         ], 
-        "contacts_attributes": [
-          {
-            "name": "", 
-            "title": ""
-          }
-        ], 
         "name": "Episcopal Community Services", 
         "languages": [
           "English", 
@@ -990,11 +957,11 @@
           "Mandarin"
         ], 
         "urls": [
-          "www.ecs-sf.org"
+          "http://www.ecs-sf.org"
         ], 
         "faxes_attributes": [
           {
-            "number": "(415) 487-3795"
+            "number": "415 487-3795"
           }
         ], 
         "short_description": "Episcopal Community Services (ECS) helps homeless and extremely low-income individuals obtain the housing, jobs, shelter, and essential services that each person needs to prevent and end homelessness."
@@ -1007,7 +974,7 @@
       {
         "phones_attributes": [
           {
-            "number": "(415) 621-0672"
+            "number": "415 621-0672"
           }
         ], 
         "transportation": "", 
@@ -1057,11 +1024,11 @@
           "Spanish"
         ], 
         "urls": [
-          "www.equalrights.org"
+          "http://www.equalrights.org"
         ], 
         "faxes_attributes": [
           {
-            "number": "(415) 621-6744"
+            "number": "415 621-6744"
           }
         ], 
         "short_description": "Equal Rights Advocates (ERA) aims to protect and secure equal rights and economic opportunities for women and girls through litigation and advocacy."
@@ -1074,7 +1041,7 @@
       {
         "phones_attributes": [
           {
-            "number": "(415) 947-0797"
+            "number": "415 947-0797"
           }
         ], 
         "transportation": "", 
@@ -1111,12 +1078,6 @@
             "admin@evictiondefense.org"
           ]
         ], 
-        "contacts_attributes": [
-          {
-            "name": "", 
-            "title": ""
-          }
-        ], 
         "name": "Eviction Defense Collaborative", 
         "languages": [
           "English", 
@@ -1124,11 +1085,11 @@
           "Mandarin"
         ], 
         "urls": [
-          "www.evictiondefense.org"
+          "http://www.evictiondefense.org"
         ], 
         "faxes_attributes": [
           {
-            "number": "(415) 947-0331"
+            "number": "415 947-0331"
           }
         ], 
         "short_description": "The Eviction Defense Collaborative is the principal organization in San Francisco helping low-income tenants respond to eviction lawsuits."
@@ -1141,7 +1102,7 @@
       {
         "phones_attributes": [
           {
-            "number": "(415) 206-5252"
+            "number": "415 206-5252"
           }
         ], 
         "transportation": "", 
@@ -1221,7 +1182,7 @@
       {
         "phones_attributes": [
           {
-            "number": "(415) 239-3109"
+            "number": "415 239-3109"
           }
         ], 
         "transportation": "", 
@@ -1270,11 +1231,11 @@
           "Spanish"
         ], 
         "urls": [
-          "www.ccsf.edu/Resources/Family_Resource_Center/"
+          "http://www.ccsf.edu/Resources/Family_Resource_Center/"
         ], 
         "faxes_attributes": [
           {
-            "number": "(415) 239-3739"
+            "number": "415 239-3739"
           }
         ], 
         "short_description": "The Family Resource Center, located at the City College of San Francisco in the upper level of the student union, posts information pertaining to local support services and resources for families who seek assistance, as a courtesy and service to students."
@@ -1287,7 +1248,7 @@
       {
         "phones_attributes": [
           {
-            "number": "(415) 474-7310"
+            "number": "415 474-7310"
           }
         ], 
         "transportation": "", 
@@ -1339,11 +1300,11 @@
           "Chinese"
         ], 
         "urls": [
-          "www.fsasf.org"
+          "http://www.fsasf.org"
         ], 
         "faxes_attributes": [
           {
-            "number": "(415) 931-3773"
+            "number": "415 931-3773"
           }
         ], 
         "short_description": "Children, Youth and Family Services offer counseling, family interventions, medical assessments, mental health services, developmental education for parents, a Japanese family service program, a teen peer support group, and teenage pregnancy and parenting support and resources."
@@ -1356,7 +1317,7 @@
       {
         "phones_attributes": [
           {
-            "number": "(415) 333-6267"
+            "number": "415 333-6267"
           }
         ], 
         "transportation": "", 
@@ -1409,11 +1370,11 @@
           "Bisaya"
         ], 
         "urls": [
-          "www.filipinocc.org"
+          "http://www.filipinocc.org"
         ], 
         "faxes_attributes": [
           {
-            "number": "(415) 333-6495"
+            "number": "415 333-6495"
           }
         ], 
         "short_description": "The FCC seeks to provide a safe space where Filipino families can access services, meet, and hold activities."
@@ -1426,11 +1387,11 @@
       {
         "phones_attributes": [
           {
-            "number": "(415) 581-2335"
+            "number": "415 581-2335"
           }
         ], 
         "transportation": "", 
-        "description": "The Human Services agency manages an innovative First Source Hiring program which serves employers and employment-seekers in San Francisco. City vendors and land developers must look first to program graduates when recruiting new employees. In addition, First Source Hiring funds a variety of training programs tailored to the needs of these employers, while providing job-seekers specialized training that directly leads to employment. All One Stop Career Link Center office hours are Monday ­ Friday, 9:00am ­ 5:00pm unless indicated otherwise. Chinatown: 601 Jackson St., SF, CA 94133, (415) 677-7500 SOMA: 1500 Mission St., SF, CA 94102, (415) 575-4570 Western Addition: 1449 Webster Ave., SF, CA 94115, (415) 655-2620 Visitacion Valley: 73 Leland Ave., SF, CA 94134, (415) 239-8705 Main: Civic Center: 801 Turk St., SF, CA 94102, (415) 749-7503 Mission Street : 3120 Mission St., SF, CA 94110, (415) 401-4800 Mission Neighborhood Workforce Center (Mon - Fri, 9am - 4:30 pm) 1850 Mission St. (Arriba Juntos), SF, CA 94103, (415) 487-3240", 
+        "description": "The Human Services agency manages an innovative First Source Hiring program which serves employers and employment-seekers in San Francisco. City vendors and land developers must look first to program graduates when recruiting new employees. In addition, First Source Hiring funds a variety of training programs tailored to the needs of these employers, while providing job-seekers specialized training that directly leads to employment. All One Stop Career Link Center office hours are Monday ­ Friday, 9:00am ­ 5:00pm unless indicated otherwise. Chinatown: 601 Jackson St., SF, CA 94133, 415 677-7500 SOMA: 1500 Mission St., SF, CA 94102, 415 575-4570 Western Addition: 1449 Webster Ave., SF, CA 94115, 415 655-2620 Visitacion Valley: 73 Leland Ave., SF, CA 94134, 415 239-8705 Main: Civic Center: 801 Turk St., SF, CA 94102, 415 749-7503 Mission Street : 3120 Mission St., SF, CA 94110, 415 401-4800 Mission Neighborhood Workforce Center (Mon - Fri, 9am - 4:30 pm) 1850 Mission St. (Arriba Juntos), SF, CA 94103, 415 487-3240", 
         "address_attributes": {
           "city": "San Francisco", 
           "state": "CA", 
@@ -1478,7 +1439,7 @@
         ], 
         "faxes_attributes": [
           {
-            "number": "(415) 581-2317"
+            "number": "415 581-2317"
           }
         ], 
         "short_description": "The Human Services agency manages an innovative First Source Hiring program which serves employers and employment-seekers in San Francisco."
@@ -1491,7 +1452,7 @@
       {
         "phones_attributes": [
           {
-            "number": "(415) 355-0210"
+            "number": "415 355-0210"
           }
         ], 
         "transportation": "", 
@@ -1545,7 +1506,7 @@
         ], 
         "faxes_attributes": [
           {
-            "number": "(415) 567-2476"
+            "number": "415 567-2476"
           }
         ], 
         "short_description": "The Florence Crittenton Services' Infant and Toddlers Child Development Program offers the Child Care Center (Buchanan site), and the Family Child Care Network."
@@ -1558,7 +1519,7 @@
       {
         "phones_attributes": [
           {
-            "number": "(650) 488-0835"
+            "number": "650 488-0835"
           }
         ], 
         "transportation": "", 
@@ -1594,13 +1555,7 @@
           [
             "info@freedom-house.us.com"
           ]
-        ], 
-        "contacts_attributes": [
-          {
-            "name": "", 
-            "title": ""
-          }
-        ], 
+        ],  
         "name": "Freedom House", 
         "languages": [
           "Arabic", 
@@ -1635,7 +1590,7 @@
       {
         "phones_attributes": [
           {
-            "number": "(415) 865-0964"
+            "number": "415 865-0964"
           }
         ], 
         "transportation": "", 
@@ -1674,8 +1629,8 @@
         ], 
         "contacts_attributes": [
           {
-            "name": "Helen Waukazoo, Executive Director", 
-            "title": ""
+            "name": "Helen Waukazoo", 
+            "title": "Executive Director"
           }
         ], 
         "name": "Friendship House Association of American Indians, Inc.", 
@@ -1683,11 +1638,11 @@
           "English"
         ], 
         "urls": [
-          "www.friendshiphousesf.org"
+          "http://www.friendshiphousesf.org"
         ], 
         "faxes_attributes": [
           {
-            "number": "(415) 865-5428"
+            "number": "415 865-5428"
           }
         ], 
         "short_description": "Friendship House Association of American Indians, Inc. provides 90- day residential substance abuse treatment and 90-day aftercare services to individuals with Native American values, cultures and spiritual focus."
@@ -1700,7 +1655,7 @@
       {
         "phones_attributes": [
           {
-            "number": "(415) 678-5500"
+            "number": "415 678-5500"
           }
         ], 
         "transportation": "", 
@@ -1739,8 +1694,8 @@
         ], 
         "contacts_attributes": [
           {
-            "name": "Esta Soler, President", 
-            "title": ""
+            "name": "Esta Soler", 
+            "title": "President"
           }
         ], 
         "name": "Futures Without Violence", 
@@ -1749,11 +1704,11 @@
           "Spanish"
         ], 
         "urls": [
-          "www.futureswithoutviolence.org"
+          "http://www.futureswithoutviolence.org"
         ], 
         "faxes_attributes": [
           {
-            "number": "(415) 529-2930"
+            "number": "415 529-2930"
           }
         ], 
         "short_description": "For more than two decades, the Family Violence Prevention Fund (FVPF) has worked to end violence against women and children around the world because everyone has the right to a life free of violence."
@@ -1766,7 +1721,7 @@
       {
         "phones_attributes": [
           {
-            "number": "(415) 928-8191"
+            "number": "415 928-8191"
           }
         ], 
         "transportation": "", 
@@ -1815,7 +1770,7 @@
         ], 
         "faxes_attributes": [
           {
-            "number": "(415) 928-1410"
+            "number": "415 928-1410"
           }
         ], 
         "short_description": "The General Assistance Advocacy Project (GAAP) provides education, empowerment and advocacy to those who need it most."
@@ -1862,12 +1817,6 @@
         "hours": "Monday - Wednesday, Friday, 9:00am - 5:00pm; Thursday by appointment only; 24/7 Voicemail", 
         "emails": [
         ], 
-        "contacts_attributes": [
-          {
-            "name": "", 
-            "title": ""
-          }
-        ], 
         "name": "Girl Scouts of the San Francisco Bay Area", 
         "languages": [
           "Chinese", 
@@ -1877,7 +1826,7 @@
           "Others available as well"
         ], 
         "urls": [
-          "www.girlscoutsnorcal.org"
+          "http://www.girlscoutsnorcal.org"
         ], 
         "faxes_attributes": [
           {
@@ -1894,7 +1843,7 @@
       {
         "phones_attributes": [
           {
-            "number": "(415) 864-0780"
+            "number": "415 864-0780"
           }
         ], 
         "transportation": "", 
@@ -1943,11 +1892,11 @@
           "Spanish"
         ], 
         "urls": [
-          "www.girlventures.org"
+          "http://www.girlventures.org"
         ], 
         "faxes_attributes": [
           {
-            "number": "(415) 864-3464"
+            "number": "415 864-3464"
           }
         ], 
         "short_description": "Girl Ventures empowers adolescent girls to develop and express their strengths by exploring self, community, culture and environment through outdoor adventure, creative arts and group experiences."
@@ -1960,7 +1909,7 @@
       {
         "phones_attributes": [
           {
-            "number": "(415) 824-3225"
+            "number": "415 824-3225"
           }
         ], 
         "transportation": "", 
@@ -2012,7 +1961,7 @@
         ], 
         "faxes_attributes": [
           {
-            "number": "(415) 824-3209"
+            "number": "415 824-3209"
           }
         ], 
         "short_description": "Girls 2000 offers case management, conflict resolution and mediation, violence prevention services, individual and group counseling, life skills and computer skills training, mental health services, STD screening, HIV/STD prevention, family planning, pregnancy-related services, substance abuse services, and crisis intervention."
@@ -2025,7 +1974,7 @@
       {
         "phones_attributes": [
           {
-            "number": "(415) 406-1920"
+            "number": "415 406-1920"
           }
         ], 
         "transportation": "", 
@@ -2073,11 +2022,11 @@
           "English"
         ], 
         "urls": [
-          "www.gasahouse.org"
+          "http://www.gasahouse.org"
         ], 
         "faxes_attributes": [
           {
-            "number": "(415) 406-1922"
+            "number": "415 406-1922"
           }
         ], 
         "short_description": "Girls After School Academy offers a comprehensive after school program, with an emphasis on African American girls."
@@ -2090,7 +2039,7 @@
       {
         "phones_attributes": [
           {
-            "number": "(415) 863-8942"
+            "number": "415 863-8942"
           }
         ], 
         "transportation": "", 
@@ -2129,8 +2078,8 @@
         ], 
         "contacts_attributes": [
           {
-            "name": "Johanna Thomas, Program and Development Manager", 
-            "title": ""
+            "name": "Johanna Thomas", 
+            "title": "Program and Development Manager"
           }
         ], 
         "name": "Girls on the Run of the Bay Area", 
@@ -2138,11 +2087,11 @@
           "English"
         ], 
         "urls": [
-          "www.gotrbayarea.org"
+          "http://www.gotrbayarea.org"
         ], 
         "faxes_attributes": [
           {
-            "number": "(415) 863-8989"
+            "number": "415 863-8989"
           }
         ], 
         "short_description": "The mission of Girls on the Run of the Bay Area is to educate and build confidence in young girls through non-competitive, curriculum- based running programs in San Francisco and other Bay Area cities."
@@ -2155,11 +2104,11 @@
       {
         "phones_attributes": [
           {
-            "number": "(415) 674-6000"
+            "number": "415 674-6000"
           }
         ], 
         "transportation": "", 
-        "description": "Glide's programs seek to meet basic human needs, providing prevention, intervention, and educational services in a culturally and economically diverse setting. Glide offers daily free meals, a crisis center, a Family/Youth Community Center for youth programs through age 24, HIV/AIDS testing and counseling, substance abuse recovery, a medical clinic, mental health counseling, and domestic violence services. The Glide Women's Resource Center helps homeless and under-housed women overcome issues of domestic violence, substance abuse, and mental health needs through advocacy, counseling, and peer support groups. Groups are available weekday mornings, followed by breakfast. Please call (415) 674-6023 for more information.", 
+        "description": "Glide's programs seek to meet basic human needs, providing prevention, intervention, and educational services in a culturally and economically diverse setting. Glide offers daily free meals, a crisis center, a Family/Youth Community Center for youth programs through age 24, HIV/AIDS testing and counseling, substance abuse recovery, a medical clinic, mental health counseling, and domestic violence services. The Glide Women's Resource Center helps homeless and under-housed women overcome issues of domestic violence, substance abuse, and mental health needs through advocacy, counseling, and peer support groups. Groups are available weekday mornings, followed by breakfast. Please call 415 674-6023 for more information.", 
         "address_attributes": {
           "city": "San Francisco", 
           "state": "CA", 
@@ -2192,12 +2141,6 @@
             "info@glide.org"
           ]
         ], 
-        "contacts_attributes": [
-          {
-            "name": "", 
-            "title": ""
-          }
-        ], 
         "name": "Glide", 
         "languages": [
           "Cantonese", 
@@ -2206,11 +2149,11 @@
           "Vietnamese"
         ], 
         "urls": [
-          "www.glide.org"
+          "http://www.glide.org"
         ], 
         "faxes_attributes": [
           {
-            "number": "(415) 921-6951"
+            "number": "415 921-6951"
           }
         ], 
         "short_description": "Glide's programs seek to meet basic human needs, providing prevention, intervention, and educational services in a culturally and economically diverse setting."
@@ -2223,7 +2166,7 @@
       {
         "phones_attributes": [
           {
-            "number": "(415) 546-9222"
+            "number": "415 546-9222"
           }
         ], 
         "transportation": "", 
@@ -2257,12 +2200,6 @@
         "hours": "Office Hours: Monday-Friday, 8:00am - 5:00pm", 
         "emails": [
         ], 
-        "contacts_attributes": [
-          {
-            "name": "", 
-            "title": ""
-          }
-        ], 
         "name": "Golden Gate Regional Center", 
         "languages": [
           "English", 
@@ -2274,7 +2211,7 @@
         ], 
         "faxes_attributes": [
           {
-            "number": "(415) 546-9203"
+            "number": "415 546-9203"
           }
         ], 
         "short_description": "Golden Gate Regional Center works towards a future where all people with developmental disabilities and their families have the opportunity to belong, contribute and thrive in their home communities by directing their own lives."
@@ -2287,7 +2224,7 @@
       {
         "phones_attributes": [
           {
-            "number": "(415) 401-4253"
+            "number": "415 401-4253"
           }
         ], 
         "transportation": "", 
@@ -2324,23 +2261,17 @@
             "goodsam@goodsamfrc.org"
           ]
         ], 
-        "contacts_attributes": [
-          {
-            "name": "", 
-            "title": ""
-          }
-        ], 
         "name": "Good Samaritan Family Resource Center, Inc.", 
         "languages": [
           "English", 
           "Spanish"
         ], 
         "urls": [
-          "www.goodsamfrc.org"
+          "http://www.goodsamfrc.org"
         ], 
         "faxes_attributes": [
           {
-            "number": "(415) 824-9527"
+            "number": "415 824-9527"
           }
         ], 
         "short_description": "Good Samaritan Family Resource Center, Inc. offers literary classes, leadership classes, school readiness programs, community workshops, a kids clubs, a child development center, family advocacy, support for parents, a family planning clinic, after-school programs, and a soccer program."
@@ -2353,7 +2284,7 @@
       {
         "phones_attributes": [
           {
-            "number": "(415) 337-1938"
+            "number": "415 337-1938"
           }
         ], 
         "transportation": "", 
@@ -2401,11 +2332,11 @@
           "English"
         ], 
         "urls": [
-          "www.gsgracenter.org"
+          "http://www.gsgracenter.org"
         ], 
         "faxes_attributes": [
           {
-            "number": "(415) 586-0355"
+            "number": "415 586-0355"
           }
         ], 
         "short_description": "Good Shepherd Gracenter's Enhanced Sober Living Environment is a residence for working women who have completed a 30-day recovery program, or are involved with out-patient substance abuse services."
@@ -2418,7 +2349,7 @@
       {
         "phones_attributes": [
           {
-            "number": "(415) 575-2101"
+            "number": "415 575-2101"
           }
         ], 
         "transportation": "", 
@@ -2455,12 +2386,6 @@
             "info@sfgoodwill.org"
           ]
         ], 
-        "contacts_attributes": [
-          {
-            "name": "", 
-            "title": ""
-          }
-        ], 
         "name": "Goodwill Industries of San Francisco", 
         "languages": [
           "Chinese", 
@@ -2469,11 +2394,11 @@
           "Tagalog"
         ], 
         "urls": [
-          "www.sfgoodwill.org"
+          "http://www.sfgoodwill.org"
         ], 
         "faxes_attributes": [
           {
-            "number": "(415) 575-2170"
+            "number": "415 575-2170"
           }
         ], 
         "short_description": "Goodwill Industries offers job training and work experience to people with employment barriers by providing assistance with career development and job placement."
@@ -2486,7 +2411,7 @@
       {
         "phones_attributes": [
           {
-            "number": "(415) 421-8827"
+            "number": "415 421-8827"
           }
         ], 
         "transportation": "", 
@@ -2526,8 +2451,8 @@
         ], 
         "contacts_attributes": [
           {
-            "name": "Gloria Tan, Executive Director", 
-            "title": ""
+            "name": "Gloria Tan", 
+            "title": "Executive Director"
           }
         ], 
         "name": "Gum Moon Women's Residence", 
@@ -2538,11 +2463,11 @@
           "Vietnamese"
         ], 
         "urls": [
-          "www.gummoon.org"
+          "http://www.gummoon.org"
         ], 
         "faxes_attributes": [
           {
-            "number": "(415) 397-6836"
+            "number": "415 397-6836"
           }
         ], 
         "short_description": "Gum Moon provides transitional housing facilities for women."
@@ -2555,7 +2480,7 @@
       {
         "phones_attributes": [
           {
-            "number": "(415) 226-1775"
+            "number": "415 226-1775"
           }
         ], 
         "transportation": "", 
@@ -2594,8 +2519,8 @@
         ], 
         "contacts_attributes": [
           {
-            "name": "Jean Merwin, Office Manager", 
-            "title": ""
+            "name": "Jean Merwin", 
+            "title": "Office Manager"
           }
         ], 
         "name": "Haight Ashbury Free Clinic", 
@@ -2603,11 +2528,11 @@
           "All languages except sign language"
         ], 
         "urls": [
-          "www.waldenhouse.org"
+          "http://www.waldenhouse.org"
         ], 
         "faxes_attributes": [
           {
-            "number": "(415) 746-1941"
+            "number": "415 746-1941"
           }
         ], 
         "short_description": "The Haight Ashbury Free Clinic provides free, high-quality, demystified and comprehensive health care that is culturally sensitive, non- judgmental and accessible to all in need."
@@ -2620,11 +2545,11 @@
       {
         "phones_attributes": [
           {
-            "number": "(415) 409-2100"
+            "number": "415 409-2100"
           }
         ], 
         "transportation": "", 
-        "description": "Hamilton Family Center (HFC) serves the emergency needs of homeless families by providing a temporary safe and stable environment, and offering critical support services. HFC offers three meals a day and twice-daily snacks for children, as well as case management services to help families gain access to housing, education, family violence prevention, employment readiness, substance abuse services, and counseling. Additional services include recreational activities for children, a housing aftercare program, a supervised learning center, and an on-site medical clinic. The Hamilton Family Center has three program sites: The Residences & Emergency Center at 260 Golden Gate Ave., (415) 292-9930; The Hamilton Family Transitional Housing Program at 1631 Hayes St., (415) 409-2100;The Dudley Apartments- Permanent Supportive Housing Services at 172 6th St., (415) 861-8645.", 
+        "description": "Hamilton Family Center (HFC) serves the emergency needs of homeless families by providing a temporary safe and stable environment, and offering critical support services. HFC offers three meals a day and twice-daily snacks for children, as well as case management services to help families gain access to housing, education, family violence prevention, employment readiness, substance abuse services, and counseling. Additional services include recreational activities for children, a housing aftercare program, a supervised learning center, and an on-site medical clinic. The Hamilton Family Center has three program sites: The Residences & Emergency Center at 260 Golden Gate Ave., 415 292-9930; The Hamilton Family Transitional Housing Program at 1631 Hayes St., 415 409-2100;The Dudley Apartments- Permanent Supportive Housing Services at 172 6th St., 415 861-8645.", 
         "address_attributes": {
           "city": "San Francisco", 
           "state": "CA", 
@@ -2659,8 +2584,8 @@
         ], 
         "contacts_attributes": [
           {
-            "name": "Diane Luther, Executive Director", 
-            "title": ""
+            "name": "Diane Luther", 
+            "title": "Executive Director"
           }
         ], 
         "name": "Hamilton Family Center", 
@@ -2669,11 +2594,11 @@
           "Spanish"
         ], 
         "urls": [
-          "www.hamiltonfamilycenter.org"
+          "http://www.hamiltonfamilycenter.org"
         ], 
         "faxes_attributes": [
           {
-            "number": "(415) 345-0470"
+            "number": "415 345-0470"
           }
         ], 
         "short_description": "Hamilton Family Center (HFC) serves the emergency needs of homeless families by providing a temporary safe and stable environment, and offering critical support services."
@@ -2686,7 +2611,7 @@
       {
         "phones_attributes": [
           {
-            "number": "(415) 274-1970 Elizabeth Samayoa, Executive Director, ext. 0021"
+            "number": "415 274-1970 Elizabeth Samayoa, Executive Director, ext. 0021"
           }
         ], 
         "transportation": "", 
@@ -2724,22 +2649,16 @@
             "samayoa@hify.org"
           ]
         ], 
-        "contacts_attributes": [
-          {
-            "name": "", 
-            "title": ""
-          }
-        ], 
         "name": "Health Initiatives for Youth", 
         "languages": [
           "English"
         ], 
         "urls": [
-          "www.hify.com"
+          "http://www.hify.com"
         ], 
         "faxes_attributes": [
           {
-            "number": "(415) 274-1976"
+            "number": "415 274-1976"
           }
         ], 
         "short_description": "Health Initiatives for Youth (HIFY) creates resource materials and facilitates workshops and trainings for youth and the providers that work with them on a variety of health topics, such as body image, sexuality, STDs and HIV, substance use, self-esteem and mental health, relationships, and violence."
@@ -2789,18 +2708,12 @@
             ""
           ]
         ], 
-        "contacts_attributes": [
-          {
-            "name": "", 
-            "title": ""
-          }
-        ], 
         "name": "Help Link 2-1-1 for Bay Area Resources", 
         "languages": [
           "Multiple"
         ], 
         "urls": [
-          "www.211.org"
+          "http://www.211.org"
         ], 
         "faxes_attributes": [
           {
@@ -2817,7 +2730,7 @@
       {
         "phones_attributes": [
           {
-            "number": "(415) 621-4388"
+            "number": "415 621-4388"
           }
         ], 
         "transportation": "", 
@@ -2854,22 +2767,16 @@
             "info@ohlhoff.org"
           ]
         ], 
-        "contacts_attributes": [
-          {
-            "name": "Varies by program", 
-            "title": ""
-          }
-        ], 
         "name": "Henry Ohlhoff Recovery Programs", 
         "languages": [
           "English"
         ], 
         "urls": [
-          "www.ohlhoff.org"
+          "http://www.ohlhoff.org"
         ], 
         "faxes_attributes": [
           {
-            "number": "(415) 626-0170"
+            "number": "415 626-0170"
           }
         ], 
         "short_description": "Ohlhoff Recovery Programs provide quality, affordable programs for adults and adolescents in recovery from alcoholism, chemical dependency and eating disorders."
@@ -2882,7 +2789,7 @@
       {
         "phones_attributes": [
           {
-            "number": "(415) 575-3130"
+            "number": "415 575-3130"
           }
         ], 
         "transportation": "", 
@@ -2919,12 +2826,6 @@
             "kdanielson@sfbar.org"
           ]
         ], 
-        "contacts_attributes": [
-          {
-            "name": "", 
-            "title": ""
-          }
-        ], 
         "name": "Homeless Advocacy Project", 
         "languages": [
           "English"
@@ -2934,7 +2835,7 @@
         ], 
         "faxes_attributes": [
           {
-            "number": "(415) 575-3132"
+            "number": "415 575-3132"
           }
         ], 
         "short_description": "Homeless Advocacy Project (HAP) is a community-based organization dedicated to providing supplemental security income (SSI) assistance to individuals who are homeless with disabilities."
@@ -2947,7 +2848,7 @@
       {
         "phones_attributes": [
           {
-            "number": "(415) 437-3990"
+            "number": "415 437-3990"
           }
         ], 
         "transportation": "", 
@@ -2984,12 +2885,6 @@
             "info@hcnkids.org"
           ]
         ], 
-        "contacts_attributes": [
-          {
-            "name": "", 
-            "title": ""
-          }
-        ], 
         "name": "Homeless Children's Network", 
         "languages": [
           "Cantonese", 
@@ -2998,11 +2893,11 @@
           "Spanish"
         ], 
         "urls": [
-          "www.hcnkids.org"
+          "http://www.hcnkids.org"
         ], 
         "faxes_attributes": [
           {
-            "number": "(415) 437-3994"
+            "number": "415 437-3994"
           }
         ], 
         "short_description": "The Homeless Children's Network (HCN) provides comprehensive mental health services, case management, and family support services for homeless children, youth, and their families throughout San Francisco."
@@ -3015,7 +2910,7 @@
       {
         "phones_attributes": [
           {
-            "number": "(415) 546-6756"
+            "number": "415 546-6756"
           }
         ], 
         "transportation": "", 
@@ -3054,8 +2949,8 @@
         ], 
         "contacts_attributes": [
           {
-            "name": "Martha Ryan, Executive Director", 
-            "title": ""
+            "name": "Martha Ryan", 
+            "title": "Executive Director"
           }
         ], 
         "name": "Homeless Prenatal Program", 
@@ -3064,11 +2959,11 @@
           "Spanish"
         ], 
         "urls": [
-          "www.homelessprenatal.org"
+          "http://www.homelessprenatal.org"
         ], 
         "faxes_attributes": [
           {
-            "number": "(415) 546-6778"
+            "number": "415 546-6778"
           }
         ], 
         "short_description": "The Homeless Prenatal Program provides support services to homeless and low-income pregnant and parenting women, including counseling and support groups, assistance with emergency/transitional permanent housing, food and clothing, immigration assistance, and family reunification."
@@ -3081,7 +2976,7 @@
       {
         "phones_attributes": [
           {
-            "number": "(415) 487-6700"
+            "number": "415 487-6700"
           }
         ], 
         "transportation": "", 
@@ -3118,23 +3013,17 @@
             "info@horizons-sf.org"
           ]
         ], 
-        "contacts_attributes": [
-          {
-            "name": "", 
-            "title": ""
-          }
-        ], 
         "name": "Horizons Unlimited of San Francisco, Inc.", 
         "languages": [
           "English", 
           "Spanish"
         ], 
         "urls": [
-          "www.horizons-sf.org"
+          "http://www.horizons-sf.org"
         ], 
         "faxes_attributes": [
           {
-            "number": "(415) 487-6724"
+            "number": "415 487-6724"
           }
         ], 
         "short_description": "Females Against Violence (FAV) is a peer education program of Horizons Unlimited that is comprised of young women ages14-17."
@@ -3147,7 +3036,7 @@
       {
         "phones_attributes": [
           {
-            "number": "(415) 668-2622"
+            "number": "415 668-2622"
           }
         ], 
         "transportation": "", 
@@ -3184,23 +3073,17 @@
             "hyp@huckleberryyouth.org"
           ]
         ], 
-        "contacts_attributes": [
-          {
-            "name": "", 
-            "title": ""
-          }
-        ], 
         "name": "Huckleberry Youth Programs, Inc.", 
         "languages": [
           "English", 
           "Spanish"
         ], 
         "urls": [
-          "www.huckleberryyouth.org"
+          "http://www.huckleberryyouth.org"
         ], 
         "faxes_attributes": [
           {
-            "number": "(415) 668-0631"
+            "number": "415 668-0631"
           }
         ], 
         "short_description": "Huckleberry Youth Programs engage adolescents and their families in San Francisco and Marin Counties in a comprehensive array of quality services addressing prevention and health promotion, crisis intervention, stabilization and growth."
@@ -3213,7 +3096,7 @@
       {
         "phones_attributes": [
           {
-            "number": "(415) 557-5000"
+            "number": "415 557-5000"
           }
         ], 
         "transportation": "", 
@@ -3246,13 +3129,7 @@
         "accessibility": [], 
         "hours": "Monday ­ Friday, 8:00am - 5:00pm", 
         "emails": [
-        ], 
-        "contacts_attributes": [
-          {
-            "name": "Varies by program, please contact central operator", 
-            "title": ""
-          }
-        ], 
+        ],  
         "name": "Human Services Agency", 
         "languages": [
           "English", 
@@ -3263,7 +3140,7 @@
         ], 
         "faxes_attributes": [
           {
-            "number": "(415) 431-9270"
+            "number": "415 431-9270"
           }
         ], 
         "short_description": "HSA administers federal, state, and county mandated programs: CalWORKs - financial assistance and job training and support services (e.g."
@@ -3276,7 +3153,7 @@
       {
         "phones_attributes": [
           {
-            "number": "(415) 285-1415"
+            "number": "415 285-1415"
           }
         ], 
         "transportation": "", 
@@ -3331,7 +3208,7 @@
         ], 
         "faxes_attributes": [
           {
-            "number": "(415) 285-4519"
+            "number": "415 285-4519"
           }
         ], 
         "short_description": "Hunters Point Community Youth Program (HPCYF) provides youth with educational, recreational and cultural programs."
@@ -3344,7 +3221,7 @@
       {
         "phones_attributes": [
           {
-            "number": "(415) 543-6222"
+            "number": "415 543-6222"
           }
         ], 
         "transportation": "", 
@@ -3394,11 +3271,11 @@
           "Spanish"
         ], 
         "urls": [
-          "www.ilrcsf.org"
+          "http://www.ilrcsf.org"
         ], 
         "faxes_attributes": [
           {
-            "number": "(415) 543-6318"
+            "number": "415 543-6318"
           }
         ], 
         "short_description": "Independent Living Resource Center (ILRC) provides services to people with disabilities who want to live independently, including advocacy, SSI/SSDI counseling, peer counseling, housing assistance, information and referrals, and community education."
@@ -3411,7 +3288,7 @@
       {
         "phones_attributes": [
           {
-            "number": "(415) 587-5513"
+            "number": "415 587-5513"
           }
         ], 
         "transportation": "", 
@@ -3463,7 +3340,7 @@
         ], 
         "faxes_attributes": [
           {
-            "number": "(415) 587-4601"
+            "number": "415 587-4601"
           }
         ], 
         "short_description": "The Ingleside Community Center offers technology and employment training, cultural arts enrichment, crime prevention activities, positive recreational activities, cultural diversity activities, academic tutorial assistance, health services referrals, and other youth support services as needed."
@@ -3476,7 +3353,7 @@
       {
         "phones_attributes": [
           {
-            "number": "(415) 750-4111"
+            "number": "415 750-4111"
           }
         ], 
         "transportation": "", 
@@ -3513,12 +3390,6 @@
             "info@ioaging.org"
           ]
         ], 
-        "contacts_attributes": [
-          {
-            "name": "", 
-            "title": ""
-          }
-        ], 
         "name": "Institute on Aging's Center for Elderly Suicide Prevention", 
         "languages": [
           "English", 
@@ -3528,11 +3399,11 @@
           "others"
         ], 
         "urls": [
-          "www.ioaging.org"
+          "http://www.ioaging.org"
         ], 
         "faxes_attributes": [
           {
-            "number": "(415) 750-5337"
+            "number": "415 750-5337"
           }
         ], 
         "short_description": "The Elder Abuse Prevention (EAP) Program offers affordable, compassionate and innovative health and social services to seniors and their families."
@@ -3545,7 +3416,7 @@
       {
         "phones_attributes": [
           {
-            "number": "(415) 229-0500"
+            "number": "415 229-0500"
           }
         ], 
         "transportation": "", 
@@ -3584,8 +3455,8 @@
         ], 
         "contacts_attributes": [
           {
-            "name": "Dr. Estela Garcia", 
-            "title": "DMH (Executive Director)"
+            "name": "Dr. Estela Garcia, DMH", 
+            "title": "Executive Director"
           },
           {
             "name": "German Walteros", 
@@ -3598,11 +3469,11 @@
           "Spanish"
         ], 
         "urls": [
-          "www.ifrsf.org"
+          "http://www.ifrsf.org"
         ], 
         "faxes_attributes": [
           {
-            "number": "(415) 647-0740"
+            "number": "415 647-0740"
           }
         ], 
         "short_description": "The Institututo Familiar de la Raza provides direct services, such as mental health assessments, evaluation and therapy, counseling (individual, couples, family and group), and HIV prevention/education for gay/bisexual men and women."
@@ -3615,7 +3486,7 @@
       {
         "phones_attributes": [
           {
-            "number": "(415) 538-8100"
+            "number": "415 538-8100"
           }
         ], 
         "transportation": "", 
@@ -3654,8 +3525,8 @@
         ], 
         "contacts_attributes": [
           {
-            "name": "Ellen Dumesnil, Executive Director", 
-            "title": ""
+            "name": "Ellen Dumesnil", 
+            "title": "Executive Director"
           }
         ], 
         "name": "International Institute of the Bay Area", 
@@ -3666,11 +3537,11 @@
           "Spanish,"
         ], 
         "urls": [
-          "www.iibayarea.org"
+          "http://www.iibayarea.org"
         ], 
         "faxes_attributes": [
           {
-            "number": "(415) 538-8111"
+            "number": "415 538-8111"
           }
         ], 
         "short_description": "The International Institute of San Francisco protects the rights of immigrants and refugees by educating the public about immigration and offering legal assistance to immigrants and refugees."
@@ -3683,7 +3554,7 @@
       {
         "phones_attributes": [
           {
-            "number": "(415) 864-2364"
+            "number": "415 864-2364"
           }
         ], 
         "transportation": "", 
@@ -3732,11 +3603,11 @@
           "Spanish"
         ], 
         "urls": [
-          "www.iriscenter.org"
+          "http://www.iriscenter.org"
         ], 
         "faxes_attributes": [
           {
-            "number": "(415) 864-0116"
+            "number": "415 864-0116"
           }
         ], 
         "short_description": "Iris Center provides specialized, affordable counseling regarding mental health, substance abuse, and HIV prevention to low-income women and their families."
@@ -3749,7 +3620,7 @@
       {
         "phones_attributes": [
           {
-            "number": "(415) 362-6423"
+            "number": "415 362-6423"
           }
         ], 
         "transportation": "", 
@@ -3798,11 +3669,11 @@
           "English"
         ], 
         "urls": [
-          "www.italiancommunityservices.org"
+          "http://www.italiancommunityservices.org"
         ], 
         "faxes_attributes": [
           {
-            "number": "(415) 362-3565"
+            "number": "415 362-3565"
           }
         ], 
         "short_description": "Italian Community Services provides Bay Area Italian-American seniors and families with trusted resources to help them live healthy, independent and productive lives."
@@ -3815,7 +3686,7 @@
       {
         "phones_attributes": [
           {
-            "number": "(415) 647-4709"
+            "number": "415 647-4709"
           }
         ], 
         "transportation": "", 
@@ -3849,12 +3720,6 @@
         "hours": "Call for more information.", 
         "emails": [
         ], 
-        "contacts_attributes": [
-          {
-            "name": "", 
-            "title": ""
-          }
-        ], 
         "name": "Jamestown Community Center", 
         "languages": [
           "Spanish", 
@@ -3865,7 +3730,7 @@
         ], 
         "faxes_attributes": [
           {
-            "number": "(415) 647-4718"
+            "number": "415 647-4718"
           }
         ], 
         "short_description": "Jamestown Community Center provides youth with as many positive experiences as they need in order to grow up healthy and productive."
@@ -3878,7 +3743,7 @@
       {
         "phones_attributes": [
           {
-            "number": "(415) 665-4100"
+            "number": "415 665-4100"
           }
         ], 
         "transportation": "", 
@@ -3930,7 +3795,7 @@
         ], 
         "faxes_attributes": [
           {
-            "number": "(415) 665-7543"
+            "number": "415 665-7543"
           }
         ], 
         "short_description": "The Janet Pomeroy Center provides recreation and leisure services for individuals of all ages, with all types of disabilities."
@@ -3943,7 +3808,7 @@
       {
         "phones_attributes": [
           {
-            "number": "(415) 202-7900"
+            "number": "415 202-7900"
           }
         ], 
         "transportation": "", 
@@ -3980,12 +3845,6 @@
             "info@jcyc.org"
           ]
         ], 
-        "contacts_attributes": [
-          {
-            "name": "", 
-            "title": ""
-          }
-        ], 
         "name": "Japanese Community Youth Council", 
         "languages": [
           "Cantonese", 
@@ -3996,11 +3855,11 @@
           "Vietnamese"
         ], 
         "urls": [
-          "www.jcyc.org"
+          "http://www.jcyc.org"
         ], 
         "faxes_attributes": [
           {
-            "number": "(415) 921-1841"
+            "number": "415 921-1841"
           }
         ], 
         "short_description": "The JCYC provides emotional and educational counseling, client advocacy, and recreation programs."
@@ -4013,7 +3872,7 @@
       {
         "phones_attributes": [
           {
-            "number": "(415) 822-5977"
+            "number": "415 822-5977"
           }
         ], 
         "transportation": "", 
@@ -4050,23 +3909,17 @@
             "admin@jelaniinc.org"
           ]
         ], 
-        "contacts_attributes": [
-          {
-            "name": "", 
-            "title": ""
-          }
-        ], 
         "name": "Jelani House", 
         "languages": [
           "English", 
           "Spanish"
         ], 
         "urls": [
-          "www.jelaniinc.org"
+          "http://www.jelaniinc.org"
         ], 
         "faxes_attributes": [
           {
-            "number": "(415) 671-1042"
+            "number": "415 671-1042"
           }
         ], 
         "short_description": "Jelani House offers substance abuse treatment for pregnant and postpartum women and women with children up to age 5."
@@ -4079,7 +3932,7 @@
       {
         "phones_attributes": [
           {
-            "number": "(415) 449-1200"
+            "number": "415 449-1200"
           }
         ], 
         "transportation": "", 
@@ -4131,11 +3984,11 @@
           "Russian"
         ], 
         "urls": [
-          "www.jfcs.org"
+          "http://www.jfcs.org"
         ], 
         "faxes_attributes": [
           {
-            "number": "(415) 449-3839"
+            "number": "415 449-3839"
           }
         ], 
         "short_description": "Jewish Family and Children's Services (JFCS) offers a wide variety of services to adults and families, children, teens, seniors, and recent immigrants."
@@ -4148,7 +4001,7 @@
       {
         "phones_attributes": [
           {
-            "number": "(415) 449-1200"
+            "number": "415 449-1200"
           }
         ], 
         "transportation": "", 
@@ -4200,11 +4053,11 @@
           "Russian"
         ], 
         "urls": [
-          "www.jfcs.org"
+          "http://www.jfcs.org"
         ], 
         "faxes_attributes": [
           {
-            "number": "(415) 449-3839"
+            "number": "415 449-3839"
           }
         ], 
         "short_description": "Jewish Family and Children's Services (JFCS) offers a wide variety of services to adults and families, children, teens, seniors, and recent immigrants."
@@ -4217,7 +4070,7 @@
       {
         "phones_attributes": [
           {
-            "number": "(415) 391-3600"
+            "number": "415 391-3600"
           }
         ], 
         "transportation": "", 
@@ -4254,12 +4107,6 @@
             "hire@jvs.org"
           ]
         ], 
-        "contacts_attributes": [
-          {
-            "name": "", 
-            "title": ""
-          }
-        ], 
         "name": "Jewish Vocational Service", 
         "languages": [
           "Bosnian", 
@@ -4269,11 +4116,11 @@
           "Spanish"
         ], 
         "urls": [
-          "www.jvs.org"
+          "http://www.jvs.org"
         ], 
         "faxes_attributes": [
           {
-            "number": "(415) 391-3617"
+            "number": "415 391-3617"
           }
         ], 
         "short_description": "JVS links employers and individuals together, building skills needed to succeed in today's workplace."
@@ -4286,7 +4133,7 @@
       {
         "phones_attributes": [
           {
-            "number": "(415) 392-4520"
+            "number": "415 392-4520"
           }
         ], 
         "transportation": "", 
@@ -4319,23 +4166,17 @@
         "accessibility": [], 
         "hours": "Every Wednesday evening (except holidays), 6:30pm - 8:30pm", 
         "emails": [
-        ], 
-        "contacts_attributes": [
-          {
-            "name": "", 
-            "title": ""
-          }
-        ], 
+        ],  
         "name": "Job Forum", 
         "languages": [
           "English"
         ], 
         "urls": [
-          "www.TheJobForum.org"
+          "http://www.TheJobForum.org"
         ], 
         "faxes_attributes": [
           {
-            "number": "(415) 392-0485"
+            "number": "415 392-0485"
           }
         ], 
         "short_description": "Sponsored by the San Francisco Chamber of Commerce, the Job Forum is a unique and free counseling service for job seekers and career changers."
@@ -4348,7 +4189,7 @@
       {
         "phones_attributes": [
           {
-            "number": "(415) 931-2294"
+            "number": "415 931-2294"
           }
         ], 
         "transportation": "", 
@@ -4398,11 +4239,11 @@
           "Korean"
         ], 
         "urls": [
-          "www.kimochi-inc.org"
+          "http://www.kimochi-inc.org"
         ], 
         "faxes_attributes": [
           {
-            "number": "(415) 931-2299"
+            "number": "415 931-2299"
           }
         ], 
         "short_description": "Kimochi, Inc. provides arts and crafts, exercise, case management, transportation, health education, a library, music, nutrition education, congregate and home-delivered meals, bilingual information and referrals, and residential care for elderly individuals."
@@ -4415,7 +4256,7 @@
       {
         "phones_attributes": [
           {
-            "number": "(415) 441-1881"
+            "number": "415 441-1881"
           }
         ], 
         "transportation": "", 
@@ -4446,7 +4287,7 @@
           "zip": "94109"
         }, 
         "accessibility": [], 
-        "hours": "Monday ­ Friday, 9:00am - 6:00pm", 
+        "hours": "Monday - Friday, 9:00am - 6:00pm", 
         "emails": [
           [
             "cj@iic.edu"
@@ -4464,11 +4305,11 @@
           "Korean"
         ], 
         "urls": [
-          "www.iic.edu/content/kci/"
+          "http://www.iic.edu/content/kci/"
         ], 
         "faxes_attributes": [
           {
-            "number": "(415) 441-1889"
+            "number": "415 441-1889"
           }
         ], 
         "short_description": "The Korean Center, Inc. offers seniors a hot meal program and other social services programs."
@@ -4481,7 +4322,7 @@
       {
         "phones_attributes": [
           {
-            "number": "(415) 503-0500"
+            "number": "415 503-0500"
           }
         ], 
         "transportation": "", 
@@ -4531,11 +4372,11 @@
           "phone interpretation for all other languages"
         ], 
         "urls": [
-          "www.lacasa.org"
+          "http://www.lacasa.org"
         ], 
         "faxes_attributes": [
           {
-            "number": "(415) 503-0301"
+            "number": "415 503-0301"
           }
         ], 
         "short_description": "La Casa provides victims of domestic violence with an eight week shelter program, a drop-in counseling center, community support groups, community education outreach and volunteer programs, employment and legal referrals for clients, and a teen intervention and prevention program."
@@ -4548,7 +4389,7 @@
       {
         "phones_attributes": [
           {
-            "number": "(415) 824-2729, ext. 302"
+            "number": "415 824-2729, ext. 302"
           }
         ], 
         "transportation": "", 
@@ -4587,8 +4428,8 @@
         ], 
         "contacts_attributes": [
           {
-            "name": "Caleb Zigas, Executive Director", 
-            "title": ""
+            "name": "Caleb Zigas", 
+            "title": "Executive Director"
           }
         ], 
         "name": "La Cocina", 
@@ -4597,11 +4438,11 @@
           "Spanish"
         ], 
         "urls": [
-          "www.lacocinasf.org"
+          "http://www.lacocinasf.org"
         ], 
         "faxes_attributes": [
           {
-            "number": "(415) 824-2756"
+            "number": "415 824-2756"
           }
         ], 
         "short_description": "La Cocina assists lower income micro-entrepreneurs in becoming economically self-sufficient and achieving business sustainability by providing an affordable commercial kitchen space, technical assistance, and access to new market opportunities."
@@ -4614,7 +4455,7 @@
       {
         "phones_attributes": [
           {
-            "number": "(415) 575-3500, TTY: 711"
+            "number": "415 575-3500, TTY: 711"
           }
         ], 
         "transportation": "", 
@@ -4653,8 +4494,8 @@
         ], 
         "contacts_attributes": [
           {
-            "name": "Genevie Gallegos, Associate Director", 
-            "title": ""
+            "name": "Genevie Gallegos", 
+            "title": "Associate Director"
           }
         ], 
         "name": "La Raza Centro Legal", 
@@ -4664,11 +4505,11 @@
           "Spanish"
         ], 
         "urls": [
-          "www.lrcl.org"
+          "http://www.lrcl.org"
         ], 
         "faxes_attributes": [
           {
-            "number": "(415) 255-7593"
+            "number": "415 255-7593"
           }
         ], 
         "short_description": "La Raza Centro Legal is a community-based legal organization dedicated to empowering Latino, immigrant and low-income communities of San Francisco to advocate for their civil and human rights."
@@ -4681,7 +4522,7 @@
       {
         "phones_attributes": [
           {
-            "number": "(415) 863-0764"
+            "number": "415 863-0764"
           }
         ], 
         "transportation": "", 
@@ -4720,8 +4561,12 @@
         ], 
         "contacts_attributes": [
           {
-            "name": "Melba Maldonado, Executive Director Mabel Aguilar, Program Coordinator for Social Services", 
-            "title": ""
+            "name": "Melba Maldonado", 
+            "title": "Executive Director"
+          },
+          {
+            "name": "Mabel Aguilar",
+            "title": "Program Coordinator for Social Services"
           }
         ], 
         "name": "La Raza Community Resource Center", 
@@ -4734,7 +4579,7 @@
         ], 
         "faxes_attributes": [
           {
-            "number": "(415) 863-1690"
+            "number": "415 863-1690"
           }
         ], 
         "short_description": "La Raza Community Resource Center (La Raza) is a bilingual, multi- service, non-profit organization designed to meet the needs of low- income Latino families and individuals in the San Francisco Bay Area."
@@ -4747,7 +4592,7 @@
       {
         "phones_attributes": [
           {
-            "number": "(415) 673-0911 If you are a youth in need of service, please call 1-800-669-6196."
+            "number": "415 673-0911 If you are a youth in need of service, please call 1-800-669-6196."
           }
         ], 
         "transportation": "", 
@@ -4795,11 +4640,11 @@
           "Varies"
         ], 
         "urls": [
-          "www.larkinstreetyouth.org"
+          "http://www.larkinstreetyouth.org"
         ], 
         "faxes_attributes": [
           {
-            "number": "(415) 749-3838"
+            "number": "415 749-3838"
           }
         ], 
         "short_description": "Larkin Street Youth Services provides a full spectrum of services to help homeless and runaway youth move beyond life on the street."
@@ -4851,8 +4696,8 @@
         ], 
         "contacts_attributes": [
           {
-            "name": "Denny David, Deputy Director", 
-            "title": ""
+            "name": "Denny David", 
+            "title": "Deputy Director"
           }
         ], 
         "name": "Lavender Youth Recreation & Information Center", 
@@ -4862,11 +4707,11 @@
           "Tagalog"
         ], 
         "urls": [
-          "www.lyric.org"
+          "http://www.lyric.org"
         ], 
         "faxes_attributes": [
           {
-            "number": "(415) 703-6153"
+            "number": "415 703-6153"
           }
         ], 
         "short_description": "LYRIC builds communities and inspires positive social change through education enhancement, career trainings, health promotion, and leadership development with lesbian, gay, bisexual, transgender, queer, and questioning youth, their families, and allies of all races, classes, genders, and abilities."
@@ -4879,7 +4724,7 @@
       {
         "phones_attributes": [
           {
-            "number": "(415) 543-9444"
+            "number": "415 543-9444"
           }
         ], 
         "transportation": "", 
@@ -4933,11 +4778,11 @@
           "Tagalog"
         ], 
         "urls": [
-          "www.lccr.com"
+          "http://www.lccr.com"
         ], 
         "faxes_attributes": [
           {
-            "number": "(415) 543-0296"
+            "number": "415 543-0296"
           }
         ], 
         "short_description": "The Lawyers' Committee for Civil Rights champions the legal rights of people of color, poor people, immigrants and refugees, with a special commitment to African-Americans."
@@ -4999,7 +4844,7 @@
           "Spanish"
         ], 
         "urls": [
-          "www.lulac.org"
+          "http://www.lulac.org"
         ], 
         "faxes_attributes": [
           {
@@ -5016,7 +4861,7 @@
       {
         "phones_attributes": [
           {
-            "number": "(415) 864-8848"
+            "number": "415 864-8848"
           }
         ], 
         "transportation": "", 
@@ -5053,12 +4898,6 @@
             "info@las-elc.org"
           ]
         ], 
-        "contacts_attributes": [
-          {
-            "name": "", 
-            "title": ""
-          }
-        ], 
         "name": "Legal Aid Society of San Francisco - Employment Law Center", 
         "languages": [
           "Cantonese", 
@@ -5067,11 +4906,11 @@
           "Spanish"
         ], 
         "urls": [
-          "www.las-elc.org"
+          "http://www.las-elc.org"
         ], 
         "faxes_attributes": [
           {
-            "number": "(415) 593-0096"
+            "number": "415 593-0096"
           }
         ], 
         "short_description": "The Legal Aid Society - Employment Law Center promotes the stability of low-income and disadvantaged workers and their families by addressing issues that affect their ability to achieve self-sufficiency."
@@ -5084,7 +4923,7 @@
       {
         "phones_attributes": [
           {
-            "number": "(415) 538-3333"
+            "number": "415 538-3333"
           }
         ], 
         "transportation": "", 
@@ -5139,7 +4978,7 @@
         ], 
         "faxes_attributes": [
           {
-            "number": "(415) 538-3316"
+            "number": "415 538-3316"
           }
         ], 
         "short_description": "The Elder Abuse Prevention program provides free legal advice and representation to San Francisco residents age 60 and older, including how to obtain and retain Social Security and Medi-Cal benefits, how to avoid physical and financial abuse, tenant advice and representation, consumer and debt collection issues, assistance with evictions, rent control disputes, code violations, foreclosures, and subsidized housing."
@@ -5152,7 +4991,7 @@
       {
         "phones_attributes": [
           {
-            "number": "(415) 863-3762"
+            "number": "415 863-3762"
           }
         ], 
         "transportation": "", 
@@ -5189,12 +5028,6 @@
             ""
           ]
         ], 
-        "contacts_attributes": [
-          {
-            "name": "", 
-            "title": ""
-          }
-        ], 
         "name": "Legal Services for Children, Inc.", 
         "languages": [
           "Cantonese", 
@@ -5205,11 +5038,11 @@
           "Translation services will be provided for any language needed with advance notice."
         ], 
         "urls": [
-          "www.lsc-sf.org"
+          "http://www.lsc-sf.org"
         ], 
         "faxes_attributes": [
           {
-            "number": "(415) 863-7708"
+            "number": "415 863-7708"
           }
         ], 
         "short_description": "Legal Services for Children provides free legal and social services to children and youth."
@@ -5222,7 +5055,7 @@
       {
         "phones_attributes": [
           {
-            "number": "(415) 255-7036"
+            "number": "415 255-7036"
           }
         ], 
         "transportation": "", 
@@ -5259,23 +5092,17 @@
             "info@prisonerswithchildren.org"
           ]
         ], 
-        "contacts_attributes": [
-          {
-            "name": "", 
-            "title": ""
-          }
-        ], 
         "name": "Legal Services for Prisoners with Children (LSPC)", 
         "languages": [
           "English", 
           "Spanish"
         ], 
         "urls": [
-          "www.prisonerswithchildren.org"
+          "http://www.prisonerswithchildren.org"
         ], 
         "faxes_attributes": [
           {
-            "number": "(415) 552-3150"
+            "number": "415 552-3150"
           }
         ], 
         "short_description": "LSPC advocates for the human rights and empowerment of incarcerated parents, children, family members and people at risk for incarceration."
@@ -5288,7 +5115,7 @@
       {
         "phones_attributes": [
           {
-            "number": "(415) 431-1481"
+            "number": "415 431-1481"
           }
         ], 
         "transportation": "", 
@@ -5325,12 +5152,6 @@
             "info@lighthouse-sf.org"
           ]
         ], 
-        "contacts_attributes": [
-          {
-            "name": "", 
-            "title": ""
-          }
-        ], 
         "name": "LightHouse", 
         "languages": [
           "English", 
@@ -5342,7 +5163,7 @@
         ], 
         "faxes_attributes": [
           {
-            "number": "(415) 863-7568"
+            "number": "415 863-7568"
           }
         ], 
         "short_description": "LightHouse promotes the independence, equality and self-reliance of people who are blind or visually impaired through rehabilitation training and relevant services, such as access to employment, education, government, information, and transportation."
@@ -5355,11 +5176,11 @@
       {
         "phones_attributes": [
           {
-            "number": "(415) 205-5648"
+            "number": "415 205-5648"
           }
         ], 
         "transportation": "", 
-        "description": "Living in a Nonviolent Community (LINC) is a comprehensive, community-oriented program that aims to reduce the incidence of domestic violence and its impact on children, youth, and their families. LINC is a hospital-based program which provides services for families affected by violence, including community education and outreach, case Management, clinical assessment and treatment, counseling for families and groups, provider training on the impact of witnessing domestic violence, and school-based student training on the impact of witnessing domestic violence on children. Other Location: San Francisco General Hospital 1001 Potrero Avenue, San Francisco, CA (415) 206-5648", 
+        "description": "Living in a Nonviolent Community (LINC) is a comprehensive, community-oriented program that aims to reduce the incidence of domestic violence and its impact on children, youth, and their families. LINC is a hospital-based program which provides services for families affected by violence, including community education and outreach, case Management, clinical assessment and treatment, counseling for families and groups, provider training on the impact of witnessing domestic violence, and school-based student training on the impact of witnessing domestic violence on children. Other Location: San Francisco General Hospital 1001 Potrero Avenue, San Francisco, CA 415 206-5648", 
         "address_attributes": {
           "city": "San Francisco", 
           "state": "CA", 
@@ -5405,7 +5226,7 @@
         ], 
         "faxes_attributes": [
           {
-            "number": "(415) 885-7580"
+            "number": "415 885-7580"
           }
         ], 
         "short_description": "Living in a Nonviolent Community (LINC) is a comprehensive, community-oriented program that aims to reduce the incidence of domestic violence and its impact on children, youth, and their families."
@@ -5418,7 +5239,7 @@
       {
         "phones_attributes": [
           {
-            "number": "(415) 864-LOCO (5626)"
+            "number": "415 864-LOCO (5626)"
           }
         ], 
         "transportation": "", 
@@ -5455,23 +5276,17 @@
             "locobloco@gmail.com"
           ]
         ], 
-        "contacts_attributes": [
-          {
-            "name": "", 
-            "title": ""
-          }
-        ], 
         "name": "Loco Bloco", 
         "languages": [
           "English", 
           "Spanish"
         ], 
         "urls": [
-          "www.locobloco.org"
+          "http://www.locobloco.org"
         ], 
         "faxes_attributes": [
           {
-            "number": "(415) 864-5627"
+            "number": "415 864-5627"
           }
         ], 
         "short_description": "Loco is a youth development organization that promotes San Francisco youth's healthy transition into adulthood by engaging them in the creation and performance of music, dance and theater reflecting the cultural diversity of the Americas."
@@ -5484,7 +5299,7 @@
       {
         "phones_attributes": [
           {
-            "number": "(415) 581-0891"
+            "number": "415 581-0891"
           }
         ], 
         "transportation": "", 
@@ -5521,12 +5336,6 @@
             ""
           ]
         ], 
-        "contacts_attributes": [
-          {
-            "name": "", 
-            "title": ""
-          }
-        ], 
         "name": "Lutheran Social Services of Northern California (LSS)", 
         "languages": [
           ""
@@ -5536,7 +5345,7 @@
         ], 
         "faxes_attributes": [
           {
-            "number": "(415) 581-0899"
+            "number": "415 581-0899"
           }
         ], 
         "short_description": "In San Francisco, LSS currently provides two primary types of services ­ money management services for formerly homeless adults living with both physical and mental disabilities and case management services for adults, families and seniors living in supportive housing sites."
@@ -5549,7 +5358,7 @@
       {
         "phones_attributes": [
           {
-            "number": "(415) 565-7667"
+            "number": "415 565-7667"
           }
         ], 
         "transportation": "", 
@@ -5586,23 +5395,17 @@
             "info@lyon-martin.org"
           ]
         ], 
-        "contacts_attributes": [
-          {
-            "name": "", 
-            "title": ""
-          }
-        ], 
         "name": "Lyon-Martin Women's Health Services", 
         "languages": [
           "English", 
           "Spanish"
         ], 
         "urls": [
-          "www.lyon-martin.org"
+          "http://www.lyon-martin.org"
         ], 
         "faxes_attributes": [
           {
-            "number": "(415) 252-7512"
+            "number": "415 252-7512"
           }
         ], 
         "short_description": "Lyon-Martin offers primary care services for lesbian, gay, bisexual, transgender women, including HIV testing and care, support groups, case management, smoking cessation, safer sex outreach and education, and other health education and support groups."
@@ -5615,7 +5418,7 @@
       {
         "phones_attributes": [
           {
-            "number": "(415) 673-6768"
+            "number": "415 673-6768"
           }
         ], 
         "transportation": "", 
@@ -5654,8 +5457,8 @@
         ], 
         "contacts_attributes": [
           {
-            "name": "Dion Roberts, Executive Director", 
-            "title": ""
+            "name": "Dion Roberts", 
+            "title": "Executive Director"
           }
         ], 
         "name": "Mary Elizabeth Inn", 
@@ -5666,11 +5469,11 @@
           "Tagalog"
         ], 
         "urls": [
-          "www.meinn.org"
+          "http://www.meinn.org"
         ], 
         "faxes_attributes": [
           {
-            "number": "(415) 441-7451"
+            "number": "415 441-7451"
           }
         ], 
         "short_description": "Mary Elizabeth Inn provides permanent and transitional housing for students, women in recovery, working women, women with disabilities, and formerly homeless women."
@@ -5683,7 +5486,7 @@
       {
         "phones_attributes": [
           {
-            "number": "(415) 554-6141"
+            "number": "415 554-6141"
           }
         ], 
         "transportation": "", 
@@ -5720,12 +5523,6 @@
             "mayoredwinlee@sfgov.org"
           ]
         ], 
-        "contacts_attributes": [
-          {
-            "name": "", 
-            "title": ""
-          }
-        ], 
         "name": "Mayor of San Francisco", 
         "languages": [
           "English"
@@ -5735,7 +5532,7 @@
         ], 
         "faxes_attributes": [
           {
-            "number": "(415) 554-6160"
+            "number": "415 554-6160"
           }
         ], 
         "short_description": "The Mayor authors the City budget each fiscal year which allows for funding of City departments and activities."
@@ -5748,7 +5545,7 @@
       {
         "phones_attributes": [
           {
-            "number": "(415) 554-6141"
+            "number": "415 554-6141"
           }
         ], 
         "transportation": "", 
@@ -5785,12 +5582,6 @@
             "mayoredwinlee@sfgov.org"
           ]
         ], 
-        "contacts_attributes": [
-          {
-            "name": "", 
-            "title": ""
-          }
-        ], 
         "name": "Mayor of San Francisco", 
         "languages": [
           "English"
@@ -5800,7 +5591,7 @@
         ], 
         "faxes_attributes": [
           {
-            "number": "(415) 554-6160"
+            "number": "415 554-6160"
           }
         ], 
         "short_description": "The Mayor authors the City budget each fiscal year which allows for funding of City departments and activities."
@@ -5813,7 +5604,7 @@
       {
         "phones_attributes": [
           {
-            "number": "(415) 554-7111"
+            "number": "415 554-7111"
           }
         ], 
         "transportation": "", 
@@ -5865,7 +5656,7 @@
         ], 
         "faxes_attributes": [
           {
-            "number": "(415) 554-6474"
+            "number": "415 554-6474"
           }
         ], 
         "short_description": "MONS is dedicated to helping the citizens of the City & County of San Francisco receive the highest levels of service possible from all areas of City government."
@@ -5878,7 +5669,7 @@
       {
         "phones_attributes": [
           {
-            "number": "(415) 554-7111"
+            "number": "415 554-7111"
           }
         ], 
         "transportation": "", 
@@ -5930,7 +5721,7 @@
         ], 
         "faxes_attributes": [
           {
-            "number": "(415) 554-6474"
+            "number": "415 554-6474"
           }
         ], 
         "short_description": "MONS is dedicated to helping the citizens of the City & County of San Francisco receive the highest levels of service possible from all areas of City government."
@@ -5943,7 +5734,7 @@
       {
         "phones_attributes": [
           {
-            "number": "(415) 554-6789"
+            "number": "415 554-6789"
           }
         ], 
         "transportation": "", 
@@ -5980,22 +5771,16 @@
             "mod@sfgov.org"
           ]
         ], 
-        "contacts_attributes": [
-          {
-            "name": "", 
-            "title": ""
-          }
-        ], 
         "name": "Mayor's Office on Disability (MOD)", 
         "languages": [
           ""
         ], 
         "urls": [
-          "www.sfgov.org/sfmod"
+          "http://www.sfgov.org/sfmod"
         ], 
         "faxes_attributes": [
           {
-            "number": "(415) 554-6159"
+            "number": "415 554-6159"
           }
         ], 
         "short_description": "The mission of the Mayor's Office on Disability is to ensure that every program, service, benefit, activity and facility operated or funded by the City of San Francisco is fully accessible to, and useable by, people with disabilities."
@@ -6008,11 +5793,11 @@
       {
         "phones_attributes": [
           {
-            "number": "(415) 750-5580"
+            "number": "415 750-5580"
           }
         ], 
         "transportation": "", 
-        "description": "The McAuley Institute at St. Mary's Medical Center provides comprehensive mental health treatment to adolescents and their families. The institute offers two programs: The Adolescent Day Treatment Program - An intensive, comprehensive day treatment program providing psychological and educational services to San Francisco youth. Admissions are by appointment only, please call (415) 750-4909. The Adolescent Inpatient Program - A brief, intensive psychiatric inpatient hospitalization for adolescents suffering from severe emotional crisis. Admissions are available 24-hours a day through a referral service, please call (415) 750-5649.", 
+        "description": "The McAuley Institute at St. Mary's Medical Center provides comprehensive mental health treatment to adolescents and their families. The institute offers two programs: The Adolescent Day Treatment Program - An intensive, comprehensive day treatment program providing psychological and educational services to San Francisco youth. Admissions are by appointment only, please call 415 750-4909. The Adolescent Inpatient Program - A brief, intensive psychiatric inpatient hospitalization for adolescents suffering from severe emotional crisis. Admissions are available 24-hours a day through a referral service, please call 415 750-5649.", 
         "address_attributes": {
           "city": "", 
           "state": "", 
@@ -6047,8 +5832,8 @@
         ], 
         "contacts_attributes": [
           {
-            "name": "Peggy O'Brien, Executive Director", 
-            "title": ""
+            "name": "Peggy O'Brien", 
+            "title": "Executive Director"
           }
         ], 
         "name": "McAuley Institute", 
@@ -6060,7 +5845,7 @@
         ], 
         "faxes_attributes": [
           {
-            "number": "(415) 750-4912"
+            "number": "415 750-4912"
           }
         ], 
         "short_description": "The McAuley Institute at St. Mary's Medical Center provides comprehensive mental health treatment to adolescents and their families."
@@ -6073,11 +5858,11 @@
       {
         "phones_attributes": [
           {
-            "number": "(415) 750-5580"
+            "number": "415 750-5580"
           }
         ], 
         "transportation": "", 
-        "description": "The McAuley Institute at St. Mary's Medical Center provides comprehensive mental health treatment to adolescents and their families. The institute offers two programs: The Adolescent Day Treatment Program - An intensive, comprehensive day treatment program providing psychological and educational services to San Francisco youth. Admissions are by appointment only, please call (415) 750-4909. The Adolescent Inpatient Program - A brief, intensive psychiatric inpatient hospitalization for adolescents suffering from severe emotional crisis. Admissions are available 24-hours a day through a referral service, please call (415) 750-5649.", 
+        "description": "The McAuley Institute at St. Mary's Medical Center provides comprehensive mental health treatment to adolescents and their families. The institute offers two programs: The Adolescent Day Treatment Program - An intensive, comprehensive day treatment program providing psychological and educational services to San Francisco youth. Admissions are by appointment only, please call 415 750-4909. The Adolescent Inpatient Program - A brief, intensive psychiatric inpatient hospitalization for adolescents suffering from severe emotional crisis. Admissions are available 24-hours a day through a referral service, please call 415 750-5649.", 
         "address_attributes": {
           "city": "San Francisco", 
           "state": "CA", 
@@ -6125,7 +5910,7 @@
         ], 
         "faxes_attributes": [
           {
-            "number": "(415) 750-4912"
+            "number": "415 750-4912"
           }
         ], 
         "short_description": "The McAuley Institute at St. Mary's Medical Center provides comprehensive mental health treatment to adolescents and their families."
@@ -6138,7 +5923,7 @@
       {
         "phones_attributes": [
           {
-            "number": "(415) 920-1111"
+            "number": "415 920-1111"
           }
         ], 
         "transportation": "", 
@@ -6172,12 +5957,6 @@
         "hours": "Office Hours: Monday - Friday, 8:30am -4:30pm", 
         "emails": [
         ], 
-        "contacts_attributes": [
-          {
-            "name": "", 
-            "title": ""
-          }
-        ], 
         "name": "Meals on Wheels San Francisco", 
         "languages": [
           "Spanish", 
@@ -6187,11 +5966,11 @@
           "Samoan"
         ], 
         "urls": [
-          "www.mowsf.org/"
+          "http://www.mowsf.org/"
         ], 
         "faxes_attributes": [
           {
-            "number": "(415) 920-1110"
+            "number": "415 920-1110"
           }
         ], 
         "short_description": "Meals on Wheels SF delivers nutritionally balanced meals to homebound seniors in San Francisco since 1970."
@@ -6243,8 +6022,8 @@
         ], 
         "contacts_attributes": [
           {
-            "name": "Tracy Rosenberg, Executive Director", 
-            "title": ""
+            "name": "Tracy Rosenberg", 
+            "title": "Executive Director"
           }
         ], 
         "name": "Media Alliance", 
@@ -6253,7 +6032,7 @@
           "Spanish"
         ], 
         "urls": [
-          "www.media-alliance.org"
+          "http://www.media-alliance.org"
         ], 
         "faxes_attributes": [
           {
@@ -6270,7 +6049,7 @@
       {
         "phones_attributes": [
           {
-            "number": "(415) 401-2750"
+            "number": "415 401-2750"
           }
         ], 
         "transportation": "", 
@@ -6323,7 +6102,7 @@
         ], 
         "faxes_attributes": [
           {
-            "number": "(415) 401-2774"
+            "number": "415 401-2774"
           }
         ], 
         "short_description": "Mission ACT is a neighborhood-based assertive community team."
@@ -6336,7 +6115,7 @@
       {
         "phones_attributes": [
           {
-            "number": "(415) 586-6139"
+            "number": "415 586-6139"
           }
         ], 
         "transportation": "", 
@@ -6391,7 +6170,7 @@
         ], 
         "faxes_attributes": [
           {
-            "number": "(415) 586-2339"
+            "number": "415 586-2339"
           }
         ], 
         "short_description": "Mission Child Care Consortium operates a child care center for low- income Bay Area children, providing developmental educational and recreational activities in a bilingual, and cross-cultural environment."
@@ -6404,7 +6183,7 @@
       {
         "phones_attributes": [
           {
-            "number": "(415) 826-6767"
+            "number": "415 826-6767"
           }
         ], 
         "transportation": "", 
@@ -6455,7 +6234,7 @@
         ], 
         "faxes_attributes": [
           {
-            "number": "(415) 826-6774"
+            "number": "415 826-6774"
           }
         ], 
         "short_description": "The Mission Council provides services that minimize and prevent alcohol and other drug-related problems for individuals, families, and groups."
@@ -6468,7 +6247,7 @@
       {
         "phones_attributes": [
           {
-            "number": "(415) 642-4550"
+            "number": "415 642-4550"
           }
         ], 
         "transportation": "", 
@@ -6507,8 +6286,8 @@
         ], 
         "contacts_attributes": [
           {
-            "name": "July Ugas, Director", 
-            "title": ""
+            "name": "July Ugas", 
+            "title": "Director"
           }
         ], 
         "name": "Mission Family Center", 
@@ -6521,7 +6300,7 @@
         ], 
         "faxes_attributes": [
           {
-            "number": "(415) 695-6963"
+            "number": "415 695-6963"
           }
         ], 
         "short_description": "The Mission Family Center offers an outpatient mental health clinic serving children, adolescents, and families of the Mission, Potrero Hill, and Castro-Valley neighborhoods and the citywide Latino population."
@@ -6534,7 +6313,7 @@
       {
         "phones_attributes": [
           {
-            "number": "(415) 864-5205"
+            "number": "415 864-5205"
           }
         ], 
         "transportation": "", 
@@ -6571,12 +6350,6 @@
             "Email Form on Website"
           ]
         ], 
-        "contacts_attributes": [
-          {
-            "name": "", 
-            "title": ""
-          }
-        ], 
         "name": "Mission Graduates", 
         "languages": [
           "English", 
@@ -6584,11 +6357,11 @@
           "other translations available"
         ], 
         "urls": [
-          "www.missiongraduates.org"
+          "http://www.missiongraduates.org"
         ], 
         "faxes_attributes": [
           {
-            "number": "(415) 864-0916"
+            "number": "415 864-0916"
           }
         ], 
         "short_description": "Mission Graduates is a nonprofit organization that increases the number of K-12 students in San Francisco's Mission District who are prepared for, and complete a college education."
@@ -6601,7 +6374,7 @@
       {
         "phones_attributes": [
           {
-            "number": "(415) 865-2105"
+            "number": "415 865-2105"
           }
         ], 
         "transportation": "", 
@@ -6653,11 +6426,11 @@
           "Tagalog"
         ], 
         "urls": [
-          "www.missionhiringhall.org"
+          "http://www.missionhiringhall.org"
         ], 
         "faxes_attributes": [
           {
-            "number": "(415) 865-2102"
+            "number": "415 865-2102"
           }
         ], 
         "short_description": "MHH assists skilled, job-ready candidates with recruitment, assessments, counseling, referrals, and screenings."
