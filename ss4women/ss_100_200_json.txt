@@ -2561,65 +2561,7 @@
       }
     ]
   },
-  {
-    "name": "Help Link 2-1-1 for Bay Area Resources",
-    "locations": [
-      {
-        "phones_attributes": [
-          {
-            "number": "2-1-1"
-          }
-        ],
-        "transportation": "",
-        "description": "2-1-1 provides free and confidential information and referrals for assistance with food, housing, employment, health care, counseling and more.",
-        "address_attributes": {
-          "city": "",
-          "state": "CA",
-          "street": "San Francisco",
-          "zip": ""
-        },
-        "services_attributes": [
-          {
-            "funding_sources": [],
-            "keywords": [],
-            "audience": "",
-            "how_to_apply": "",
-            "fees": "None",
-            "eligibility": "All",
-            "service_areas": [],
-            "wait": ""
-          }
-        ],
-        "mail_address_attributes": {
-          "city": "San Francisco",
-          "state": "CA",
-          "attention": "Help Link 2-1-1 for Bay Area Resources",
-          "street": "",
-          "zip": ""
-        },
-        "accessibility": [],
-        "hours": "24/7",
-        "emails": [
-          [
-            ""
-          ]
-        ],
-        "name": "Help Link 2-1-1 for Bay Area Resources",
-        "languages": [
-          "Multiple"
-        ],
-        "urls": [
-          "http://www.211.org"
-        ],
-        "faxes_attributes": [
-          {
-            "number": ""
-          }
-        ],
-        "short_description": "2-1-1 provides free and confidential information and referrals for assistance with food, housing, employment, health care, counseling and more."
-      }
-    ]
-  },
+  {"servs": {"desciption": "2-1-1 provides free and confidential information and referrals for assistance with food, housing, employment, health care, counseling and more.", "audience": "All", "short_desc": "2-1-1 provides free and confidential information and referrals for assistance with food, housing, employment, health care, counseling and more.", "urls": ["http://www.211.org", "http://www.211.org"], "fees": "None"}, "name": "Help Link 2-1-1 for Bay Area Resources"},
   {
     "name": "Henry Ohlhoff Recovery Programs",
     "locations": [
