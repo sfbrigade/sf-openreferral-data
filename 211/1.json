@@ -1,0 +1,118 @@
+[
+  {
+    "name": "CALIFORNIA STATE DEPARTMENT OF Education San Francisco Unified School District (SFUSD) Multilingual Programs Migrant Education Program",
+    "locations": [
+      {
+        "name": "CALIFORNIA STATE DEPARTMENT OF Education San Francisco Unified School District (SFUSD) Multilingual Programs Migrant Education Program",
+        "description": "Provides tutoring, health and social services to children of migrant workers",
+        "short_desc": "NA",
+        "address_attributes": {
+          "street": "1098 Harrison Street, 2nd Floor ",
+          "city": "San Francisco",
+          "state": "CA",
+          "zip": "94103"
+        },
+        "mail_address_attributes": {
+          "street": " ",
+          "city": null,
+          "state": null,
+          "zip": null
+        },
+        "hours": null,
+        "accessibility": [],
+        "contacts_attributes": {
+          "name": "Ana Cruz",
+          "title": "Supportive Services"
+        },
+        "coordinates": [
+          "-122.410448",
+          "37.773969"
+        ],
+        "emails": [],
+        "faxes_attributes": [
+          {
+            "number": "415-355-7355"
+          }
+        ],
+        "kind": "",
+        "languages": [],
+        "phones_attributes": [
+          {
+            "number": "415-355-7780",
+            "department": "Main"
+          },
+          {
+            "number": "415-355-7361",
+            "department": "Main"
+          },
+          {
+            "number": "415-355-7363",
+            "department": "Main"
+          }
+        ],
+        "transportation": " ",
+        "urls": [],
+        "services_attributes": {
+          "audience": null,
+          "eligibility": null,
+          "fees": null,
+          "how_to_apply": " ",
+          "service_areas": [],
+          "keywords": [
+            "Eye Care"
+          ],
+          "funding_sources": [
+            "State;"
+          ]
+        }
+      },
+      {
+        "name": "CALIFORNIA STATE DEPARTMENT OF Education San Francisco Unified School District (SFUSD) Multilingual Programs Migrant Education Program",
+        "description": null,
+        "short_desc": "NA",
+        "address_attributes": {
+          "street": "1098 Harrison Street, 2nd Floor ",
+          "city": "San Francisco",
+          "state": "CA",
+          "zip": "94103"
+        },
+        "mail_address_attributes": {
+          "street": " ",
+          "city": null,
+          "state": null,
+          "zip": null
+        },
+        "hours": null,
+        "accessibility": [],
+        "contacts_attributes": {
+          "name": "Ana Cruz",
+          "title": "Supportive Services"
+        },
+        "coordinates": [
+          "-122.410448",
+          "37.773969"
+        ],
+        "emails": [],
+        "faxes_attributes": [
+          {
+            "number": null
+          }
+        ],
+        "kind": "",
+        "languages": [],
+        "phones_attributes": [],
+        "transportation": " ",
+        "urls": [],
+        "services_attributes": {
+          "audience": null,
+          "eligibility": null,
+          "fees": null,
+          "how_to_apply": " ",
+          "service_areas": [],
+          "keywords": [],
+          "funding_sources": []
+        }
+      }
+    ]
+  }
+]
