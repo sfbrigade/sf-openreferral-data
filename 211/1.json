@@ -12,13 +12,6 @@
           "state": "CA",
           "zip": "94103"
         },
-        "mail_address_attributes": {
-          "street": " ",
-          "city": null,
-          "state": null,
-          "zip": null
-        },
-        "hours": null,
         "accessibility": [],
         "contacts_attributes": {
           "name": "Ana Cruz",
@@ -53,11 +46,6 @@
         "transportation": " ",
         "urls": [],
         "services_attributes": {
-          "audience": null,
-          "eligibility": null,
-          "fees": null,
-          "how_to_apply": " ",
-          "service_areas": [],
           "keywords": [
             "Eye Care"
           ],
@@ -68,7 +56,6 @@
       },
       {
         "name": "CALIFORNIA STATE DEPARTMENT OF Education San Francisco Unified School District (SFUSD) Multilingual Programs Migrant Education Program",
-        "description": null,
         "short_desc": "NA",
         "address_attributes": {
           "street": "1098 Harrison Street, 2nd Floor ",
@@ -76,13 +63,6 @@
           "state": "CA",
           "zip": "94103"
         },
-        "mail_address_attributes": {
-          "street": " ",
-          "city": null,
-          "state": null,
-          "zip": null
-        },
-        "hours": null,
         "accessibility": [],
         "contacts_attributes": {
           "name": "Ana Cruz",
@@ -93,25 +73,10 @@
           "37.773969"
         ],
         "emails": [],
-        "faxes_attributes": [
-          {
-            "number": null
-          }
-        ],
         "kind": "",
         "languages": [],
         "phones_attributes": [],
         "transportation": " ",
-        "urls": [],
-        "services_attributes": {
-          "audience": null,
-          "eligibility": null,
-          "fees": null,
-          "how_to_apply": " ",
-          "service_areas": [],
-          "keywords": [],
-          "funding_sources": []
-        }
       }
     ]
   }
