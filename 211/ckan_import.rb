@@ -1,6 +1,7 @@
 #Uses json builder gem to build json after mapping
 require 'json_builder'
 require 'csv'
+require 'facets/string/titlecase'
 
 #imports csv
 class Import_csv
@@ -129,11 +130,11 @@ class Build_json
     publicName = row[:publicname]
     parent = row[:parentagency]
     if official
-      official
+      official.titlecase
     elsif publicName
-      publicName
+      publicName.titlecase
     elsif parent
-      parent
+      parent.titlecase
     else
       'No Name'
     end
@@ -304,7 +305,7 @@ def construct_hash(loc)
     "services_attributes" => []
   }
   #strings
-  locs["name"] = loc.name
+  locs["name"] = loc.name.titlecase
   locs["description"] = loc.description
   locs["short_desc"] = loc.short_description
   locs["transportation"] = loc.transportation
@@ -353,7 +354,7 @@ def construct_hash(loc)
 end
 
 #read and load csv
-import = Import_csv.new('211sfwtax.csv')
+import = Import_csv.new('sf_only.csv')
 csv = import.make_hash
 
 #build csv file with json per row
@@ -379,10 +380,12 @@ end
 #read row by row and output json to file
 
 ##
-File.open('all_json.json', 'wb') do |f|
+File.open('sf_json.json', 'wb') do |f|
+  f.puts "["
   orgs.each do |key, value|
     puts "writing " + value["name"]
     #calls map row on each row and adds it to the file
-    f.puts value.to_json
+    f.puts value.to_json + ','
   end
+  f.puts "]"
 end
