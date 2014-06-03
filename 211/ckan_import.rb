@@ -314,8 +314,8 @@ def construct_hash(loc)
   end
   locs["emails"] = loc.emails
   locs["languages"] = loc.languages
-  if loc.faxes
-    loc.faxes.each do |fax|
+  loc.faxes.each do |fax|
+    if fax.number
       locs["faxes_attributes"] << {"number"=>fax.number}
     end
   end
