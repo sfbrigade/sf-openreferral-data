@@ -288,7 +288,6 @@ def construct_hash(loc)
     "description" => "",
     "short_desc" => "",
     "address_attributes" => {},
-    "mail_address_attributes" => {},
     "hours" => "",
     #no mapping
     "accessibility" => [],
@@ -305,7 +304,7 @@ def construct_hash(loc)
     "services_attributes" => []
   }
   #strings
-  locs["name"] = loc.name.titlecase
+  locs["name"] = loc.name.to_s.titlecase
   locs["description"] = loc.description
   locs["short_desc"] = loc.short_description
   locs["transportation"] = loc.transportation
@@ -315,40 +314,48 @@ def construct_hash(loc)
   end
   locs["emails"] = loc.emails
   locs["languages"] = loc.languages
-  loc.faxes.each do |fax|
-    locs["faxes_attributes"] << {"number"=>fax.number}
+  if loc.faxes
+    loc.faxes.each do |fax|
+      locs["faxes_attributes"] << {"number"=>fax.number}
+    end
   end
   locs["address_attributes"] = {
     "street"=>loc.address.street,
     "city"=>loc.address.city,
     "state"=>loc.address.state,
-    "zip"=>loc.address.zip
+    "zip"=>loc.address.zip.to_s[0..4]
   }
   if loc.mail_address.street
     locs["mail_address_attributes"] = {
       "street"=>loc.mail_address.street,
       "city"=>loc.mail_address.city,
       "state"=>loc.mail_address.state,
-      "zip"=>loc.mail_address.zip
+      "zip"=>loc.mail_address.zip.to_s[0..4]
     }
   end
-  loc.phones.each do |phone|
-    locs["phones_attributes"] << {"number"=>phone.number, "department"=>phone.department}
+  if loc.phones
+    loc.phones.each do |phone|
+      locs["phones_attributes"] << {"number"=>phone.number, "department"=>phone.department}
+    end
   end
   locs["urls"] = loc.urls
-  loc.contacts.each do |contact|
-    locs["contacts_attributes"] << {"name"=>contact.name,"title"=>contact.title}
+  if loc.contacts
+    loc.contacts.each do |contact|
+      locs["contacts_attributes"] << {"name"=>contact.name,"title"=>contact.title}
+    end
   end
-  loc.services.each do |service|
-    locs["services_attributes"] << {
-      "audience" => service.audience,
-      "eligibility" => service.eligibility,
-      "fees" => service.fees,
-      "how_to_apply" => service.how_to_apply,
-      "service_areas" => service.service_areas,
-      "keywords" => service.keywords,
-      "funding_sources" => service.funding_sources
-    }
+  if loc.services
+    loc.services.each do |service|
+      locs["services_attributes"] << {
+        "audience" => service.audience,
+        "eligibility" => service.eligibility,
+        "fees" => service.fees,
+        "how_to_apply" => service.how_to_apply,
+        "service_areas" => service.service_areas,
+        "keywords" => service.keywords,
+        "funding_sources" => service.funding_sources
+      }
+    end
   end
   return locs
 end
@@ -380,7 +387,7 @@ end
 #read row by row and output json to file
 
 ##
-File.open('sf_json.json', 'wb') do |f|
+File.open('sf.json', 'wb') do |f|
   #f.puts "["
   orgs.each do |key, value|
     puts "writing " + value["name"]
