@@ -1995,8 +1995,7 @@
                 "English"
             ],
             "urls": [
-                "http://www.bayviewci.org",
-                "mental.health@bayviewci.org"
+                "http://www.bayviewci.org"
             ],
             "address_attributes": {
                 "city": "San Francisco",
@@ -2005,7 +2004,8 @@
                 "zip": "94124"
             },
             "emails": [
-                "admin.admin@bayviewci.org"
+                "admin.admin@bayviewci.org",
+                "mental.health@bayviewci.org"
             ],
             "description": "The outpatient mental health family center offers outpatient mental health services for aults, children, and families, as well as community based case management services."
         },
@@ -2129,7 +2129,6 @@
             "contacts_attributes": [
                 {
                     "email": "lilian.shine@bayviewci.org",
-                    "fax": "y",
                     "name": "Lilian Shine",
                     "title": "Deputy Directory"
                 }
@@ -2557,7 +2556,7 @@
             ],
             "phones_attributes": [
                 {
-                    "number": "Number: 415 334-9919"
+                    "number": "415-334-9919"
                 }
             ],
             "short_desc": "Bernal Heights Neighborhood Center (BHNC) focuses on the needs of people with low- and moderate- incomes.",
@@ -4569,7 +4568,7 @@
                 "English"
             ],
             "urls": [
-                "clinicbythebay.org"
+                "http://www.clinicbythebay.org"
             ],
             "address_attributes": {
                 "city": "San Francisco",
@@ -4848,10 +4847,10 @@
             "name": "Community Justice Center: Violence Intervention Program",
             "phones_attributes": [
                 {
-                    "number": "415 202-2810"
+                    "number": "415-202-2810"
                 },
                 {
-                    "number": "415 292-2565'"
+                    "number": "415-292-2565'"
                 }
             ],
             "short_desc": "The Violence Intervention Program (VIP), formerly known as the Center for Special Problems, is a Department of Public Health program offered at the Community Justice Center.",
