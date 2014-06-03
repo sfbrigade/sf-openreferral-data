@@ -12,7 +12,6 @@
           "state": "CA",
           "zip": "94103"
         },
-        "accessibility": [],
         "contacts_attributes": {
           "name": "Ana Cruz",
           "title": "Supportive Services"
@@ -21,14 +20,11 @@
           "-122.410448",
           "37.773969"
         ],
-        "emails": [],
         "faxes_attributes": [
           {
             "number": "415-355-7355"
           }
         ],
-        "kind": "",
-        "languages": [],
         "phones_attributes": [
           {
             "number": "415-355-7780",
@@ -43,8 +39,6 @@
             "department": "Main"
           }
         ],
-        "transportation": " ",
-        "urls": [],
         "services_attributes": {
           "keywords": [
             "Eye Care"
@@ -63,7 +57,6 @@
           "state": "CA",
           "zip": "94103"
         },
-        "accessibility": [],
         "contacts_attributes": {
           "name": "Ana Cruz",
           "title": "Supportive Services"
@@ -71,12 +64,7 @@
         "coordinates": [
           "-122.410448",
           "37.773969"
-        ],
-        "emails": [],
-        "kind": "",
-        "languages": [],
-        "phones_attributes": [],
-        "transportation": " ",
+        ]
       }
     ]
   }
