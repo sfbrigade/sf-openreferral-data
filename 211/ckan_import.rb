@@ -337,10 +337,10 @@ def construct_hash(loc)
   end
   locs["urls"] = loc.urls
   loc.contacts.each do |contact|
-    locs["contacts_attributes"] = {"name"=>contact.name,"title"=>contact.title}
+    locs["contacts_attributes"] << {"name"=>contact.name,"title"=>contact.title}
   end
   loc.services.each do |service|
-    locs["services_attributes"] = {
+    locs["services_attributes"] << {
       "audience" => service.audience,
       "eligibility" => service.eligibility,
       "fees" => service.fees,
@@ -381,11 +381,11 @@ end
 
 ##
 File.open('sf_json.json', 'wb') do |f|
-  f.puts "["
+  #f.puts "["
   orgs.each do |key, value|
     puts "writing " + value["name"]
     #calls map row on each row and adds it to the file
-    f.puts value.to_json + ','
+    f.puts value.to_json
   end
-  f.puts "]"
+  #f.puts "]"
 end
