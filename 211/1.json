@@ -39,14 +39,14 @@
             "department": "Main"
           }
         ],
-        "services_attributes": {
+        "services_attributes": [
           "keywords": [
             "Eye Care"
           ],
           "funding_sources": [
             "State;"
           ]
-        }
+        ]
       }
     ]
   }
