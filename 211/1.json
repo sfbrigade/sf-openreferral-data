@@ -47,24 +47,6 @@
             "State;"
           ]
         }
-      },
-      {
-        "name": "CALIFORNIA STATE DEPARTMENT OF Education San Francisco Unified School District (SFUSD) Multilingual Programs Migrant Education Program",
-        "short_desc": "NA",
-        "address_attributes": {
-          "street": "1098 Harrison Street, 2nd Floor ",
-          "city": "San Francisco",
-          "state": "CA",
-          "zip": "94103"
-        },
-        "contacts_attributes": {
-          "name": "Ana Cruz",
-          "title": "Supportive Services"
-        },
-        "coordinates": [
-          "-122.410448",
-          "37.773969"
-        ]
       }
     ]
   }
