@@ -12,10 +12,12 @@
           "state": "CA",
           "zip": "94103"
         },
-        "contacts_attributes": {
-          "name": "Ana Cruz",
-          "title": "Supportive Services"
-        },
+        "contacts_attributes": [
+          {
+            "name": "Ana Cruz",
+            "title": "Supportive Services"
+          }
+        ],
         "coordinates": [
           "-122.410448",
           "37.773969"
