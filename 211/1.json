@@ -41,11 +41,36 @@
         ],
         "services_attributes": [
           {
-            "keywords": [
-              "Eye Care"
+            "audience": "Older adults age 55 or over, ethnic minorities and low-income persons",
+            "eligibility": "Age 55 or over for most programs, age 60 or over for lunch program",
+            "fees": "$2.50 suggested donation for lunch for age 60 or over, donations for other services appreciated. Cash and checks accepted.",
+            "how_to_apply": "Walk in or apply by phone.",
+            "service_areas": [
+              "Redwood City"
             ],
+            "keywords": [
+              "ADULT PROTECTION AND CARE SERVICES",
+              "Meal Sites/Home-delivered Mea",
+              "COMMUNITY SERVICES",
+              "Group Support",
+              "Information and Referral",
+              "EDUCATION SERVICES",
+              "English Language",
+              "RECREATION/LEISURE SERVICES",
+              "Arts and Crafts",
+              "Sports/Games/Exercise",
+              "Brown Bag Food Programs",
+              "Congregate Meals/Nutrition Sites",
+              "Senior Centers",
+              "Older Adults"
+            ],
+            "wait": "No wait.",
             "funding_sources": [
-              "State;"
+              "City",
+              "County",
+              "Donations",
+              "Fees",
+              "Fundraising"
             ]
           }
         ]
