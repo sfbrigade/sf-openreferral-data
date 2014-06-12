@@ -325,7 +325,8 @@ def construct_hash(loc)
     "state"=>loc.address.state,
     "zip"=>loc.address.zip.to_s[0..4]
   }
-  if loc.mail_address.street
+
+  if !loc.mail_address.street === /\A[[:space:]]*\z/
     locs["mail_address_attributes"] = {
       "street"=>loc.mail_address.street,
       "city"=>loc.mail_address.city,
