@@ -28,8 +28,15 @@ def find_name():
     if len(word) > 3:
       return word
 
+def find_addresses():
+  with open('glide_contact_page.txt') as f:
+    contact_text = f.read()
+  no_tags = re.sub('<.*?>', ' ', contact_text)
+  return re.findall('[0-9]+ [a-zA-Z]+ Street', no_tags)
+
 print 'name:', find_name()
 print 'phone numbers:', list(find_phone_numbers())
+print 'addresses:', find_addresses()
 
 
 # print 'tagging'
