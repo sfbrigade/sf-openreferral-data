@@ -65,14 +65,14 @@ for lineutf8 in F:
 	addr = { "street" : line[5], "city" : line[6], "state" : line[7], "zipcode" : line[8]}
 	if line[3] != '':
 		addr["attention"] = line[3]
-	location["address"] = addr
+	location["address_attributes"] = addr
 	location["emails"] = line[17].split()
 #	print location["emails"]
 #	for n, i in enumerate(location["emails"]):
 #		location["emails"][n].replace("(dot)",".")
 
-	location["faxes"] = {"number" : line[10]}
-	location["phones"] = {"number" : line[9]}
+	location["faxes_attributes"] = {"number" : line[10]}
+	location["phones_attributes"] = {"number" : line[9]}
 	location["service_attributes"] = {"keywords" : line[13]}
 	org["locations"] = location
 
