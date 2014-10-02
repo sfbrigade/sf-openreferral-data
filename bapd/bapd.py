@@ -80,7 +80,7 @@ for lineutf8 in F:
 #	print org   
 #	q = raw_input('Write Y/N?')
 #	if q == 'Y':
-	g.write(json.dumps(org) + '\n')
+	g.write(json.dumps(org) + ',' + '\n')
 
 #	t = raw_input('Quit Y/N?')
 #	if t == 'Y':
