@@ -7,8 +7,8 @@ This project is part of a movement to take data about social services including 
 
 This is just one piece of the project, you can also check out the:
 
-1. [https://github.com/sfbrigade/ohana-api](Repo with an API) that will serve up the data transformed here
-2. [https://github.com/sfbrigade/ohana-web-search](Repo with a frontend interface) for folks searching for help to find it
+1. [Repo with an API](https://github.com/sfbrigade/ohana-api) that will serve up the data transformed here
+2. [Repo with a frontend interface](https://github.com/sfbrigade/ohana-web-search) for folks searching for help to find it
 
 #Contribution guidelines
 The first thing to do is to bring yourself up to speed on the emerging Open Referral spec and the implementation examples of Ohana API, Ohana API admin and SMC-Connect. Ohana API and related tools came out of a 2013 Code for America fellowship project in San Mateo County.
