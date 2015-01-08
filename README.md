@@ -1,9 +1,13 @@
-sf-openreferral-transform-scripts
+SF Open Referral
 =================================
 
-A collection of transform scripts for taking raw San Francisco service provider data from different City Departments, and transforming it into the Open Referral specification.
+In this repo you'll find a collection of transform scripts for taking raw San Francisco service provider data from different City Departments and local community organizations, and transforming it into the Open Referral specification (link needed).
 
 This project is part of a movement to take data about social services including where they are and what they offer to whom, and transform it into a standard that can be shared broadly through the Ohana API and any other tool that supports the emerging Open Referral spec.
+
+This is just one piece of the project, you can also check out the:
+1. [https://github.com/sfbrigade/ohana-api](Repo with an API) that will serve up the data transformed here
+2. [https://github.com/sfbrigade/ohana-web-search](Repo with a frontend interface) for folks searching for help to find it
 
 #Contribution guidelines
 The first thing to do is to bring yourself up to speed on the emerging Open Referral spec and the implementation examples of Ohana API, Ohana API admin and SMC-Connect. Ohana API and related tools came out of a 2013 Code for America fellowship project in San Mateo County.
