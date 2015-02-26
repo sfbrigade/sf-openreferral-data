@@ -77,9 +77,10 @@ def scraper(file):
     direct_services = ''
     total_words = len(imp_words)
 
+    sys.stdout.write('"Organization",' + '"Program",' + '"Description",')
     for count, word in enumerate(imp_words):
         sys.stdout.write('"' + word[0] + '",')
-    sys.stdout.write('"Organization",' + '"Program",' + '"Description"')
+    sys.stdout.write('"No Match"' + "\n\n\n")
 
     for i, line in enumerate(file):   #go line by line
         line = line.strip()           #pull out extra spacing
@@ -91,15 +92,17 @@ def scraper(file):
                 were_at = 0 
                 for items in line.split("   "):
                     if were_at == 0:
-                        print "Organization: " + items + "\n"
+                        #print "Organization: " + items + "\n"
+                        sys.stdout.write('"' + items + '",')
                         were_at = were_at + 1
                     else:
-                        print "Program: " + items + "\n"
+                        #print "Program: " + items + "\n"
+                        sys.stdout.write('"' + items + '",')
                 were_at = 0
 
             elif record_line_num == 2:   #second line is the description...hopefully
-                print "Description: " + line + "\n"
-                print ""
+                #print "Description: " + line + "\n"
+                sys.stdout.write('"' + line + '",')
             else:
                 matched = False
                 
@@ -109,7 +112,9 @@ def scraper(file):
                     if(matched):                          #we've got a match
                         if word[0].lower() == "direct services":  #are we at the end of the record?
                             direct_services = direct_services + "; " + line
-                            print "NOT MATCHED THIS RECORD: " + not_matched    #if so, print the list of non matching data so we can deal with later
+
+                            sys.stdout.write('"' + not_matched + '"')
+
                             #print "\nEOR " + str(item_count) + " -----------------------------------------------------------------\n"
                             print "\n"
                             item_count = item_count + 1
@@ -125,39 +130,15 @@ def scraper(file):
             #print record_line_num
 
 
-    direct_services = re.split(r"\s*[;]\s*", direct_services.strip())
-    direct_services = set(direct_services)
-
-    new_direct_services = set()
-    
-    for service in direct_services:
-        service = service.strip()
-        service = service.replace("Direct Services: ","").strip()
-        service = service.replace("direct services:","").strip()
-        service = service.replace("Referrals to other resources available as needed.","").strip()
-        service = service.replace("referrals to other services as appropriate","").strip()
-        
-        service = service.strip()
-        service = service.rstrip('.')
-        new_direct_services.add(service.lower())
-
-        #print service + "\n"
-
-    #print direct_services;
-    print "Total unique direct services = " + str(len(new_direct_services)) + "\n"
-    for items in sorted(getUniqueWords(new_direct_services)):
-        print items
-
-
 def match_with_word(word, line):
     word_length = len(word[0])            #check the length of the word
 
     if line.split(":")[0].lower() == word[0].lower():   
         #we've got a match!
         #grab the contents to the right
-        print "label: " + word[0]
+        #print "label: " + word[0]
         label_text = line.split(":")[0] + ':'
-        print line.replace(label_text,"",1).strip() + '\n'  #print the matching line without the label
+        sys.stdout.write('"' + line.replace(label_text,"",1).strip() + '",') #print the matching line without the label
         return True
     else:
         return False
