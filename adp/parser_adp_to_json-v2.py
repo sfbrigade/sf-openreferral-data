@@ -9,28 +9,27 @@ class Entry:
 
 def scraper(file):
 
-#"Organization Name", "Program", "Address", "Phone", "Fax", "Email", "Website", "Contact", "Age Groups", "Languages Spoken", "Fees", "Service Hours", "Services Provided"
-
+    #mapping of APD fields to ohana
     imp_words = [
-            ['Administration Mailing Address', "Address"],
-            ['Administrative Office', "Address"],
-            ['Office location', "Address"],
-            ['Intake location', "Address"],
-            ['Mailing Address', "Address"],
-            ['Main Office', "Address"],
-            ['Corporate Office', "Address"],
-            ['24-Hour Hotline', "Phone"],
-            ['Toll-Free Telephone', "Phone"],
-            ['General Inquiries', "Phone"],          
-            ['Emergency Center Phone', "Phone"],
-            ['Emergency Bed Call-in #', "Phone"],
-            ['Address', "Address"],
+            ['Administration Mailing Address', "address"],
+            ['Administrative Office', "address"],
+            ['Office location', "address"],
+            ['Intake location', "address"],
+            ['Mailing Address', "address"],
+            ['Main Office', "address"],
+            ['Corporate Office', "address"],
+            ['24-Hour Hotline', "phone"],
+            ['Toll-Free Telephone', "phone"],
+            ['General Inquiries', "phone"],          
+            ['Emergency Center Phone', "phone"],
+            ['Emergency Bed Call-in #', "phone"],
+            ['Address', "address"],
             ['Primary Community Served', "audience"],
             ['Notes', "description"],
-            ['Info Line', "Phone"],
-            ['Phone', "Phone"],
-            ['Main Phone', "Phone"],
-            ['Intake Phone', "Phone"],
+            ['Info Line', "phone"],
+            ['Phone', "phone"],
+            ['Main Phone', "phone"],
+            ['Intake Phone', "phone"],
             ['Hours', "hours"],
             ['Clinic Hours', "hours"],
             ['Hours/Meeting times', "hours"],
@@ -39,8 +38,8 @@ def scraper(file):
             ['Program Hours', "hours"],
             ['Specific Intake Days and Times', "hours"],
             ['Days and Hours', "hours"],
-            ['TDD', "Phone"],
-            ['Fax', "number"],
+            ['TDD', "phone"],
+            ['Fax', "fax"],
             ['Email', "emails"],
             ['E-mail', "emails"],
             ['url', "urls"],
@@ -48,17 +47,17 @@ def scraper(file):
             ['What to Bring', "how_to_apply"],
             ['Things to Know', "how_to_apply"],
             ['Accessibility', "accessibility"],
-            ['Client fees, if any', "Fees"],
-            ['Client fee, if any', "Fees"],
-            ['Client fees', "Fees"],
-            ['Eligible Population', "eligibility"],
-            ['Eligible Populations', "eligibility"],
-            ['Eligible Population Served', "eligibility"],
+            ['Client fees, if any', "fees"],
+            ['Client fee, if any', "fees"],
+            ['Client fees', "fees"],
+            ['Eligible Population', "audience"],
+            ['Eligible Populations', "audience"],
+            ['Eligible Population Served', "audience"],
             ['Not Eligible', "eligibility"],
             ['Restrictions', "eligibility"],
             ['Direct Services', "keywords"],
             ['Direct Service', "keywords"],
-            ['Faith Based', ""],
+            ['Faith Based', "description"],
             ['Contact Persons', "name"],
             ['Contact Person', "name"],
             ['Contact', "name"],
@@ -66,8 +65,8 @@ def scraper(file):
             ['Intake Days', "hours"],
             ['Facility Hours', "hours"],
             ['Drop-In Clinic Hours', "hours"],
-            ['Location', "Address"],
-            ['Locations', "Address"],
+            ['Location', "address"],
+            ['Locations', "address"],
             ['Services', "keywords"],
             ['Days and Times', "hours"],
             ['Note', "description"],
@@ -79,11 +78,8 @@ def scraper(file):
     direct_services = ''
     total_words = len(imp_words)
 
-    setattr(entry, "eligibility", "")
-    setattr(entry, "fees", "")
-    
-    open('open_ref.json', 'w').close()
 
+    open('open_ref.json', 'w').close()  #clear out the json file
 
     for i, line in enumerate(file):   #go line by line
         line = line.strip()           #pull out extra spacing
@@ -95,20 +91,40 @@ def scraper(file):
                 #print "Organization Name: " + line + "\n"
                 were_at = 0 
                 entry = Entry()
+                setattr(entry, "eligibility", "")
+                setattr(entry, "fees", "")
+                setattr(entry, "accessibility", "")
+                setattr(entry, "audience", "")
+                setattr(entry, "how_to_apply", "")
+                setattr(entry, "hours", "")
+                setattr(entry, "emails", "")
+                setattr(entry, "urls", "")
+                setattr(entry, "languages", "")
+                setattr(entry, "fax", "")
+                setattr(entry, "phone", "")
+                setattr(entry, "name", "")
+                setattr(entry, "address", "")
+                setattr(entry, "audience", "")
+                setattr(entry, "description", "")
+                setattr(entry, "keywords", "")
+                setattr(entry, "organization_name", "")
+                setattr(entry, "program_name", "")
 
-
+                #first line often contains two values, org and program
                 for items in line.split("   "):
                     if were_at == 0:
                         print "Organization: " + items + "\n"
                         setattr(entry, "organization_name", items)
+
                         were_at = were_at + 1
                     else:
                         print "Program: " + items + "\n"
-                        setattr(entry, "organization_name", items)
+                        setattr(entry, "program_name", items)
                 were_at = 0
 
             elif record_line_num == 2:   #second line is the description...hopefully
                 print "Description: " + line + "\n"
+                setattr(entry, "description", line)
                 print ""
             else:
                 matched = False
@@ -119,13 +135,16 @@ def scraper(file):
                     if(matched):                          #we've got a match
                         
                         label_text = line.split(":")[0] + ':'
-                        just_data = line.replace(label_text,"").strip();
-                 
-                        setattr(entry, word[1], just_data.replace(";",",").strip())
+                        just_data =  line.replace(label_text,"").strip();
+
+                        setattr(entry, word[1], getattr(entry, word[1]) + just_data.replace(";",",").strip())
 
                         if word[0].lower() == "direct services":  #are we at the end of the record?
                             direct_services = direct_services + "; " + line
                             print "NOT MATCHED THIS RECORD: " + not_matched    #if so, print the list of non matching data so we can deal with later
+                            
+                            #TODO - figure out what to do with this extra info that doesn't match a field label
+
                             #print "\nEOR " + str(item_count) + " -----------------------------------------------------------------\n"
                             print "\n"
 
@@ -144,12 +163,10 @@ def scraper(file):
                 if(matched == False):
                     #print "NOT MATCHED: " + line
                     not_matched = not_matched + "\n" + line  #load all of these non-matching lines into one field so we can analyze
-                    
+
 
             record_line_num += 1
             #print record_line_num
-
-
 
 
 
@@ -157,11 +174,6 @@ def match_with_word(word, line):
     word_length = len(word[0])            #check the length of the word
 
     if line.split(":")[0].lower() == word[0].lower():   
-        #we've got a match!
-        #grab the contents to the right
-        #print "label: " + word[0]
-        #label_text = line.split(":")[0] + ':'
-        #print line.replace(label_text,"",1).strip() + '\n'  #print the matching line without the label
         return True
     else:
         return False
@@ -174,24 +186,29 @@ def to_open_referral(entry):
 
 
     city, state, zip, = '', '', ''
-    #languages = entry.languages_spoken
-    #short_description = entry.services_provided[:100]
+    languages = entry.languages
+    emails = entry.emails
+    short_description = entry.description[:100]
     #name, title = entry.contact, ''
 
     # Apply fanciness.
 
-    # if ', San Francisco' in entry.address:
-    #     entry.address = entry.address.replace(', San Francisco', '')
-    #     city = 'San Francisco'
-    # if ', CA' in entry.address:
-    #     entry.address = entry.address.replace(', CA', '')
-    #     state = 'CA'
-    # zip_regex = '( [0-9]{5})$'
-    # match = re.search(zip_regex, entry.address)
-    # if match:
-    #     zip = match.group(0).strip()
-    #     entry.address = re.sub(zip_regex, '', entry.address)
-    # languages = languages.replace(' and ', '').split(', ')
+    if ', San Francisco' in entry.address:
+        entry.address = entry.address.replace(', San Francisco', '')
+        city = 'San Francisco'
+    if ', CA' in entry.address:
+        entry.address = entry.address.replace(', CA', '')
+        state = 'CA'
+    zip_regex = '( [0-9]{5})$'
+    match = re.search(zip_regex, entry.address)
+    if match:
+        zip = match.group(0).strip()
+        entry.address = re.sub(zip_regex, '', entry.address)
+
+    languages = languages.replace(' and ', '').split(', ')
+    emails = emails.replace(' or ', '').split(', ')
+
+
     # if ',' in name:
     #     name, title = [s.strip() for s in name.rsplit(',', 1)]
 
@@ -199,72 +216,67 @@ def to_open_referral(entry):
     #     entry.services_provided.strip())[0]
 
     # Fill in the blanks.
-
+    # Look here for field definitions:  https://github.com/sfbrigade/ohana-api/wiki/Populating-the-Postgres-database-from-a-JSON-file#accessibility
+    
     return {
         'name':entry.organization_name,
         'locations':[
             {
-                'name':entry.organization_name,  
+                'name':entry.program_name,  
                 'contacts_attributes':[  
                     {
-                        'name':'none',  
-                        'title':'none',  
+                        'name':entry.name,   
+                        'title':"",    #TODO - need to split out from name based on comma
                     }
                 ],
-                'description':'none',
-                'short_description':'none',
+                'description':entry.description,
+                'short_description':short_description,
                 'address_attributes':{
-                    'street':'none' ,
-                    'city':'none' ,
-                    'state':'none' ,
-                    'zip':'none' 
+                    'street':entry.address ,
+                    'city':city ,       #TODO - need to grab out cities other than SF
+                    'state':state ,
+                    'zip':zip 
                 },
                 "mail_address_attributes": {
                     "attention": entry.organization_name,
-                    "street": 'none',
-                    "city": 'none',
-                    "state":'none' ,
-                    "zip": 'none'
+                    "street": entry.address,
+                    "city": city,
+                    "state":state ,
+                    "zip": zip
                 },
-                "hours":'none' ,
-                "transportation": "none",
+                "hours":entry.hours ,
                 "accessibility": [
+                    entry.accessibility
                 ],
-                "languages":'none',
+                "languages":entry.languages,  #TODO - remove extra words and period.
                 "emails": [
-                    'none'
+                    emails              #TODO - add commas between multiple            
                 ],
                 "faxes_attributes": [
                     {
-                        "number": 'none'
+                        "number": entry.fax
                     }
                 ],
                 "phones_attributes": [
                     {
-                        "number": 'none'
+                        "number": entry.phone 
                     }
                 ],
                 "urls": [
-                    'none'
+                    entry.urls
                 ],
                 "services_attributes": [
                     {
-                        "audience": "none",
+                        "audience": entry.audience,
                         "eligibility": entry.eligibility,
                         "fees": entry.fees,
-                        "how_to_apply": "",
-                        "service_areas": [],
-                        "keywords": [entry.keywords],
-                        "wait": "",
-                        "funding_sources": []
+                        "how_to_apply": entry.how_to_apply,
+                        "keywords": [entry.keywords],    #TODO - wrap items in double quotes.  I think...
                     }
                 ],
             }
         ],
     }
-
-
-
 
 
 
