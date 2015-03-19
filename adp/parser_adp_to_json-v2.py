@@ -189,6 +189,27 @@ def to_open_referral(entry):
     languages = entry.languages
     emails = entry.emails
     short_description = entry.description[:100]
+    
+    phonePattern = re.compile(r'(\d{3})\D*(\d{3})\D*(\d{4})\D*(\d*)$')
+    
+    newphone = phonePattern.search(entry.phone) 
+    
+    newphonebase = ""
+    newext = ""
+    
+    if newphone:
+		newphonebase = newphone.group(1) + newphone.group(2) + newphone.group(3)
+		newext = newphone.group(4)
+	
+    newfax = phonePattern.search(entry.fax) 
+    
+    newfaxbase = ""
+    newfaxext = ""
+    
+    if newfax:
+		newfaxbase = newfax.group(1) + newfax.group(2) + newfax.group(3)
+		newfaxext = newfax.group(4)
+    
     #name, title = entry.contact, ''
 
     # Apply fanciness.
@@ -254,12 +275,13 @@ def to_open_referral(entry):
                 ],
                 "faxes_attributes": [
                     {
-                        "number": entry.fax
+                        "number": newfaxbase
                     }
                 ],
                 "phones_attributes": [
                     {
-                        "number": entry.phone 
+                        "number": newphonebase,
+                        "extension": newext
                     }
                 ],
                 "urls": [
