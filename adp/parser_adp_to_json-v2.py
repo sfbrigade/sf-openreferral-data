@@ -77,7 +77,7 @@ def scraper(file):
     record_line_num = 1
     direct_services = ''
     total_words = len(imp_words)
-
+    entries = []
 
     open('open_ref.json', 'w').close()  #clear out the json file
 
@@ -148,12 +148,7 @@ def scraper(file):
                             #print "\nEOR " + str(item_count) + " -----------------------------------------------------------------\n"
                             print "\n"
 
-
-                            output = to_open_referral(entry)
-                            with open('open_ref.json', 'a') as f:
-                                out_data = json.dumps(output, indent=2, ensure_ascii=False)
-                                f.write(out_data)
-
+                            entries += [entry]
 
                             item_count = item_count + 1
                             not_matched = ''
@@ -168,6 +163,11 @@ def scraper(file):
             record_line_num += 1
             #print record_line_num
 
+    entries = [to_open_referral(entry) for entry in entries]
+    with open('open_ref.json', 'a') as f:
+        out_data = json.dumps(entries, indent=2, ensure_ascii=True)
+        f.write(out_data)
+
 
 
 def match_with_word(word, line):
@@ -178,13 +178,8 @@ def match_with_word(word, line):
     else:
         return False
 
-
-
 def to_open_referral(entry):
-
     # Default values.
-
-
     city, state, zip, = '', '', ''
     languages = entry.languages
     emails = entry.emails
