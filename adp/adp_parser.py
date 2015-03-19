@@ -4,6 +4,8 @@ import re
 import json
 import sys
 
+from english_list_parser import EnglishListParser
+
 class Entry:
     pass
 
@@ -224,8 +226,8 @@ def to_open_referral(entry):
 	if len(entry.program_name.strip()) == 0:
 		entry.program_name = entry.organization_name
 
-    languages = languages.replace(' and ', '').replace('.','').strip().split(', ')
-    emails = emails.replace(' or ', '').split(',')
+    languages = EnglishListParser.parse_list(languages)
+    emails = EnglishListParser.parse_list(emails)
 
     commapos = entry.name.find(',')
     fulllen = len(entry.name)
@@ -272,12 +274,8 @@ def to_open_referral(entry):
                 "accessibility": [
                     entry.accessibility
                 ],
-                "languages": 
-                	languages  #TODO - remove extra words and period.
-                	,
-                "emails": [
-                	entry.emails             #TODO - add commas between multiple            
-                	],
+                "languages": languages,
+                "emails": emails,
                 "faxes_attributes": [
                     {
                         "number": newfaxbase
@@ -304,8 +302,6 @@ def to_open_referral(entry):
             }
         ],
     }
-
-
 
 if __name__ == '__main__':
     scraper(open(argv[1]))

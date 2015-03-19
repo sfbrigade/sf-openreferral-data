@@ -101,7 +101,8 @@
         "short_desc": "Cathonic Charities/CYO\u2019s mission is to house homeless people with disabling HIV and AIDS. At Lelan", 
         "languages": [
           "English", 
-          "SpanishGerman"
+          "Spanish", 
+          "German"
         ], 
         "urls": [
           ""
@@ -564,7 +565,8 @@
         "name": "Cameo House Alternative Sentcing Program", 
         "short_desc": "In partnership with the San Francisco Adult Probation Department, the Center on Juvenile and Crimina", 
         "languages": [
-          "EnglishSpanish"
+          "English", 
+          "Spanish"
         ], 
         "urls": [
           ""
@@ -1662,7 +1664,7 @@
           "Spanish", 
           "Cantonese", 
           "Mandarin", 
-          "German  We are able to arrange ASL interpreters"
+          "German.  We are able to arrange ASL interpreters"
         ], 
         "urls": [
           ""
@@ -1719,7 +1721,8 @@
         "name": "Hamilton Family Residence & Emergency Center", 
         "short_desc": "Our mission is to break the cycle of homelessness and poverty. Through a housing-first approach, we ", 
         "languages": [
-          "English & Spanish"
+          "English", 
+          "Spanish"
         ], 
         "urls": [
           ""
@@ -1860,7 +1863,8 @@
           "English", 
           "Spanish", 
           "Mandarin", 
-          "Farsi,Others"
+          "Farsi", 
+          "Others"
         ], 
         "urls": [
           ""
@@ -2032,7 +2036,7 @@
         "short_desc": "Our mission is to make the dream of attending college a reality for former foster youth or out of ho", 
         "languages": [
           "English", 
-          "Spanish Additional language translation possible"
+          "Spanish. Additional language translation possible"
         ], 
         "urls": [
           "https://www.ccsf.edu/en/student-services/student-counseling/guardians-scholars-program.html"
@@ -2376,7 +2380,7 @@
         "name": "Project Rebound", 
         "short_desc": "Project Rebound sees education as an alternative to mass incarceration. We seek to increase opportun", 
         "languages": [
-          "English Translators may be available for other languages"
+          "English. Translators may be available for other languages"
         ], 
         "urls": [
           ""
@@ -2663,7 +2667,7 @@
         "name": "PEP Jobs", 
         "short_desc": "The mission of PEP Jobs is to serve people with epilepsy and/or brain injuries in navigating a caree", 
         "languages": [
-          "English Translation services available"
+          "English. Translation services available"
         ], 
         "urls": [
           ""
@@ -2780,7 +2784,7 @@
           "English", 
           "Cantonese", 
           "Mandarin", 
-          "Vietnamese  Interpreter service available"
+          "Vietnamese.  Interpreter service available"
         ], 
         "urls": [
           ""
@@ -2883,7 +2887,8 @@
         ], 
         "hours": "Monday \u2013 Friday, 9am to 5pm", 
         "emails": [
-          "sray@ecs-sf.org or esanders@ecs-sf.org"
+          "sray@ecs-sf.org", 
+          "esanders@ecs-sf.org"
         ], 
         "contacts_attributes": [
           {
@@ -3074,7 +3079,7 @@
           "Russian", 
           "English", 
           "Cantonese", 
-          "Spanish Note: Non-native speakers are welcome to access the Technology Center facilities although the job search resources are primarily in English"
+          "Spanish. Note: Non-native speakers are welcome to access the Technology Center facilities although the job search resources are primarily in English"
         ], 
         "urls": [
           ""
@@ -3247,7 +3252,8 @@
         "name": "Employment Partnership Program", 
         "short_desc": "Clean City Partnership Program provides neighborhood-based transitional employment, training and job", 
         "languages": [
-          "EnglishSpanish"
+          "English", 
+          "Spanish"
         ], 
         "urls": [
           ""
@@ -3293,7 +3299,8 @@
         ], 
         "hours": "Thursdays from 10:00am to 2:00pm", 
         "emails": [
-          "rafi@breadproject.org  or info@breadproject.org"
+          "rafi@breadproject.org", 
+          "info@breadproject.org"
         ], 
         "contacts_attributes": [
           {
@@ -3652,7 +3659,7 @@
         "short_desc": "The mission is to build a community that is empowered, clean, safe and healthy. The Methadone Mainte", 
         "languages": [
           "English", 
-          "Spanish Translation services available upon request"
+          "Spanish. Translation services available upon request"
         ], 
         "urls": [
           ""
@@ -4062,7 +4069,8 @@
           "English", 
           "Spanish", 
           "Tagalog", 
-          "Farsi,Chinese"
+          "Farsi", 
+          "Chinese"
         ], 
         "urls": [
           ""
@@ -4108,7 +4116,9 @@
         ], 
         "hours": "Wednesday 8am-12pm, Thursday 8am-12pm, Friday 8am-12pm", 
         "emails": [
-          "ronald.sanders@sfdph.org, juanita.alvarado@sfdph.org,  joseph.calderon@sfdph.org"
+          "ronald.sanders@sfdph.org", 
+          "juanita.alvarado@sfdph.org", 
+          "joseph.calderon@sfdph.org"
         ], 
         "contacts_attributes": [
           {
@@ -4179,7 +4189,7 @@
         "short_desc": "The SFVAMC Downtown Clinic offers primary care and a wide array of mental health services, including", 
         "languages": [
           "English", 
-          "Tagalog Translation services available for other languages"
+          "Tagalog. Translation services available for other languages"
         ], 
         "urls": [
           ""
@@ -4526,7 +4536,8 @@
         "short_desc": "Residential treatment facility dedicated to serve American Indian communities, and all people with a", 
         "languages": [
           "English", 
-          "Navajo,other American Indian languages"
+          "Navajo", 
+          "other American Indian languages"
         ], 
         "urls": [
           ""
@@ -5581,7 +5592,7 @@
         "short_desc": "Mission Mental Health is an outpatient mental health clinic that provides services to adults age 18 ", 
         "languages": [
           "English", 
-          "Spanish Accessibility: Wheelchair accessible Other disabilities area accommodated"
+          "Spanish. Accessibility: Wheelchair accessible. Other disabilities area accommodated"
         ], 
         "urls": [
           ""
@@ -5759,7 +5770,8 @@
           "English", 
           "Cantonese", 
           "Mandarin", 
-          "RussianSpanish"
+          "Russian", 
+          "Spanish"
         ], 
         "urls": [
           ""
@@ -5934,8 +5946,9 @@
         "languages": [
           "English", 
           "Spanish", 
-          "Russian Onsite translation in Chinese dialects", 
-          "Vietnamese,Tagalog"
+          "Russian. Onsite translation in Chinese dialects", 
+          "Vietnamese", 
+          "Tagalog"
         ], 
         "urls": [
           ""
@@ -6110,7 +6123,7 @@
           "Cantonese", 
           "Mandarin", 
           "Limited Spanish", 
-          "& Vietnamese"
+          "Vietnamese"
         ], 
         "urls": [
           ""
@@ -6156,7 +6169,8 @@
         ], 
         "hours": "", 
         "emails": [
-          "fbroome@bcoa.org or bcoa@bcoa.org"
+          "fbroome@bcoa.org", 
+          "bcoa@bcoa.org"
         ], 
         "contacts_attributes": [
           {
@@ -6457,7 +6471,7 @@
         "short_desc": "Centerforce\u2019s Positive Connections Program provides intensive transitional case management service", 
         "languages": [
           "English", 
-          "Spanish Translation services will be arranged when possible"
+          "Spanish. Translation services will be arranged when possible"
         ], 
         "urls": [
           ""
@@ -6515,7 +6529,7 @@
         "short_desc": "The CASC is a one-stop community corrections reentry center that bridges APD probation supervision s", 
         "languages": [
           "English", 
-          "Spanish Language access for limited English proficient (LEP) individuals is available"
+          "Spanish. Language access for limited English proficient (LEP) individuals is available"
         ], 
         "urls": [
           ""
@@ -6690,7 +6704,7 @@
           "Spanish", 
           "Cantonese", 
           "Mandarin", 
-          "German  We are able to arrange ASL interpreters"
+          "German.  We are able to arrange ASL interpreters"
         ], 
         "urls": [
           "www.compass-sf.org/programs/connecting-point"
@@ -6862,7 +6876,8 @@
         "name": "Aging and Disability Resource Center", 
         "short_desc": "Aging and Disability Resource Centers (ADRCs) offer the general public a single source for connectin", 
         "languages": [
-          "Englishother languages  Please call for information"
+          "English", 
+          "other languages.  Please call for information"
         ], 
         "urls": [
           ""
@@ -6920,7 +6935,7 @@
         "short_desc": "SF-START is designed to provide coordinated and integrated services to support recovery in partnersh", 
         "languages": [
           "English", 
-          "Spanish Accessibility: Sanctuary is not fully wheelchair accessible Other shelters have elevators"
+          "Spanish. Accessibility: Sanctuary is not fully wheelchair accessible. Other shelters have elevators"
         ], 
         "urls": [
           "www.ecs-sf.org"
@@ -7619,7 +7634,8 @@
         "short_desc": "To continually strive to provide the highest quality of pre- and post-release court alternatives.  P", 
         "languages": [
           "English", 
-          "Spanish,Chinese Additional languages served by interpreter"
+          "Spanish", 
+          "Chinese. Additional languages served by interpreter"
         ], 
         "urls": [
           ""
@@ -7734,7 +7750,7 @@
         "name": "No Violence Alliance (NoVA)", 
         "short_desc": "The primary goal of the NoVA Project is to address the violence plaguing San Francisco and in partic", 
         "languages": [
-          "EnglishEnglish", 
+          "English.English", 
           "Spanish"
         ], 
         "urls": [
@@ -7968,7 +7984,7 @@
           "Spanish", 
           "Chinese", 
           "Taglog", 
-          "Vietnamese Other languages can  be accommodated"
+          "Vietnamese. Other languages can  be accommodated"
         ], 
         "urls": [
           ""
@@ -8315,7 +8331,7 @@
         "name": "Social Work Unit", 
         "short_desc": "Tenderloin Neighborhood Development Corporation\u2019s (TNDC) mission is to provide safe, affordable ho", 
         "languages": [
-          "English Some Spanish", 
+          "English. Some Spanish", 
           "Tagalog", 
           "Cantonese", 
           "Mandarin", 
@@ -8905,7 +8921,7 @@
           "English", 
           "Spanish", 
           "Mandarin", 
-          "cantonese  We are all able to request translation services for languages outside of our capacity"
+          "cantonese.  We are all able to request translation services for languages outside of our capacity"
         ], 
         "urls": [
           ""
@@ -9021,7 +9037,8 @@
         "languages": [
           "English", 
           "Spanish", 
-          "ASLJapanese"
+          "ASL", 
+          "Japanese"
         ], 
         "urls": [
           ""
@@ -9259,7 +9276,7 @@
           "Spanish", 
           "Chinese", 
           "Taglog", 
-          "Vietnamese Other languages can  be accommodated"
+          "Vietnamese. Other languages can  be accommodated"
         ], 
         "urls": [
           ""
@@ -9376,7 +9393,7 @@
         "languages": [
           "English", 
           "Spanish", 
-          "Russian Other languages can be accommodated"
+          "Russian. Other languages can be accommodated"
         ], 
         "urls": [
           ""
@@ -9501,7 +9518,8 @@
           "Mandarin", 
           "Cantonese", 
           "Tagalog", 
-          "French BayLegal will serve clients in any other languages through use of Language Line or other assistance"
+          "French. BayLegal will serve clients in any other languages through use of Language Line", 
+          "other assistance"
         ], 
         "urls": [
           ""
@@ -9678,7 +9696,7 @@
         "name": "Women\u2019s Employment Rights Clinic", 
         "short_desc": "The Clinic provides free or low-cost legal services to people with employment-related legal problems", 
         "languages": [
-          "English Other languages can be accommodated"
+          "English. Other languages can be accommodated"
         ], 
         "urls": [
           ""
@@ -9796,7 +9814,8 @@
         "languages": [
           "English", 
           "Spanish", 
-          "CantonieseMandarin Russian by special arrangement"
+          "Cantoniese", 
+          "Mandarin. Russian by special arrangement"
         ], 
         "urls": [
           ""
@@ -10263,7 +10282,8 @@
           "English", 
           "Cantonese", 
           "Mandarin", 
-          "Spanish,Vietnamese", 
+          "Spanish", 
+          "Vietnamese", 
           "other translation available"
         ], 
         "urls": [
@@ -10380,7 +10400,8 @@
         "short_desc": "Children of Incarcerated Parents Social Worker and Adult Social Workers work with current and former", 
         "languages": [
           "English", 
-          "Spanish,other languages accommodated as needed"
+          "Spanish", 
+          "other languages accommodated as needed"
         ], 
         "urls": [
           ""
@@ -10441,11 +10462,12 @@
           "Mandarin", 
           "Toisanese", 
           "Spanish", 
-          "Italian Volunteers also speak Russian", 
+          "Italian. Volunteers also speak Russian", 
           "French", 
           "Portuguese", 
           "Tagalog", 
-          "French,other languages Materials are multilingual"
+          "French", 
+          "other languages. Materials are multilingual"
         ], 
         "urls": [
           ""
@@ -10610,7 +10632,8 @@
         ], 
         "hours": "Monday \u2013 Friday from 9:00am \u2013 5:00pm", 
         "emails": [
-          "samantha@womenprisoners.org, hafsah@womenprisoners.org"
+          "samantha@womenprisoners.org", 
+          "hafsah@womenprisoners.org"
         ], 
         "contacts_attributes": [
           {
@@ -10621,8 +10644,9 @@
         "name": "California Coalition for Women Prisoners (CCWP)", 
         "short_desc": "CCWP is a grassroots social justice organization, with members inside and outside prison, that chall", 
         "languages": [
-          "English In addition", 
-          "Compa\u00f1eras Program hightlightssupports issues of Spanish speakers"
+          "English. In addition", 
+          "Compa\u00f1eras Program hightlights", 
+          "supports issues of Spanish speakers"
         ], 
         "urls": [
           ""
@@ -10726,7 +10750,8 @@
         ], 
         "hours": "Monday - Friday, 9:00am to 5:00pm", 
         "emails": [
-          "alex@prisonerswithchildren.org, manuel@prisonerswithchildren.org"
+          "alex@prisonerswithchildren.org", 
+          "manuel@prisonerswithchildren.org"
         ], 
         "contacts_attributes": [
           {
@@ -10854,7 +10879,7 @@
         "name": "Prisoner Legal Services", 
         "short_desc": "We help the San Francisco Sheriff's Department in its mission to meet or exceed local, state and fed", 
         "languages": [
-          "English Translation services available"
+          "English. Translation services available"
         ], 
         "urls": [
           ""
@@ -11776,7 +11801,7 @@
         "name": "Residential Treatment Services", 
         "short_desc": "The mission of HealthRIGHT360 is to give hope, build health, and change lives for people in need.  W", 
         "languages": [
-          "English  If you need interpreter please let us know"
+          "English.  If you need interpreter please let us know"
         ], 
         "urls": [
           ""
@@ -11833,7 +11858,7 @@
         "name": "FOTEP El Monte", 
         "short_desc": "The mission of HealthRIGHT360 is to give hope, build health, and change lives for people in need.  W", 
         "languages": [
-          "English  Translation services can be made available"
+          "English.  Translation services can be made available"
         ], 
         "urls": [
           ""
@@ -12295,8 +12320,8 @@
         "short_desc": "We provide more than shelter and food. We provide the ability to rise above devastating, negative el", 
         "languages": [
           "English", 
-          "SpanishEnglishEnglish", 
-          "SpanishEnglish", 
+          "Spanish.English.English", 
+          "Spanish.English", 
           "Spanish"
         ], 
         "urls": [
@@ -13048,10 +13073,10 @@
         "short_desc": "The Re-Entry Resource Center is a centralized location for custodial and non-custodial individuals t", 
         "languages": [
           "English", 
-          "SpanishEnglish", 
-          "SpanishEnglish", 
-          "SpanishEnglish", 
-          "SpanishEnglish"
+          "Spanish.English", 
+          "Spanish.English", 
+          "Spanish.English", 
+          "Spanish.English"
         ], 
         "urls": [
           ""
@@ -13109,7 +13134,7 @@
         "short_desc": "Committee on the Shelterless (COTS) Mary Isaak Center facility is the setting for the majority of CO", 
         "languages": [
           "English", 
-          "Spanish  Translation services available upon request"
+          "Spanish.  Translation services available upon request"
         ], 
         "urls": [
           ""
