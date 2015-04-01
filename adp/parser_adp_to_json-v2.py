@@ -221,12 +221,27 @@ def to_open_referral(entry):
         zip = match.group(0).strip()
         entry.address = re.sub(zip_regex, '', entry.address)
 
-    languages = languages.replace(' and ', '').split(', ')
-    emails = emails.replace(' or ', '').split(', ')
+	if len(entry.program_name.strip()) == 0:
+		entry.program_name = entry.organization_name
+
+    languages = languages.replace(' and ', '').replace('.','').strip().split(', ')
+    emails = emails.replace(' or ', '').split(',')
+
+    commapos = entry.name.find(',')
+    fulllen = len(entry.name)
+
+    if commapos > 0:
+        contact_name =  entry.name[0:commapos]
+        contact_title =  entry.name[commapos+1:fulllen].strip()
+    else:
+        contact_name =  entry.name
+        contact_title = 'NA'
+
+    
 
 
-    # if ',' in name:
-    #     name, title = [s.strip() for s in name.rsplit(',', 1)]
+    #if ',' in name:
+    	#name, title = [s.strip() for s in name.rsplit(',', 1)]
 
     # short_description = sent_detector.tokenize(
     #     entry.services_provided.strip())[0]
@@ -241,33 +256,28 @@ def to_open_referral(entry):
                 'name':entry.program_name,  
                 'contacts_attributes':[  
                     {
-                        'name':entry.name,   
-                        'title':"",    #TODO - need to split out from name based on comma
+                        'name':contact_name,   
+                        'title':contact_title,    #TODO - need to split out from name based on comma
                     }
                 ],
                 'description':entry.description,
-                'short_description':short_description,
+                'short_desc':short_description,
                 'address_attributes':{
                     'street':entry.address ,
                     'city':city ,       #TODO - need to grab out cities other than SF
                     'state':state ,
                     'zip':zip 
                 },
-                "mail_address_attributes": {
-                    "attention": entry.organization_name,
-                    "street": entry.address,
-                    "city": city,
-                    "state":state ,
-                    "zip": zip
-                },
                 "hours":entry.hours ,
                 "accessibility": [
                     entry.accessibility
                 ],
-                "languages":entry.languages,  #TODO - remove extra words and period.
+                "languages": 
+                	languages  #TODO - remove extra words and period.
+                	,
                 "emails": [
-                    emails              #TODO - add commas between multiple            
-                ],
+                	entry.emails             #TODO - add commas between multiple            
+                	],
                 "faxes_attributes": [
                     {
                         "number": newfaxbase
