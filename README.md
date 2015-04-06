@@ -1,9 +1,9 @@
 SF Open Referral
 =================================
 
-In this repo you'll find a collection of transform scripts for taking raw San Francisco service provider data from different City Departments and local community organizations, and transforming it into the Open Referral specification (link needed).
+This project is part of a movement to take data about social services including where they are and what they offer to whom, and transform it into a standard that can be shared broadly through the Ohana API and any other tool that supports the emerging Open Referral spec.  
 
-This project is part of a movement to take data about social services including where they are and what they offer to whom, and transform it into a standard that can be shared broadly through the Ohana API and any other tool that supports the emerging Open Referral spec.
+In this repo you'll find a collection of transform scripts for taking raw San Francisco service provider data from different City Departments and local community organizations, and transforming it into the Open Referral specification (link needed).
 
 This is just one piece of the project, you can also check out the:
 
