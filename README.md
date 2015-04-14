@@ -1,11 +1,10 @@
-SF Open Referral
-=================================
+##SF Open Referral
 
-The SF Open Referral project is part of a larger movement to collect raw data about social services, including where they are and what they offer to whom, and transform it into a standard that can be shared broadly through any tool that supports the emerging [Open Referral specification.](https://github.com/codeforamerica/OpenReferral/blob/master/README.md)  
+The SF Open Referral project is part of a larger movement to collect raw data about social services, including where they are and what they offer to whom, and transform it into a standard that can be shared broadly through any tool that supports the emerging [Open Referral Specification.](https://github.com/codeforamerica/OpenReferral/blob/master/README.md)  
 
 An additional aim of this project is to automate how service organizations collect and update their information by using the [Ohana API](https://github.com/sfbrigade/ohana-api) to send the now standardized data into individually maintained service provider databases. Ohana is the product of the 2013 Code for America fellowship project in San Mateo County, which also produced [SMC-Connect](http://www.smc-connect.org/). This project is based on these earlier efforts. 
 
-#How to Contribute
+##How to Contribute
 Before contributing, read our [wiki](https://github.com/sfbrigade/sf-openreferral/wiki) to understand the needs, background, and context of the project, as well as view implementation examples of Ohana and the Open Referral spec. Once you've done that, contact [project management](https://github.com/aprilsteed) or [engineering](https://github.com/graysonwright) to find out where your contribution will be most helpful.  
 
 Thanks for reading and happy hacking! 
