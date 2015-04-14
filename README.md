@@ -1,29 +1,11 @@
 SF Open Referral
 =================================
 
-This project is part of a movement to take data about social services including where they are and what they offer to whom, and transform it into a standard that can be shared broadly through the Ohana API and any other tool that supports the emerging Open Referral spec.  
+The SF Open Referral project is part of a larger movement to collect raw data about social services, including where they are and what they offer to whom, and transform it into a standard that can be shared broadly through any tool that supports the emerging [Open Referral specification.](https://github.com/codeforamerica/OpenReferral/blob/master/README.md)  
 
-In this repo you'll find a collection of transform scripts for taking raw San Francisco service provider data from different City Departments and local community organizations, and transforming it into the Open Referral specification (link needed).
+An additional aim of this project is to automate how service organizations collect and update their information by using the [Ohana API](https://github.com/sfbrigade/ohana-api) to send the now standardized data into individually maintained service provider databases. Ohana is the product of the 2013 Code for America fellowship project in San Mateo County, which also produced [SMC-Connect](http://www.smc-connect.org/). This project is based on these earlier efforts. 
 
-This is just one piece of the project, you can also check out the:
+#How to Contribute
+Before contributing, read our [wiki](https://github.com/sfbrigade/sf-openreferral/wiki) to understand the needs, background, and context of the project, as well as view implementation examples of Ohana and the Open Referral spec. Once you've done that, contact [project management](https://github.com/aprilsteed) or [engineering](https://github.com/graysonwright) to find out where your contribution will be most helpful.  
 
-1. [Repo with an API](https://github.com/sfbrigade/ohana-api) that will serve up the data transformed here
-2. [Repo with a frontend interface](https://github.com/sfbrigade/ohana-web-search) for folks searching for help to find it
-
-#Contribution guidelines
-The first thing to do is to bring yourself up to speed on the emerging Open Referral spec and the implementation examples of Ohana API, Ohana API admin and SMC-Connect. Ohana API and related tools came out of a 2013 Code for America fellowship project in San Mateo County.
-
-#Quick and dirty tasks 4/9/2014
-
-1. Look at the existing list of [datasets here](https://docs.google.com/spreadsheet/ccc?key=0ArHmv-6U1drqdGxmNTFwdjl5ckZUZmhGNFNzVWp4c3c&usp=sharing)
-2. Copy over the promising ones to a [wiki page here](https://github.com/sfbrigade/sf-openreferral-transform-scripts/wiki/Data-Sources) under *Need to be worked on:*
-3. Look them over and pick one to start working on, edit the [wiki page](https://github.com/sfbrigade/sf-openreferral-transform-scripts/wiki/Data-Sources) and move to *working on:*
-4. Create a folder for your script named something sensible related to the data you're working on, the repo will have one folder for each dataset
-5. Write an extraction script, if necessary, to get the data from the original source (website, PDF, or even printed document) to a basic spreadsheet
-6. Write a transform script to transform into the format [documented here](https://github.com/codeforamerica/ohana-api/wiki/Populating-the-Postgres-database-from-a-JSON-file)
-
----------------------------------------
-
-
-![The plan](https://raw.githubusercontent.com/sfbrigade/sf-openreferral-transform-scripts/master/plan.png)
-
+Thanks for reading and happy hacking! 
