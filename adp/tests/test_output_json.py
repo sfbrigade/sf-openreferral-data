@@ -11,7 +11,7 @@ def test_output_strips_email_spaces():
     subprocess.Popen(command)
     time.sleep(1)
 
-    with open('adp/open_ref.json') as data_file:
+    with open('open_ref.json') as data_file:
         data = json.load(data_file)
         offensive_field = data[70]["locations"][0]["emails"]
         expected = [
