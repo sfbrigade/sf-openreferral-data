@@ -10,7 +10,13 @@ Some highlights:
 3.  open_ref.json : the output from running the apd_parser.py script on the source data file.  This should be ready for import into Ohana.  
 4.  tests : folder that contains test files for the importer.  To run the test cd into the apd folder and run py.test.
 
-#Instructions for setting up py.test on your computer
+##Instructions for running apd_parser.py
+
+cd into the apd folder and run this command:
+
+python adp_parser.py FullExport_servicesOnly_newest.txt
+
+##Instructions for setting up py.test on your computer
 
 There can be an issue with PYTHONPATH and running the tests.  Best chance at success is to run this from the root of the repository:
 
