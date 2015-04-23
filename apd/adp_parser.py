@@ -292,6 +292,9 @@ def to_open_referral(entry):
                 ],
                 "services_attributes": [
                     {
+                        
+                        "name": entry.program_name,
+                        "description": entry.description,
                         "audience": entry.audience,
                         "eligibility": entry.eligibility,
                         "fees": entry.fees,
