@@ -19,8 +19,8 @@
         "services_attributes": [
           {
             "name": "", 
-            "eligibility": "", 
-            "audience": "All currently homeless individuals and family members.  There are additional eligibility requirements per property that may include, but not limited to, annual income limits and verified disability.  Please visit the website for more onformation.", 
+            "audience": "", 
+            "eligibility": "All currently homeless individuals and family members.  There are additional eligibility requirements per property that may include, but not limited to, annual income limits and verified disability.  Please visit the website for more onformation.", 
             "how_to_apply": "State-Issued ID. Program will assist client in getting this.", 
             "fees": "None", 
             "keywords": [
@@ -78,8 +78,8 @@
         "services_attributes": [
           {
             "name": "Leland House", 
-            "eligibility": "", 
-            "audience": "All currently homeless individuals, 18 years or older, with disabling HIV or AIDS, psychiatric disorders or substance abuse issues.", 
+            "audience": "", 
+            "eligibility": "All currently homeless individuals, 18 years or older, with disabling HIV or AIDS, psychiatric disorders or substance abuse issues.", 
             "how_to_apply": "State-Issued ID, Social Security Card, Proof of SF Residency, TB Clearance, Medi-Cal card or other proof of insurance so that medications can be ordered.", 
             "fees": "Rent is calculated at 30% of monthly income. There is an annual income limit.", 
             "keywords": [
@@ -139,8 +139,8 @@
         "services_attributes": [
           {
             "name": "SF Home", 
-            "eligibility": "", 
-            "audience": "Homeless families staying in San Francisco. Must have more than 50% custody of a child under 18, minimum income of $500, maximum income 50% AMI. Must have a concrete plan to increase your income to the point where you can afford rent.", 
+            "audience": "", 
+            "eligibility": "Homeless families staying in San Francisco. Must have more than 50% custody of a child under 18, minimum income of $500, maximum income 50% AMI. Must have a concrete plan to increase your income to the point where you can afford rent.", 
             "how_to_apply": "We will let you know what documents are needed at the time you apply.", 
             "fees": "None, although families must pay 40-50% of their net income towards the rent in their unit.", 
             "keywords": [
@@ -199,8 +199,8 @@
         "services_attributes": [
           {
             "name": "The Dudley Apartments", 
-            "eligibility": "", 
-            "audience": "Men, women, transgender, pregnant women, women with children, families.  There are extensive restrictions for this program as it works with Mercy Housing providing section 8 units.  Please contact the Dudley Apartments staff for more information.", 
+            "audience": "", 
+            "eligibility": "Men, women, transgender, pregnant women, women with children, families.  There are extensive restrictions for this program as it works with Mercy Housing providing section 8 units.  Please contact the Dudley Apartments staff for more information.", 
             "how_to_apply": "State issued ID, Social Security Card.  Program will assist clients getting these documents.", 
             "fees": "Client pays 30% of their income toward rent.", 
             "keywords": [
@@ -259,8 +259,8 @@
         "services_attributes": [
           {
             "name": "San Francisco Rental Assistance Program", 
-            "eligibility": "", 
-            "audience": "Low-income (80% AMI or below) families with minor children in their custody, adults (verifiably disabled, senior 55+), emancipated foster youth, veterans, victim of recent violence. Must be San Francisco resident.", 
+            "audience": "", 
+            "eligibility": "Low-income (80% AMI or below) families with minor children in their custody, adults (verifiably disabled, senior 55+), emancipated foster youth, veterans, victim of recent violence. Must be San Francisco resident.", 
             "how_to_apply": "State-Issued ID, Social Security Card, Birth Certificates (for children), Proof of Income, Lease Agreement, and other supporting documentation, as needed.", 
             "fees": "None.", 
             "keywords": [
@@ -318,8 +318,8 @@
         "services_attributes": [
           {
             "name": "New Roads Program", 
-            "eligibility": "", 
-            "audience": "Clients must be referred  to the program by the San Francisco Adult Probation Department, must be currently homeless or unstably housed, and have at least 12 months remaining on supervision.", 
+            "audience": "", 
+            "eligibility": "Clients must be referred  to the program by the San Francisco Adult Probation Department, must be currently homeless or unstably housed, and have at least 12 months remaining on supervision.", 
             "how_to_apply": "", 
             "fees": "", 
             "keywords": [
@@ -381,8 +381,8 @@
         "services_attributes": [
           {
             "name": "Housing and Supportive Services", 
-            "eligibility": "", 
             "audience": "", 
+            "eligibility": "", 
             "how_to_apply": "Referral source provides this information.", 
             "fees": "", 
             "keywords": [
@@ -440,8 +440,8 @@
         "services_attributes": [
           {
             "name": "Sober Living House", 
-            "eligibility": "", 
-            "audience": "The primary qualifications for residence in the ARA First Step Home are:", 
+            "audience": "", 
+            "eligibility": "The primary qualifications for residence in the ARA First Step Home are:", 
             "how_to_apply": "Valid Identification", 
             "fees": "Call for information.", 
             "keywords": [
@@ -499,8 +499,8 @@
         "services_attributes": [
           {
             "name": "A Woman's Place-CARE Program", 
-            "eligibility": "", 
-            "audience": "Homeless HIV+ women (including transgender women) residents of San Francisco.", 
+            "audience": "", 
+            "eligibility": "Homeless HIV+ women (including transgender women) residents of San Francisco.", 
             "how_to_apply": "Letter of Diagnosis for HIV+ and tb clearance documentation - both within 6 months, current income verification.", 
             "fees": "30% of monthly net income, plus requirement to set aside additional money in savings account - amount to be determined.", 
             "keywords": [
@@ -559,8 +559,8 @@
         "services_attributes": [
           {
             "name": "Cameo House Alternative Sentcing Program", 
-            "eligibility": "", 
-            "audience": "Formerly incarcerated women with young children. May not have a criminal conviction for a sex offense or be a registered sex offender.", 
+            "audience": "", 
+            "eligibility": "Formerly incarcerated women with young children. May not have a criminal conviction for a sex offense or be a registered sex offender.", 
             "how_to_apply": "", 
             "fees": "None.", 
             "keywords": [
@@ -619,8 +619,8 @@
         "services_attributes": [
           {
             "name": "Compass Clara House", 
-            "eligibility": "", 
-            "audience": "Only homeless families with minor children.  Parents or guardians must have 50% legal and physical custody of the children or a solid reunification plan.  Clients must have 6 months clean prior to being referred.  Clients who have experienced domestic violence must be able to demonstrate at least 2 months separation from batterer.  Must not have a conviction for a violent offence, sex offenses, or arson.", 
+            "audience": "", 
+            "eligibility": "Only homeless families with minor children.  Parents or guardians must have 50% legal and physical custody of the children or a solid reunification plan.  Clients must have 6 months clean prior to being referred.  Clients who have experienced domestic violence must be able to demonstrate at least 2 months separation from batterer.  Must not have a conviction for a violent offence, sex offenses, or arson.", 
             "how_to_apply": "First, case manager or referring agency speaks with intake coordinator. After that, necessary documents include TB Clearance, proof of custody of minor(s), proof of income (if any), and identification information (state-issued or other) are required.", 
             "fees": "30% of monthly income for program fees, and a mandatory 20% of monthly income towards savings, returned upon exit.", 
             "keywords": [
@@ -679,8 +679,8 @@
         "services_attributes": [
           {
             "name": "Taylor Street Facility", 
-            "eligibility": "", 
-            "audience": "All individuals without criminal conviction for sex offense, arson, or who are not registered sex offenders.", 
+            "audience": "", 
+            "eligibility": "All individuals without criminal conviction for sex offense, arson, or who are not registered sex offenders.", 
             "how_to_apply": "TB Clearance. Program will assist entering clients in getting this.", 
             "fees": "Self-pay residents pay $80/day. No sliding scale. All other residents are covered by an agency. BOP requires 25% of income for subsistence. No cost for CDCR residents but residents must save 75% of net income in saving account for their release.", 
             "keywords": [
@@ -739,8 +739,8 @@
         "services_attributes": [
           {
             "name": "Gracenter", 
-            "eligibility": "", 
-            "audience": "Women and Transgender Women. May not have criminal convictions for sex or arson offenses. May not be a registered sex offender.", 
+            "audience": "", 
+            "eligibility": "Women and Transgender Women. May not have criminal convictions for sex or arson offenses. May not be a registered sex offender.", 
             "how_to_apply": "State-Issued ID, Social Security Card, TB Clearance, Medical Clearance", 
             "fees": "$300/month minimum.", 
             "keywords": [
@@ -800,8 +800,8 @@
         "services_attributes": [
           {
             "name": "First Avenues Program", 
-            "eligibility": "", 
-            "audience": "Individuals who are currently homeless or at risk of losing their housing.", 
+            "audience": "", 
+            "eligibility": "Individuals who are currently homeless or at risk of losing their housing.", 
             "how_to_apply": "All required documents are listed on the front of the Rental Subsidy Application.", 
             "fees": "No client fees.", 
             "keywords": [
@@ -861,8 +861,8 @@
         "services_attributes": [
           {
             "name": "Transitional Housing Program", 
-            "eligibility": "", 
-            "audience": "Families (any adult/s with children) with at least one child under 18 in physical or legal custody or be in the 3rd trimester or 5th month of high risk pregnancy", 
+            "audience": "", 
+            "eligibility": "Families (any adult/s with children) with at least one child under 18 in physical or legal custody or be in the 3rd trimester or 5th month of high risk pregnancy", 
             "how_to_apply": "State-Issued ID, Social Security Card, birth certificates for children in physical/ legal custody and back rent notice or certification of homelessness. Program will try to assist client in getting these.", 
             "fees": "Clients pay 30% of their income towards rent and an additional 20% into savings that is returned to them when they exit the program.", 
             "keywords": [
@@ -921,8 +921,8 @@
         "services_attributes": [
           {
             "name": "", 
-            "eligibility": "", 
-            "audience": "Men, Women, Women with children, All families. May not have conviction for sex offense or be a registered sex offender.", 
+            "audience": "", 
+            "eligibility": "Men, Women, Women with children, All families. May not have conviction for sex offense or be a registered sex offender.", 
             "how_to_apply": "State-Issued ID, TB Clearance, if Veteran, Form DD214. Program may be able to assist clients in getting these.", 
             "fees": "30% of income-when income is in place. If just coming from prison, no charge until income in place.", 
             "keywords": [
@@ -980,8 +980,8 @@
         "services_attributes": [
           {
             "name": "Forensic Housing Program", 
-            "eligibility": "", 
-            "audience": "HIV+ men and women (including transgender men and women) who've been incarcerated at the county, state or federal level within the past 12 months.", 
+            "audience": "", 
+            "eligibility": "HIV+ men and women (including transgender men and women) who've been incarcerated at the county, state or federal level within the past 12 months.", 
             "how_to_apply": "letter of HIV+ diagnosis, income verification and care plan must be provided at or by intake appointment.", 
             "fees": "30% of monthly net income plus additional mandatory 20% monthly savings.", 
             "keywords": [
@@ -1040,8 +1040,8 @@
         "services_attributes": [
           {
             "name": "", 
-            "eligibility": "", 
-            "audience": "Men, ages 18-80. Must be clean and sober, must not have any medical or mental health condition that would prohibit program participation.  May not have conviction for sex offense or be a registered sex offender.", 
+            "audience": "", 
+            "eligibility": "Men, ages 18-80. Must be clean and sober, must not have any medical or mental health condition that would prohibit program participation.  May not have conviction for sex offense or be a registered sex offender.", 
             "how_to_apply": "", 
             "fees": "Minimum $850/month for residential treatment.  Funding available for veterans.", 
             "keywords": [
@@ -1099,8 +1099,8 @@
         "services_attributes": [
           {
             "name": "Nanny's Sober Living", 
-            "eligibility": "", 
-            "audience": "Men and women, 18 years and older. Cannot serve child sex offenders or minors, cannot serve individuals with a criminal conviction for gang-related offense, arson, or are registered sex offenders.", 
+            "audience": "", 
+            "eligibility": "Men and women, 18 years and older. Cannot serve child sex offenders or minors, cannot serve individuals with a criminal conviction for gang-related offense, arson, or are registered sex offenders.", 
             "how_to_apply": "TB Clearance. Program will assist client in getting this.", 
             "fees": "Varies, depending on income.", 
             "keywords": [
@@ -1158,8 +1158,8 @@
         "services_attributes": [
           {
             "name": "Our Father's Sober Living Environment", 
-            "eligibility": "", 
-            "audience": "Adult men, 18 years or older, with special outreach to veterans, seniors, parolees, and GBQT who have become homeless as a result of substance abuse/addiction.", 
+            "audience": "", 
+            "eligibility": "Adult men, 18 years or older, with special outreach to veterans, seniors, parolees, and GBQT who have become homeless as a result of substance abuse/addiction.", 
             "how_to_apply": "California ID and any letters of recommendation or personal references to support your application to our program.", 
             "fees": "Shared rooms are $600/month.", 
             "keywords": [
@@ -1217,8 +1217,8 @@
         "services_attributes": [
           {
             "name": "", 
-            "eligibility": "", 
-            "audience": "Male only, 18 years and older.", 
+            "audience": "", 
+            "eligibility": "Male only, 18 years and older.", 
             "how_to_apply": "", 
             "fees": "Based on individual service needs.", 
             "keywords": [
@@ -1276,8 +1276,8 @@
         "services_attributes": [
           {
             "name": "Family of Friends Sober Living Network", 
-            "eligibility": "", 
-            "audience": "Men, Women, Transgender people. Individuals required to register as a sex offender are accepted on a case by case basis.  Clients need a referral.", 
+            "audience": "", 
+            "eligibility": "Men, Women, Transgender people. Individuals required to register as a sex offender are accepted on a case by case basis.  Clients need a referral.", 
             "how_to_apply": "State-Issued ID, Social Security Card, Proof of SF Residency, TB Clearance. Program will assist entering clients in getting these.", 
             "fees": "Clean and sober living housing rate is $1000.00 per month.", 
             "keywords": [
@@ -1337,8 +1337,8 @@
         "services_attributes": [
           {
             "name": "San Francisco SafeHouse", 
-            "eligibility": "", 
-            "audience": "Women who are currently homeless, have a history of work in the sex industry, and have been clean and sober for at least 30 days. May not have a criminal conviction for arson or be a registered sex offender.", 
+            "audience": "", 
+            "eligibility": "Women who are currently homeless, have a history of work in the sex industry, and have been clean and sober for at least 30 days. May not have a criminal conviction for arson or be a registered sex offender.", 
             "how_to_apply": "", 
             "fees": "30% of any government assistance and/or 20% of any earned income.", 
             "keywords": [
@@ -1396,8 +1396,8 @@
         "services_attributes": [
           {
             "name": "SF Strong", 
-            "eligibility": "", 
-            "audience": "Men who are exiting local or state incarceration.", 
+            "audience": "", 
+            "eligibility": "Men who are exiting local or state incarceration.", 
             "how_to_apply": "", 
             "fees": "No fees upon initial placement, as individuals secure income, they may be expected to pay for some program costs.", 
             "keywords": [
@@ -1455,8 +1455,8 @@
         "services_attributes": [
           {
             "name": "Reentry Today", 
-            "eligibility": "", 
-            "audience": "All individuals and family members.", 
+            "audience": "", 
+            "eligibility": "All individuals and family members.", 
             "how_to_apply": "No documents needed prior to entry. Program will assist with documentation after intake.", 
             "fees": "$700/month", 
             "keywords": [
@@ -1514,8 +1514,8 @@
         "services_attributes": [
           {
             "name": "Victory Outreach Recovery Home", 
-            "eligibility": "", 
-            "audience": "Men and women, 18 and older. May not have a criminal conviction for sex offense, may not be a registered sex offender, may not be on psychiatric medication.", 
+            "audience": "", 
+            "eligibility": "Men and women, 18 and older. May not have a criminal conviction for sex offense, may not be a registered sex offender, may not be on psychiatric medication.", 
             "how_to_apply": "TB Clearance. Program will assist clients in getting this.", 
             "fees": "Free of charge unless they have a source of income.", 
             "keywords": [
@@ -1573,8 +1573,8 @@
         "services_attributes": [
           {
             "name": "", 
-            "eligibility": "", 
             "audience": "", 
+            "eligibility": "", 
             "how_to_apply": "", 
             "fees": "", 
             "keywords": [
@@ -1632,8 +1632,8 @@
         "services_attributes": [
           {
             "name": "A Woman's Place", 
-            "eligibility": "", 
-            "audience": "All Women, MTF Transgender people, Pregnant women. Program does not serve FTM Transgender individuals.", 
+            "audience": "", 
+            "eligibility": "All Women, MTF Transgender people, Pregnant women. Program does not serve FTM Transgender individuals.", 
             "how_to_apply": "TB Clearance.", 
             "fees": "Emergency shelter clients do not pay program fees. Clients in Substance Abuse or Transitional Housing pay 30% of income based on HUD guidelines.", 
             "keywords": [
@@ -1692,8 +1692,8 @@
         "services_attributes": [
           {
             "name": "", 
-            "eligibility": "", 
-            "audience": "All families, pregnant women, women with children.  Eligible families have at least one legal adult plus either a minor child in their custody or a preganancy.  There is no maximum family size.  For shelter wait list, families must be homeless and receiving public benefits in SF or willing to transfer to SF.  For rental assisitance, families must be SF residents.  For move in funds, they must be homeless in SF and have a unit they have been accepted into.", 
+            "audience": "", 
+            "eligibility": "All families, pregnant women, women with children.  Eligible families have at least one legal adult plus either a minor child in their custody or a preganancy.  There is no maximum family size.  For shelter wait list, families must be homeless and receiving public benefits in SF or willing to transfer to SF.  For rental assisitance, families must be SF residents.  For move in funds, they must be homeless in SF and have a unit they have been accepted into.", 
             "how_to_apply": "", 
             "fees": "None", 
             "keywords": [
@@ -1755,8 +1755,8 @@
         "services_attributes": [
           {
             "name": "Hamilton Family Residence & Emergency Center", 
-            "eligibility": "", 
-            "audience": "Must have child under 18 in physical or legal custody or be pregnant in third trimester or in fifth month of high risk pregnancy.", 
+            "audience": "", 
+            "eligibility": "Must have child under 18 in physical or legal custody or be pregnant in third trimester or in fifth month of high risk pregnancy.", 
             "how_to_apply": "State-Issued ID, Social Security Card, Birth Certificate, and TB Clearance. Note: There is a grace period of a few days for individuals who are gathering these documents. Program will assist client in getting these documents.", 
             "fees": "None.", 
             "keywords": [
@@ -1815,8 +1815,8 @@
         "services_attributes": [
           {
             "name": "Domestic Violence Shelters", 
-            "eligibility": "", 
-            "audience": "Women, Transgender people, Pregnant women, Women with children, All families.  No male adults over the age of 18.", 
+            "audience": "", 
+            "eligibility": "Women, Transgender people, Pregnant women, Women with children, All families.  No male adults over the age of 18.", 
             "how_to_apply": "", 
             "fees": "no", 
             "keywords": [
@@ -1898,8 +1898,8 @@
         "services_attributes": [
           {
             "name": "La Casa de las Madres", 
-            "eligibility": "", 
-            "audience": "Women, Transgender Women, Women w/ Children, Pregnant Women, Teens, Age 11-24, if facing domestic violence.", 
+            "audience": "", 
+            "eligibility": "Women, Transgender Women, Women w/ Children, Pregnant Women, Teens, Age 11-24, if facing domestic violence.", 
             "how_to_apply": "", 
             "fees": "Free and confidential.", 
             "keywords": [
@@ -1961,8 +1961,8 @@
         "services_attributes": [
           {
             "name": "", 
-            "eligibility": "", 
             "audience": "", 
+            "eligibility": "", 
             "how_to_apply": "", 
             "fees": "", 
             "keywords": [
@@ -2020,8 +2020,8 @@
         "services_attributes": [
           {
             "name": "Disabled Students Programs & Services (DSPS)", 
-            "eligibility": "", 
-            "audience": "Individuals with a disability that causes a limitation in an educational setting.", 
+            "audience": "", 
+            "eligibility": "Individuals with a disability that causes a limitation in an educational setting.", 
             "how_to_apply": "", 
             "fees": "", 
             "keywords": [
@@ -2079,8 +2079,8 @@
         "services_attributes": [
           {
             "name": "Guardian Scholars Program", 
-            "eligibility": "", 
-            "audience": "All individuals 18-25 who have experienced foster care.", 
+            "audience": "", 
+            "eligibility": "All individuals 18-25 who have experienced foster care.", 
             "how_to_apply": "Verification of foster youth or out of home placement status for at least one year when minor. Program will assist client in getting documentation.", 
             "fees": "", 
             "keywords": [
@@ -2139,8 +2139,8 @@
         "services_attributes": [
           {
             "name": "Second Chance Program", 
-            "eligibility": "", 
-            "audience": "Individuals, ages 18 and older. Must be highly motivated and have a strong desire to be in college and to participate in higher education.  Good to be clean and sober or actively participating in 12-step or other recovery program, if applicable.", 
+            "audience": "", 
+            "eligibility": "Individuals, ages 18 and older. Must be highly motivated and have a strong desire to be in college and to participate in higher education.  Good to be clean and sober or actively participating in 12-step or other recovery program, if applicable.", 
             "how_to_apply": "State-Issued ID, Social Security Card, Proof of SF Residency. Accessibility: Wheelchair accessible. Other disabilities are accommodated.", 
             "fees": "None", 
             "keywords": [
@@ -2198,8 +2198,8 @@
         "services_attributes": [
           {
             "name": "Way Pass Women's Aftercare Program", 
-            "eligibility": "", 
-            "audience": "Formerly incarcerated women.", 
+            "audience": "", 
+            "eligibility": "Formerly incarcerated women.", 
             "how_to_apply": "Positive attitude", 
             "fees": "Free to any current City College student.", 
             "keywords": [
@@ -2257,8 +2257,8 @@
         "services_attributes": [
           {
             "name": "Five Keys Charter School", 
-            "eligibility": "", 
-            "audience": "All individuals 18 and older, 16 and above at 1601 Lane St location.", 
+            "audience": "", 
+            "eligibility": "All individuals 18 and older, 16 and above at 1601 Lane St location.", 
             "how_to_apply": "", 
             "fees": "None.", 
             "keywords": [
@@ -2318,8 +2318,8 @@
         "services_attributes": [
           {
             "name": "San Francisco Conservation Corps", 
-            "eligibility": "", 
-            "audience": "All individuals and family members, ages 18-26.", 
+            "audience": "", 
+            "eligibility": "All individuals and family members, ages 18-26.", 
             "how_to_apply": "Will assist individuals get the required documents for orientation.", 
             "fees": "No fees.", 
             "keywords": [
@@ -2377,8 +2377,8 @@
         "services_attributes": [
           {
             "name": "Project Read", 
-            "eligibility": "", 
-            "audience": "stable housing, working phone, 90 days clean and sober, over 18 years of age.", 
+            "audience": "", 
+            "eligibility": "stable housing, working phone, 90 days clean and sober, over 18 years of age.", 
             "how_to_apply": "", 
             "fees": "No fees.", 
             "keywords": [
@@ -2436,8 +2436,8 @@
         "services_attributes": [
           {
             "name": "Project Rebound", 
-            "eligibility": "", 
-            "audience": "All individuals, 18 and older. A high school diploma or GED is required.  Some services may not be available to registered sex offenders. May not have prior convictions on SFSU grounds.", 
+            "audience": "", 
+            "eligibility": "All individuals, 18 and older. A high school diploma or GED is required.  Some services may not be available to registered sex offenders. May not have prior convictions on SFSU grounds.", 
             "how_to_apply": "State-Issued ID, Social Security Card, Proof of SF Residency.", 
             "fees": "No fees.", 
             "keywords": [
@@ -2495,8 +2495,8 @@
         "services_attributes": [
           {
             "name": "", 
-            "eligibility": "", 
-            "audience": "All individuals (men, women, veterans), ages 18 and older, who are formerly incarcerated or have struggled with addiction.", 
+            "audience": "", 
+            "eligibility": "All individuals (men, women, veterans), ages 18 and older, who are formerly incarcerated or have struggled with addiction.", 
             "how_to_apply": "State-Issued ID, Social Security Card. Program will assist client in getting these.", 
             "fees": "No fees.", 
             "keywords": [
@@ -2555,8 +2555,8 @@
         "services_attributes": [
           {
             "name": "Power Up Youth", 
-            "eligibility": "", 
-            "audience": "All individuals, ages 14-24, including pregnant women, women with children, families, and individuals on Juvenile Probation.", 
+            "audience": "", 
+            "eligibility": "All individuals, ages 14-24, including pregnant women, women with children, families, and individuals on Juvenile Probation.", 
             "how_to_apply": "", 
             "fees": "", 
             "keywords": [
@@ -2614,8 +2614,8 @@
         "services_attributes": [
           {
             "name": "Employment Placement Services", 
-            "eligibility": "", 
-            "audience": "All individuals supervised by the San Francisco Adult Probation Department.  Must be referred by San Francisco Adult Probation.", 
+            "audience": "", 
+            "eligibility": "All individuals supervised by the San Francisco Adult Probation Department.  Must be referred by San Francisco Adult Probation.", 
             "how_to_apply": "CA ID, Social Security Card.", 
             "fees": "None.", 
             "keywords": [
@@ -2673,8 +2673,8 @@
         "services_attributes": [
           {
             "name": "Construction Training Program", 
-            "eligibility": "", 
-            "audience": "Men, Women, Transgender people, ages 17 and older, Women with children, All families. Individuals with criminal convictions for a sex offense are considered on a case-by-case basis.", 
+            "audience": "", 
+            "eligibility": "Men, Women, Transgender people, ages 17 and older, Women with children, All families. Individuals with criminal convictions for a sex offense are considered on a case-by-case basis.", 
             "how_to_apply": "Proof of SF Residency.", 
             "fees": "None.", 
             "keywords": [
@@ -2733,8 +2733,8 @@
         "services_attributes": [
           {
             "name": "PEP Jobs", 
-            "eligibility": "", 
-            "audience": "All individuals, ages 18 and older, with a medical diagnosis of epilepsy or traumatic/acquired brain injury. Must be clean and sober for at least 90 days prior to intake.", 
+            "audience": "", 
+            "eligibility": "All individuals, ages 18 and older, with a medical diagnosis of epilepsy or traumatic/acquired brain injury. Must be clean and sober for at least 90 days prior to intake.", 
             "how_to_apply": "Proof of right-to-work documents such as, State-Issued ID, Social Security Card.", 
             "fees": "No fees.", 
             "keywords": [
@@ -2792,8 +2792,8 @@
         "services_attributes": [
           {
             "name": "Employment Services", 
-            "eligibility": "", 
-            "audience": "All individuals, ages 18 and older who are homeless.", 
+            "audience": "", 
+            "eligibility": "All individuals, ages 18 and older who are homeless.", 
             "how_to_apply": "CA ID, Social Security Card.", 
             "fees": "None", 
             "keywords": [
@@ -2851,8 +2851,8 @@
         "services_attributes": [
           {
             "name": "CityBuild Academy", 
-            "eligibility": "", 
-            "audience": "All individuals, ages 18 and older (171/2 ok with written permission from parents).  To enter CityBuild all clients must have a valid CDL and a high school diploma/GED.", 
+            "audience": "", 
+            "eligibility": "All individuals, ages 18 and older (171/2 ok with written permission from parents).  To enter CityBuild all clients must have a valid CDL and a high school diploma/GED.", 
             "how_to_apply": "Drivers License, Social Security Card.", 
             "fees": "None", 
             "keywords": [
@@ -2913,8 +2913,8 @@
         "services_attributes": [
           {
             "name": "", 
-            "eligibility": "", 
-            "audience": "Individuals with a documented disability.", 
+            "audience": "", 
+            "eligibility": "Individuals with a documented disability.", 
             "how_to_apply": "State-Issued photo ID. Medical records or documentation of disability.", 
             "fees": "No fees.", 
             "keywords": [
@@ -2972,8 +2972,8 @@
         "services_attributes": [
           {
             "name": "CHEFS", 
-            "eligibility": "", 
-            "audience": "Must be homeless and SF resident.", 
+            "audience": "", 
+            "eligibility": "Must be homeless and SF resident.", 
             "how_to_apply": "Staff will assist cleints with necessary documents.", 
             "fees": "No fees.", 
             "keywords": [
@@ -3032,8 +3032,8 @@
         "services_attributes": [
           {
             "name": "Prepared Lunches; Hygiene/Personal Care Items; Intensive Case Management; Post-Incarceration Support; Basic/Remedial Education; GED & High School Education; Vocational Education; Employment Training and Placement; Employment Retention; Job Readiness/Life Skills; Money Management/Personal Financial Education. Referrals to other resources available as needed.", 
-            "eligibility": "", 
-            "audience": "All individuals who obtain a One Stop Card may access services. All individuals with involvement in the criminal justice system may meet with the Reentry Navigator.", 
+            "audience": "", 
+            "eligibility": "All individuals who obtain a One Stop Card may access services. All individuals with involvement in the criminal justice system may meet with the Reentry Navigator.", 
             "how_to_apply": "State-Issued ID, Social Security Card, Proof of SF Residency. Program will assist client in getting these.", 
             "fees": "No cost to participants.", 
             "keywords": [
@@ -3092,8 +3092,8 @@
         "services_attributes": [
           {
             "name": "Employment Services", 
-            "eligibility": "", 
-            "audience": "All individuals 18 years and older.  Must be a San Francisco resident.", 
+            "audience": "", 
+            "eligibility": "All individuals 18 years and older.  Must be a San Francisco resident.", 
             "how_to_apply": "CA ID, Social Security Card, Proof of SF Residency. Program will assist client in getting these.", 
             "fees": "None.", 
             "keywords": [
@@ -3156,8 +3156,8 @@
         "services_attributes": [
           {
             "name": "Jewish Vocational Services (JVS)", 
-            "eligibility": "", 
-            "audience": "All individuals who are clean and sober and comply with a work-focused professional facility.", 
+            "audience": "", 
+            "eligibility": "All individuals who are clean and sober and comply with a work-focused professional facility.", 
             "how_to_apply": "Authorization to work in the United States.", 
             "fees": "None.", 
             "keywords": [
@@ -3218,8 +3218,8 @@
         "services_attributes": [
           {
             "name": "PRC Employment Services", 
-            "eligibility": "", 
-            "audience": "All individuals with HIV/Mental Health/other disabilities.", 
+            "audience": "", 
+            "eligibility": "All individuals with HIV/Mental Health/other disabilities.", 
             "how_to_apply": "Program will assist client in getting necessary documents.", 
             "fees": "None.", 
             "keywords": [
@@ -3278,8 +3278,8 @@
         "services_attributes": [
           {
             "name": "Renaissance Entrepreneurship Center", 
-            "eligibility": "", 
-            "audience": "All individuals.", 
+            "audience": "", 
+            "eligibility": "All individuals.", 
             "how_to_apply": "", 
             "fees": "Sliding Scale.  Varied depending on program.", 
             "keywords": [
@@ -3338,8 +3338,8 @@
         "services_attributes": [
           {
             "name": "Employment Partnership Program", 
-            "eligibility": "", 
-            "audience": "All individuals 18 yrs and older.  Must be a San Francisco resident and bale to pass a pre-employment drug test.", 
+            "audience": "", 
+            "eligibility": "All individuals 18 yrs and older.  Must be a San Francisco resident and bale to pass a pre-employment drug test.", 
             "how_to_apply": "", 
             "fees": "None.", 
             "keywords": [
@@ -3398,8 +3398,8 @@
         "services_attributes": [
           {
             "name": "Employment Training Programs", 
-            "eligibility": "", 
-            "audience": "Individuals, 18 years and older who are legally eligible to work in the U.S., no violent or sex offenses in the past 7 years (on a case by case basis), no outstanding warrants, stable housing, and at least 5 months of sobriety.", 
+            "audience": "", 
+            "eligibility": "Individuals, 18 years and older who are legally eligible to work in the U.S., no violent or sex offenses in the past 7 years (on a case by case basis), no outstanding warrants, stable housing, and at least 5 months of sobriety.", 
             "how_to_apply": "State-Issued ID, Social Security Card, Proof of Income, Proof of Address", 
             "fees": "", 
             "keywords": [
@@ -3462,8 +3462,8 @@
         "services_attributes": [
           {
             "name": "Janitorial Training/Placement", 
-            "eligibility": "", 
-            "audience": "Individuals, 18 years and older, who meet both eligibility requirements of HEC Grant: 1) homelessness 2) disabled.", 
+            "audience": "", 
+            "eligibility": "Individuals, 18 years and older, who meet both eligibility requirements of HEC Grant: 1) homelessness 2) disabled.", 
             "how_to_apply": "State-Issued ID, Social Security Card, Proof of SF Residency, Proof of homelessness, proof of disability.  These documents are not necessary to attend an info session.", 
             "fees": "", 
             "keywords": [
@@ -3522,8 +3522,8 @@
         "services_attributes": [
           {
             "name": "San Francisco Behavioral Health Access Center (BHAC), Community Behavioral Health Services, Department of Public Health", 
-            "eligibility": "", 
             "audience": "", 
+            "eligibility": "", 
             "how_to_apply": "", 
             "fees": "", 
             "keywords": [
@@ -3581,8 +3581,8 @@
         "services_attributes": [
           {
             "name": "", 
-            "eligibility": "", 
             "audience": "", 
+            "eligibility": "", 
             "how_to_apply": "", 
             "fees": "", 
             "keywords": [
@@ -3640,8 +3640,8 @@
         "services_attributes": [
           {
             "name": "", 
-            "eligibility": "", 
             "audience": "", 
+            "eligibility": "", 
             "how_to_apply": "", 
             "fees": "", 
             "keywords": [
@@ -3699,8 +3699,8 @@
         "services_attributes": [
           {
             "name": "", 
-            "eligibility": "", 
             "audience": "", 
+            "eligibility": "", 
             "how_to_apply": "", 
             "fees": "", 
             "keywords": [
@@ -3758,8 +3758,8 @@
         "services_attributes": [
           {
             "name": "Bayview Hunters Point Foundation for Community Improvement Substance Abuse Program", 
-            "eligibility": "", 
-            "audience": "All adults.", 
+            "audience": "", 
+            "eligibility": "All adults.", 
             "how_to_apply": "State-issued ID, Social Security Card, Proof of SF Residency.", 
             "fees": "", 
             "keywords": [
@@ -3818,8 +3818,8 @@
         "services_attributes": [
           {
             "name": "Central American Resource Center (CARECEN) NOT UPDATED", 
-            "eligibility": "", 
-            "audience": "All individuals and family members. For tattoo removal services, ages 12-24 only. Men, Transgender people, Pregnant women.", 
+            "audience": "", 
+            "eligibility": "All individuals and family members. For tattoo removal services, ages 12-24 only. Men, Transgender people, Pregnant women.", 
             "how_to_apply": "Second Chance Tattoo Removal Program Application or Referral.", 
             "fees": "Free to those who qualify.", 
             "keywords": [
@@ -3878,8 +3878,8 @@
         "services_attributes": [
           {
             "name": "Community Acupuncture Project Ear Clinic at the American College of Traditional Chinese Medicine (ACTCM)", 
-            "eligibility": "", 
-            "audience": "All individuals and family members.", 
+            "audience": "", 
+            "eligibility": "All individuals and family members.", 
             "how_to_apply": "", 
             "fees": "The clinic is donation based. However, we will not turn anyone away for a lack of ability to make a donation.", 
             "keywords": [
@@ -3940,8 +3940,8 @@
         "services_attributes": [
           {
             "name": "Medical Clinics", 
-            "eligibility": "", 
-            "audience": "All adults.", 
+            "audience": "", 
+            "eligibility": "All adults.", 
             "how_to_apply": "", 
             "fees": "", 
             "keywords": [
@@ -4000,8 +4000,8 @@
         "services_attributes": [
           {
             "name": "Mission Council on Alcohol Abuse for the Spanish Speaking, Inc.", 
-            "eligibility": "", 
-            "audience": "All individuals and family members, 18 and older.", 
+            "audience": "", 
+            "eligibility": "All individuals and family members, 18 and older.", 
             "how_to_apply": "", 
             "fees": "", 
             "keywords": [
@@ -4060,8 +4060,8 @@
         "services_attributes": [
           {
             "name": "Clinica Esperanza", 
-            "eligibility": "", 
-            "audience": "All individuals and family members, 18 and older.", 
+            "audience": "", 
+            "eligibility": "All individuals and family members, 18 and older.", 
             "how_to_apply": "Proof of SF Residency. Program will assist entering clients in getting this.", 
             "fees": "", 
             "keywords": [
@@ -4120,8 +4120,8 @@
         "services_attributes": [
           {
             "name": "Adult Tattoo Removal", 
-            "eligibility": "", 
-            "audience": "All individuals and all ages. Clients under the age 18 years old must be accompanied by a parent or guardian. ", 
+            "audience": "", 
+            "eligibility": "All individuals and all ages. Clients under the age 18 years old must be accompanied by a parent or guardian. ", 
             "how_to_apply": "All forms are provided by New Skin Adult Tattoo Removal", 
             "fees": " $80 for 3 minutes or $100 for 5 minutes.", 
             "keywords": [
@@ -4180,8 +4180,8 @@
         "services_attributes": [
           {
             "name": "", 
-            "eligibility": "", 
-            "audience": "Families and individuals with little or no health coverage.", 
+            "audience": "", 
+            "eligibility": "Families and individuals with little or no health coverage.", 
             "how_to_apply": "", 
             "fees": "", 
             "keywords": [
@@ -4243,8 +4243,8 @@
         "services_attributes": [
           {
             "name": "", 
-            "eligibility": "", 
-            "audience": "Men, Women, Transgender people, Pregnant women, and families.", 
+            "audience": "", 
+            "eligibility": "Men, Women, Transgender people, Pregnant women, and families.", 
             "how_to_apply": "State-issued ID, Social Security Card, and Proof of SF Residency. No additional documentation needed prior to entry, but will need these documents in 30 days for San Francisco insurance program. Program will assist entering clients.", 
             "fees": "None", 
             "keywords": [
@@ -4306,8 +4306,8 @@
         "services_attributes": [
           {
             "name": "San Francisco VA Downtown Clinic", 
-            "eligibility": "", 
-            "audience": "All Veterans of the U.S. Military.", 
+            "audience": "", 
+            "eligibility": "All Veterans of the U.S. Military.", 
             "how_to_apply": "Discharge form DD214. Program will assist entering clients in getting this.", 
             "fees": "None collected here, means test determines fees.", 
             "keywords": [
@@ -4366,8 +4366,8 @@
         "services_attributes": [
           {
             "name": "Services for Adults", 
-            "eligibility": "", 
-            "audience": "San Francisco residents, other eligibility requirements may apply. Contact program for specifics.", 
+            "audience": "", 
+            "eligibility": "San Francisco residents, other eligibility requirements may apply. Contact program for specifics.", 
             "how_to_apply": "Things to KnowProgram may require photo ID or other documentation. Contact Westside for specifics.", 
             "fees": "Sliding scale. Medi-Cal share of cost, if appropriate.", 
             "keywords": [
@@ -4425,8 +4425,8 @@
         "services_attributes": [
           {
             "name": "Women's Community Clinic Outreach Services", 
-            "eligibility": "", 
-            "audience": "Women, Transgender people, 12 years and older, Women with children.", 
+            "audience": "", 
+            "eligibility": "Women, Transgender people, 12 years and older, Women with children.", 
             "how_to_apply": "", 
             "fees": "All services are free.", 
             "keywords": [
@@ -4485,8 +4485,8 @@
         "services_attributes": [
           {
             "name": "Asian American Recovery Services", 
-            "eligibility": "", 
-            "audience": "Men, Women, 18 and older. May not have criminal conviction for sex offense, gang-related offense, or arson. May not be a registered sex offender.", 
+            "audience": "", 
+            "eligibility": "Men, Women, 18 and older. May not have criminal conviction for sex offense, gang-related offense, or arson. May not be a registered sex offender.", 
             "how_to_apply": "Proof of SF Residency, TB Clearance. Program will assist entering clients in getting these.", 
             "fees": "No fee.", 
             "keywords": [
@@ -4545,8 +4545,8 @@
         "services_attributes": [
           {
             "name": "Men's Residential Recovery Program", 
-            "eligibility": "", 
-            "audience": "Men ages 18 and older.", 
+            "audience": "", 
+            "eligibility": "Men ages 18 and older.", 
             "how_to_apply": "State-Issued ID", 
             "fees": "Program fee is 30% of Net income not to exceed 500 dollars a month.", 
             "keywords": [
@@ -4605,8 +4605,8 @@
         "services_attributes": [
           {
             "name": "Delancey Street Foundation", 
-            "eligibility": "", 
-            "audience": "Men, Women, Transgender people, ages 18 older. May not have a criminal conviciton for arson, may not be a registered sex offender, may not have a serious medical/mental health condition requiring medication.", 
+            "audience": "", 
+            "eligibility": "Men, Women, Transgender people, ages 18 older. May not have a criminal conviciton for arson, may not be a registered sex offender, may not have a serious medical/mental health condition requiring medication.", 
             "how_to_apply": "", 
             "fees": "No fee.", 
             "keywords": [
@@ -4665,8 +4665,8 @@
         "services_attributes": [
           {
             "name": "", 
-            "eligibility": "", 
-            "audience": "All individuals with no convictions for arson, no serious medical, psychological or emotional conditions that could interfere with participation in social-model treatment program. Must be clean and sober for at least 72 hours. Women may bring 1 or 2 children ages 0-5.", 
+            "audience": "", 
+            "eligibility": "All individuals with no convictions for arson, no serious medical, psychological or emotional conditions that could interfere with participation in social-model treatment program. Must be clean and sober for at least 72 hours. Women may bring 1 or 2 children ages 0-5.", 
             "how_to_apply": "California-Issued ID and TB Clearance, current within last 6 months. (If ID is from any state other than Calif., a Tribal ID is required.)", 
             "fees": "Sliding scale.", 
             "keywords": [
@@ -4726,8 +4726,8 @@
         "services_attributes": [
           {
             "name": "Residential Substance Abuse Treatment Services", 
-            "eligibility": "", 
-            "audience": "Women, Transgender people, 18 and over, Pregnant Women. May not be a registered sex offender.", 
+            "audience": "", 
+            "eligibility": "Women, Transgender people, 18 and over, Pregnant Women. May not be a registered sex offender.", 
             "how_to_apply": "Proof of San Francisco Residency, TB Clearance. Program will assist entering clients in getting these.", 
             "fees": "Sliding scale.", 
             "keywords": [
@@ -4786,8 +4786,8 @@
         "services_attributes": [
           {
             "name": "", 
-            "eligibility": "", 
-            "audience": "All Individuals and families, including adults with children, and pregnant women. Must not be convicted of sex offense or arson.", 
+            "audience": "", 
+            "eligibility": "All Individuals and families, including adults with children, and pregnant women. Must not be convicted of sex offense or arson.", 
             "how_to_apply": "Social Security Card, Proof of Residence, TB Clearance. Preferable, but not completely necessary at intake. Some assistance may be available to help gather these documents.", 
             "fees": "80% of public assistance received.", 
             "keywords": [
@@ -4846,8 +4846,8 @@
         "services_attributes": [
           {
             "name": "The Latino Commission", 
-            "eligibility": "", 
-            "audience": "All individuals, including adults with children, and pregnant women. Must not be convicted of sex offense.", 
+            "audience": "", 
+            "eligibility": "All individuals, including adults with children, and pregnant women. Must not be convicted of sex offense.", 
             "how_to_apply": "State-Issued ID, TB Clearance. Will assist client in getting these.", 
             "fees": "Sliding scale.", 
             "keywords": [
@@ -4906,8 +4906,8 @@
         "services_attributes": [
           {
             "name": "Progress Foundation", 
-            "eligibility": "", 
-            "audience": "All individuals and families, including seniors (age 60 and older) with an Axis I mental health disorder. Must not be registered sex offender, must not have a criminal conviction for arson.", 
+            "audience": "", 
+            "eligibility": "All individuals and families, including seniors (age 60 and older) with an Axis I mental health disorder. Must not be registered sex offender, must not have a criminal conviction for arson.", 
             "how_to_apply": "Proof of San Francisco residency, TB Clearance, a physical within the past 12 months. Program can assist with physical and TB tests.", 
             "fees": "Sliding scale, free for individuals with no income.", 
             "keywords": [
@@ -4966,8 +4966,8 @@
         "services_attributes": [
           {
             "name": "Father Alfred Center", 
-            "eligibility": "", 
-            "audience": "Men ages 18 and older. May not have a criminal conviciton for arson, may not be a registered sex offender, may not have a serious medical/mental health condition requiring medication.  Client must be able to pass a physical examination given by St. Anthony's medical Clinic as part of the intake process.", 
+            "audience": "", 
+            "eligibility": "Men ages 18 and older. May not have a criminal conviciton for arson, may not be a registered sex offender, may not have a serious medical/mental health condition requiring medication.  Client must be able to pass a physical examination given by St. Anthony's medical Clinic as part of the intake process.", 
             "how_to_apply": "", 
             "fees": "No fee.", 
             "keywords": [
@@ -5026,8 +5026,8 @@
         "services_attributes": [
           {
             "name": "BAART Programs", 
-            "eligibility": "", 
-            "audience": "All individuals and family members, ages 18 and older", 
+            "audience": "", 
+            "eligibility": "All individuals and family members, ages 18 and older", 
             "how_to_apply": "State-Issued ID.", 
             "fees": "Based on sliding scale.  Private insurance, Medi-Cal.", 
             "keywords": [
@@ -5088,8 +5088,8 @@
         "services_attributes": [
           {
             "name": "Comprehensive Outreach Program for Pacific Islanders and Asian Substance Abusers (COPPASA)", 
-            "eligibility": "", 
-            "audience": "All individuals who do not have a criminal conviction for arson and are not registered sex offenders.", 
+            "audience": "", 
+            "eligibility": "All individuals who do not have a criminal conviction for arson and are not registered sex offenders.", 
             "how_to_apply": "TB Clearance. Program will assist clients in getting these.", 
             "fees": "Public Health Funded, no client is turned away for lack of money or insurance.", 
             "keywords": [
@@ -5147,8 +5147,8 @@
         "services_attributes": [
           {
             "name": "Lee Woodward Counseling Center", 
-            "eligibility": "", 
-            "audience": "Mothers and children, women of color, transgender individuals, women with co-occurring disorders and physical health problems, Women seeking non-residential treatment services. May not have a criminal conviction for arson, may not be a registered sex offender.", 
+            "audience": "", 
+            "eligibility": "Mothers and children, women of color, transgender individuals, women with co-occurring disorders and physical health problems, Women seeking non-residential treatment services. May not have a criminal conviction for arson, may not be a registered sex offender.", 
             "how_to_apply": "Proof of SF Residency, TB Clearance. Program will assist clients in getting these.", 
             "fees": "Public Health funded, no clients is turned away for lack of money or insurance.", 
             "keywords": [
@@ -5206,8 +5206,8 @@
         "services_attributes": [
           {
             "name": "Project ADAPT", 
-            "eligibility": "", 
-            "audience": "Must be a resident of San Francisco, over the age of 18, have a drug or alcohol problem.", 
+            "audience": "", 
+            "eligibility": "Must be a resident of San Francisco, over the age of 18, have a drug or alcohol problem.", 
             "how_to_apply": "TB Clearance.", 
             "fees": "Sliding scale.", 
             "keywords": [
@@ -5269,8 +5269,8 @@
         "services_attributes": [
           {
             "name": "Community HealthCare", 
-            "eligibility": "", 
-            "audience": "All individuals and family members, ages 18 and older.", 
+            "audience": "", 
+            "eligibility": "All individuals and family members, ages 18 and older.", 
             "how_to_apply": "", 
             "fees": "Medi-Cal, SFHP, Sliding fee scale, BCC", 
             "keywords": [
@@ -5331,8 +5331,8 @@
         "services_attributes": [
           {
             "name": "Outpatient Services", 
-            "eligibility": "", 
-            "audience": "Adults 18 and over.", 
+            "audience": "", 
+            "eligibility": "Adults 18 and over.", 
             "how_to_apply": "Proof of San Francisco Residency, TB Clearance. Program will assist entering clients in getting these.", 
             "fees": "Sliding scale.", 
             "keywords": [
@@ -5391,8 +5391,8 @@
         "services_attributes": [
           {
             "name": "Outpatient Substance Abuse Treatment Program", 
-            "eligibility": "", 
-            "audience": "Men, Women, ages 12-25, involved in criminal justice system.", 
+            "audience": "", 
+            "eligibility": "Men, Women, ages 12-25, involved in criminal justice system.", 
             "how_to_apply": "Proof of San Francisco Residency. Program will assist entering clients in getting this.", 
             "fees": "None.", 
             "keywords": [
@@ -5451,8 +5451,8 @@
         "services_attributes": [
           {
             "name": "Tenderloin Outpatient Clinic", 
-            "eligibility": "", 
-            "audience": "We welcome all residents of San Francisco who do not have private insurance.", 
+            "audience": "", 
+            "eligibility": "We welcome all residents of San Francisco who do not have private insurance.", 
             "how_to_apply": "", 
             "fees": "The Clinic accepts MediCal, MediCare, Healthy San Francisco.  Clients may be charged according to the state UMDAP scale.", 
             "keywords": [
@@ -5514,8 +5514,8 @@
         "services_attributes": [
           {
             "name": "Instituto Familiar de la Raza", 
-            "eligibility": "", 
-            "audience": "Individuals with mental health diagnosis. Must not be a danger to others. Must not have private medical insurance.", 
+            "audience": "", 
+            "eligibility": "Individuals with mental health diagnosis. Must not be a danger to others. Must not have private medical insurance.", 
             "how_to_apply": "Proof of San Francisco residency. Program will assist clients in obtaining this.", 
             "fees": "None if client has Medi-Cal/Medicare. Very low sliding scale based on income. No Private Insurance accepted.", 
             "keywords": [
@@ -5574,8 +5574,8 @@
         "services_attributes": [
           {
             "name": "Positive Directions Equals Change", 
-            "eligibility": "", 
-            "audience": "All individuals and family members.", 
+            "audience": "", 
+            "eligibility": "All individuals and family members.", 
             "how_to_apply": "", 
             "fees": "Call for fee schedule.", 
             "keywords": [
@@ -5633,8 +5633,8 @@
         "services_attributes": [
           {
             "name": "Chinatown North Beach Mental Health Services", 
-            "eligibility": "", 
-            "audience": "San Francisco resident", 
+            "audience": "", 
+            "eligibility": "San Francisco resident", 
             "how_to_apply": "Medi-Cal card, Medicare card, Healthy San Francisco card or other insurance information, if applicable.", 
             "fees": "Sliding scale.", 
             "keywords": [
@@ -5695,8 +5695,8 @@
         "services_attributes": [
           {
             "name": "Central City Older Adult Clinic", 
-            "eligibility": "", 
-            "audience": "Men, Women, Transgender people, 60 years of age and older, who live the South of Market or Tenderloin areas of San Francisco, or are homeless.", 
+            "audience": "", 
+            "eligibility": "Men, Women, Transgender people, 60 years of age and older, who live the South of Market or Tenderloin areas of San Francisco, or are homeless.", 
             "how_to_apply": "", 
             "fees": "City and County Billing based on set fees - Medi-Care/Medi-Cal share of cost.", 
             "keywords": [
@@ -5757,8 +5757,8 @@
         "services_attributes": [
           {
             "name": "Mission Mental Health", 
-            "eligibility": "", 
-            "audience": "Men, Women, Transgender people, 18 and older. Program does not serve convicted sex offenders whose offense involved a child or minor.", 
+            "audience": "", 
+            "eligibility": "Men, Women, Transgender people, 18 and older. Program does not serve convicted sex offenders whose offense involved a child or minor.", 
             "how_to_apply": "", 
             "fees": "Program accepts Medi-Cal, Medi-Care, Healthy San Francisco and indigent clients. In some situations, clients may have a co-payment based on income or requirement of their coverage provider.", 
             "keywords": [
@@ -5817,8 +5817,8 @@
         "services_attributes": [
           {
             "name": "South of Market Mental Health Services", 
-            "eligibility": "", 
-            "audience": "Men, Women, Transgender people, 18 and older. Program does not serve convicted sex offenders whose offense involved a child or minor.", 
+            "audience": "", 
+            "eligibility": "Men, Women, Transgender people, 18 and older. Program does not serve convicted sex offenders whose offense involved a child or minor.", 
             "how_to_apply": "", 
             "fees": "Program accepts Medi-Cal, Medi-Care, Healthy San Francisco and indigent clients. In some situations, clients may have a co-payment based on income or requirement of their coverage provider.", 
             "keywords": [
@@ -5879,8 +5879,8 @@
         "services_attributes": [
           {
             "name": "Southeast Mission Geriatric Services", 
-            "eligibility": "", 
-            "audience": "Individuals over the age of 60 who have several mental disorders and those who are dually diagnosed who reside primarily but not exclusively in the Southeast area of San Francisco.", 
+            "audience": "", 
+            "eligibility": "Individuals over the age of 60 who have several mental disorders and those who are dually diagnosed who reside primarily but not exclusively in the Southeast area of San Francisco.", 
             "how_to_apply": "", 
             "fees": "Program accepts Medi-Cal, Medi-Care, Healthy San Francisco and indigent clients. In some situations, clients may have a co-payment based on income or requirement of their coverage provider.", 
             "keywords": [
@@ -5939,8 +5939,8 @@
         "services_attributes": [
           {
             "name": "Sunset Mental Health Clinic", 
-            "eligibility": "", 
-            "audience": "Residents of San Francisco who meet medical necessity.", 
+            "audience": "", 
+            "eligibility": "Residents of San Francisco who meet medical necessity.", 
             "how_to_apply": "Health insurance information and list of current medications.", 
             "fees": "Program accepts Medi-Cal, Medi-Care, Healthy San Francisco and Healthy Worker. Sliding scale for uninsured clients.", 
             "keywords": [
@@ -6002,8 +6002,8 @@
         "services_attributes": [
           {
             "name": "Transitional Youth Services", 
-            "eligibility": "", 
-            "audience": "Men, Women, Transgender people, 16-25 years old, including individuals involved in the criminal justice system.", 
+            "audience": "", 
+            "eligibility": "Men, Women, Transgender people, 16-25 years old, including individuals involved in the criminal justice system.", 
             "how_to_apply": "", 
             "fees": "", 
             "keywords": [
@@ -6062,8 +6062,8 @@
         "services_attributes": [
           {
             "name": "OBOT", 
-            "eligibility": "", 
-            "audience": "All individuals with an opiate dependence.", 
+            "audience": "", 
+            "eligibility": "All individuals with an opiate dependence.", 
             "how_to_apply": "Proof of SF Residency. Program will assist entering clients in getting this.", 
             "fees": "Tom Waddell accepts medicare, medical, HSF (sliding scale)", 
             "keywords": [
@@ -6122,8 +6122,8 @@
         "services_attributes": [
           {
             "name": "Citywide Case Management Forensic Program", 
-            "eligibility": "", 
-            "audience": "Must meet Community Behavioral Health Services's medical necessity for a serious mental illness. For employment services only, must meet Department of Rehabilitation's criteria for mental illness.", 
+            "audience": "", 
+            "eligibility": "Must meet Community Behavioral Health Services's medical necessity for a serious mental illness. For employment services only, must meet Department of Rehabilitation's criteria for mental illness.", 
             "how_to_apply": "", 
             "fees": "Client fees are determined by Community Behavioral Health Services. Services are billed through Medi-Cal if available. No one is refused services due to lack of income or benefits.", 
             "keywords": [
@@ -6185,8 +6185,8 @@
         "services_attributes": [
           {
             "name": "Citywide Case Management Forensic NoVA Therapy Program", 
-            "eligibility": "", 
-            "audience": "Individuals who are enrolled in the SF Sheriff Department's NoVA program.", 
+            "audience": "", 
+            "eligibility": "Individuals who are enrolled in the SF Sheriff Department's NoVA program.", 
             "how_to_apply": "", 
             "fees": "There are no client fees for NoVA therapy services.", 
             "keywords": [
@@ -6244,8 +6244,8 @@
         "services_attributes": [
           {
             "name": "Arab Cultural and Community Center", 
-            "eligibility": "", 
-            "audience": "All individuals, and family members.", 
+            "audience": "", 
+            "eligibility": "All individuals, and family members.", 
             "how_to_apply": "State-Issued ID, Proof of San Francisco residency.", 
             "fees": "None.", 
             "keywords": [
@@ -6303,8 +6303,8 @@
         "services_attributes": [
           {
             "name": "Bay Area Women's & Children's Center", 
-            "eligibility": "", 
-            "audience": "Women, Transgender individuals, including those pregnant or with children.", 
+            "audience": "", 
+            "eligibility": "Women, Transgender individuals, including those pregnant or with children.", 
             "how_to_apply": "Some form of I.D.", 
             "fees": "None.", 
             "keywords": [
@@ -6366,8 +6366,8 @@
         "services_attributes": [
           {
             "name": "Black Coalition on AIDS", 
-            "eligibility": "", 
-            "audience": "African Americans, HIV + individuals and those at risk for HIV and other health disparities", 
+            "audience": "", 
+            "eligibility": "African Americans, HIV + individuals and those at risk for HIV and other health disparities", 
             "how_to_apply": "", 
             "fees": "", 
             "keywords": [
@@ -6426,8 +6426,8 @@
         "services_attributes": [
           {
             "name": "", 
-            "eligibility": "", 
-            "audience": "All individuals and family members.", 
+            "audience": "", 
+            "eligibility": "All individuals and family members.", 
             "how_to_apply": "", 
             "fees": "", 
             "keywords": [
@@ -6487,8 +6487,8 @@
         "services_attributes": [
           {
             "name": "Get On The Bus", 
-            "eligibility": "", 
-            "audience": "Children (Infant to 18 yrs.) of incarcerated Mothers & Fathers (including caregivers).", 
+            "audience": "", 
+            "eligibility": "Children (Infant to 18 yrs.) of incarcerated Mothers & Fathers (including caregivers).", 
             "how_to_apply": "", 
             "fees": "", 
             "keywords": [
@@ -6547,8 +6547,8 @@
         "services_attributes": [
           {
             "name": "Sisters Rising & GDAP", 
-            "eligibility": "", 
-            "audience": "Women and girls ages 12-24, Pregnant women, Women with children who are involved in the criminal/juvenile justice system.", 
+            "audience": "", 
+            "eligibility": "Women and girls ages 12-24, Pregnant women, Women with children who are involved in the criminal/juvenile justice system.", 
             "how_to_apply": "", 
             "fees": "", 
             "keywords": [
@@ -6606,8 +6606,8 @@
         "services_attributes": [
           {
             "name": "NoVA Services", 
-            "eligibility": "", 
-            "audience": "All individuals incarcerated in or recently released from San Francisco County Jail and referred by Pre-Trial Diversion.", 
+            "audience": "", 
+            "eligibility": "All individuals incarcerated in or recently released from San Francisco County Jail and referred by Pre-Trial Diversion.", 
             "how_to_apply": "", 
             "fees": "", 
             "keywords": [
@@ -6666,8 +6666,8 @@
         "services_attributes": [
           {
             "name": "Positive Connections Program/Project Start", 
-            "eligibility": "", 
-            "audience": "HIV+ individuals", 
+            "audience": "", 
+            "eligibility": "HIV+ individuals", 
             "how_to_apply": "", 
             "fees": "None.", 
             "keywords": [
@@ -6726,8 +6726,8 @@
         "services_attributes": [
           {
             "name": "A Partnership of the San Francisco Adult Probation Department (APD) and Leaders in Community Alternatives (LCA)", 
-            "eligibility": "", 
-            "audience": "Clients of the San Francisco Adult Probation Department.", 
+            "audience": "", 
+            "eligibility": "Clients of the San Francisco Adult Probation Department.", 
             "how_to_apply": "", 
             "fees": "None.", 
             "keywords": [
@@ -6786,8 +6786,8 @@
         "services_attributes": [
           {
             "name": "Young Men's Reentry Program/Voices on the Rise", 
-            "eligibility": "", 
-            "audience": "Men ages 18-25.", 
+            "audience": "", 
+            "eligibility": "Men ages 18-25.", 
             "how_to_apply": "", 
             "fees": "None", 
             "keywords": [
@@ -6845,8 +6845,8 @@
         "services_attributes": [
           {
             "name": "Women Rising/Rising Voices", 
-            "eligibility": "", 
-            "audience": "Open to all formerly incarcerated women ages 18-25 years old.", 
+            "audience": "", 
+            "eligibility": "Open to all formerly incarcerated women ages 18-25 years old.", 
             "how_to_apply": "", 
             "fees": "None", 
             "keywords": [
@@ -6904,8 +6904,8 @@
         "services_attributes": [
           {
             "name": "Compass Connecting Point", 
-            "eligibility": "", 
-            "audience": "All families, pregnant women, women with children.  Eligible families have at least one legal adult plus either a minor child in their custody or a preganancy.  There is no maximum family size.  For shelter wait list, families must be homeless and receiving public benefits in SF or willing to transfer to SF.  For rental assisitance, families must be SF residents.  For move in funds, they must be homeless in SF and have a unit they have been accepted into.", 
+            "audience": "", 
+            "eligibility": "All families, pregnant women, women with children.  Eligible families have at least one legal adult plus either a minor child in their custody or a preganancy.  There is no maximum family size.  For shelter wait list, families must be homeless and receiving public benefits in SF or willing to transfer to SF.  For rental assisitance, families must be SF residents.  For move in funds, they must be homeless in SF and have a unit they have been accepted into.", 
             "how_to_apply": "", 
             "fees": "None", 
             "keywords": [
@@ -6967,8 +6967,8 @@
         "services_attributes": [
           {
             "name": "Deaf Community Counseling Services  (DCCS)", 
-            "eligibility": "", 
-            "audience": "Services are for people who are deaf, hard of hearing, and deaf/blind.  Adluts, seniors, and children.", 
+            "audience": "", 
+            "eligibility": "Services are for people who are deaf, hard of hearing, and deaf/blind.  Adluts, seniors, and children.", 
             "how_to_apply": "Proof of SF residency.", 
             "fees": "", 
             "keywords": [
@@ -7027,8 +7027,8 @@
         "services_attributes": [
           {
             "name": "Dress For Success San Francisco", 
-            "eligibility": "", 
-            "audience": "Female only, 16 years and older, must be actively job searching, attending a job fair/networking event, or enrolled in a job training/internship program. Clients are eligible to be seen twice a year for clothing services (once for an initial interview outfit, again when you have secured part-time/full-time employment).", 
+            "audience": "", 
+            "eligibility": "Female only, 16 years and older, must be actively job searching, attending a job fair/networking event, or enrolled in a job training/internship program. Clients are eligible to be seen twice a year for clothing services (once for an initial interview outfit, again when you have secured part-time/full-time employment).", 
             "how_to_apply": "Dress for Success San Francisco does not require ID at check-in. Check in at security desk required.", 
             "fees": "None.", 
             "keywords": [
@@ -7086,8 +7086,8 @@
         "services_attributes": [
           {
             "name": "Aging and Disability Resource Center", 
-            "eligibility": "", 
-            "audience": "Seniors (60+) and Young Adults with Disabilities (18-59).", 
+            "audience": "", 
+            "eligibility": "Seniors (60+) and Young Adults with Disabilities (18-59).", 
             "how_to_apply": "", 
             "fees": "", 
             "keywords": [
@@ -7146,8 +7146,8 @@
         "services_attributes": [
           {
             "name": "SF START", 
-            "eligibility": "", 
-            "audience": "Adults.", 
+            "audience": "", 
+            "eligibility": "Adults.", 
             "how_to_apply": "", 
             "fees": "None.", 
             "keywords": [
@@ -7206,8 +7206,8 @@
         "services_attributes": [
           {
             "name": "Adult Education Center", 
-            "eligibility": "", 
-            "audience": "Adults, age 18 and older.", 
+            "audience": "", 
+            "eligibility": "Adults, age 18 and older.", 
             "how_to_apply": "", 
             "fees": "None.", 
             "keywords": [
@@ -7265,8 +7265,8 @@
         "services_attributes": [
           {
             "name": "Glide Daily Free Meals Program", 
-            "eligibility": "", 
-            "audience": "All individuals and family members.", 
+            "audience": "", 
+            "eligibility": "All individuals and family members.", 
             "how_to_apply": "", 
             "fees": "None.", 
             "keywords": [
@@ -7325,8 +7325,8 @@
         "services_attributes": [
           {
             "name": "Men In Progress", 
-            "eligibility": "", 
-            "audience": "All individuals and family members.", 
+            "audience": "", 
+            "eligibility": "All individuals and family members.", 
             "how_to_apply": "", 
             "fees": "None.", 
             "keywords": [
@@ -7385,8 +7385,8 @@
         "services_attributes": [
           {
             "name": "Walk-In Center", 
-            "eligibility": "", 
-            "audience": "All individuals and family members.", 
+            "audience": "", 
+            "eligibility": "All individuals and family members.", 
             "how_to_apply": "", 
             "fees": "None.", 
             "keywords": [
@@ -7445,8 +7445,8 @@
         "services_attributes": [
           {
             "name": "Women's Center", 
-            "eligibility": "", 
             "audience": "", 
+            "eligibility": "", 
             "how_to_apply": "", 
             "fees": "None.", 
             "keywords": [
@@ -7504,8 +7504,8 @@
         "services_attributes": [
           {
             "name": "Homeless Prenatal Program", 
-            "eligibility": "", 
-            "audience": "Men, Women, Transgender people with a child under 18 yrs old, Pregnant women.", 
+            "audience": "", 
+            "eligibility": "Men, Women, Transgender people with a child under 18 yrs old, Pregnant women.", 
             "how_to_apply": "Proof of residency is required for housing deposits. Program will assist entering clients in getting this.", 
             "fees": "No fee to clients.", 
             "keywords": [
@@ -7568,8 +7568,8 @@
         "services_attributes": [
           {
             "name": "Jireh Technologies, Inc.", 
-            "eligibility": "", 
-            "audience": "Everyone welcome.", 
+            "audience": "", 
+            "eligibility": "Everyone welcome.", 
             "how_to_apply": "State-issued ID and TB clearance. Program will assist entering clients in getting this.", 
             "fees": "No fee to clients.", 
             "keywords": [
@@ -7628,8 +7628,8 @@
         "services_attributes": [
           {
             "name": "Lavender Youth Recreation & Information Center (LYRIC)", 
-            "eligibility": "", 
-            "audience": "All individuals (Men, Women, Transgender people), up to 24 years old, Pregnant women, Women with children.", 
+            "audience": "", 
+            "eligibility": "All individuals (Men, Women, Transgender people), up to 24 years old, Pregnant women, Women with children.", 
             "how_to_apply": "", 
             "fees": "No", 
             "keywords": [
@@ -7689,8 +7689,8 @@
         "services_attributes": [
           {
             "name": "Electronic Monitoring", 
-            "eligibility": "", 
-            "audience": "All individuals involved in the juvenile or criminal justice system, in custody and in community programs or alternative custody programs.", 
+            "audience": "", 
+            "eligibility": "All individuals involved in the juvenile or criminal justice system, in custody and in community programs or alternative custody programs.", 
             "how_to_apply": "", 
             "fees": "", 
             "keywords": [
@@ -7750,8 +7750,8 @@
         "services_attributes": [
           {
             "name": "Mission Neighborhood Resource Center", 
-            "eligibility": "", 
-            "audience": "All individuals and family members.", 
+            "audience": "", 
+            "eligibility": "All individuals and family members.", 
             "how_to_apply": "", 
             "fees": "None.", 
             "keywords": [
@@ -7810,8 +7810,8 @@
         "services_attributes": [
           {
             "name": "With Open Arms a Second Chance Act Program", 
-            "eligibility": "", 
-            "audience": "You may be eligible if you are a woman in SF County Jail who has been sentenced to State Prison or to serve a local prison sentence under PC \u00a7 1170(h)5(a) or (b), you are currently incarcerated in a state prison and will be released to San Francisco on parole or post-release community supervision (PRCS), you are currently on parole or PRCS in San Francisco. Transgender women welcome.", 
+            "audience": "", 
+            "eligibility": "You may be eligible if you are a woman in SF County Jail who has been sentenced to State Prison or to serve a local prison sentence under PC \u00a7 1170(h)5(a) or (b), you are currently incarcerated in a state prison and will be released to San Francisco on parole or post-release community supervision (PRCS), you are currently on parole or PRCS in San Francisco. Transgender women welcome.", 
             "how_to_apply": "TB Clearance. Program will assist entering clients in getting this.", 
             "fees": "", 
             "keywords": [
@@ -7869,8 +7869,8 @@
         "services_attributes": [
           {
             "name": "Court Accountable Homeless Services (CAHS)", 
-            "eligibility": "", 
-            "audience": "Individuals, 18 and older, referred by Superior Court", 
+            "audience": "", 
+            "eligibility": "Individuals, 18 and older, referred by Superior Court", 
             "how_to_apply": "", 
             "fees": "None.", 
             "keywords": [
@@ -7930,8 +7930,8 @@
         "services_attributes": [
           {
             "name": "Community Programs", 
-            "eligibility": "", 
-            "audience": "All individuals, ages 18 and older.", 
+            "audience": "", 
+            "eligibility": "All individuals, ages 18 and older.", 
             "how_to_apply": "", 
             "fees": "None.  Fees are only charged for SWAP or Electronic Monitoring", 
             "keywords": [
@@ -7990,8 +7990,8 @@
         "services_attributes": [
           {
             "name": "No Violence Alliance (NoVA)", 
-            "eligibility": "", 
-            "audience": "Men and Women who have been convicted of a violent crime(s). Must be soon to be/recently released from County Jail.Women and LGTBQ ages 18 and older are eligible.", 
+            "audience": "", 
+            "eligibility": "Men and Women who have been convicted of a violent crime(s). Must be soon to be/recently released from County Jail.Women and LGTBQ ages 18 and older are eligible.", 
             "how_to_apply": "", 
             "fees": "None.None.", 
             "keywords": [
@@ -8050,8 +8050,8 @@
         "services_attributes": [
           {
             "name": "", 
-            "eligibility": "", 
-            "audience": "Formerly incarcerated people.", 
+            "audience": "", 
+            "eligibility": "Formerly incarcerated people.", 
             "how_to_apply": "", 
             "fees": "", 
             "keywords": [
@@ -8109,8 +8109,8 @@
         "services_attributes": [
           {
             "name": "Senior Ex-Offender Program", 
-            "eligibility": "", 
-            "audience": "All formerly incarcerated people who are older adults. Men ages 50 and older and Women ages 45 and older. Housing is not provided for sex offenders.", 
+            "audience": "", 
+            "eligibility": "All formerly incarcerated people who are older adults. Men ages 50 and older and Women ages 45 and older. Housing is not provided for sex offenders.", 
             "how_to_apply": "", 
             "fees": "None.", 
             "keywords": [
@@ -8168,8 +8168,8 @@
         "services_attributes": [
           {
             "name": "SF Bay Counseling and Education", 
-            "eligibility": "", 
-            "audience": "Men, Women, Transgender people, ages 18-65.", 
+            "audience": "", 
+            "eligibility": "Men, Women, Transgender people, ages 18-65.", 
             "how_to_apply": "State-Issued ID. Program may be able to assist clients in getting this.", 
             "fees": "Based on documented income, GA, SSI, SSDI, employment. Fees range from $10 - $60 per session based on proof of income.", 
             "keywords": [
@@ -8228,8 +8228,8 @@
         "services_attributes": [
           {
             "name": "Mobile Crisis Treatment Team", 
-            "eligibility": "", 
-            "audience": "All individuals over the age of 18 who have psychiatric or mental health emergencies.", 
+            "audience": "", 
+            "eligibility": "All individuals over the age of 18 who have psychiatric or mental health emergencies.", 
             "how_to_apply": "Clients must exhibit psychiatric emergencies.", 
             "fees": "Sliding scale. Accept MediCal, private insurance", 
             "keywords": [
@@ -8291,8 +8291,8 @@
         "services_attributes": [
           {
             "name": "Free Clothing Program", 
-            "eligibility": "", 
-            "audience": "All individuals needing clothes", 
+            "audience": "", 
+            "eligibility": "All individuals needing clothes", 
             "how_to_apply": "", 
             "fees": "None", 
             "keywords": [
@@ -8351,8 +8351,8 @@
         "services_attributes": [
           {
             "name": "Social Work Center", 
-            "eligibility": "", 
-            "audience": "All individuals 18 and older and families with the city and county of San Francisco.", 
+            "audience": "", 
+            "eligibility": "All individuals 18 and older and families with the city and county of San Francisco.", 
             "how_to_apply": "", 
             "fees": "None.", 
             "keywords": [
@@ -8411,8 +8411,8 @@
         "services_attributes": [
           {
             "name": "Tenderloin Tech Lab", 
-            "eligibility": "", 
-            "audience": "Open to the public.", 
+            "audience": "", 
+            "eligibility": "Open to the public.", 
             "how_to_apply": "", 
             "fees": "None.", 
             "keywords": [
@@ -8470,8 +8470,8 @@
         "services_attributes": [
           {
             "name": "Wellness Center", 
-            "eligibility": "", 
-            "audience": "All individuals 18 years of age and older.  Open to the public.", 
+            "audience": "", 
+            "eligibility": "All individuals 18 years of age and older.  Open to the public.", 
             "how_to_apply": "", 
             "fees": "None.", 
             "keywords": [
@@ -8529,8 +8529,8 @@
         "services_attributes": [
           {
             "name": "Health and Social Services", 
-            "eligibility": "", 
-            "audience": "All individuals, 18 and older, who are veterans of the U.S. Military. Discharge status irrelevant.", 
+            "audience": "", 
+            "eligibility": "All individuals, 18 and older, who are veterans of the U.S. Military. Discharge status irrelevant.", 
             "how_to_apply": "State-Issued ID, military discharge form DD-214. Program will assist entering clients in getting these, and will see clients before the documentation is complete.", 
             "fees": "No client fees.", 
             "keywords": [
@@ -8591,8 +8591,8 @@
         "services_attributes": [
           {
             "name": "Social Work Unit", 
-            "eligibility": "", 
-            "audience": "All currently homeless individuals with multiple diagnoses, referred by Human Services Agency. May not have a criminal conviciton for a violent offense within five years. May not have a criminal conviction for a sex offense (lifetime), and may not be a registered sex offender. No drug-related convictions within three years.", 
+            "audience": "", 
+            "eligibility": "All currently homeless individuals with multiple diagnoses, referred by Human Services Agency. May not have a criminal conviciton for a violent offense within five years. May not have a criminal conviction for a sex offense (lifetime), and may not be a registered sex offender. No drug-related convictions within three years.", 
             "how_to_apply": "State-Issued ID, Social Security Card.", 
             "fees": "No fees. Rent is based on regulatory requirements of each site.", 
             "keywords": [
@@ -8655,8 +8655,8 @@
         "services_attributes": [
           {
             "name": "Representative Payee Program", 
-            "eligibility": "", 
-            "audience": "Clients must reside in San Francisco and must receive Social Security benefits in order to be eligible for the program.  Housing is not a requirement at program entry but clients must be willing to and obtain housijng after enrollment in the program.", 
+            "audience": "", 
+            "eligibility": "Clients must reside in San Francisco and must receive Social Security benefits in order to be eligible for the program.  Housing is not a requirement at program entry but clients must be willing to and obtain housijng after enrollment in the program.", 
             "how_to_apply": "", 
             "fees": "No fees.", 
             "keywords": [
@@ -8718,8 +8718,8 @@
         "services_attributes": [
           {
             "name": "", 
-            "eligibility": "", 
-            "audience": "All individuals currently in prison or jail or recently released. Must be clean and sober.", 
+            "audience": "", 
+            "eligibility": "All individuals currently in prison or jail or recently released. Must be clean and sober.", 
             "how_to_apply": "", 
             "fees": "No fees.", 
             "keywords": [
@@ -8777,8 +8777,8 @@
         "services_attributes": [
           {
             "name": "", 
-            "eligibility": "", 
-            "audience": "Vets who served before 1980, Vets who served after 1980 for at least 2 years and received an honorable discharge. Other Vets may still get help with housing and service referrals.", 
+            "audience": "", 
+            "eligibility": "Vets who served before 1980, Vets who served after 1980 for at least 2 years and received an honorable discharge. Other Vets may still get help with housing and service referrals.", 
             "how_to_apply": "", 
             "fees": "No fees.", 
             "keywords": [
@@ -8836,8 +8836,8 @@
         "services_attributes": [
           {
             "name": "Culture Based Transformative Coaching (CBTC)", 
-            "eligibility": "", 
-            "audience": "Men, women, youth ages 12 and older", 
+            "audience": "", 
+            "eligibility": "Men, women, youth ages 12 and older", 
             "how_to_apply": "Desire to grow", 
             "fees": "None", 
             "keywords": [
@@ -8895,8 +8895,8 @@
         "services_attributes": [
           {
             "name": "Human Sustainability Groups (HSG)", 
-            "eligibility": "", 
-            "audience": "Men, women, youth 12 yrs. and older", 
+            "audience": "", 
+            "eligibility": "Men, women, youth 12 yrs. and older", 
             "how_to_apply": "Desire to grow.", 
             "fees": "None", 
             "keywords": [
@@ -8954,8 +8954,8 @@
         "services_attributes": [
           {
             "name": "A Better Way", 
-            "eligibility": "None.", 
-            "audience": "Children are the primary clients, family or adult involvement is through a child.", 
+            "audience": "None.", 
+            "eligibility": "Children are the primary clients, family or adult involvement is through a child.", 
             "how_to_apply": "Medi-Cal or approval from Foster Care Mental Health", 
             "fees": "Client fees are paid by Medi-Cal or per HSA work order.", 
             "keywords": [
@@ -9015,8 +9015,8 @@
         "services_attributes": [
           {
             "name": "Children'S Council of San Francisco", 
-            "eligibility": "", 
-            "audience": "Any parent who needs child care for one of these reasons:  working, looking for work, attending vocational training.", 
+            "audience": "", 
+            "eligibility": "Any parent who needs child care for one of these reasons:  working, looking for work, attending vocational training.", 
             "how_to_apply": "Nothing required, helpful documents are anything showing household income or employment.", 
             "fees": "", 
             "keywords": [
@@ -9079,8 +9079,8 @@
         "services_attributes": [
           {
             "name": "One Family/Parenting Inside Out", 
-            "eligibility": "", 
-            "audience": "Any parent.Open to all formerly incarcerated parents (custodial and noncustodial) with children under 18", 
+            "audience": "", 
+            "eligibility": "Any parent.Open to all formerly incarcerated parents (custodial and noncustodial) with children under 18", 
             "how_to_apply": "", 
             "fees": "", 
             "keywords": [
@@ -9138,8 +9138,8 @@
         "services_attributes": [
           {
             "name": "Project WHAT!", 
-            "eligibility": "", 
-            "audience": "Youth, ages 13-18, who have had a parent incarcerated (currently or in the past), living within or going to school in San Francisco.", 
+            "audience": "", 
+            "eligibility": "Youth, ages 13-18, who have had a parent incarcerated (currently or in the past), living within or going to school in San Francisco.", 
             "how_to_apply": "", 
             "fees": "None", 
             "keywords": [
@@ -9198,8 +9198,8 @@
         "services_attributes": [
           {
             "name": "ACCESS Child Care", 
-            "eligibility": "", 
-            "audience": "Must have one child 0-3 years old and have lived in homeless/ domestic violence shelter within past 6 months.  Please call for more information.", 
+            "audience": "", 
+            "eligibility": "Must have one child 0-3 years old and have lived in homeless/ domestic violence shelter within past 6 months.  Please call for more information.", 
             "how_to_apply": "Please bring verification of shelter stay within the last 6 months, ID's for all adults, and birth certificates for children.", 
             "fees": "There are no client fees to receive the subsidy.  Childcare providers have their own set of policies that may include fees and/or other responsibilities asked of the family.", 
             "keywords": [
@@ -9260,8 +9260,8 @@
         "services_attributes": [
           {
             "name": "Infant, Toddler and Pre-K Program and Family Support Service", 
-            "eligibility": "", 
-            "audience": "All individuals and family members with an infant, toddler or pre-kindergarten age child. Individuals must reveal criminal conviction for violent or sex offenses, as well as registration as sex offender status.", 
+            "audience": "", 
+            "eligibility": "All individuals and family members with an infant, toddler or pre-kindergarten age child. Individuals must reveal criminal conviction for violent or sex offenses, as well as registration as sex offender status.", 
             "how_to_apply": "", 
             "fees": "", 
             "keywords": [
@@ -9319,8 +9319,8 @@
         "services_attributes": [
           {
             "name": "Homeless Children's Network (HCN)", 
-            "eligibility": "", 
-            "audience": "Serves homeless individuals from birth to age 17 with mental health diagnosis that meets medical necessity, such as Adjustment Disorder, Depression, or PTSD. May not have criminal conviction for sex offense or be a registered sex offender. Current abuse cases are referred to CPS.", 
+            "audience": "", 
+            "eligibility": "Serves homeless individuals from birth to age 17 with mental health diagnosis that meets medical necessity, such as Adjustment Disorder, Depression, or PTSD. May not have criminal conviction for sex offense or be a registered sex offender. Current abuse cases are referred to CPS.", 
             "how_to_apply": "Medi-Cal ID card.", 
             "fees": "None.", 
             "keywords": [
@@ -9381,8 +9381,8 @@
         "services_attributes": [
           {
             "name": "San Francisco Department of Child Support Services", 
-            "eligibility": "", 
-            "audience": "All individuals with an open child support case with child support arrears owed to the State.", 
+            "audience": "", 
+            "eligibility": "All individuals with an open child support case with child support arrears owed to the State.", 
             "how_to_apply": "", 
             "fees": "None.", 
             "keywords": [
@@ -9442,8 +9442,8 @@
         "services_attributes": [
           {
             "name": "San Francisco Department of Child Support Services", 
-            "eligibility": "", 
-            "audience": "All individuals with an open child support case. Any parent of a minor child can open a case.", 
+            "audience": "", 
+            "eligibility": "All individuals with an open child support case. Any parent of a minor child can open a case.", 
             "how_to_apply": "", 
             "fees": "None.", 
             "keywords": [
@@ -9503,8 +9503,8 @@
         "services_attributes": [
           {
             "name": "San Francisco Department of Child Support Services", 
-            "eligibility": "", 
-            "audience": "An individual with an open child support case. Any parent of a minor child can open a case.", 
+            "audience": "", 
+            "eligibility": "An individual with an open child support case. Any parent of a minor child can open a case.", 
             "how_to_apply": "", 
             "fees": "None.", 
             "keywords": [
@@ -9564,8 +9564,8 @@
         "services_attributes": [
           {
             "name": "Child Crisis Services", 
-            "eligibility": "", 
-            "audience": "All individuals up to age 18 who have psychiatric or mental health emergencies.", 
+            "audience": "", 
+            "eligibility": "All individuals up to age 18 who have psychiatric or mental health emergencies.", 
             "how_to_apply": "Clients must exhibit psychiatric emergencies.", 
             "fees": "Sliding scale. Accept MediCal, private insurance, Healthy Families, Healthy Kids.", 
             "keywords": [
@@ -9627,8 +9627,8 @@
         "services_attributes": [
           {
             "name": "Services for Children and Youth", 
-            "eligibility": "", 
-            "audience": "Youth up to 24 years of age who are exhibiting emotional problems and are at risk of developing more serious problems such as mental illness and substance abuse.", 
+            "audience": "", 
+            "eligibility": "Youth up to 24 years of age who are exhibiting emotional problems and are at risk of developing more serious problems such as mental illness and substance abuse.", 
             "how_to_apply": "Please call for information.", 
             "fees": "Sliding scale. Accept MediCal, private insurance, Healthy Families, Healthy Kids.", 
             "keywords": [
@@ -9687,8 +9687,8 @@
         "services_attributes": [
           {
             "name": "", 
-            "eligibility": "", 
-            "audience": "All individuals and family members who have HIV/AIDS and live in Alameda, Contra Costa, Marin, San Francisco, San Mateo, Sonoma or Solano Counties.People living with HIV/AIDS/Lesbian/Gay/Bisexual/Transgender", 
+            "audience": "", 
+            "eligibility": "All individuals and family members who have HIV/AIDS and live in Alameda, Contra Costa, Marin, San Francisco, San Mateo, Sonoma or Solano Counties.People living with HIV/AIDS/Lesbian/Gay/Bisexual/Transgender", 
             "how_to_apply": "", 
             "fees": "All ALRP services provided by ALRP staff attorneys are free. Depending on the income and the nature of the case, if the client is referred to an ALRP Panel Attorney, a fee may be charged according to ALRP's Fee Protocol.", 
             "keywords": [
@@ -9748,8 +9748,8 @@
         "services_attributes": [
           {
             "name": "Asian Law Caucus", 
-            "eligibility": "", 
             "audience": "", 
+            "eligibility": "", 
             "how_to_apply": "Proof of income.", 
             "fees": "None.", 
             "keywords": [
@@ -9812,8 +9812,8 @@
         "services_attributes": [
           {
             "name": "", 
-            "eligibility": "", 
-            "audience": "Must be out of custody.", 
+            "audience": "", 
+            "eligibility": "Must be out of custody.", 
             "how_to_apply": "If you receive an appointment after being screened by the Legal Advice Line, identification and documentation of U.S. citizenship or non-citizen status. BayLegal may assist in securing these documents.", 
             "fees": "None.", 
             "keywords": [
@@ -9878,8 +9878,8 @@
         "services_attributes": [
           {
             "name": "Cooperative Restraining Order Clinic", 
-            "eligibility": "", 
-            "audience": "All individuals and family members.", 
+            "audience": "", 
+            "eligibility": "All individuals and family members.", 
             "how_to_apply": "CA ID and any other relevant documents for the restraining order.", 
             "fees": "None.", 
             "keywords": [
@@ -9939,8 +9939,8 @@
         "services_attributes": [
           {
             "name": "Eviction Defense Collaborative (EDC) and Rental Assistance (RADCo)", 
-            "eligibility": "", 
-            "audience": "All individuals and family members.", 
+            "audience": "", 
+            "eligibility": "All individuals and family members.", 
             "how_to_apply": "Proof of San Francisco Residency", 
             "fees": "Certain services have sliding-scale fees. Nobody turned away for lack of funds.", 
             "keywords": [
@@ -10002,8 +10002,8 @@
         "services_attributes": [
           {
             "name": "Women's Employment Rights Clinic", 
-            "eligibility": "", 
-            "audience": "All individuals and family members.", 
+            "audience": "", 
+            "eligibility": "All individuals and family members.", 
             "how_to_apply": "", 
             "fees": "No fees for legal services. Possible costs for photocopying, etc.", 
             "keywords": [
@@ -10061,8 +10061,8 @@
         "services_attributes": [
           {
             "name": "", 
-            "eligibility": "", 
-            "audience": "Homeless or at risk of homelessness, with priority to individuals who have mental health disabilities and families.", 
+            "audience": "", 
+            "eligibility": "Homeless or at risk of homelessness, with priority to individuals who have mental health disabilities and families.", 
             "how_to_apply": "Any documents related to your case (eviction papers, social security notices)", 
             "fees": "None if low-income.", 
             "keywords": [
@@ -10122,8 +10122,8 @@
         "services_attributes": [
           {
             "name": "Housing Rights Committee of San Francisco", 
-            "eligibility": "", 
-            "audience": "All renters of public and private housing.", 
+            "audience": "", 
+            "eligibility": "All renters of public and private housing.", 
             "how_to_apply": "Please bring any relevant papers, including eviction notices or other landlord/property manager notices.", 
             "fees": "None.", 
             "keywords": [
@@ -10184,8 +10184,8 @@
         "services_attributes": [
           {
             "name": "", 
-            "eligibility": "", 
-            "audience": "All individuals and family members.", 
+            "audience": "", 
+            "eligibility": "All individuals and family members.", 
             "how_to_apply": "", 
             "fees": "", 
             "keywords": [
@@ -10244,8 +10244,8 @@
         "services_attributes": [
           {
             "name": "Second Chance Legal Clinic", 
-            "eligibility": "", 
-            "audience": "All individuals.", 
+            "audience": "", 
+            "eligibility": "All individuals.", 
             "how_to_apply": "", 
             "fees": "None.", 
             "keywords": [
@@ -10304,8 +10304,8 @@
         "services_attributes": [
           {
             "name": "Prison Law Office", 
-            "eligibility": "", 
-            "audience": "California state prisoners, and occasionally to California state parolees.", 
+            "audience": "", 
+            "eligibility": "California state prisoners, and occasionally to California state parolees.", 
             "how_to_apply": "", 
             "fees": "None.", 
             "keywords": [
@@ -10363,8 +10363,8 @@
         "services_attributes": [
           {
             "name": " Legal Advocacy & Direct Services", 
-            "eligibility": "", 
-            "audience": "All individuals 18 yrs and older", 
+            "audience": "", 
+            "eligibility": "All individuals 18 yrs and older", 
             "how_to_apply": "", 
             "fees": "", 
             "keywords": [
@@ -10423,8 +10423,8 @@
         "services_attributes": [
           {
             "name": "", 
-            "eligibility": "", 
             "audience": "", 
+            "eligibility": "", 
             "how_to_apply": "", 
             "fees": "", 
             "keywords": [
@@ -10483,8 +10483,8 @@
         "services_attributes": [
           {
             "name": "San Francisco Office of Citizen Complaints", 
-            "eligibility": "", 
-            "audience": "All individuals and family members who wish to make a complaint regarding a sworn San Francisco Police Department officer.", 
+            "audience": "", 
+            "eligibility": "All individuals and family members who wish to make a complaint regarding a sworn San Francisco Police Department officer.", 
             "how_to_apply": "", 
             "fees": "", 
             "keywords": [
@@ -10545,8 +10545,8 @@
         "services_attributes": [
           {
             "name": "Back on Track Initiative", 
-            "eligibility": "", 
-            "audience": "Young adults in the criminal justice system. There are additional requirements, please call for more information.", 
+            "audience": "", 
+            "eligibility": "Young adults in the criminal justice system. There are additional requirements, please call for more information.", 
             "how_to_apply": "", 
             "fees": "None.", 
             "keywords": [
@@ -10605,8 +10605,8 @@
         "services_attributes": [
           {
             "name": "Victim Services Division", 
-            "eligibility": "", 
-            "audience": "Victims of crime, victims' family members, witnesses to crime", 
+            "audience": "", 
+            "eligibility": "Victims of crime, victims' family members, witnesses to crime", 
             "how_to_apply": "", 
             "fees": "None.", 
             "keywords": [
@@ -10669,8 +10669,8 @@
         "services_attributes": [
           {
             "name": "Clean Slate Program", 
-            "eligibility": "", 
-            "audience": "All people with a criminal arrest and/or conviction, or juvenile matter, from the County of San Francisco. Do not need to be a former client of the Public Defender, but must meet financial eligibility criteria.", 
+            "audience": "", 
+            "eligibility": "All people with a criminal arrest and/or conviction, or juvenile matter, from the County of San Francisco. Do not need to be a former client of the Public Defender, but must meet financial eligibility criteria.", 
             "how_to_apply": "Must obtain copy of RAP Sheet from Identification Bureau, Hall of Justice, 850 Bryant Street, Room 475, San Francisco, CA 94103 (can request by mail or in person, Monday - Friday, 8:00am-3:00pm).", 
             "fees": "None.", 
             "keywords": [
@@ -10729,8 +10729,8 @@
         "services_attributes": [
           {
             "name": "Reentry Unit", 
-            "eligibility": "", 
             "audience": "", 
+            "eligibility": "", 
             "how_to_apply": "", 
             "fees": "None.", 
             "keywords": [
@@ -10790,8 +10790,8 @@
         "services_attributes": [
           {
             "name": "ACCESS Center (Legal Self-Help)", 
-            "eligibility": "", 
-            "audience": "All individuals and family members.", 
+            "audience": "", 
+            "eligibility": "All individuals and family members.", 
             "how_to_apply": "", 
             "fees": "None.", 
             "keywords": [
@@ -10858,8 +10858,8 @@
         "services_attributes": [
           {
             "name": "Legal Department", 
-            "eligibility": "", 
-            "audience": "All veterans of the U.S. military. Must be homeless or veteran of the wars in Iraq or Afghanistan.", 
+            "audience": "", 
+            "eligibility": "All veterans of the U.S. military. Must be homeless or veteran of the wars in Iraq or Afghanistan.", 
             "how_to_apply": "TB Clearance, Proof of homelessnes and veteran status (Defense Department Form 214). Program will assist clients in obtaining these documents.", 
             "fees": "None.", 
             "keywords": [
@@ -10917,8 +10917,8 @@
         "services_attributes": [
           {
             "name": "Legal Services", 
-            "eligibility": "", 
-            "audience": "San Francisco tenants facing landlord-tenant and housing issues.", 
+            "audience": "", 
+            "eligibility": "San Francisco tenants facing landlord-tenant and housing issues.", 
             "how_to_apply": "State-Issued ID, Social Security card, Rental Agreement and/or lease, any late rent notices and/or Unlawful Detainer.", 
             "fees": "None.", 
             "keywords": [
@@ -10981,8 +10981,8 @@
         "services_attributes": [
           {
             "name": "California Coalition for Women Prisoners (CCWP)", 
-            "eligibility": "", 
-            "audience": "All individuals and family members, in and out of custody.", 
+            "audience": "", 
+            "eligibility": "All individuals and family members, in and out of custody.", 
             "how_to_apply": "", 
             "fees": "None.", 
             "keywords": [
@@ -11043,8 +11043,8 @@
         "services_attributes": [
           {
             "name": "", 
-            "eligibility": "", 
             "audience": "", 
+            "eligibility": "", 
             "how_to_apply": "", 
             "fees": "None. Voluntary donations accepted.", 
             "keywords": [
@@ -11103,8 +11103,8 @@
         "services_attributes": [
           {
             "name": "All of Us or None", 
-            "eligibility": "", 
-            "audience": "All individuals and family members, in and out of custody.", 
+            "audience": "", 
+            "eligibility": "All individuals and family members, in and out of custody.", 
             "how_to_apply": "", 
             "fees": "None.", 
             "keywords": [
@@ -11164,8 +11164,8 @@
         "services_attributes": [
           {
             "name": "Get Out The Jail Vote/CA", 
-            "eligibility": "", 
-            "audience": "Women, Transgender", 
+            "audience": "", 
+            "eligibility": "Women, Transgender", 
             "how_to_apply": "", 
             "fees": "None. Donations accepted.", 
             "keywords": [
@@ -11225,8 +11225,8 @@
         "services_attributes": [
           {
             "name": "Prisoner Legal Services", 
-            "eligibility": "", 
-            "audience": "Incarcerated persons and persons recently released from the custody of the San Francisco County Jail.", 
+            "audience": "", 
+            "eligibility": "Incarcerated persons and persons recently released from the custody of the San Francisco County Jail.", 
             "how_to_apply": "", 
             "fees": "None.", 
             "keywords": [
@@ -11284,8 +11284,8 @@
         "services_attributes": [
           {
             "name": "Abode Services", 
-            "eligibility": "", 
-            "audience": "Individuals and families who are homeless or about to lose their housing, who live in, or want to relocate to, Alameda and Santa Clara counties", 
+            "audience": "", 
+            "eligibility": "Individuals and families who are homeless or about to lose their housing, who live in, or want to relocate to, Alameda and Santa Clara counties", 
             "how_to_apply": "", 
             "fees": "None.", 
             "keywords": [
@@ -11344,8 +11344,8 @@
         "services_attributes": [
           {
             "name": "Employment Services", 
-            "eligibility": "", 
-            "audience": "All individuals over the age of 18 referred from Alameda County Parole or Alameda County Probation", 
+            "audience": "", 
+            "eligibility": "All individuals over the age of 18 referred from Alameda County Parole or Alameda County Probation", 
             "how_to_apply": "", 
             "fees": "None", 
             "keywords": [
@@ -11403,8 +11403,8 @@
         "services_attributes": [
           {
             "name": "Transitional Day Reporting Center (TDRC)", 
-            "eligibility": "", 
-            "audience": "Clients of the Alameda County Adult Probation Department", 
+            "audience": "", 
+            "eligibility": "Clients of the Alameda County Adult Probation Department", 
             "how_to_apply": "", 
             "fees": "None", 
             "keywords": [
@@ -11463,8 +11463,8 @@
         "services_attributes": [
           {
             "name": "Homelss Services Program", 
-            "eligibility": "", 
             "audience": "", 
+            "eligibility": "", 
             "how_to_apply": "", 
             "fees": "", 
             "keywords": [
@@ -11522,8 +11522,8 @@
         "services_attributes": [
           {
             "name": "", 
-            "eligibility": "", 
-            "audience": "Men and women ages 18 and older.", 
+            "audience": "", 
+            "eligibility": "Men and women ages 18 and older.", 
             "how_to_apply": "", 
             "fees": "Medi-Cal/AB-109/Re-Entry Court/Private Pay $30 per session.", 
             "keywords": [
@@ -11581,8 +11581,8 @@
         "services_attributes": [
           {
             "name": "Breaking Thru Barriers", 
-            "eligibility": "", 
-            "audience": "All individuals between the age of 18 and 60 years old who are Alameda County residents.", 
+            "audience": "", 
+            "eligibility": "All individuals between the age of 18 and 60 years old who are Alameda County residents.", 
             "how_to_apply": "", 
             "fees": "None", 
             "keywords": [
@@ -11640,8 +11640,8 @@
         "services_attributes": [
           {
             "name": "", 
-            "eligibility": "", 
-            "audience": "Must be a Contra Costa County resident.", 
+            "audience": "", 
+            "eligibility": "Must be a Contra Costa County resident.", 
             "how_to_apply": "", 
             "fees": "Sliding scale.  No one will be denied services based on inability to pay.", 
             "keywords": [
@@ -11700,8 +11700,8 @@
         "services_attributes": [
           {
             "name": "Residential Substance Abuse Program", 
-            "eligibility": "", 
-            "audience": "Men (only), 18-64 years of age.  Must be a Contra Costa County resident.", 
+            "audience": "", 
+            "eligibility": "Men (only), 18-64 years of age.  Must be a Contra Costa County resident.", 
             "how_to_apply": "", 
             "fees": "Sliding scale.  No one will be denied services based on inability to pay.", 
             "keywords": [
@@ -11760,8 +11760,8 @@
         "services_attributes": [
           {
             "name": "Financial Opportunity Center ", 
-            "eligibility": "", 
-            "audience": "Homeless, AB109 and Second Chance Probation, and Parents returning home within last 180 days", 
+            "audience": "", 
+            "eligibility": "Homeless, AB109 and Second Chance Probation, and Parents returning home within last 180 days", 
             "how_to_apply": "", 
             "fees": "None", 
             "keywords": [
@@ -11820,8 +11820,8 @@
         "services_attributes": [
           {
             "name": "Shelter Inc.", 
-            "eligibility": "", 
-            "audience": "Men and women 18 years and older, with or without children, must be a Contra Costa County resident.", 
+            "audience": "", 
+            "eligibility": "Men and women 18 years and older, with or without children, must be a Contra Costa County resident.", 
             "how_to_apply": "For services we ask you have a picture ID, Social Security card and proof of income. Appointment is necessary.", 
             "fees": "None.", 
             "keywords": [
@@ -11880,8 +11880,8 @@
         "services_attributes": [
           {
             "name": "The Mission at Kern County", 
-            "eligibility": "", 
-            "audience": "male Only Shelter.  Must not have a conviction for any sex offense or arson and no AB109 placement", 
+            "audience": "", 
+            "eligibility": "male Only Shelter.  Must not have a conviction for any sex offense or arson and no AB109 placement", 
             "how_to_apply": "", 
             "fees": "None", 
             "keywords": [
@@ -11940,8 +11940,8 @@
         "services_attributes": [
           {
             "name": "Adult Rehabilitation Center", 
-            "eligibility": "", 
-            "audience": "Must be an adult male and healthy enough to work. Drug & Alcohol Free Environment. No SSI, Unemployment, or Disability Recipients.", 
+            "audience": "", 
+            "eligibility": "Must be an adult male and healthy enough to work. Drug & Alcohol Free Environment. No SSI, Unemployment, or Disability Recipients.", 
             "how_to_apply": "State-Issued ID, Social Security Card.", 
             "fees": "None.", 
             "keywords": [
@@ -11999,8 +11999,8 @@
         "services_attributes": [
           {
             "name": "Delancey Street Foundation Los Angeles", 
-            "eligibility": "", 
-            "audience": "Men, Women, Transgender people, ages 18 older. May not have a criminal conviciton for arson, may not be a registered sex offender, may not have a serious medical/mental health condition requiring medication.", 
+            "audience": "", 
+            "eligibility": "Men, Women, Transgender people, ages 18 older. May not have a criminal conviciton for arson, may not be a registered sex offender, may not have a serious medical/mental health condition requiring medication.", 
             "how_to_apply": "", 
             "fees": "No fee.", 
             "keywords": [
@@ -12059,8 +12059,8 @@
         "services_attributes": [
           {
             "name": "Los Angeles", 
-            "eligibility": "", 
-            "audience": " All individuals 18 and older.", 
+            "audience": "", 
+            "eligibility": " All individuals 18 and older.", 
             "how_to_apply": "", 
             "fees": " None.", 
             "keywords": [
@@ -12119,8 +12119,8 @@
         "services_attributes": [
           {
             "name": "Outpatient Services", 
-            "eligibility": "", 
-            "audience": "Male/Female for continuum of care funded through SASCA.", 
+            "audience": "", 
+            "eligibility": "Male/Female for continuum of care funded through SASCA.", 
             "how_to_apply": "Proof of SASCA authorization.", 
             "fees": "Funded through SASCA.", 
             "keywords": [
@@ -12179,8 +12179,8 @@
         "services_attributes": [
           {
             "name": "Residential Treatment Services", 
-            "eligibility": "Special registrations are ineligible for admissions.  Please call.", 
-            "audience": "Male parolees ages 18 and over.", 
+            "audience": "Special registrations are ineligible for admissions.  Please call.", 
+            "eligibility": "Male parolees ages 18 and over.", 
             "how_to_apply": "You may bring clothing items (up to 10 days), a portable radio and a cell phone.  If you do not already have a California ID and Social Security Card, the program will assist you in obtai9ning these items.", 
             "fees": "Program is funded through CDCR.", 
             "keywords": [
@@ -12238,8 +12238,8 @@
         "services_attributes": [
           {
             "name": "FOTEP El Monte", 
-            "eligibility": "Unable to accept anyone with a history of harm to children or required to register as a sex offender.", 
-            "audience": "Female paroles and up to 2 children under the age of 12 for each participant.", 
+            "audience": "Unable to accept anyone with a history of harm to children or required to register as a sex offender.", 
+            "eligibility": "Female paroles and up to 2 children under the age of 12 for each participant.", 
             "how_to_apply": "You may bring 7 to 10 days' worth of clothing, may bring preferred bedding, linens, and hygiene items.  Hygiene items will be provided if a client does not have any.  If you do not already have a California ID and Social Security Card, the program will assist you in obtai9ning these items.", 
             "fees": "Funded through DRP for female parolees..", 
             "keywords": [
@@ -12297,8 +12297,8 @@
         "services_attributes": [
           {
             "name": "Supportive Services/Interim & Transitional Housing", 
-            "eligibility": "", 
-            "audience": "Homeless individuals, families, veterans.", 
+            "audience": "", 
+            "eligibility": "Homeless individuals, families, veterans.", 
             "how_to_apply": "CA ID, Social Security Card, updated TB test, verification of income.  Program will assist clients getting these documents.", 
             "fees": "None.", 
             "keywords": [
@@ -12357,8 +12357,8 @@
         "services_attributes": [
           {
             "name": "Homeless Services", 
-            "eligibility": "", 
-            "audience": "All individuals at least 18 years of age.", 
+            "audience": "", 
+            "eligibility": "All individuals at least 18 years of age.", 
             "how_to_apply": "CA ID, Social Security Card, program will assist clients to obtain these documents, and no more than two weeks of clothing.", 
             "fees": "None.", 
             "keywords": [
@@ -12417,8 +12417,8 @@
         "services_attributes": [
           {
             "name": "Family Center - Emergency Shelter", 
-            "eligibility": "", 
-            "audience": "Must be a Marin resident, must be a parent with a minor child(ren).", 
+            "audience": "", 
+            "eligibility": "Must be a Marin resident, must be a parent with a minor child(ren).", 
             "how_to_apply": "", 
             "fees": "None", 
             "keywords": [
@@ -12477,8 +12477,8 @@
         "services_attributes": [
           {
             "name": "Services For Homeless Adult", 
-            "eligibility": "", 
-            "audience": "Must be a Marin resident, must be unaccompanied adult at least 18 years of age.", 
+            "audience": "", 
+            "eligibility": "Must be a Marin resident, must be unaccompanied adult at least 18 years of age.", 
             "how_to_apply": "", 
             "fees": "Yes, $3 per night.  If unable to pay please speak to program manager.", 
             "keywords": [
@@ -12536,8 +12536,8 @@
         "services_attributes": [
           {
             "name": "Alcohol and Drug Services", 
-            "eligibility": "", 
             "audience": "", 
+            "eligibility": "", 
             "how_to_apply": "", 
             "fees": "", 
             "keywords": [
@@ -12595,8 +12595,8 @@
         "services_attributes": [
           {
             "name": "Hope Center", 
-            "eligibility": "", 
-            "audience": "Must be at least 18 years old and a Napa County resident to receive services.", 
+            "audience": "", 
+            "eligibility": "Must be at least 18 years old and a Napa County resident to receive services.", 
             "how_to_apply": "", 
             "fees": "None - must contribute back for services by helping out with some chores.", 
             "keywords": [
@@ -12655,8 +12655,8 @@
         "services_attributes": [
           {
             "name": "ADRC North", 
-            "eligibility": "", 
-            "audience": "Referred by Probation.", 
+            "audience": "", 
+            "eligibility": "Referred by Probation.", 
             "how_to_apply": "", 
             "fees": "None.", 
             "keywords": [
@@ -12715,8 +12715,8 @@
         "services_attributes": [
           {
             "name": "Saint John's Program for Real Change", 
-            "eligibility": "", 
-            "audience": "Women at least 18 years of age and women with children.Men and Women at least 18 years of ageMen 18 years of age and older and must be a resident of Sacramento County.All individuals 18 years of age or older and a San Diego County resident.", 
+            "audience": "", 
+            "eligibility": "Women at least 18 years of age and women with children.Men and Women at least 18 years of ageMen 18 years of age and older and must be a resident of Sacramento County.All individuals 18 years of age or older and a San Diego County resident.", 
             "how_to_apply": "CA ID, Social Security Card, Program will assist clients getting these documents.", 
             "fees": "NoneWe accept private insurance/Private Pay with payment options. EAP and managed care. Obama care, workman's comp cases.NoneNone.", 
             "keywords": [
@@ -12777,8 +12777,8 @@
         "services_attributes": [
           {
             "name": "Residential Treatment/Transitional Housing/Emergency Shelter for Men, Women and Children", 
-            "eligibility": "", 
-            "audience": "All individuals 18 years of age or older, Mothers with children (children up to age 16\u2014for emergency shelter), for the woman and children center (children up to age 12).", 
+            "audience": "", 
+            "eligibility": "All individuals 18 years of age or older, Mothers with children (children up to age 16\u2014for emergency shelter), for the woman and children center (children up to age 12).", 
             "how_to_apply": "CA ID, Social Security Card are helpful but not required.", 
             "fees": "Emergency shelter (No Fee), Transitional Housing (Sliding Scale).", 
             "keywords": [
@@ -12837,8 +12837,8 @@
         "services_attributes": [
           {
             "name": "Recovery Services", 
-            "eligibility": "", 
-            "audience": "Men  18 years and older,  no active warrants, no upcoming court dates,  no arson or sex crimes. May not work for the first 4 to 6 months of the program.", 
+            "audience": "", 
+            "eligibility": "Men  18 years and older,  no active warrants, no upcoming court dates,  no arson or sex crimes. May not work for the first 4 to 6 months of the program.", 
             "how_to_apply": "Valid ID and current TB test.", 
             "fees": "sliding scale\u2014food stamps accepted as partial rent payment.", 
             "keywords": [
@@ -12896,8 +12896,8 @@
         "services_attributes": [
           {
             "name": "", 
-            "eligibility": "", 
-            "audience": "AB 109 (referred from San Mateo County Probation). We also accept regular probation and parole referrals as well.", 
+            "audience": "", 
+            "eligibility": "AB 109 (referred from San Mateo County Probation). We also accept regular probation and parole referrals as well.", 
             "how_to_apply": "", 
             "fees": "None", 
             "keywords": [
@@ -12956,8 +12956,8 @@
         "services_attributes": [
           {
             "name": "", 
-            "eligibility": "", 
-            "audience": "San Mateo County residents have priority.  Must be 18 years of age by the time vocational training is completed.", 
+            "audience": "", 
+            "eligibility": "San Mateo County residents have priority.  Must be 18 years of age by the time vocational training is completed.", 
             "how_to_apply": "", 
             "fees": "None", 
             "keywords": [
@@ -13016,8 +13016,8 @@
         "services_attributes": [
           {
             "name": "Substance Abuse Treatment Facility", 
-            "eligibility": "", 
-            "audience": "Must be at least 18 years of age, and not have a conviction for a sex offense or arson.", 
+            "audience": "", 
+            "eligibility": "Must be at least 18 years of age, and not have a conviction for a sex offense or arson.", 
             "how_to_apply": "", 
             "fees": "None", 
             "keywords": [
@@ -13076,8 +13076,8 @@
         "services_attributes": [
           {
             "name": "Service Connect", 
-            "eligibility": "", 
-            "audience": "Must be on probation in San Mateo County.  Please check with your Deputy Probation Officer to see if you are eligible.", 
+            "audience": "", 
+            "eligibility": "Must be on probation in San Mateo County.  Please check with your Deputy Probation Officer to see if you are eligible.", 
             "how_to_apply": "", 
             "fees": "None", 
             "keywords": [
@@ -13136,8 +13136,8 @@
         "services_attributes": [
           {
             "name": "Clean & Sober Transitional Housing", 
-            "eligibility": "", 
-            "audience": "Must be at least 18 years of age, and not have a conviction for a sex offense or arson.", 
+            "audience": "", 
+            "eligibility": "Must be at least 18 years of age, and not have a conviction for a sex offense or arson.", 
             "how_to_apply": "", 
             "fees": "None", 
             "keywords": [
@@ -13196,8 +13196,8 @@
         "services_attributes": [
           {
             "name": "Jericho Project", 
-            "eligibility": "", 
-            "audience": "Men ages 18 and older.", 
+            "audience": "", 
+            "eligibility": "Men ages 18 and older.", 
             "how_to_apply": "Program will assist clients with necessary documents.", 
             "fees": "", 
             "keywords": [
@@ -13256,8 +13256,8 @@
         "services_attributes": [
           {
             "name": "Substance Abuse Treatment Services", 
-            "eligibility": "", 
-            "audience": "Men ages 18 and older.  Must not have conviction for arson or sex offense.", 
+            "audience": "", 
+            "eligibility": "Men ages 18 and older.  Must not have conviction for arson or sex offense.", 
             "how_to_apply": "State-Issued ID", 
             "fees": "Sliding scale.", 
             "keywords": [
@@ -13315,8 +13315,8 @@
         "services_attributes": [
           {
             "name": "Rescue Mission/Men's Emergency Shelter", 
-            "eligibility": "", 
-            "audience": "Men ages 18 and older.", 
+            "audience": "", 
+            "eligibility": "Men ages 18 and older.", 
             "how_to_apply": "", 
             "fees": "None.", 
             "keywords": [
@@ -13375,8 +13375,8 @@
         "services_attributes": [
           {
             "name": "Substance Abuse Treatment Services", 
-            "eligibility": "", 
-            "audience": "Men ages 18 and older.", 
+            "audience": "", 
+            "eligibility": "Men ages 18 and older.", 
             "how_to_apply": "State-Issued ID", 
             "fees": "Sliding Scale.", 
             "keywords": [
@@ -13435,8 +13435,8 @@
         "services_attributes": [
           {
             "name": " Substance Abuse Treatment Services San Jose", 
-            "eligibility": "", 
-            "audience": "Men and Women, ages 18 and older.  Must not have conviction for arson or sex offense.", 
+            "audience": "", 
+            "eligibility": "Men and Women, ages 18 and older.  Must not have conviction for arson or sex offense.", 
             "how_to_apply": "State-Issued ID", 
             "fees": "Sliding scale.", 
             "keywords": [
@@ -13494,8 +13494,8 @@
         "services_attributes": [
           {
             "name": "Santa Clara County Reentry Center", 
-            "eligibility": "", 
-            "audience": "Men/Women ages 18 and older, must reside in Santa Clara County and criminal justice involved.Men/Women ages 18 and older, must reside in Solano County.Men/Women ages 18 and older.  Must be a Solano County resident.All individuals 18 years of age and older, uninsured or Medi-Cal, must be a Solano County resident.  Must have used drugs or alcohol in the past year.All are welcome. Children must be accompanied by a parent.", 
+            "audience": "", 
+            "eligibility": "Men/Women ages 18 and older, must reside in Santa Clara County and criminal justice involved.Men/Women ages 18 and older, must reside in Solano County.Men/Women ages 18 and older.  Must be a Solano County resident.All individuals 18 years of age and older, uninsured or Medi-Cal, must be a Solano County resident.  Must have used drugs or alcohol in the past year.All are welcome. Children must be accompanied by a parent.", 
             "how_to_apply": "", 
             "fees": "None.None.None.Will be discussed during intake. If you do not have insurance you will not be turned away.None", 
             "keywords": [
@@ -13557,8 +13557,8 @@
         "services_attributes": [
           {
             "name": "Mary Isaak Center (transitional Housing/Emergency Shelter)", 
-            "eligibility": "", 
-            "audience": "Homeless adults and families.", 
+            "audience": "", 
+            "eligibility": "Homeless adults and families.", 
             "how_to_apply": "", 
             "fees": "None", 
             "keywords": [
@@ -13617,8 +13617,8 @@
         "services_attributes": [
           {
             "name": "Men's Shelter and Women's Shelter", 
-            "eligibility": "", 
-            "audience": "Must be at least 18 years old to receive services, unless emancipated.", 
+            "audience": "", 
+            "eligibility": "Must be at least 18 years old to receive services, unless emancipated.", 
             "how_to_apply": "", 
             "fees": "None", 
             "keywords": [
@@ -13676,8 +13676,8 @@
         "services_attributes": [
           {
             "name": "Sonoma County Job Link", 
-            "eligibility": "", 
-            "audience": "Must be at least 18 years old to receive services.", 
+            "audience": "", 
+            "eligibility": "Must be at least 18 years old to receive services.", 
             "how_to_apply": "", 
             "fees": "None", 
             "keywords": [
@@ -13736,8 +13736,8 @@
         "services_attributes": [
           {
             "name": "Day Reporting Center", 
-            "eligibility": "", 
-            "audience": "the AB 109 population and those individuals under probation supervision with high risk for recidivism.", 
+            "audience": "", 
+            "eligibility": "the AB 109 population and those individuals under probation supervision with high risk for recidivism.", 
             "how_to_apply": "", 
             "fees": "Participation in assigned programming is free of charge.", 
             "keywords": [
@@ -13795,8 +13795,8 @@
         "services_attributes": [
           {
             "name": "Residential Treatment Program", 
-            "eligibility": "", 
-            "audience": "All individuals 18 and older who are residents of Sonoma County.", 
+            "audience": "", 
+            "eligibility": "All individuals 18 and older who are residents of Sonoma County.", 
             "how_to_apply": "", 
             "fees": "Sliding scale.  Funding available.  Will be discussed during intake.", 
             "keywords": [
