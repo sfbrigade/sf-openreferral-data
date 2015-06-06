@@ -8,25 +8,25 @@
             "number": "4155633205",
             "extension": "123"
           }
-        ],
-        "description": "CHP is a San Francisco-based nonprofit organization.  CHP's mission is to help homeless people secure housing and become self-sufficient.  Community Housing Partnership is an outcome focused nonprofit that fulfills its mission by developing and managing high quality supportive housing and providing services to homeless individuals, seniors and families to help them rebuild their lives and break the cycle of homelessness. The above properties do not maintain waitlists.  All vacancies are filled through referrals provided to CHP by programs through the HSA and DPH depending on the property.  Please visit the website for more info.No.",
+        ], 
+        "description": "CHP is a San Francisco-based nonprofit organization.  CHP's mission is to help homeless people secure housing and become self-sufficient.  Community Housing Partnership is an outcome focused nonprofit that fulfills its mission by developing and managing high quality supportive housing and providing services to homeless individuals, seniors and families to help them rebuild their lives and break the cycle of homelessness. The above properties do not maintain waitlists.", 
         "address_attributes": {
-          "city": "",
-          "state": "",
-          "street": "",
-          "zip": ""
+          "city": "San Francisco",
+          "state": "CA",
+          "street": "519 Ellis St.",
+          "zip": "94109"
         },
         "services_attributes": [
           {
             "name": "",
             "audience": "",
             "eligibility": "All currently homeless individuals and family members.  There are additional eligibility requirements per property that may include, but not limited to, annual income limits and verified disability.  Please visit the website for more onformation.",
-            "how_to_apply": "State-Issued ID. Program will assist client in getting this.",
+            "how_to_apply": "All vacancies are filled through referrals provided to CHP by programs through the HSA and DPH depending on the property.  Please visit the website for more info. Documents needed: State-Issued ID. Program will assist client in getting this.",
             "fees": "None",
             "keywords": [
               "Permanent Housing, Access to Internet, Assistance Getting Drivers License or Other ID, Hygiene/Personal Care Items, Phone/Voicemail, Substance Abuse Treatment, Health & Wellness Education, Intensive Case Management, Outreach, Assessment & Application for Food Stamps, General Assistance, and SSI, Employment Training, Job Readiness/Life Skills, Parenting Support/Education, Services for Children. Referral to other services as needed."
-            ],
-            "description": "CHP is a San Francisco-based nonprofit organization.  CHP's mission is to help homeless people secure housing and become self-sufficient.  Community Housing Partnership is an outcome focused nonprofit that fulfills its mission by developing and managing high quality supportive housing and providing services to homeless individuals, seniors and families to help them rebuild their lives and break the cycle of homelessness. The above properties do not maintain waitlists.  All vacancies are filled through referrals provided to CHP by programs through the HSA and DPH depending on the property.  Please visit the website for more info.No."
+            ], 
+            "description": "CHP is a San Francisco-based nonprofit organization.  CHP's mission is to help homeless people secure housing and become self-sufficient.  Community Housing Partnership is an outcome focused nonprofit that fulfills its mission by developing and managing high quality supportive housing and providing services to homeless individuals, seniors and families to help them rebuild their lives and break the cycle of homelessness. The above properties do not maintain waitlists."
           }
         ],
         "accessibility": [
@@ -49,7 +49,7 @@
         ],
         "urls": [
           "www.chp-sf.org"
-        ],
+        ], 
         "faxes_attributes": [
           {
             "number": ""
@@ -57,7 +57,15 @@
         ]
       }
     ],
-    "notes": ""
+    "notes": "Properties Without Waitlists:
+684 Ellis Street
+850 Broderick Street
+650 Eddy Street
+365 Fulton
+25 Essex
+3155 Scott
+374 5th St.
+810 Avenue D"
   },
   {
     "name": "Catholic Charities/CYO",
@@ -69,7 +77,7 @@
             "extension": ""
           }
         ],
-        "description": "Cathonic Charities/CYO's mission is to house homeless people with disabling HIV and AIDS. At Leland House, which provides permanent housing, we respond to residents on a Harm Reduction basis working with behaviors as they become difficult for others and when they  impede the safety of the resident themselves.  Referral required. Intake appointment needed - no drop-ins.No.",
+        "description": "Cathonic Charities/CYO's mission is to house homeless people with disabling HIV and AIDS. At Leland House, which provides permanent housing, we respond to residents on a Harm Reduction basis working with behaviors as they become difficult for others and when they impede the safety of the resident themselves.",
         "address_attributes": {
           "city": "San Francisco",
           "state": "CA",
@@ -81,18 +89,18 @@
             "name": "Leland House",
             "audience": "",
             "eligibility": "All currently homeless individuals, 18 years or older, with disabling HIV or AIDS, psychiatric disorders or substance abuse issues.",
-            "how_to_apply": "State-Issued ID, Social Security Card, Proof of SF Residency, TB Clearance, Medi-Cal card or other proof of insurance so that medications can be ordered.",
+            "how_to_apply": "Referral required. Intake appointment needed - no drop-ins. Documents needed: State-Issued ID, Social Security Card, Proof of SF Residency, TB Clearance, Medi-Cal card or other proof of insurance so that medications can be ordered.",
             "fees": "Rent is calculated at 30% of monthly income. There is an annual income limit.",
             "keywords": [
-              "Permanent Housing, Access to Internet, Assistance Getting Drivers License or Other ID, Food/Prepared Meals, P.O. Box/Mail Service, Voicemail, Shower Facilities, Utilities (hot water, heat), Co-occurring Disorder/Dual Diagnosis Treatment, Health & Wellness Education through in house dietician, Anger Management, Group Counseling/Therapy - Anger Management, HIV Support, Harm Reduction, Money Management/Personal Financial Education, Many additional supportive services available upon referral behavioral health, employment, case management, and other specialists, as needed."
+              "Permanent Housing, Access to Internet, Assistance Getting Drivers License or Other ID, Food/Prepared Meals, P.O. Box/Mail Service, Voicemail, Shower Facilities, Utilities (hot water, heat), Co-occurring Disorder/Dual Diagnosis Treatment, Health & Wellness Education through in house dietician, Anger Management, Group Counseling/Therapy (Anger Management, HIV Support, Harm Reduction), Money Management/Personal Financial Education, Many additional supportive services available upon referral behavioral health, employment, case management, and other specialists, as needed."
             ],
-            "description": "Cathonic Charities/CYO's mission is to house homeless people with disabling HIV and AIDS. At Leland House, which provides permanent housing, we respond to residents on a Harm Reduction basis working with behaviors as they become difficult for others and when they  impede the safety of the resident themselves.  Referral required. Intake appointment needed - no drop-ins.No."
+            "description": "Cathonic Charities/CYO's mission is to house homeless people with disabling HIV and AIDS. At Leland House, which provides permanent housing, we respond to residents on a Harm Reduction basis working with behaviors as they become difficult for others and when they  impede the safety of the resident themselves."
           }
         ],
         "accessibility": [
           "Wheelchair accessible. Other disabilities are accommodated."
         ],
-        "hours": "Wednesdays and Thursdays24 hours/7 days",
+        "hours": "Wednesdays and Thursdays, 24 hours/7 days",
         "emails": [
           "TQuinn@cccyo.org"
         ],
@@ -131,11 +139,11 @@
             "extension": "2201"
           }
         ],
-        "description": "Compass SF HOME helps families in danger of homelessness to stabilize and maintain their housing and rapidly re-houses homeless families so that they can work towards long-term economic self-sufficiency.  The program is designed to help homeless families find a unit, and then provide a rental subsidy paired with case management until the family increases their income to the point that they can pay the rent on their own.    Please call for more information and to receive an application packet.  No referral required but families we prioritize families who are either in a shelter or on the Connecting Point family shelter waitlist.No.",
+        "description": "Compass SF HOME helps families in danger of homelessness to stabilize and maintain their housing and rapidly re-houses homeless families so that they can work towards long-term economic self-sufficiency.  The program is designed to help homeless families find a unit, and then provide a rental subsidy paired with case management until the family increases their income to the point that they can pay the rent on their own.  ",
         "address_attributes": {
-          "city": "",
-          "state": "",
-          "street": "995 Market St, 5th Floor, SF",
+          "city": "San Francisco",
+          "state": "CA",
+          "street": "995 Market St, 5th Floor",
           "zip": "94103"
         },
         "services_attributes": [
@@ -143,12 +151,12 @@
             "name": "SF Home",
             "audience": "",
             "eligibility": "Homeless families staying in San Francisco. Must have more than 50% custody of a child under 18, minimum income of $500, maximum income 50% AMI. Must have a concrete plan to increase your income to the point where you can afford rent.",
-            "how_to_apply": "We will let you know what documents are needed at the time you apply.",
+            "how_to_apply": "Please call for more information and to receive an application packet.  No referral required but families we prioritize families who are either in a shelter or on the Connecting Point family shelter waitlist. We will let you know what documents are needed at the time you apply.",
             "fees": "None, although families must pay 40-50% of their net income towards the rent in their unit.",
             "keywords": [
               "Assistance Obtaining Permanent Housing, Rental Subsidies, Intensive Case Management, Education and Professional Goals, Money management, Access to a Food Pantry, Clothing, Personal Hygiene Products, Diapers and Baby Supplies, Transportation Assistance, Access to Educational/Recreational Activities for Children."
             ],
-            "description": "Compass SF HOME helps families in danger of homelessness to stabilize and maintain their housing and rapidly re-houses homeless families so that they can work towards long-term economic self-sufficiency.  The program is designed to help homeless families find a unit, and then provide a rental subsidy paired with case management until the family increases their income to the point that they can pay the rent on their own.    Please call for more information and to receive an application packet.  No referral required but families we prioritize families who are either in a shelter or on the Connecting Point family shelter waitlist.No."
+            "description": "Compass SF HOME helps families in danger of homelessness to stabilize and maintain their housing and rapidly re-houses homeless families so that they can work towards long-term economic self-sufficiency.  The program is designed to help homeless families find a unit, and then provide a rental subsidy paired with case management until the family increases their income to the point that they can pay the rent on their own."
           }
         ],
         "accessibility": [
@@ -165,7 +173,7 @@
           }
         ],
         "name": "SF Home",
-        "short_desc": "Compass SF HOME helps families in danger of homelessness to stabilize and maintain their housing and",
+        "short_desc": "Compass SF HOME helps families in danger of homelessness to stabilize and maintain their housing",
         "languages": [
           "English",
           "Spanish"
@@ -192,7 +200,7 @@
             "extension": "105"
           }
         ],
-        "description": "Our mission is to break the cycle of homelessness and poverty.  Through a housing-first approach, we provide a continuum of housing solutions and hands-on services that promote self-sufficiency for families and individuals, and foster the potential of children and youth.  The Dudley Apartments is a 75-unit Permanent Supportive Housing development where Hamilton family Center offers intensive case management services for single adults, seniors, families, and children managing disabilities who have experienced homelessness.  Please call for an appointment.  Referal from a service provider who can supply a certificate of homelessness is required.  A waitlist is managed through Mercy Housing.No.",
+        "description": "Our mission is to break the cycle of homelessness and poverty.  Through a housing-first approach, we provide a continuum of housing solutions and hands-on services that promote self-sufficiency for families and individuals, and foster the potential of children and youth.  The Dudley Apartments is a 75-unit Permanent Supportive Housing development where Hamilton family Center offers intensive case management services for single adults, seniors, families, and children managing disabilities who have experienced homelessness.",
         "address_attributes": {
           "city": "San Francisco",
           "state": "CA",
@@ -204,12 +212,12 @@
             "name": "The Dudley Apartments",
             "audience": "",
             "eligibility": "Men, women, transgender, pregnant women, women with children, families.  There are extensive restrictions for this program as it works with Mercy Housing providing section 8 units.  Please contact the Dudley Apartments staff for more information.",
-            "how_to_apply": "State issued ID, Social Security Card.  Program will assist clients getting these documents.",
+            "how_to_apply": "Please call for an appointment.  Referral from a service provider who can supply a certificate of homelessness is required.  A waitlist is managed through Mercy Housing. Documents needed: State issued ID, Social Security Card.  Program will assist clients getting these documents.",
             "fees": "Client pays 30% of their income toward rent.",
             "keywords": [
               "Permanent Housing, Access to Internet, Assistance Getting Driver's License/Other ID, Food/Prepared Meals, P.O. Box/Mail Service, Shower Facilities, Mental Health Treatment, Health & Wellness Eductaion, Intensive Case Management, Individual Counseling/Therapy, Housing Placement Assistance, Assistance Applying for CalFresh/Food Stamps, Assistance Applying for PAES/GA/CalWorks, Assessment & Application for SSI, Credit Repair, Job Readiness/Life Skills, Money Management/Personal Financial Eduction, Assistance Applying for Health Insurance, Couples/Family Counseling, Family Reunification, Parenting Support/Education, Services for Children."
             ],
-            "description": "Our mission is to break the cycle of homelessness and poverty.  Through a housing-first approach, we provide a continuum of housing solutions and hands-on services that promote self-sufficiency for families and individuals, and foster the potential of children and youth.  The Dudley Apartments is a 75-unit Permanent Supportive Housing development where Hamilton family Center offers intensive case management services for single adults, seniors, families, and children managing disabilities who have experienced homelessness.  Please call for an appointment.  Referal from a service provider who can supply a certificate of homelessness is required.  A waitlist is managed through Mercy Housing.No."
+            "description": "Our mission is to break the cycle of homelessness and poverty.  Through a housing-first approach, we provide a continuum of housing solutions and hands-on services that promote self-sufficiency for families and individuals, and foster the potential of children and youth.  The Dudley Apartments is a 75-unit Permanent Supportive Housing development where Hamilton family Center offers intensive case management services for single adults, seniors, families, and children managing disabilities who have experienced homelessness."
           }
         ],
         "accessibility": [
@@ -253,7 +261,7 @@
             "extension": ""
           }
         ],
-        "description": "Provide back rent or security deposit to low income San Francisco residents meeting criteria. After verifying need and eligibility based on phone or mail inquiry, clients are referred to a community agency that can help them complete a rental assistance application. No drop-ins.No.",
+        "description": "Provide back rent or security deposit to low income San Francisco residents meeting criteria.",
         "address_attributes": {
           "city": "San Francisco",
           "state": "CA",
@@ -265,12 +273,12 @@
             "name": "San Francisco Rental Assistance Program",
             "audience": "",
             "eligibility": "Low-income (80% AMI or below) families with minor children in their custody, adults (verifiably disabled, senior 55+), emancipated foster youth, veterans, victim of recent violence. Must be San Francisco resident.",
-            "how_to_apply": "State-Issued ID, Social Security Card, Birth Certificates (for children), Proof of Income, Lease Agreement, and other supporting documentation, as needed.",
+            "how_to_apply": "After verifying need and eligibility based on phone or mail inquiry, clients are referred to a community agency that can help them complete a rental assistance application. No drop-ins. Documents needed: State-Issued ID, Social Security Card, Birth Certificates (for children), Proof of Income, Lease Agreement, and other supporting documentation, as needed.",
             "fees": "None.",
             "keywords": [
               "Assistance with back rent, security deposit, critical family needs. Referrals to other services as needed."
             ],
-            "description": "Provide back rent or security deposit to low income San Francisco residents meeting criteria. After verifying need and eligibility based on phone or mail inquiry, clients are referred to a community agency that can help them complete a rental assistance application. No drop-ins.No."
+            "description": "Provide back rent or security deposit to low income San Francisco residents meeting criteria."
           }
         ],
         "accessibility": [
@@ -287,7 +295,7 @@
           }
         ],
         "name": "San Francisco Rental Assistance Program",
-        "short_desc": "Provide back rent or security deposit to low income San Francisco residents meeting criteria. www.sf",
+        "short_desc": "Provide back rent or security deposit to low income San Francisco residents meeting criteria.",
         "languages": [
           ""
         ],
@@ -313,7 +321,7 @@
             "extension": "125"
           }
         ],
-        "description": "In partnership with San Francisco Adult Probation, the New Roads Program provides services to clients who are on Adult Probation in San Franisco.  The New Roads Program is a rental subsidy program designed for clients who are homeless or unstably housed, and are seeking housing and financial stability.  Services for clients accepted into the program include:  housing search assistance; rental subsidies; financial assistance; and supportive setvices.  The goal for all New Roads clients is to obtain permanent housing and increase monthly income during program participation, in order to become self-sufficient. Clients may phone or drop-in to inquire about services, but will need an appointment for an intake.  Clients must be on supervised Adult Probation in San Francisco and must be referred by their Deputy Probation Officer.No.",
+        "description": "In partnership with San Francisco Adult Probation, the New Roads Program provides services to clients who are on Adult Probation in San Francisco.  The New Roads Program is a rental subsidy program designed for clients who are homeless or unstably housed, and are seeking housing and financial stability.  Services for clients accepted into the program include:  housing search assistance; rental subsidies; financial assistance; and supportive services.  The goal for all New Roads clients is to obtain permanent housing and increase monthly income during program participation, in order to become self-sufficient.",
         "address_attributes": {
           "city": "San Francisco",
           "state": "CA",
@@ -325,12 +333,12 @@
             "name": "New Roads Program",
             "audience": "",
             "eligibility": "Clients must be referred  to the program by the San Francisco Adult Probation Department, must be currently homeless or unstably housed, and have at least 12 months remaining on supervision.",
-            "how_to_apply": "",
+            "how_to_apply": "Clients may phone or drop-in to inquire about services, but will need an appointment for an intake.  Clients must be on supervised Adult Probation in San Francisco and must be referred by their Deputy Probation Officer.",
             "fees": "",
             "keywords": [
               "Housing Placement Assistance, Rental Subsidies, Supportive Services, Financial and Clothing Assistance."
             ],
-            "description": "In partnership with San Francisco Adult Probation, the New Roads Program provides services to clients who are on Adult Probation in San Franisco.  The New Roads Program is a rental subsidy program designed for clients who are homeless or unstably housed, and are seeking housing and financial stability.  Services for clients accepted into the program include:  housing search assistance; rental subsidies; financial assistance; and supportive setvices.  The goal for all New Roads clients is to obtain permanent housing and increase monthly income during program participation, in order to become self-sufficient. Clients may phone or drop-in to inquire about services, but will need an appointment for an intake.  Clients must be on supervised Adult Probation in San Francisco and must be referred by their Deputy Probation Officer.No."
+            "description": "In partnership with San Francisco Adult Probation, the New Roads Program provides services to clients who are on Adult Probation in San Francisco.  The New Roads Program is a rental subsidy program designed for clients who are homeless or unstably housed, and are seeking housing and financial stability.  Services for clients accepted into the program include:  housing search assistance; rental subsidies; financial assistance; and supportive services.  The goal for all New Roads clients is to obtain permanent housing and increase monthly income during program participation, in order to become self-sufficient."
           }
         ],
         "accessibility": [
@@ -368,7 +376,7 @@
     "notes": ""
   },
   {
-    "name": "Tenderloin Housing Clinic",
+    "name": "Tenderlion Housing Clinic",
     "locations": [
       {
         "phones_attributes": [
@@ -377,24 +385,24 @@
             "extension": ""
           }
         ],
-        "description": "THC provides affordable supportive housing in San Francisco to over 1,500 formerly homeless tenants in 16 master leased properties residing in the Tenderloin, Mission, Union Square, and South of Market (SOMA) neighborhoods. Additionally, THC owns and operates the Galvin Apartments, a building in SOMA, designed for tenants transitioning out of Single Room Occupancy Hotels (SROs). The Housing Services Staff are enthusiastic about helping clients retain and maintain their housing through rental payment and money management services. THC provides supportive case management to all THC tenants, using a harm reduction framework. Through the harm reduction lens, each tenant is seen as an individual with unique needs. We attempt to serve tenants in a fair, consistent and supportive manner, which builds upon their strengths and promotes self-sufficiency. To qualify for placement in a master lease hotel, prospective tenants must: 1) Be homeless. 2) Have a qualifying income.No.",
+        "description": "THC provides affordable supportive housing in San Francisco to over 1,500 formerly homeless tenants in 16 master leased properties residing in the Tenderloin, Mission, Union Square, and South of Market (SOMA) neighborhoods. Additionally, THC owns and operates the Galvin Apartments, a building in SOMA, designed for tenants transitioning out of Single Room Occupancy Hotels (SROs). The Housing Services Staff are enthusiastic about helping clients retain and maintain their housing through rental payment and money management services. THC provides supportive case management to all THC tenants, using a harm reduction framework. Through the harm reduction lens, each tenant is seen as an individual with unique needs. We attempt to serve tenants in a fair, consistent and supportive manner, which builds upon their strengths and promotes self-sufficiency.",
         "address_attributes": {
           "city": "San Francisco",
-          "state": "",
+          "state": "CA",
           "street": "472 Turk Street",
-          "zip": ""
+          "zip": "94102"
         },
         "services_attributes": [
           {
             "name": "Housing and Supportive Services",
             "audience": "",
-            "eligibility": "",
+            "eligibility": "To qualify for placement in a master lease hotel, prospective tenants must: 1) Be homeless. 2) Have a qualifying income. 3) Must be referred from an approved source.",
             "how_to_apply": "Referral source provides this information.",
             "fees": "",
             "keywords": [
               "Intake & Assessment, Case Management, Benefits Advocacy, Community Organizing, Mediation with Property Management, Conflict Resolution, Support Groups, Social Events, Organized Tenant Activities, Wellness Checks, and Referrals to other resources available as needed."
             ],
-            "description": "THC provides affordable supportive housing in San Francisco to over 1,500 formerly homeless tenants in 16 master leased properties residing in the Tenderloin, Mission, Union Square, and South of Market (SOMA) neighborhoods. Additionally, THC owns and operates the Galvin Apartments, a building in SOMA, designed for tenants transitioning out of Single Room Occupancy Hotels (SROs). The Housing Services Staff are enthusiastic about helping clients retain and maintain their housing through rental payment and money management services. THC provides supportive case management to all THC tenants, using a harm reduction framework. Through the harm reduction lens, each tenant is seen as an individual with unique needs. We attempt to serve tenants in a fair, consistent and supportive manner, which builds upon their strengths and promotes self-sufficiency. To qualify for placement in a master lease hotel, prospective tenants must: 1) Be homeless. 2) Have a qualifying income.No."
+            "description": "THC provides affordable supportive housing in San Francisco to over 1,500 formerly homeless tenants in 16 master leased properties residing in the Tenderloin, Mission, Union Square, and South of Market (SOMA) neighborhoods. Additionally, THC owns and operates the Galvin Apartments, a building in SOMA, designed for tenants transitioning out of Single Room Occupancy Hotels (SROs). The Housing Services Staff are enthusiastic about helping clients retain and maintain their housing through rental payment and money management services. THC provides supportive case management to all THC tenants, using a harm reduction framework. Through the harm reduction lens, each tenant is seen as an individual with unique needs. We attempt to serve tenants in a fair, consistent and supportive manner, which builds upon their strengths and promotes self-sufficiency."
           }
         ],
         "accessibility": [
@@ -413,7 +421,11 @@
         "name": "Housing and Supportive Services",
         "short_desc": "THC provides affordable supportive housing in San Francisco to over 1,500 formerly homeless tenants ",
         "languages": [
-          ""
+          "English",
+          "Spanish",
+          "Cantonese",
+          "Mandarin",
+          "Assamese"
         ],
         "urls": [
           "www.thclinic.org"
@@ -425,7 +437,12 @@
         ]
       }
     ],
-    "notes": ""
+    "notes": "How to Sign Up for the Master Lease Program:
+If you are a CAAP Recipient: Any client who is active and listed as homeless with their County Adult Assistance Program (CAAP) worker is eligible for master lease hotel housing. Check with your CAAP worker during your monthly Homeless Residency verification appointment regarding housing opportunities.  Your CAAP worker is the only person who can provide you with this information.
+
+If you are a SSI/SSDI/SSA/VA/CAPI Recipient: To qualify for the Master Lease program, you must stay at a qualified emergency shelter or work with a qualified agency. These include: MSC South, Next Door, Hospitality House, Episcopal Sanctuary, A Woman's Place, Larkin St., Dolores St. or the Homeless Outreach Team. Each shelter has a designated number of referrals slots and has its own internal process for making referrals to THC. Please see your shelter case manager to learn about their referral process. If your income is CAAP you cannot be referred through a shelter.
+
+If you are a Qualified Low-Income Working Individual: To qualify for the Master Lease program, you must stay at a qualified emergency shelter or work with a qualified agency. These include: MSC South, Next Door, Hospitality House, Episcopal Sanctuary, A Woman's Place, Larkin St., Dolores St. or the Homeless Outreach Team. Each shelter has a designated number of referrals slots, and has its own internal process for making referrals to THC. Please see your shelter case manager to learn about their referral process. If your income is CAAP you cannot be referred through a shelter."
   },
   {
     "name": "ARA First Step Home",
@@ -437,24 +454,28 @@
             "extension": ""
           }
         ],
-        "description": "The Alcoholics Rehabilitation Association of San Francisco, Inc., operates the ARA First Step Home, a residence for men and women who are suffering from alcoholism. Our main objective is to return the alcoholic to his or her rightful place in society. The recovery program is oriented towards Alcoholics Anonymous. Help is also provided to make use of community resources to aid in the recovery process. All residents are required to attend the Monday and Thursday A.A. meetings held at 7:30 PM in the First Step Home and one outside meeting of their choice. They will also be required to attend the weekly home forum meeting on Tuesdays at 6:30 PM.       Applicants are referred to the house by institutions, clinics, AA clubs, members, doctors, and other responsible individuals.  If you are on probation or parole, you must be on supervision in San Francisco.  We do not accept probationers or parolees from other counties.No",
+        "description": "The Alcoholics Rehabilitation Association of San Francisco, Inc., operates the ARA First Step Home, a residence for men and women who are suffering from alcoholism. Our main objective is to return the alcoholic to his or her rightful place in society. The recovery program is oriented towards Alcoholics Anonymous. Help is also provided to make use of community resources to aid in the recovery process. All residents are required to attend the Monday and Thursday A.A. meetings held at 7:30 PM in the First Step Home and one outside meeting of their choice. They will also be required to attend the weekly home forum meeting on Tuesdays at 6:30 PM.",
         "address_attributes": {
           "city": "San Francisco",
           "state": "CA",
-          "street": "1035 Haight Street ",
+          "street": "1035 Haight Street",
           "zip": "94117"
         },
         "services_attributes": [
           {
             "name": "Sober Living House",
             "audience": "",
-            "eligibility": "The primary qualifications for residence in the ARA First Step Home are:",
-            "how_to_apply": "Valid Identification",
+            "eligibility": "The primary qualifications for residence in the ARA First Step Home are: 
+1. Completion of a primary program (minimum 28 days) within the last year.
+2. An honest and sincere desire to gain and maintain sobriety.
+3. The need for food, shelter, and an atmosphere of friendly understanding.
+4. Ability and willingness to accept gainful employment.",
+            "how_to_apply": "See notes. Documents needed: Valid Identification",
             "fees": "Call for information.",
             "keywords": [
-              "Sober Living, Transitional Housing, Meals, AA Meetings.  There are three meetings of Alcoholics Anonymous held at the Home each week. Attendance at meetings is considered a requirement of residence in the Home."
+              "Sober Living, Transitional Housing, Meals, AA Meetings."
             ],
-            "description": "The Alcoholics Rehabilitation Association of San Francisco, Inc., operates the ARA First Step Home, a residence for men and women who are suffering from alcoholism. Our main objective is to return the alcoholic to his or her rightful place in society. The recovery program is oriented towards Alcoholics Anonymous. Help is also provided to make use of community resources to aid in the recovery process. All residents are required to attend the Monday and Thursday A.A. meetings held at 7:30 PM in the First Step Home and one outside meeting of their choice. They will also be required to attend the weekly home forum meeting on Tuesdays at 6:30 PM.       Applicants are referred to the house by institutions, clinics, AA clubs, members, doctors, and other responsible individuals.  If you are on probation or parole, you must be on supervision in San Francisco.  We do not accept probationers or parolees from other counties.No"
+            "description": "The Alcoholics Rehabilitation Association of San Francisco, Inc., operates the ARA First Step Home, a residence for men and women who are suffering from alcoholism. Our main objective is to return the alcoholic to his or her rightful place in society. The recovery program is oriented towards Alcoholics Anonymous. Help is also provided to make use of community resources to aid in the recovery process. All residents are required to attend the Monday and Thursday A.A. meetings held at 7:30 PM in the First Step Home and one outside meeting of their choice. They will also be required to attend the weekly home forum meeting on Tuesdays at 6:30 PM."
           }
         ],
         "accessibility": [
@@ -485,7 +506,15 @@
         ]
       }
     ],
-    "notes": ""
+    "notes": "Applicants are referred to the house by institutions, clinics, AA clubs, members, doctors, and other responsible individuals.  If you are on probation or parole, you must be on supervision in San Francisco.  We do not accept probationers or parolees from other counties.
+Checklist
+Call to be sure you meet the minimum requirements.
+Telephone Interview.
+Once accepted to waiting list, check-in Mon, Wed., & Fridays 9-5.
+Know the House Meeting requirements.
+Valid identification
+TB test required upon entering or within 1st seven days. 
+There are three meetings of Alcoholics Anonymous held at the Home each week. Attendance at meetings is considered a requirement of residence in the Home."
   },
   {
     "name": "CATS",
@@ -497,11 +526,11 @@
             "extension": ""
           }
         ],
-        "description": "The CARE Program offers Transitional Housing for up to 18 months available for HIV+ women (including transgender women) residents of San Francisco; services also include case management and - if needed - mental health counseling.   Prefer that clients be referred by service provider, but clients can self-refer by calling contact person (above) and scheduling intake appointment.  Clients must provide documentation of HIV+ status and income verification at intake.  Program is Harm-Reduction-based: there are no sobriety requirements for clients, but no substance use is allowed on the premises.No.",
+        "description": "The CARE Program offers Transitional Housing for up to 18 months available for HIV+ women (including transgender women) residents of San Francisco; services also include case management and - if needed - mental health counseling.   Prefer that clients be referred by service provider, but clients can self-refer by calling contact person (above) and scheduling intake appointment.  Clients must provide documentation of HIV+ status and income verification at intake.  Program is Harm-Reduction-based: there are no sobriety requirements for clients, but no substance use is allowed on the premises.",
         "address_attributes": {
-          "city": "",
+          "city": "San Francisco",
           "state": "CA",
-          "street": "1049 Howard St. San Francisco",
+          "street": "1049 Howard St.",
           "zip": "94103"
         },
         "services_attributes": [
@@ -509,12 +538,12 @@
             "name": "A Woman's Place-CARE Program",
             "audience": "",
             "eligibility": "Homeless HIV+ women (including transgender women) residents of San Francisco.",
-            "how_to_apply": "Letter of Diagnosis for HIV+ and tb clearance documentation - both within 6 months, current income verification.",
+            "how_to_apply": "Prefer that clients be referred by service provider, but clients can self-refer by calling contact person (above) and scheduling intake appointment. Documents needed: Letter of Diagnosis for HIV+ and TB clearance documentation - both within 6 months, current income verification.",
             "fees": "30% of monthly net income, plus requirement to set aside additional money in savings account - amount to be determined.",
             "keywords": [
               "Transitional Housing,  Case Management, Mental Health Counseling."
             ],
-            "description": "The CARE Program offers Transitional Housing for up to 18 months available for HIV+ women (including transgender women) residents of San Francisco; services also include case management and - if needed - mental health counseling.   Prefer that clients be referred by service provider, but clients can self-refer by calling contact person (above) and scheduling intake appointment.  Clients must provide documentation of HIV+ status and income verification at intake.  Program is Harm-Reduction-based: there are no sobriety requirements for clients, but no substance use is allowed on the premises.No."
+            "description": "The CARE Program offers Transitional Housing for up to 18 months available for HIV+ women (including transgender women) residents of San Francisco; services also include case management and - if needed - mental health counseling.   Prefer that clients be referred by service provider, but clients can self-refer by calling contact person (above) and scheduling intake appointment.  Clients must provide documentation of HIV+ status and income verification at intake.  Program is Harm-Reduction-based: there are no sobriety requirements for clients, but no substance use is allowed on the premises."
           }
         ],
         "accessibility": [
@@ -531,7 +560,7 @@
           }
         ],
         "name": "A Woman's Place-CARE Program",
-        "short_desc": "The CARE Program offers Transitional Housing for up to 18 months available for HIV+ women (including",
+        "short_desc": "The CARE Program offers Transitional Housing for up to 18 months available for HIV+ women",
         "languages": [
           "English",
           "Spanish"
@@ -558,24 +587,24 @@
             "extension": ""
           }
         ],
-        "description": "In partnership with the San Francisco Adult Probation Department, the Center on Juvenile and Criminal Justice's Cameo House serves criminally involved pregnant and parenting women, who are certified as homeless (as defined by the City and County of San Francisco).  The goal of Cameo House is to identify eligible women who are awaiting adjudication and recommend to the courts that they be sentenced to Cameo House in lieu of State Prison or County Jail, when appropriate.  All women residing at Cameo House must have at least one child in their custody, have active reunification services with at least one of their children or be pregnant at the time of enrollment. Cameo House is a 12-month program but clients can remain for up to two years.  All residents must be willing to participate in case management and other clinical services as a condition of the residency. During their stay at Cameo House women are expected to obtain employment, reunify with at least one of their children, remain clean and sober (verified through random UAs conducted at Cameo House at least once per month), satisfy their Probation requirements, and obtain steady employment; with the goal being for them to obtain and sustain permanent housing.  Cameo House Residents work intensively with our on-site Case Manager and Therapist to insure that all these objectives are met. Clients may call for more information about the referral process.  Appointments required.No.",
+        "description": "In partnership with the San Francisco Adult Probation Department, the Center on Juvenile and Criminal Justice's Cameo House serves criminally involved pregnant and parenting women, who are certified as homeless (as defined by the City and County of San Francisco).  The goal of Cameo House is to identify eligible women who are awaiting adjudication and recommend to the courts that they be sentenced to Cameo House in lieu of State Prison or County Jail, when appropriate.  All women residing at Cameo House must have at least one child in their custody, have active reunification services with at least one of their children or be pregnant at the time of enrollment. Cameo House is a 12-month program but clients can remain for up to two years.  All residents must be willing to participate in case management and other clinical services as a condition of the residency. During their stay at Cameo House women are expected to obtain employment, reunify with at least one of their children, remain clean and sober (verified through random UAs conducted at Cameo House at least once per month), satisfy their Probation requirements, and obtain steady employment; with the goal being for them to obtain and sustain permanent housing.  Cameo House Residents work intensively with our on-site Case Manager and Therapist to insure that all these objectives are met.",
         "address_attributes": {
           "city": "San Francisco",
           "state": "CA",
-          "street": "Located in San Francisco. Write to Cameo House, 40 Boardman Place 94103.",
-          "zip": ""
+          "street": "40 Boardman Place",
+          "zip": "94103"
         },
         "services_attributes": [
           {
-            "name": "Cameo House Alternative Sentcing Program",
+            "name": "Cameo House Alternative Sentencing Program",
             "audience": "",
             "eligibility": "Formerly incarcerated women with young children. May not have a criminal conviction for a sex offense or be a registered sex offender.",
-            "how_to_apply": "",
+            "how_to_apply": "Clients may call for more information about the referral process.  Appointments required.",
             "fees": "None.",
             "keywords": [
               "Assistance with Permanent Housing, Transitional Housing, Access to Internet, Assistance Getting Drivers License or Other ID, Clothing, Food/Prepared Meals, Hygiene/Personal Care Items, P.O. Box/Mail Service, Storage Facilities, Transit Vouchers, Mental Health Treatment, Substance Abuse Treatment, Co-occurring Disorder/Dual Diagnosis Treatment, Health & Wellness Education, Anger Management, Community Education & Mediation, Group Counseling/Therapy, Intensive Case Management, Individual Counseling/Therapy, Outreach, Post-Incarceration Support, Restorative Justice/Survivor Impact, Basic/Remedial Education, College & Graduate Education, GED & High School Education, Reading/Literacy, Assessment & Application for Food Stamps, General Assistance, SSI, Credit Repair, Employment Training, Employment Retention, Money Management/Personal Financial Education, Representative Payee Services, Clean Slate/ Conviction Expungement Services, Inmate & Parolee Legal Issues, Employment Law, Childcare, Family Reunification, Parenting Support/Education, Services for Children. Referrals to other resources available as needed."
             ],
-            "description": "In partnership with the San Francisco Adult Probation Department, the Center on Juvenile and Criminal Justice's Cameo House serves criminally involved pregnant and parenting women, who are certified as homeless (as defined by the City and County of San Francisco).  The goal of Cameo House is to identify eligible women who are awaiting adjudication and recommend to the courts that they be sentenced to Cameo House in lieu of State Prison or County Jail, when appropriate.  All women residing at Cameo House must have at least one child in their custody, have active reunification services with at least one of their children or be pregnant at the time of enrollment. Cameo House is a 12-month program but clients can remain for up to two years.  All residents must be willing to participate in case management and other clinical services as a condition of the residency. During their stay at Cameo House women are expected to obtain employment, reunify with at least one of their children, remain clean and sober (verified through random UAs conducted at Cameo House at least once per month), satisfy their Probation requirements, and obtain steady employment; with the goal being for them to obtain and sustain permanent housing.  Cameo House Residents work intensively with our on-site Case Manager and Therapist to insure that all these objectives are met. Clients may call for more information about the referral process.  Appointments required.No."
+            "description": "In partnership with the San Francisco Adult Probation Department, the Center on Juvenile and Criminal Justice's Cameo House serves criminally involved pregnant and parenting women, who are certified as homeless (as defined by the City and County of San Francisco).  The goal of Cameo House is to identify eligible women who are awaiting adjudication and recommend to the courts that they be sentenced to Cameo House in lieu of State Prison or County Jail, when appropriate.  All women residing at Cameo House must have at least one child in their custody, have active reunification services with at least one of their children or be pregnant at the time of enrollment. Cameo House is a 12-month program but clients can remain for up to two years.  All residents must be willing to participate in case management and other clinical services as a condition of the residency. During their stay at Cameo House women are expected to obtain employment, reunify with at least one of their children, remain clean and sober (verified through random UAs conducted at Cameo House at least once per month), satisfy their Probation requirements, and obtain steady employment; with the goal being for them to obtain and sustain permanent housing.  Cameo House Residents work intensively with our on-site Case Manager and Therapist to insure that all these objectives are met."
           }
         ],
         "accessibility": [
@@ -619,7 +648,7 @@
             "extension": "5104"
           }
         ],
-        "description": "Compass Clara House (CCH) is a two-year transitional housing program of Compass Family Services and is aimed at supporting families with minor children to permanently break the cycle of homelessness.  Through intensive case management, on-site therapy, life skills classes, parenting support, on-site licensed childcare for children through age 5, after school programs, education/vocational support, money management, and recovery support, our two-year program helps families build a lasting foundation for success.Clients must be referred by a social service agency (such as a family shelter or substance abuse treatment program. Appointment required.No.",
+        "description": "Compass Clara House (CCH) is a two-year transitional housing program of Compass Family Services and is aimed at supporting families with minor children to permanently break the cycle of homelessness.  Through intensive case management, on-site therapy, life skills classes, parenting support, on-site licensed childcare for children through age 5, after school programs, education/vocational support, money management, and recovery support, our two-year program helps families build a lasting foundation for success. Clients must be referred by a social service agency (such as a family shelter or substance abuse treatment program. Appointment required.",
         "address_attributes": {
           "city": "San Francisco",
           "state": "CA",
@@ -631,12 +660,12 @@
             "name": "Compass Clara House",
             "audience": "",
             "eligibility": "Only homeless families with minor children.  Parents or guardians must have 50% legal and physical custody of the children or a solid reunification plan.  Clients must have 6 months clean prior to being referred.  Clients who have experienced domestic violence must be able to demonstrate at least 2 months separation from batterer.  Must not have a conviction for a violent offence, sex offenses, or arson.",
-            "how_to_apply": "First, case manager or referring agency speaks with intake coordinator. After that, necessary documents include TB Clearance, proof of custody of minor(s), proof of income (if any), and identification information (state-issued or other) are required.",
+            "how_to_apply": "Appointment required. First, case manager or referring agency speaks with intake coordinator. After that, necessary documents include TB Clearance, proof of custody of minor(s), proof of income (if any), and identification information (state-issued or other) are required.",
             "fees": "30% of monthly income for program fees, and a mandatory 20% of monthly income towards savings, returned upon exit.",
             "keywords": [
               "Case Management, Life Skills, Permanent Housing Placement, Licensed Child Care and Afterschool Activities, Transitional Housing (up to 2 years), Individual Therapy, Educational/Vocational Support. Referrals to other resources available as needed."
             ],
-            "description": "Compass Clara House (CCH) is a two-year transitional housing program of Compass Family Services and is aimed at supporting families with minor children to permanently break the cycle of homelessness.  Through intensive case management, on-site therapy, life skills classes, parenting support, on-site licensed childcare for children through age 5, after school programs, education/vocational support, money management, and recovery support, our two-year program helps families build a lasting foundation for success.Clients must be referred by a social service agency (such as a family shelter or substance abuse treatment program. Appointment required.No."
+            "description": "Compass Clara House (CCH) is a two-year transitional housing program of Compass Family Services and is aimed at supporting families with minor children to permanently break the cycle of homelessness.  Through intensive case management, on-site therapy, life skills classes, parenting support, on-site licensed childcare for children through age 5, after school programs, education/vocational support, money management, and recovery support, our two-year program helps families build a lasting foundation for success. Clients must be referred by a social service agency (such as a family shelter or substance abuse treatment program. Appointment required."
           }
         ],
         "accessibility": [
@@ -653,13 +682,13 @@
           }
         ],
         "name": "Compass Clara House",
-        "short_desc": "Compass Clara House (CCH) is a two-year transitional housing program of Compass Family Services and ",
+        "short_desc": "Compass Clara House (CCH) is a two-year transitional housing program of Compass Family Services",
         "languages": [
           "English",
           "Spanish"
         ],
         "urls": [
-          ""
+          "www.compass-sf.org"
         ],
         "faxes_attributes": [
           {
@@ -680,11 +709,11 @@
             "extension": ""
           }
         ],
-        "description": "GEO Reentry Services' mission is to help prepare individuals to reintegrate back to society and be responsible individuals who are accountable for their actions. Placements usually last from six months to one year. Must be referred by CDCR Agent of Record or Federal BOP, Probation Officer/ Federal Pretrial services. Self-pay county beds call for info. No drop-ins.No.",
+        "description": "GEO Reentry Services' mission is to help prepare individuals to reintegrate back to society and be responsible individuals who are accountable for their actions. Placements usually last from six months to one year.",
         "address_attributes": {
           "city": "San Francisco",
           "state": "CA",
-          "street": "111 Taylor Street ",
+          "street": "111 Taylor Street",
           "zip": "94102"
         },
         "services_attributes": [
@@ -692,12 +721,12 @@
             "name": "Taylor Street Facility",
             "audience": "",
             "eligibility": "All individuals without criminal conviction for sex offense, arson, or who are not registered sex offenders.",
-            "how_to_apply": "TB Clearance. Program will assist entering clients in getting this.",
+            "how_to_apply": "Must be referred by CDCR Agent of Record or Federal BOP, Probation Officer/ Federal Pretrial services. Self-pay county beds call for info. No drop-ins. Requires TB Clearance. Program will assist entering clients in getting this.",
             "fees": "Self-pay residents pay $80/day. No sliding scale. All other residents are covered by an agency. BOP requires 25% of income for subsistence. No cost for CDCR residents but residents must save 75% of net income in saving account for their release.",
             "keywords": [
               "Transitional Housing, Access to Internet, Assistance Getting Drivers License or Other ID, Clothing, Food/Prepared Meals, Hygiene/Personal Care Items, P.O. Box/Mail Service, Phone/Voicemail, Shower Facilities, Transit Vouchers, Mental Health Treatment, Substance Abuse Treatment, Anger Management, Community Education & Mediation, Individual Counseling/Therapy, Post-Incarceration Support, Victim/Survivor Services, Basic/Remedial Education, GED & High School Education referral, Reading/Literacy, Vocational Education, Employment Training, Employment Placement, Employment Retention, Job Readiness/Life Skills, Money Management/Personal Financial Education, Family Reunification, Parenting Support/Education. Referrals to other resources available as needed."
             ],
-            "description": "GEO Reentry Services' mission is to help prepare individuals to reintegrate back to society and be responsible individuals who are accountable for their actions. Placements usually last from six months to one year. Must be referred by CDCR Agent of Record or Federal BOP, Probation Officer/ Federal Pretrial services. Self-pay county beds call for info. No drop-ins.No."
+            "description": "GEO Reentry Services' mission is to help prepare individuals to reintegrate back to society and be responsible individuals who are accountable for their actions. Placements usually last from six months to one year."
           }
         ],
         "accessibility": [
@@ -714,7 +743,7 @@
           }
         ],
         "name": "Taylor Street Facility",
-        "short_desc": "GEO Reentry Services' mission is to help prepare individuals to reintegrate back to society and be",
+        "short_desc": "GEO Reentry Services' mission is to help prepare individuals to reintegrate back to society",
         "languages": [
           "English",
           "some Spanish"
@@ -741,7 +770,7 @@
             "extension": ""
           }
         ],
-        "description": "As a Women's Secondary Recovery Program, Good Shepherd Gracenter offers housing, case management and supportive services.  The program is based on 12-step spirituality and a holistic approach. The program's mission is based on a belief in the dignity and worth of each person as a child of God. Participants are expected to stay at least six months. No referral needed. Appointment needed - No drop-ins.Yes, the program is faith based.",
+        "description": "As a Women's Secondary Recovery Program, Good Shepherd Gracenter offers housing, case management and supportive services.  The program is based on 12-step spirituality and a holistic approach. The program's mission is based on a belief in the dignity and worth of each person as a child of God. Participants are expected to stay at least six months.",
         "address_attributes": {
           "city": "San Francisco",
           "state": "CA",
@@ -753,12 +782,12 @@
             "name": "Gracenter",
             "audience": "",
             "eligibility": "Women and Transgender Women. May not have criminal convictions for sex or arson offenses. May not be a registered sex offender.",
-            "how_to_apply": "State-Issued ID, Social Security Card, TB Clearance, Medical Clearance",
+            "how_to_apply": "No referral needed. Appointment needed – No drop-ins. Bring: State-Issued ID, Social Security Card, TB Clearance, Medical Clearance",
             "fees": "$300/month minimum.",
             "keywords": [
               "Transitional Housing, Access to Internet, Assistance Getting Drivers License or Other ID, Clothing, Food/Prepared Meals, Hygiene/Personal Care Items, P.O. Box/Mail Service, Phone/Voicemail, Shower Facilities, Transit Vouchers, Community Education and Mediation, Intensive Case Management, Individual Counseling/Therapy, Mentorship, Restorative Justice/Survivor Impact, Support with Assessment and Application for Food Stamps, General Assistance, SSI, Credit Repair, Job Readiness and Life Skills, Money Management/Personal Financial Education, Representative Payee Services. Referrals to other resources available as needed."
             ],
-            "description": "As a Women's Secondary Recovery Program, Good Shepherd Gracenter offers housing, case management and supportive services.  The program is based on 12-step spirituality and a holistic approach. The program's mission is based on a belief in the dignity and worth of each person as a child of God. Participants are expected to stay at least six months. No referral needed. Appointment needed - No drop-ins.Yes, the program is faith based."
+            "description": "As a Women's Secondary Recovery Program, Good Shepherd Gracenter offers housing, case management and supportive services.  The program is based on 12-step spirituality and a holistic approach. The program's mission is based on a belief in the dignity and worth of each person as a child of God. Participants are expected to stay at least six months."
           }
         ],
         "accessibility": [
@@ -791,7 +820,7 @@
         ]
       }
     ],
-    "notes": ""
+    "notes": "Faith-based: Yes"
   },
   {
     "name": "Hamilton Family Center",
@@ -803,7 +832,7 @@
             "extension": "108"
           }
         ],
-        "description": "The mission of Hamilton Family Center is to break the cycle of homelessness and poverty. Through a Housing First approach, HFC provides a continuum of housing solutions and comprehensive services that promote self-sufficiency for families and individuals, and foster the potential of children and youth. In July 2006, HFC launched a city wide Housing First Initiative called First Avenues: Housing Solutions for Families. First Avenues' primary focus is to return families to independent living and to assist families and individuals to maintain their housing. First Avenues assists families with addressing housing barriers, such as; eviction and credit problems, locating and securing rental units, and accessing available resources for rental and move-in assistance, and short-term rental subsidies. Families applying for First Avenues financial assistance grants and/or residing in a San Francisco shelters may access the housing services from a First Avenues Homeless Prevention Case Manager including; Bay Area housing search, linkage to fair market housing, linkage to affordable, subsidized, permanent supportive housing, Housing Authority waitlists, etc, housing application assistance, housing advice and counseling, landlord/tenant assistance, address obstacles such as bad credit and history of eviction, access credit reports, deposit and move-in assistance, application to short term rental subsidies, for those whom are eligible.  Applications for the Rental Subsidy Program can be picked up at the office.  To qualify prospective applicants must: 1) Be homeless or at risk of homelessness in San Francisco. 2) Have a qualifying income.No.",
+        "description": "The mission of Hamilton Family Center is to break the cycle of homelessness and poverty. Through a Housing First approach, HFC provides a continuum of housing solutions and comprehensive services that promote self-sufficiency for families and individuals, and foster the potential of children and youth. In July 2006, HFC launched a city wide Housing First Initiative called First Avenues: Housing Solutions for Families. First Avenues' primary focus is to return families to independent living and to assist families and individuals to maintain their housing. First Avenues assists families with addressing housing barriers, such as; eviction and credit problems, locating and securing rental units, and accessing available resources for rental and move-in assistance, and short-term rental subsidies. Families applying for First Avenues financial assistance grants and/or residing in a San Francisco shelters may access the housing services from a First Avenues Homeless Prevention Case Manager including; Bay Area housing search, linkage to fair market housing, linkage to affordable, subsidized, permanent supportive housing, Housing Authority waitlists, etc, housing application assistance, housing advice and counseling, landlord/tenant assistance, address obstacles such as bad credit and history of eviction, access credit reports, deposit and move-in assistance, application to short term rental subsidies, for those whom are eligible.",
         "address_attributes": {
           "city": "San Francisco",
           "state": "",
@@ -813,14 +842,14 @@
         "services_attributes": [
           {
             "name": "First Avenues Program",
-            "audience": "",
-            "eligibility": "Individuals who are currently homeless or at risk of losing their housing.",
-            "how_to_apply": "All required documents are listed on the front of the Rental Subsidy Application.",
+            "audience": "Individuals who are currently homeless or at risk of losing their housing.",
+            "eligibility": "1) Be homeless or at risk of homelessness in San Francisco. 2) Have a qualifying income. 3) Must have legal custody of at least one minor child.",
+            "how_to_apply": "Applications for the Rental Subsidy Program can be picked up at the office. All required documents are listed on the front of the Rental Subsidy Application.",
             "fees": "No client fees.",
             "keywords": [
               "Eviction Prevention Assistance, Rental Move-in Assistance, Access to Internet, Clothing, Food/Prepared Meals, Transit Vouchers (youth passes for MUNI), Mental Health Treatment, Substance Abuse Treatment, Health & Wellness Education, Group Counseling/Therapy, Outreach, Employment Placement, Job Readiness/Life Skills, Money Management/Personal Financial Education, Housing & Eviction Defense, Couples/Family Counseling, Parenting Support/Education, Services for Children. Referrals to other resources available as needed."
             ],
-            "description": "The mission of Hamilton Family Center is to break the cycle of homelessness and poverty. Through a Housing First approach, HFC provides a continuum of housing solutions and comprehensive services that promote self-sufficiency for families and individuals, and foster the potential of children and youth. In July 2006, HFC launched a city wide Housing First Initiative called First Avenues: Housing Solutions for Families. First Avenues' primary focus is to return families to independent living and to assist families and individuals to maintain their housing. First Avenues assists families with addressing housing barriers, such as; eviction and credit problems, locating and securing rental units, and accessing available resources for rental and move-in assistance, and short-term rental subsidies. Families applying for First Avenues financial assistance grants and/or residing in a San Francisco shelters may access the housing services from a First Avenues Homeless Prevention Case Manager including; Bay Area housing search, linkage to fair market housing, linkage to affordable, subsidized, permanent supportive housing, Housing Authority waitlists, etc, housing application assistance, housing advice and counseling, landlord/tenant assistance, address obstacles such as bad credit and history of eviction, access credit reports, deposit and move-in assistance, application to short term rental subsidies, for those whom are eligible.  Applications for the Rental Subsidy Program can be picked up at the office.  To qualify prospective applicants must: 1) Be homeless or at risk of homelessness in San Francisco. 2) Have a qualifying income.No."
+            "description": "The mission of Hamilton Family Center is to break the cycle of homelessness and poverty. Through a Housing First approach, HFC provides a continuum of housing solutions and comprehensive services that promote self-sufficiency for families and individuals, and foster the potential of children and youth. In July 2006, HFC launched a city wide Housing First Initiative called First Avenues: Housing Solutions for Families. First Avenues' primary focus is to return families to independent living and to assist families and individuals to maintain their housing. First Avenues assists families with addressing housing barriers, such as; eviction and credit problems, locating and securing rental units, and accessing available resources for rental and move-in assistance, and short-term rental subsidies. Families applying for First Avenues financial assistance grants and/or residing in a San Francisco shelters may access the housing services from a First Avenues Homeless Prevention Case Manager including; Bay Area housing search, linkage to fair market housing, linkage to affordable, subsidized, permanent supportive housing, Housing Authority waitlists, etc, housing application assistance, housing advice and counseling, landlord/tenant assistance, address obstacles such as bad credit and history of eviction, access credit reports, deposit and move-in assistance, application to short term rental subsidies, for those whom are eligible."
           }
         ],
         "accessibility": [
@@ -837,14 +866,15 @@
           }
         ],
         "name": "First Avenues Program",
-        "short_desc": "The mission of Hamilton Family Center is to break the cycle of homelessness and poverty. Through a H",
+        "short_desc": "The mission of Hamilton Family Center is to break the cycle of homelessness and poverty.",
         "languages": [
           "English",
           "Spanish",
           "Cantonese"
         ],
         "urls": [
-          "www.myhousing.org  www.hamiltonfamilycenter.org"
+          "www.myhousing.org",
+          "www.hamiltonfamilycenter.org"
         ],
         "faxes_attributes": [
           {
@@ -853,7 +883,33 @@
         ]
       }
     ],
-    "notes": ""
+    "notes": "Move-In Assistance 
+Once housing is secured, First Avenues will provide a qualifying family with a grant towards deposit and/or first month’s rent. First Avenues Move-In Assistance grants are one-time only. Deposits can be accessed for housing located both in and outside of San Francisco. 
+Eligibility Criteria:
+• Family unit with legal custody of minor children 
+• Homeless, must provide appropriate documentation i.e. Certification of Homelessness 
+• Moving within or from San Francisco. 
+• Family has sufficient resources to pay monthly rent
+
+Rental Subsidy Program:
+The First Avenues Rental Subsidy Program is targeted towards working families in San Francisco. Families may be in shelter or in housing on the verge of homelessness. The Rental Subsidy Program provides eligible families with monthly rental assistance for3-24 months. Families must demonstrate an ability to increase their income by at least the amount of the subsidy and recertify quarterly for eligibility, need and progress. This subsidy is used to enhance each family’s employment goals and maintain their housing goals as they move towards self-sufficiency. Families pay 50% of their monthly income towards rent and the rental assistance maximum per family is $800 per month. The rental subsidy is only applicable to market rate and affordable housing options; it cannot be applied to subsidized options like housing authority where the family’s rental amount is determined by a percentage of their income. Families enrolled in this program receive home-based support services* for the duration of their financial assistance. 
+
+Eligibility Criteria: 
+•  Family is living in a shelter or transitional housing program in San Francisco or is housed in San Francisco and at risk of losing their housing; 
+•  Have a household member who is working part or full-time, and/or families on Cal Works who are transitioning into work; 
+•  If the family did not receive the subsidy they would be paying over 50% of their income toward rent; 
+•  Income must be less than 50% AMI in San Francisco; 
+•  Family has the ability to increase their monthly income and take over the full rent by the end of the program term.
+
+Eviction Prevention Program:
+First Avenues Eviction Prevention assistance is a one time, maximum $1,500 grant to families and individuals facing imminent eviction and subsequent homelessness. The grant must prevent an eviction and avert the family or individual from entering shelter. First Avenues Eviction Prevention targets households who are at risk of eviction and who would be able to retain their housing with one-time rental assistance. Households receive follow up phone calls to ensure that they have remained stably housed.
+
+Eligibility Criteria:
+•  Must have a legal lease
+•  W-9 from the landlord (or can obtain one from the landlord) 
+•  Eviction Notice (within 30 days)
+•  Ability to pay rent forward.
+Households need to call the Eviction Prevention Specialist at 415-614-9060 ext. 114"
   },
   {
     "name": "Hamilton Family Center",
@@ -865,7 +921,7 @@
             "extension": "100"
           }
         ],
-        "description": "The Hamilton Family Center Transitionl Housing program seeks to break the cycle of homelessness and poverty. Through a housing-first approach, we provide a continuum of housing solutions and hands-on services that promote self-sufficiency for families and individuals, and foster the potential of children and youth. The Transitional Housing Program offers 20 high-needs families interim housing with comprehensive support services for up to 18 months.  Clients are required to have a referral from a social service provider and needs to have a certificate of homelessness.  Appointment required.No.",
+        "description": "The Hamilton Family Center Transitional Housing program seeks to break the cycle of homelessness and poverty. Through a housing-first approach, we provide a continuum of housing solutions and hands-on services that promote self-sufficiency for families and individuals, and foster the potential of children and youth. The Transitional Housing Program offers 20 high-needs families interim housing with comprehensive support services for up to 18 months.",
         "address_attributes": {
           "city": "San Francisco",
           "state": "CA",
@@ -877,12 +933,12 @@
             "name": "Transitional Housing Program",
             "audience": "",
             "eligibility": "Families (any adult/s with children) with at least one child under 18 in physical or legal custody or be in the 3rd trimester or 5th month of high risk pregnancy",
-            "how_to_apply": "State-Issued ID, Social Security Card, birth certificates for children in physical/ legal custody and back rent notice or certification of homelessness. Program will try to assist client in getting these.",
+            "how_to_apply": "Clients are required to have a referral from a social service provider and needs to have a certificate of homelessness.  Appointment required. Needed: State-Issued ID, Social Security Card, birth certificates for children in physical/ legal custody and back rent notice or certification of homelessness. Program will try to assist client in getting these.",
             "fees": "Clients pay 30% of their income towards rent and an additional 20% into savings that is returned to them when they exit the program.",
             "keywords": [
-              "Access to Internet, Assistance getting Driver's License/ID, Clothing, Mental Health treatment, Health & Wellness Education, Intensive Case Management, Individual Counseling, Housing Placement Assistance, Assistance Applying For CalFresh/Food Stamps, Assessment & Application for SSI, Credit Repair, Job Readiness/Life Skills, Money Management/Personal Financial Education, Assistance Applying For Health Insurance, Couples/Family Counseling, Family RAeunification, Parenting Support/Education, Services For Children."
+              "Access to Internet, Assistance getting Driver's License/ID, Clothing, Mental Health treatment, Health & Wellness Education, Intensive Case Management, Individual Counseling, Housing Placement Assistance, Assistance Applying For CalFresh/Food Stamps, Assessment & Application for SSI, Credit Repair, Job Readiness/Life Skills, Money Management/Personal Financial Education, Assistance Applying For Health Insurance, Couples/Family Counseling, Family Reunification, Parenting Support/Education, Services For Children."
             ],
-            "description": "The Hamilton Family Center Transitionl Housing program seeks to break the cycle of homelessness and poverty. Through a housing-first approach, we provide a continuum of housing solutions and hands-on services that promote self-sufficiency for families and individuals, and foster the potential of children and youth. The Transitional Housing Program offers 20 high-needs families interim housing with comprehensive support services for up to 18 months.  Clients are required to have a referral from a social service provider and needs to have a certificate of homelessness.  Appointment required.No."
+            "description": "The Hamilton Family Center Transitional Housing program seeks to break the cycle of homelessness and poverty. Through a housing-first approach, we provide a continuum of housing solutions and hands-on services that promote self-sufficiency for families and individuals, and foster the potential of children and youth. The Transitional Housing Program offers 20 high-needs families interim housing with comprehensive support services for up to 18 months."
           }
         ],
         "accessibility": [
@@ -899,7 +955,7 @@
           }
         ],
         "name": "Transitional Housing Program",
-        "short_desc": "The Hamilton Family Center Transitionl Housing program seeks to break the cycle of homelessness and ",
+        "short_desc": "The Hamilton Family Center Transitional Housing program seeks to break the cycle of homelessness",
         "languages": [
           "English",
           "Spanish"
@@ -926,7 +982,7 @@
             "extension": ""
           }
         ],
-        "description": "Our mission is to create and deliver integrated solutions to profound social problems. Since 1991, The Salvation Army Harbor House has operated housing programs, provided chemical dependency treatment, workforce solutions, and other supportive services to single parent families with children or in reunification, who are homeless.   Referral from a case manager or other person in a professional capacity, i. e. parole agent required. By appointment only -- No drop-ins.No.",
+        "description": "Our mission is to create and deliver integrated solutions to profound social problems. Since 1991, The Salvation Army Harbor House has operated housing programs, provided chemical dependency treatment, workforce solutions, and other supportive services to single parent families with children or in reunification, who are homeless.",
         "address_attributes": {
           "city": "",
           "state": "",
@@ -938,18 +994,18 @@
             "name": "",
             "audience": "",
             "eligibility": "Men, Women, Women with children, All families. May not have conviction for sex offense or be a registered sex offender.",
-            "how_to_apply": "State-Issued ID, TB Clearance, if Veteran, Form DD214. Program may be able to assist clients in getting these.",
+            "how_to_apply": "Referral from a case manager or other person in a professional capacity, i. e. parole agent required. By appointment only -- No drop-ins. Needed: State-Issued ID, TB Clearance, if Veteran, Form DD214. Program may be able to assist clients in getting these.",
             "fees": "30% of income-when income is in place. If just coming from prison, no charge until income in place.",
             "keywords": [
               "Transitional Housing, Access to Internet, Assistance Getting Drivers License or Other ID, Clothing, Food/Prepared Meals, Hygiene/Personal Care Items, P.O. Box/Mail Service, Shower Facilities, Transit Vouchers, Substance Abuse Treatment, Dental Care, Group Counseling/Therapy, Intensive Case Management, Individual Counseling/Therapy, Mentorship, Outreach, Post-Incarceration Support, Workforce Services, Assessment & Application for Food Stamps, Cal WORKS, General Assistance, Credit Repair, Employment Training, Employment Placement, Employment Retention, Job Readiness/Life Skills, Money Management/Personal Financial Education, Childcare, Family Reunification, Parenting Support/EducationServices for Children. Referrals to other resources available as needed."
             ],
-            "description": "Our mission is to create and deliver integrated solutions to profound social problems. Since 1991, The Salvation Army Harbor House has operated housing programs, provided chemical dependency treatment, workforce solutions, and other supportive services to single parent families with children or in reunification, who are homeless.   Referral from a case manager or other person in a professional capacity, i. e. parole agent required. By appointment only -- No drop-ins.No."
+            "description": "Our mission is to create and deliver integrated solutions to profound social problems. Since 1991, The Salvation Army Harbor House has operated housing programs, provided chemical dependency treatment, workforce solutions, and other supportive services to single parent families with children or in reunification, who are homeless."
           }
         ],
         "accessibility": [
           ""
         ],
-        "hours": "Mon-Fri8am-4pm",
+        "hours": "Mon-Fri 8am-4pm",
         "emails": [
           "aviva.zuckrow@usw.salvationarmy.org"
         ],
@@ -960,7 +1016,7 @@
           }
         ],
         "name": "",
-        "short_desc": "Our mission is to create and deliver integrated solutions to profound social problems. Since 1991, T",
+        "short_desc": "Our mission is to create and deliver integrated solutions to profound social problems.",
         "languages": [
           "English"
         ],
@@ -986,7 +1042,7 @@
             "extension": ""
           }
         ],
-        "description": "The Forensic Housing Program is a HOPWA-funded transitional housing program for homeless HIV+ men and women (including transgender men and women) who've been incarcerated at the county, state or federal level within the past 12 months.  The program provides short term emergency shelter and transitional housing of up to 18 months while participants receive coordinated case management support to help stabilize their lives. Clients must be referred by a primary case manager who will continue to provide services, referral process includes submitting program paperwork, letter of HIV+ diagnosis, income verification (if client already has income) and care plan. Client must be willing to follow rules and participate in program designed to provide stabilization and ensure transition into permanent housingNo.",
+        "description": "The Forensic Housing Program is a HOPWA-funded transitional housing program for homeless HIV+ men and women (including transgender men and women) who've been incarcerated at the county, state or federal level within the past 12 months.  The program provides short term emergency shelter and transitional housing of up to 18 months while participants receive coordinated case management support to help stabilize their lives. Clients must be referred by a primary case manager who will continue to provide services, referral process includes submitting program paperwork, letter of HIV+ diagnosis, income verification (if client already has income) and care plan. Client must be willing to follow rules and participate in program designed to provide stabilization and ensure transition into permanent housing.",
         "address_attributes": {
           "city": "San Francisco",
           "state": "CA",
@@ -998,12 +1054,12 @@
             "name": "Forensic Housing Program",
             "audience": "",
             "eligibility": "HIV+ men and women (including transgender men and women) who've been incarcerated at the county, state or federal level within the past 12 months.",
-            "how_to_apply": "letter of HIV+ diagnosis, income verification and care plan must be provided at or by intake appointment.",
+            "how_to_apply": "Clients must be referred by a primary case manager who will continue to provide services. Needed: letter of HIV+ diagnosis, income verification and care plan must be provided at or by intake appointment.",
             "fees": "30% of monthly net income plus additional mandatory 20% monthly savings.",
             "keywords": [
               "Transitional Housing, Case Management. Additional program services include housing advocacy, money management services, linkages to HIV prevention, access to benefits counseling/advocacy, workshops/groups focused on teaching basic life skills, access to medical, access to oral health care, and access to behavioral health services targeting post-incarcerated individuals living with HIV/AIDS in the city and county of San Francisco, CA."
             ],
-            "description": "The Forensic Housing Program is a HOPWA-funded transitional housing program for homeless HIV+ men and women (including transgender men and women) who've been incarcerated at the county, state or federal level within the past 12 months.  The program provides short term emergency shelter and transitional housing of up to 18 months while participants receive coordinated case management support to help stabilize their lives. Clients must be referred by a primary case manager who will continue to provide services, referral process includes submitting program paperwork, letter of HIV+ diagnosis, income verification (if client already has income) and care plan. Client must be willing to follow rules and participate in program designed to provide stabilization and ensure transition into permanent housingNo."
+            "description": "The Forensic Housing Program is a HOPWA-funded transitional housing program for homeless HIV+ men and women (including transgender men and women) who've been incarcerated at the county, state or federal level within the past 12 months.  The program provides short term emergency shelter and transitional housing of up to 18 months while participants receive coordinated case management support to help stabilize their lives. Clients must be referred by a primary case manager who will continue to provide services, referral process includes submitting program paperwork, letter of HIV+ diagnosis, income verification (if client already has income) and care plan. Client must be willing to follow rules and participate in program designed to provide stabilization and ensure transition into permanent housing."
           }
         ],
         "accessibility": [
@@ -1043,23 +1099,23 @@
       {
         "phones_attributes": [
           {
-            "number": "4152422414",
+            "number": "4152422412",
             "extension": ""
           }
         ],
-        "description": "The Metropolitan Fresh Start Program is a six-month (or longer) faith-based transitional and outpatient program designed for men struggling with life's problems. The program is designed to provide progressive rehabilitation based on time-tested social model programs: the process of learning through doing and experiencing plus exposure of clients to positive role models through staff and volunteers.  No referral needed. Appointments only: Call Intake Coordinator. No drop-ins.Yes - optional.",
+        "description": "The Metropolitan Fresh Start Program is a six-month (or longer) faith-based transitional and outpatient program designed for men struggling with life's problems. The program is designed to provide progressive rehabilitation based on time-tested social model programs: the process of learning through doing and experiencing plus exposure of clients to positive role models through staff and volunteers.",
         "address_attributes": {
-          "city": "",
-          "state": "",
-          "street": "",
-          "zip": ""
+          "city": "San Francisco",
+          "state": "CA",
+          "street": "1300 30th Ave",
+          "zip": "94122"
         },
         "services_attributes": [
           {
             "name": "",
             "audience": "",
             "eligibility": "Men, ages 18-80. Must be clean and sober, must not have any medical or mental health condition that would prohibit program participation.  May not have conviction for sex offense or be a registered sex offender.",
-            "how_to_apply": "",
+            "how_to_apply": "No referral needed. Appointments only: Call Intake Coordinator. No drop-ins.",
             "fees": "Minimum $850/month for residential treatment.  Funding available for veterans.",
             "keywords": [
               "Alcohol/Drug Treatment, Anger Management, Clothing, Counseling, Food/Meals, Life Skills, Mentoring, Phone/Voicemail, Residential/Housing (6 months to 1 year), Showers, Transit Vouchers. Referrals to other resources available as needed."
@@ -1090,12 +1146,12 @@
         ],
         "faxes_attributes": [
           {
-            "number": ""
+            "number": "4152422414"
           }
         ]
       }
     ],
-    "notes": ""
+    "notes": "Faith-based: Yes - optional. P.O. Box 12190, SF, CA  94117"
   },
   {
     "name": "Nanny's Sober Living",
@@ -1105,9 +1161,13 @@
           {
             "number": "9165831917",
             "extension": ""
+          },
+          {
+            "number": "4152407526",
+            "extension": ""
           }
         ],
-        "description": "To help men and women maintain recovery while taking on everyday life challenges to self independence.No referral needed. No drop-ins. Please call or write for appointment.No.",
+        "description": "To help men and women maintain recovery while taking on everyday life challenges to self independence.",
         "address_attributes": {
           "city": "San Francisco",
           "state": "CA",
@@ -1119,12 +1179,12 @@
             "name": "Nanny's Sober Living",
             "audience": "",
             "eligibility": "Men and women, 18 years and older. Cannot serve child sex offenders or minors, cannot serve individuals with a criminal conviction for gang-related offense, arson, or are registered sex offenders.",
-            "how_to_apply": "TB Clearance. Program will assist client in getting this.",
+            "how_to_apply": "No referral needed. No drop-ins. Please call or write for appointment. Needed: TB Clearance. Program will assist client in getting this.",
             "fees": "Varies, depending on income.",
             "keywords": [
               "Transitional Housing, Assistance Getting Driver's License or other ID, Food/Prepared Meals/ Hygiene/Personal Care Items, Phone/Voicemail, Shower Facilities, Group Counseling/ Therapy, Individual Counseling/Therapy, Family Reunification. Referrals to other resources."
             ],
-            "description": "To help men and women maintain recovery while taking on everyday life challenges to self independence.No referral needed. No drop-ins. Please call or write for appointment.No."
+            "description": "To help men and women maintain recovery while taking on everyday life challenges to self independence."
           }
         ],
         "accessibility": [
@@ -1141,7 +1201,7 @@
           }
         ],
         "name": "Nanny's Sober Living",
-        "short_desc": "To help men and women maintain recovery while taking on everyday life challenges to self independenc",
+        "short_desc": "To help men and women maintain recovery while taking on everyday life challenges to self independence",
         "languages": [
           "English"
         ],
@@ -1167,11 +1227,11 @@
             "extension": ""
           }
         ],
-        "description": "Our Father's SLE (OFSLE) provides service-structured, low-cost transitional housing to recovering men who have become displaced as a result of substance abuse and addiction.  Located in the Bayview Community, our home is designed to assist recovering men at the transitional and community re-entry phases of their recovery and our length of stay ranges from 6 months up to 1 year.  Appointments required.No.",
+        "description": "Our Father's SLE (OFSLE) provides service-structured, low-cost transitional housing to recovering men who have become displaced as a result of substance abuse and addiction.  Located in the Bayview Community, our home is designed to assist recovering men at the transitional and community re-entry phases of their recovery and our length of stay ranges from 6 months up to 1 year.",
         "address_attributes": {
-          "city": "",
+          "city": "San Francisco",
           "state": "CA",
-          "street": "1641 LaSalle Ave. San Francisco",
+          "street": "1641 LaSalle Ave.",
           "zip": "94124"
         },
         "services_attributes": [
@@ -1179,12 +1239,12 @@
             "name": "Our Father's Sober Living Environment",
             "audience": "",
             "eligibility": "Adult men, 18 years or older, with special outreach to veterans, seniors, parolees, and GBQT who have become homeless as a result of substance abuse/addiction.",
-            "how_to_apply": "California ID and any letters of recommendation or personal references to support your application to our program.",
+            "how_to_apply": "Appointments required. Needed documentation: California ID and any letters of recommendation or personal references to support your application to our program.",
             "fees": "Shared rooms are $600/month.",
             "keywords": [
               "Transitional Housing, Food/Prepared Meals, Hygiene/Personal Care Items, P.O. Box/ Mail Service, Mental Health Treatment, Substance Abuse Treatment, Community Education & Mediation, Outreach, Post-Incarceration Support, Referrals to other resources available as needed."
             ],
-            "description": "Our Father's SLE (OFSLE) provides service-structured, low-cost transitional housing to recovering men who have become displaced as a result of substance abuse and addiction.  Located in the Bayview Community, our home is designed to assist recovering men at the transitional and community re-entry phases of their recovery and our length of stay ranges from 6 months up to 1 year.  Appointments required.No."
+            "description": "Our Father's SLE (OFSLE) provides service-structured, low-cost transitional housing to recovering men who have become displaced as a result of substance abuse and addiction.  Located in the Bayview Community, our home is designed to assist recovering men at the transitional and community re-entry phases of their recovery and our length of stay ranges from 6 months up to 1 year."
           }
         ],
         "accessibility": [
@@ -1227,12 +1287,12 @@
             "extension": ""
           }
         ],
-        "description": "Phatt Chance Community Services, Inc., (PCCS) is a nonprofit organization that provides transitional short and long-term housing and other basic support services to individuals reintegrating to society after incarceration, homelessness, and those with mental health concerns. PCCS provides a safe, clean & sober living environment, basic psychosocial services, as well as aftercare for clients in various stages of drug and/or alcohol abuse recovery. PCCS utilizes a reintegration model that provides minimum structure paired with maximum accountability, which allows program participants to pursue employment, continued education, counseling services and other off-site responsibilities when appropriate. The duration of clients' stay at Phatt Chance Community Services depends entirely on the individual needs of each client.  http://phattchance.orgNo.Long-term and short-term housing for men of any race, sexual orientation, ethnicity and faith.",
+        "description": "Phatt Chance Community Services, Inc., (PCCS) is a nonprofit organization that provides transitional short and long-term housing and other basic support services to individuals reintegrating to society after incarceration, homelessness, and those with mental health concerns. PCCS provides a safe, clean & sober living environment, basic psychosocial services, as well as aftercare for clients in various stages of drug and/or alcohol abuse recovery. PCCS utilizes a reintegration model that provides minimum structure paired with maximum accountability, which allows program participants to pursue employment, continued education, counseling services and other off-site responsibilities when appropriate. The duration of clients' stay at Phatt Chance Community Services depends entirely on the individual needs of each client.",
         "address_attributes": {
-          "city": "",
-          "state": "",
-          "street": "San Francisco. Easily accessible by public transportation.Phatt Chance Community Services, Inc., 2443 Fillmore Street #216,",
-          "zip": ""
+          "city": "San Francisco",
+          "state": "CA",
+          "street": "2443 Fillmore Street #216",
+          "zip": "94115"
         },
         "services_attributes": [
           {
@@ -1244,7 +1304,7 @@
             "keywords": [
               "Transitional Housing, Clean & Sober Living, Mental Health Assessment, Substance Abuse Education, Relapse Prevention and Intervention, Treatment Referrals, In-house Peer Support Groups, Self-Esteem and Community Building, Life Skills Training."
             ],
-            "description": "Phatt Chance Community Services, Inc., (PCCS) is a nonprofit organization that provides transitional short and long-term housing and other basic support services to individuals reintegrating to society after incarceration, homelessness, and those with mental health concerns. PCCS provides a safe, clean & sober living environment, basic psychosocial services, as well as aftercare for clients in various stages of drug and/or alcohol abuse recovery. PCCS utilizes a reintegration model that provides minimum structure paired with maximum accountability, which allows program participants to pursue employment, continued education, counseling services and other off-site responsibilities when appropriate. The duration of clients' stay at Phatt Chance Community Services depends entirely on the individual needs of each client.  http://phattchance.orgNo.Long-term and short-term housing for men of any race, sexual orientation, ethnicity and faith."
+            "description": "Phatt Chance Community Services, Inc., (PCCS) is a nonprofit organization that provides transitional short and long-term housing and other basic support services to individuals reintegrating to society after incarceration, homelessness, and those with mental health concerns. PCCS provides a safe, clean & sober living environment, basic psychosocial services, as well as aftercare for clients in various stages of drug and/or alcohol abuse recovery. PCCS utilizes a reintegration model that provides minimum structure paired with maximum accountability, which allows program participants to pursue employment, continued education, counseling services and other off-site responsibilities when appropriate. The duration of clients' stay at Phatt Chance Community Services depends entirely on the individual needs of each client."
           }
         ],
         "accessibility": [
@@ -1260,13 +1320,13 @@
             "title": "NA"
           }
         ],
-        "name": "",
-        "short_desc": "Phatt Chance Community Services, Inc., (PCCS) is a nonprofit organization that provides transitional",
+        "name": "Phatt Chance Community Services",
+        "short_desc": "Long-term and short-term housing for men of any race, sexual orientation, ethnicity and faith.",
         "languages": [
           "English"
         ],
         "urls": [
-          ""
+          "http://phattchance.org"
         ],
         "faxes_attributes": [
           {
@@ -1287,7 +1347,7 @@
             "extension": ""
           }
         ],
-        "description": "Our Mission: to help those who want to help themselves. Our goals: provide intensive case management coupled with clean and sober housing to help transition participants into self-sufficiency.RSN transitional housing requires a referral from SFAPD, Superior Court, or the SF Sheriff's Department.  Appointments preferred.No.",
+        "description": "Our Mission: to help those who want to help themselves. Our goals: provide intensive case management coupled with clean and sober housing to help transition participants into self-sufficiency.",
         "address_attributes": {
           "city": "",
           "state": "",
@@ -1299,12 +1359,12 @@
             "name": "Family of Friends Sober Living Network",
             "audience": "",
             "eligibility": "Men, Women, Transgender people. Individuals required to register as a sex offender are accepted on a case by case basis.  Clients need a referral.",
-            "how_to_apply": "State-Issued ID, Social Security Card, Proof of SF Residency, TB Clearance. Program will assist entering clients in getting these.",
+            "how_to_apply": "RSN transitional housing requires a referral from SFAPD, Superior Court, or the SF Sheriff's Department.  Appointments preferred. Documents needed: State-Issued ID, Social Security Card, Proof of SF Residency, TB Clearance. Program will assist entering clients in getting these.",
             "fees": "Clean and sober living housing rate is $1000.00 per month.",
             "keywords": [
               "Stabilization Housing, Transitional Housing, Access to Internet, Assistance Getting Drivers License or Other ID, Clothing, Food/Prepared Meals, Hygiene/Personal Care Items, Transit Vouchers, Mental Health Treatment, Substance Abuse Treatment, Co-occuring Disorder/Dual Diagnosis Treatment, Anger management, Community Education & Mediation, Intensive Case Management, Individual Counseling/Therapy (Peer-to-Peer only), Mentorship, Outreach, Post-Incarceration Support, Restorative Justice/Survivor Impact, Employment Training, Employment Placement, Job Readiness/Life Skills, Money Management/Personal Financial Education, Representative Payee Services, Family Reunification, Visits of Family Members in Jails & Prisons. Referrals to other resources available as needed."
             ],
-            "description": "Our Mission: to help those who want to help themselves. Our goals: provide intensive case management coupled with clean and sober housing to help transition participants into self-sufficiency.RSN transitional housing requires a referral from SFAPD, Superior Court, or the SF Sheriff's Department.  Appointments preferred.No."
+            "description": "Our Mission: to help those who want to help themselves. Our goals: provide intensive case management coupled with clean and sober housing to help transition participants into self-sufficiency."
           }
         ],
         "accessibility": [
@@ -1317,15 +1377,20 @@
         "contacts_attributes": [
           {
             "name": "Lou Gordon",
-            "title": "Executive Director, Kevin Henley, Program Manager"
+            "title": "Executive Director"
+          },
+          {
+            "name": "Kevin Henley", 
+            "title": "Program Manager"
           }
         ],
         "name": "Family of Friends Sober Living Network",
         "short_desc": "Our Mission: to help those who want to help themselves. Our goals: provide intensive case management",
         "languages": [
-          "English (translation for Spanish",
+          "English "
+          "Spanish",
           "Mandarin",
-          "Cantonese)"
+          "Cantonese"
         ],
         "urls": [
           "www.rsn2000.org"
@@ -1337,7 +1402,16 @@
         ]
       }
     ],
-    "notes": ""
+    "notes": "24 hour emergency hotline: 888-USE-NONE
+    Locations: 
+3032-16th St., San Francisco, CA  94110
+3143-16th St., San Francisco, CA 94110
+68-6th St., San Francisco, CA 94103
+1312 Utah St., San Francisco, CA 94110
+1657 Market St., San Francisco, CA 94103
+30 Sycamore St., San Francisco, CA 94110
+2697 Mission St., San Francisco, CA 94110
+3308 Mission St., San Francisco, CA 94110"
   },
   {
     "name": "San Francisco Network Ministries Housing Corporation",
@@ -1349,24 +1423,24 @@
             "extension": ""
           }
         ],
-        "description": "SafeHouse is an 18-month transitional housing program for women; we provide gender-specific responses to chronic homlessness for women in the commwercial sex industry.  Our clean and sober living community tempowers homeless women exiting prostitution gain the skills and resources they need to grow and become independent and self-sufficient members of society. Services include case management, substance abuse treatment, individual and group therapy, money management and financial education, vocational testing and guidance and assistance in finding permanent housing when leaving SafeHouse. Clients can self-refer, or be referred by a provider, if the program beds are full, SafeHouse maintains a waitlist, and contacts prospective clients for intake..No.",
+        "description": "SafeHouse is an 18-month transitional housing program for women; we provide gender-specific responses to chronic homelessness for women in the commercial sex industry.  Our clean and sober living community empowers homeless women exiting prostitution to gain the skills and resources they need to grow and become independent and self-sufficient members of society. Services include case management, substance abuse treatment, individual and group therapy, money management and financial education, vocational testing and guidance, and assistance in finding permanent housing when leaving SafeHouse.",
         "address_attributes": {
           "city": "San Francisco",
           "state": "CA",
-          "street": "P.O. Box 40369  94140Confidential location.",
-          "zip": ""
+          "street": "P.O. Box 40369",
+          "zip": "94140"
         },
         "services_attributes": [
           {
             "name": "San Francisco SafeHouse",
             "audience": "",
             "eligibility": "Women who are currently homeless, have a history of work in the sex industry, and have been clean and sober for at least 30 days. May not have a criminal conviction for arson or be a registered sex offender.",
-            "how_to_apply": "",
+            "how_to_apply": "Clients can self-refer, or be referred by a provider, if the program beds are full, SafeHouse maintains a waitlist, and contacts prospective clients for intake.",
             "fees": "30% of any government assistance and/or 20% of any earned income.",
             "keywords": [
               "Transitional Housing, Access to Internet, Assistance Getting Drivers License or Other ID, Clothing, Food/Prepared Meals, Hygiene/Personal Care Items, P.O. Box/Mail Service, Phone/Voicemail, Shower Facilities, Storage Facilities, Mental Health Treatment, Substance Abuse Treatment, Co-occurring Disorder/Dual Diagnosis Treatment, Dental Care, Health & Wellness Education, menu planning and nutritionist weekly, Group Counseling/Therapy, Intensive Case Management, Individual Counseling/Therapy, Mentorship, Outreach, Post-Incarceration Support, Trauma Recovery Services, Victim/Survivor Services, Basic/Remedial Education, College & Graduate Education, GED & High School Education, Assessment & Application for Food Stamps, General Assistance, SSI, Credit Repair, Job Readiness/Life Skills, Money Management/Personal Financial Education, Internship Program, Parenting Support/Education. Referrals to other resources available as needed."
             ],
-            "description": "SafeHouse is an 18-month transitional housing program for women; we provide gender-specific responses to chronic homlessness for women in the commwercial sex industry.  Our clean and sober living community tempowers homeless women exiting prostitution gain the skills and resources they need to grow and become independent and self-sufficient members of society. Services include case management, substance abuse treatment, individual and group therapy, money management and financial education, vocational testing and guidance and assistance in finding permanent housing when leaving SafeHouse. Clients can self-refer, or be referred by a provider, if the program beds are full, SafeHouse maintains a waitlist, and contacts prospective clients for intake..No."
+            "description": "SafeHouse is an 18-month transitional housing program for women; we provide gender-specific responses to chronic homelessness for women in the commercial sex industry.  Our clean and sober living community empowers homeless women exiting prostitution to gain the skills and resources they need to grow and become independent and self-sufficient members of society. Services include case management, substance abuse treatment, individual and group therapy, money management and financial education, vocational testing and guidance, and assistance in finding permanent housing when leaving SafeHouse."
           }
         ],
         "accessibility": [
@@ -1397,7 +1471,7 @@
         ]
       }
     ],
-    "notes": ""
+    "notes": "Confidential location."
   },
   {
     "name": "SF Strong",
@@ -1409,11 +1483,11 @@
             "extension": ""
           }
         ],
-        "description": "In partnership with the Delancey Street Foundation, SF Strong is a transitional housing program for formerly incarcerated individuals.  The facility houses 15 men who have been released from local or state custody and/or are on probation or parole.  Program residents work with staff to develop an individualized reentry plan, including securing employment and/or participating in job training and education programs.  Approximate length of stay is 3 months, which varies based on individual needs.Men who are exiting local or state incarceration.No",
+        "description": "In partnership with the Delancey Street Foundation, SF Strong is a transitional housing program for formerly incarcerated individuals.  The facility houses 15 men who have been released from local or state custody and/or are on probation or parole.  Program residents work with staff to develop an individualized reentry plan, including securing employment and/or participating in job training and education programs.  Approximate length of stay is 3 months, which varies based on individual needs.",
         "address_attributes": {
-          "city": "",
+          "city": "San Francisco",
           "state": "CA",
-          "street": "4336 Irving St., SF ",
+          "street": "4336 Irving St.",
           "zip": "94122"
         },
         "services_attributes": [
@@ -1426,7 +1500,7 @@
             "keywords": [
               "Transitional Housing, Counseling and Groups, Assistance with Job Readiness, Referrals to other resources available as needed."
             ],
-            "description": "In partnership with the Delancey Street Foundation, SF Strong is a transitional housing program for formerly incarcerated individuals.  The facility houses 15 men who have been released from local or state custody and/or are on probation or parole.  Program residents work with staff to develop an individualized reentry plan, including securing employment and/or participating in job training and education programs.  Approximate length of stay is 3 months, which varies based on individual needs.Men who are exiting local or state incarceration.No"
+            "description": "In partnership with the Delancey Street Foundation, SF Strong is a transitional housing program for formerly incarcerated individuals.  The facility houses 15 men who have been released from local or state custody and/or are on probation or parole.  Program residents work with staff to develop an individualized reentry plan, including securing employment and/or participating in job training and education programs.  Approximate length of stay is 3 months, which varies based on individual needs."
           }
         ],
         "accessibility": [
@@ -1469,7 +1543,7 @@
             "extension": ""
           }
         ],
-        "description": "Transitional housing and supportive services for people in recovery from substance abuse/addiction.No referral needed. Appointment required.No.",
+        "description": "Transitional housing and supportive services for people in recovery from substance abuse/addiction.",
         "address_attributes": {
           "city": "San Francisco",
           "state": "CA",
@@ -1481,12 +1555,12 @@
             "name": "Reentry Today",
             "audience": "",
             "eligibility": "All individuals and family members.",
-            "how_to_apply": "No documents needed prior to entry. Program will assist with documentation after intake.",
+            "how_to_apply": "No referral needed. Appointment required. No documents needed prior to entry. Program will assist with documentation after intake.",
             "fees": "$700/month",
             "keywords": [
               "Transitional Housing, Anger Management, Individual Counseling, Relapse Prevention, Substance Abuse Treatment, Job Readiness.  Referrals to other resources available as needed."
             ],
-            "description": "Transitional housing and supportive services for people in recovery from substance abuse/addiction.No referral needed. Appointment required.No."
+            "description": "Transitional housing and supportive services for people in recovery from substance abuse/addiction."
           }
         ],
         "accessibility": [
@@ -1503,7 +1577,7 @@
           }
         ],
         "name": "Reentry Today",
-        "short_desc": "Transitional housing and supportive services for people in recovery from substance abuse/addiction.N",
+        "short_desc": "Transitional housing and supportive services for people in recovery from substance abuse/addiction.",
         "languages": [
           "English"
         ],
@@ -1529,7 +1603,7 @@
             "extension": ""
           }
         ],
-        "description": "No descriptionNo referral needed. Appointments only—no drop-ins.Yes - Christian.",
+        "description": "",
         "address_attributes": {
           "city": "",
           "state": "",
@@ -1541,12 +1615,12 @@
             "name": "Victory Outreach Recovery Home",
             "audience": "",
             "eligibility": "Men and women, 18 and older. May not have a criminal conviction for sex offense, may not be a registered sex offender, may not be on psychiatric medication.",
-            "how_to_apply": "TB Clearance. Program will assist clients in getting this.",
+            "how_to_apply": "NO referral needed. Appointments only—no drop-ins. Documents needed: TB Clearance. Program will assist clients in getting this.",
             "fees": "Free of charge unless they have a source of income.",
             "keywords": [
               "Housing, Clothing, Food/Prepared Meals, Hygiene/Personal Care Items, P.O. Box/Mail Service, Shower Facilities, Substance Abuse Treatment, Free Clinic for Physical Health, Anger Management, Community Education & Mediation, Group Counseling/Therapy, Intensive Case Management, Individual Counseling/Therapy, Mentorship, Outreach, Post-Incarceration Support, Restorative Justice/Survivor Impact, Trauma Recovery Services, Victim/Survivor Services, Basic/Remedial Education, Vocational Education, Assessment & Application for Food Stamps, General Assistance, Employment Training, Job Readiness/Life Skills, Money Management/Personal Financial Education, Clean Slate/Conviction Expungement Services, Couples/Family Counseling, Family Reunification, Parenting Support/Education Services for Children - Visits of Family Members in Jails & Prisons. Referrals to other resources available as needed."
             ],
-            "description": "No descriptionNo referral needed. Appointments only—no drop-ins.Yes - Christian."
+            "description": ""
           }
         ],
         "accessibility": [
@@ -1563,7 +1637,7 @@
           }
         ],
         "name": "Victory Outreach Recovery Home",
-        "short_desc": "No descriptionNo referral needed. Appointments only—no drop-ins.Yes - Christian.",
+        "short_desc": "",
         "languages": [
           "English"
         ],
@@ -1577,7 +1651,7 @@
         ]
       }
     ],
-    "notes": ""
+    "notes": "Faith-based: Yes - Christian."
   },
   {
     "name": "Emergency Shelter for Individuals",
@@ -1649,11 +1723,11 @@
             "extension": ""
           }
         ],
-        "description": "CATS helps those most in need get off the street, achieve stability and establish permanent housing by providing compassionate, culturally sensitive services and stays of 4-18 months. No referral needed.No.",
+        "description": "CATS helps those most in need get off the street, achieve stability and establish permanent housing by providing compassionate, culturally sensitive services and stays of 4-18 months.",
         "address_attributes": {
-          "city": "",
+          "city": "San Francisco",
           "state": "CA",
-          "street": "1049 Howard St. San Francisco",
+          "street": "1049 Howard St.",
           "zip": "94103"
         },
         "services_attributes": [
@@ -1661,20 +1735,20 @@
             "name": "A Woman's Place",
             "audience": "",
             "eligibility": "All Women, MTF Transgender people, Pregnant women. Program does not serve FTM Transgender individuals.",
-            "how_to_apply": "TB Clearance.",
+            "how_to_apply": "No referral needed. Documents needed: TB Clearance.",
             "fees": "Emergency shelter clients do not pay program fees. Clients in Substance Abuse or Transitional Housing pay 30% of income based on HUD guidelines.",
             "keywords": [
               "Emergency Shelter, Transitional Housing,  Access to Internet (no computers available, wireless only), Food/Prepared Meals, Hygiene/Personal Care Items, Phones (no voicemai), Shower Facilities, Substance Abuse Treatment, Medical Care. Referrals to other resources available as needed."
             ],
-            "description": "CATS helps those most in need get off the street, achieve stability and establish permanent housing by providing compassionate, culturally sensitive services and stays of 4-18 months. No referral needed.No."
+            "description": "CATS helps those most in need get off the street, achieve stability and establish permanent housing by providing compassionate, culturally sensitive services and stays of 4-18 months."
           }
         ],
         "accessibility": [
           "Wheelchair accessible. Other disabilities are accommodated."
         ],
-        "hours": "24 hours/7 days. Business hours: 8am-4:00pm, Drop-in 12pm-4:30pm.",
+        "hours": "24 hours/7 days. Business hours: 8am-4:00pm, Drop-in 12pm-4:30pm, Intake 8am-4pm.",
         "emails": [
-          ""
+          "rachel@awpcats.org"
         ],
         "contacts_attributes": [
           {
@@ -1698,10 +1772,14 @@
         ]
       }
     ],
-    "notes": ""
+    "notes": "Emails: 
+Transitional Housing: sherita@awpcats.org 
+HIV Caseworker:  pau@awpcats.org
+Substance use treatment: Blake@awpcats.org
+Program Coordinator: rachel@awpcats.org"
   },
   {
-    "name": "Emergency Shelter for Families",
+    "name": "Compass Family Services",
     "locations": [
       {
         "phones_attributes": [
@@ -1710,7 +1788,7 @@
             "extension": ""
           }
         ],
-        "description": "If you are an adult with your children, you can seek emergency shelter for families through Compass Connecting Point for family shelters. You should get on this waiting list as soon as possible. If you need a family shelter bed tonight, contact Hamilton Family Residences and Emergency Center (on the following page).No referral required.  All clients are required to do a 15 minute phone intake over the hotline at (855) 234-2667.  Drop-in services are available Monday 9am-12pm, Wednesday 10:30am-12pm, Friday 9am-12pm..  Families are typically on the waitlist for 6 to 8 months during which we provide supportive services.No.",
+        "description": "Compass Connecting Point (CCP) is a unique program that gives any San Francisco family experiencing a housing crisis quick access to the services that they need most, including eviction prevention, emergency shelter, health care, child care and educational programs.  CCP manages the shelter waiting list for the City funded long-term family shelters.  Our goals are to place families into shelter and provide supportive services during that wait, including emergency food, diapers, transportation assistance, and intensive support with housing search.  Additionally CCP provides a one time interest free loan for move in funds and eviction prevention.",
         "address_attributes": {
           "city": "",
           "state": "",
@@ -1721,19 +1799,19 @@
           {
             "name": "",
             "audience": "",
-            "eligibility": "All families, pregnant women, women with children.  Eligible families have at least one legal adult plus either a minor child in their custody or a preganancy.  There is no maximum family size.  For shelter wait list, families must be homeless and receiving public benefits in SF or willing to transfer to SF.  For rental assisitance, families must be SF residents.  For move in funds, they must be homeless in SF and have a unit they have been accepted into.",
-            "how_to_apply": "",
+            "eligibility": "All families, pregnant women, women with children.  Eligible families have at least one legal adult plus either a minor child in their custody or a pregnancy.  There is no maximum family size.  For shelter wait list, families must be homeless and receiving public benefits in SF or willing to transfer to SF.  For rental assistance, families must be SF residents.  For move in funds, they must be homeless in SF and have a unit they have been accepted into.",
+            "how_to_apply": "No referral required.  All clients are required to do a 15 minute phone intake over the hotline at (855) 234-2667.  Drop-in services are available Monday 9am-12pm, Wednesday 10:30am-12pm, Friday 9am-12pm..  Families are typically on the waitlist for 6 to 8 months during which we provide supportive services.",
             "fees": "None",
             "keywords": [
               "Emergency Shelter, Rental Move-In Assistance, Access to Internet, Assistance Getting Driver's License or Other ID, Clothing, Food/Prepared Meals, Hygeine/Personal Care Items, P.O. Box/Mail Service, Transit Vouchers, Mental Health Treatment, Health & Wellness Education, Assistance Applying for Calfresh/Food Stamps."
             ],
-            "description": "If you are an adult with your children, you can seek emergency shelter for families through Compass Connecting Point for family shelters. You should get on this waiting list as soon as possible. If you need a family shelter bed tonight, contact Hamilton Family Residences and Emergency Center (on the following page).No referral required.  All clients are required to do a 15 minute phone intake over the hotline at (855) 234-2667.  Drop-in services are available Monday 9am-12pm, Wednesday 10:30am-12pm, Friday 9am-12pm..  Families are typically on the waitlist for 6 to 8 months during which we provide supportive services.No."
+            "description": "Compass Connecting Point (CCP) is a unique program that gives any San Francisco family experiencing a housing crisis quick access to the services that they need most, including eviction prevention, emergency shelter, health care, child care and eductional programs.  CCP manages the shelter waiting list for the City funded long-term family shelters.  Our goals are to place families into shelter and provide supportive services during that wait, including emergency food, diapers, transportation assistance, and intensive supoort with housing search.  Additionally CCP provides a one time interest free loan for move in funds and eviction prevention."
           }
         ],
         "accessibility": [
           "Wheelchair accessible."
         ],
-        "hours": "",
+        "hours": "Specific Intake Days/Times:  Monday 9am-12pm and 1pm-5pm; Tuesday 9am-12pm and 3pm-5pm; Wednesday 9am-12pm and 1pm-5pm; Thursday 9am-12pm and 2pm-5pm; and Friday 9am-12pm and 1pm-5pm",
         "emails": [
           ""
         ],
@@ -1750,10 +1828,11 @@
           "Spanish",
           "Cantonese",
           "Mandarin",
-          "German.  We are able to arrange ASL interpreters"
+          "German",
+          "ASL interpreters"
         ],
         "urls": [
-          ""
+          "www.compass-sf.org/programs/connecting-point"
         ],
         "faxes_attributes": [
           {
@@ -1774,7 +1853,7 @@
             "extension": ""
           }
         ],
-        "description": "Our mission is to break the cycle of homelessness and poverty. Through a housing-first approach, we provide a continuum of housing solutions and hands-on services that promote self-sufficiency for families and individuals, and foster the potential of children and youth. Emergency beds are available daily for 1-night stays, and are given away on a first come, first served basis. Emergency Center program also has 60-day stays. Call Emergency Center for more information.No.",
+        "description": "Our mission is to break the cycle of homelessness and poverty. Through a housing-first approach, we provide a continuum of housing solutions and hands-on services that promote self-sufficiency for families and individuals, and foster the potential of children and youth. Emergency beds are available daily for 1-night stays, and are given away on a first come, first served basis. Emergency Center program also has 60-day stays. Call Emergency Center for more information.",
         "address_attributes": {
           "city": "San Francisco",
           "state": "CA",
@@ -1786,12 +1865,12 @@
             "name": "Hamilton Family Residence & Emergency Center",
             "audience": "",
             "eligibility": "Must have child under 18 in physical or legal custody or be pregnant in third trimester or in fifth month of high risk pregnancy.",
-            "how_to_apply": "State-Issued ID, Social Security Card, Birth Certificate, and TB Clearance. Note: There is a grace period of a few days for individuals who are gathering these documents. Program will assist client in getting these documents.",
+            "how_to_apply": "Emergency beds are available daily for 1-night stays, and are given away on a first come, first served basis. Emergency Center program also has 60-day stays. Call Emergency Center for more information. Documents needed: State-Issued ID, Social Security Card, Birth Certificate, and TB Clearance. Note: There is a grace period of a few days for individuals who are gathering these documents. Program will assist client in getting these documents.",
             "fees": "None.",
             "keywords": [
               "Emergency Shelter, Access to Internet, Food/Prepared Meals, Hygiene/Personal Care Items, P.O. Box/Mail Service, Local Phone, Shower Facilities, Transit Vouchers, Mental Health Treatment, Medical Care, Health & Wellness Education, Group Counseling/Therapy, Individual Counseling/Therapy, Job Readiness/Life Skills, Money Management/Personal Financial Education, After school programming and activities for children ages 0-18, Parenting Support/Education. Referrals to other resources available as needed."
             ],
-            "description": "Our mission is to break the cycle of homelessness and poverty. Through a housing-first approach, we provide a continuum of housing solutions and hands-on services that promote self-sufficiency for families and individuals, and foster the potential of children and youth. Emergency beds are available daily for 1-night stays, and are given away on a first come, first served basis. Emergency Center program also has 60-day stays. Call Emergency Center for more information.No."
+            "description": "Our mission is to break the cycle of homelessness and poverty. Through a housing-first approach, we provide a continuum of housing solutions and hands-on services that promote self-sufficiency for families and individuals, and foster the potential of children and youth. Emergency beds are available daily for 1-night stays, and are given away on a first come, first served basis. Emergency Center program also has 60-day stays. Call Emergency Center for more information."
           }
         ],
         "accessibility": [
@@ -1823,10 +1902,12 @@
         ]
       }
     ],
-    "notes": ""
+    "notes": "Call-ins for Emergency Beds twice daily:
+Monday to Friday, 11:00am and 5:00pm
+415-292-5228"
   },
   {
-    "name": "Domestic Violence Shelters",
+    "name": "Asian Women's Shelter",
     "locations": [
       {
         "phones_attributes": [
@@ -1835,24 +1916,24 @@
             "extension": ""
           }
         ],
-        "description": "If you are in danger of violence, seek help. The following shelters offer temporary housing at confidential locations.No referral needed. Call crisis line at any time. Location is confidential, so no drop-ins, but call to get connected with services.No.",
+        "description": "The mission of the Asian Women’s Shelter (AWS) is to eliminate domestic violence by promoting the social, economic, and political self-determination of women. AWS is committed to every person’s right to live in a violence-free home. It specifically addresses the cultural and language needs of immigrant, refugee, and U.S.-born Asian women and their children. AWS’s perspective is reflected in the agency’s broad strategy, which integrates culturally knowledgeable and language-accessible shelter services, educational programs, and community-based initiatives and advocacy.",
         "address_attributes": {
-          "city": "",
+          "city": "San Francisco",
           "state": "CA",
-          "street": "3543 - 18th Street #19, SF",
+          "street": "3543 18th Street #19",
           "zip": "94110"
         },
         "services_attributes": [
           {
-            "name": "Domestic Violence Shelters",
+            "name": "Asian Women's Shelter",
             "audience": "",
             "eligibility": "Women, Transgender people, Pregnant women, Women with children, All families.  No male adults over the age of 18.",
-            "how_to_apply": "",
+            "how_to_apply": "No referral needed. Call crisis line at any time. Location is confidential, so no drop-ins, but call to get connected with services.",
             "fees": "no",
             "keywords": [
               "Emergency Shelter, Rental Move-in Assistance, Access to Internet, Clothing, Food/Prepared Meals, Hygiene/Personal Care Items, Phone/Voicemail, Shower Facilities, Storage Facilities, Transit Vouchers, Health & Wellness Education, Intensive Case Management, Outreach, Childcare (Emergency), Children Program Activities, Parenting Support/Education, Services for Children. Referrals to other resources available as needed."
             ],
-            "description": "If you are in danger of violence, seek help. The following shelters offer temporary housing at confidential locations.No referral needed. Call crisis line at any time. Location is confidential, so no drop-ins, but call to get connected with services.No."
+            "description": "The mission of the Asian Women’s Shelter (AWS) is to eliminate domestic violence by promoting the social, economic, and political self-determination of women. AWS is committed to every person’s right to live in a violence-free home. It specifically addresses the cultural and language needs of immigrant, refugee, and U.S.-born Asian women and their children. AWS’s perspective is reflected in the agency’s broad strategy, which integrates culturally knowledgeable and language-accessible shelter services, educational programs, and community-based initiatives and advocacy."
           }
         ],
         "accessibility": [
@@ -1898,7 +1979,7 @@
           "Toisa"
         ],
         "urls": [
-          ""
+          "www.sfaws.org"
         ],
         "faxes_attributes": [
           {
@@ -1907,7 +1988,7 @@
         ]
       }
     ],
-    "notes": ""
+    "notes": "Crisis Line: Monday – Friday, 9:00am to 5:00pm. After hours, crisis line rolls over to WOMAN, Inc."
   },
   {
     "name": "La Casa de las Madres",
@@ -1917,13 +1998,17 @@
           {
             "number": "8775031850",
             "extension": ""
+          },
+          {
+            "number": "4155030500",
+            "extension": ""
           }
         ],
-        "description": "La Casa offers a comprehensive continuum of support services for survivors of domestic violence. La Casa offers safety-first, empowerment and client-centered services. It offers crisis response, emergency shelter, and ongoing counseling and resource advocacy. Ending or escaping domestic violence is a process. Services are confidential. Individuals do not have to leave the abusive partner before accessing support.  No referral needed. Drop-ins available. Shelter location is confidential.No.",
+        "description": "La Casa offers a comprehensive continuum of support services for survivors of domestic violence. La Casa offers safety-first, empowerment and client-centered services. It offers crisis response, emergency shelter, and ongoing counseling and resource advocacy. Ending or escaping domestic violence is a process. Services are confidential. Individuals do not have to leave the abusive partner before accessing support.  No referral needed. Drop-ins available. Shelter location is confidential.",
         "address_attributes": {
           "city": "San Francisco",
           "state": "CA",
-          "street": "1663 Mission Street, Suite 225 94103 or 850 Bryant Street, 5th Floor SVU",
+          "street": "1663 Mission Street, Suite 225 or 850 Bryant Street, 5th Floor SVU",
           "zip": "94103"
         },
         "services_attributes": [
@@ -1931,12 +2016,12 @@
             "name": "La Casa de las Madres",
             "audience": "",
             "eligibility": "Women, Transgender Women, Women w/ Children, Pregnant Women, Teens, Age 11-24, if facing domestic violence.",
-            "how_to_apply": "",
+            "how_to_apply": "No referral needed. Drop-ins available. Shelter location is confidential.",
             "fees": "Free and confidential.",
             "keywords": [
               "Emergency Shelter, Legal Assistance/Advocacy, Accompany to Court Dates, Help/Vouchers to Get State ID, Parenting Support, Services for Children, Counseling, Life Skills, Mentoring, Trauma Recovery, Victim Services. Referrals to other resources available as needed."
             ],
-            "description": "La Casa offers a comprehensive continuum of support services for survivors of domestic violence. La Casa offers safety-first, empowerment and client-centered services. It offers crisis response, emergency shelter, and ongoing counseling and resource advocacy. Ending or escaping domestic violence is a process. Services are confidential. Individuals do not have to leave the abusive partner before accessing support.  No referral needed. Drop-ins available. Shelter location is confidential.No."
+            "description": "La Casa offers a comprehensive continuum of support services for survivors of domestic violence. La Casa offers safety-first, empowerment and client-centered services. It offers crisis response, emergency shelter, and ongoing counseling and resource advocacy. Ending or escaping domestic violence is a process. Services are confidential. Individuals do not have to leave the abusive partner before accessing support.  No referral needed. Drop-ins available. Shelter location is confidential."
           }
         ],
         "accessibility": [
@@ -1944,7 +2029,7 @@
         ],
         "hours": "Monday - Friday, 8:30am to 5:00pm",
         "emails": [
-          ""
+          "info@lacasa.org"
         ],
         "contacts_attributes": [
           {
@@ -1971,7 +2056,7 @@
         ]
       }
     ],
-    "notes": ""
+    "notes": "24-Hour Hotline: (877) 503-1850 "
   },
   {
     "name": "GED Testing Service",
@@ -2039,11 +2124,11 @@
       {
         "phones_attributes": [
           {
-            "number": "4154525451",
+            "number": "4154525481",
             "extension": ""
           }
         ],
-        "description": "The overall mission of DSPS is to provide exemplary instruction, support services and access to students with disabilities. DSPS will support students with disabilities in educationally related activities consistent with the mission and vision of CCSF and in compliance with federal and state laws. To \"level the playing field\" for students with disabilities through ensuring equal access to programs and facilities and to provide reasonable accommodations for documented disabilities. /dspsStudents can make an appointment to see a DSPS counselor at the Mission, Downtown, Chinatown, and Southeast campuses by calling (415) 452-5481.No",
+        "description": "The overall mission of DSPS is to provide exemplary instruction, support services and access to students with disabilities. DSPS will support students with disabilities in educationally related activities consistent with the mission and vision of CCSF and in compliance with federal and state laws. To \"level the playing field\" for students with disabilities through ensuring equal access to programs and facilities and to provide reasonable accommodations for documented disabilities.",
         "address_attributes": {
           "city": "",
           "state": "",
@@ -2055,12 +2140,12 @@
             "name": "Disabled Students Programs & Services (DSPS)",
             "audience": "",
             "eligibility": "Individuals with a disability that causes a limitation in an educational setting.",
-            "how_to_apply": "",
+            "how_to_apply": "Students can make an appointment to see a DSPS counselor at the Mission, Downtown, Chinatown, and Southeast campuses by calling (415) 452-5481.",
             "fees": "",
             "keywords": [
               "Access to Internet, Mental Health Treatment, Medical Care, Disability Management Counseling, Group Counseling/Therapy, Test-Taking Anxiety Workshops, Basic/Remedial Education, College & Graduate Education, Creative or Performing Arts Programs, English as a Second Language, GED & High School Education, Vocational Education, Employment Training, Employment Placement. Referrals to other resources available as needed."
             ],
-            "description": "The overall mission of DSPS is to provide exemplary instruction, support services and access to students with disabilities. DSPS will support students with disabilities in educationally related activities consistent with the mission and vision of CCSF and in compliance with federal and state laws. To \"level the playing field\" for students with disabilities through ensuring equal access to programs and facilities and to provide reasonable accommodations for documented disabilities. /dspsStudents can make an appointment to see a DSPS counselor at the Mission, Downtown, Chinatown, and Southeast campuses by calling (415) 452-5481.No"
+            "description": "The overall mission of DSPS is to provide exemplary instruction, support services and access to students with disabilities. DSPS will support students with disabilities in educationally related activities consistent with the mission and vision of CCSF and in compliance with federal and state laws. To \"level the playing field\" for students with disabilities through ensuring equal access to programs and facilities and to provide reasonable accommodations for documented disabilities."
           }
         ],
         "accessibility": [
@@ -2082,7 +2167,7 @@
           ""
         ],
         "urls": [
-          "www.ccsf.edu"
+          "www.ccsf.edu/dsps"
         ],
         "faxes_attributes": [
           {
@@ -2091,7 +2176,13 @@
         ]
       }
     ],
-    "notes": ""
+    "notes": "TDD: (415) 452-5451
+    Locations: 
+John Adams Campus
+1860 Hayes Street
+San Francisco, CA 94117 
+Ocean Campus
+50 Phelan Ave San Francisco, CA 94112"
   },
   {
     "name": "City College of San Francisco",
@@ -2103,19 +2194,19 @@
             "extension": ""
           }
         ],
-        "description": "Our mission is to make the dream of attending college a reality for former foster youth or out of home placement youth in juvenile justice system.Confirmation of foster youth or out-of-home placement status is required. Foster Youth Status (Referral from County Human Services agency), Out of Home Placement Status (Referral from County Juvenile Justice agency or State Social Services Agency). Drop-in services provided, appointments made on request.No.",
+        "description": "Our mission is to make the dream of attending college a reality for former foster youth or out of home placement youth in juvenile justice system.Confirmation of foster youth or out-of-home placement status is required. Foster Youth Status (Referral from County Human Services agency), Out of Home Placement Status (Referral from County Juvenile Justice agency or State Social Services Agency). ",
         "address_attributes": {
-          "city": "",
-          "state": "",
-          "street": "",
-          "zip": ""
+          "city": "San Francisco",
+          "state": "CA",
+          "street": "50 Phelan Avenue, Multi-Use Building, Room MU298",
+          "zip": "94112"
         },
         "services_attributes": [
           {
             "name": "Guardian Scholars Program",
             "audience": "",
             "eligibility": "All individuals 18-25 who have experienced foster care.",
-            "how_to_apply": "Verification of foster youth or out of home placement status for at least one year when minor. Program will assist client in getting documentation.",
+            "how_to_apply": "Drop-in services provided, appointments made on request. Verification of foster youth or out of home placement status for at least one year when minor. Program will assist client in getting documentation.",
             "fees": "",
             "keywords": [
               "Rental Move-in Assistance, Transitional Housing Referrals, Access to Internet, Clothing, Food/Prepared Meals, Hygiene/Personal Care Items, Shower Facilities, Storage Facilities, Transit Vouchers, Mental Health Treatment referrals, Medical Care through referral either, Intensive Case Management, Mentorship, Basic/Remedial Education, Employment Training, Job Readiness/Life Skills, Money Management/Personal Financial Education, Legal Rights Workshops on Housing, Education, Employment, Summer College Readiness Program. Referrals to other resources available as needed."
@@ -2140,7 +2231,8 @@
         "short_desc": "Our mission is to make the dream of attending college a reality for former foster youth or out of ho",
         "languages": [
           "English",
-          "Spanish. Additional language translation possible"
+          "Spanish",
+          "Additional language translation possible"
         ],
         "urls": [
           "https://www.ccsf.edu/en/student-services/student-counseling/guardians-scholars-program.html"
@@ -2164,7 +2256,7 @@
             "extension": ""
           }
         ],
-        "description": "The Extended Opportunity Programs and Services (EOPS) Second Chance program at City College of San Francisco (CCSF) serves students who are formerly incarcerated, offering them education as an alternative to incarceration. Through understanding and addressing the unique needs of this student population, the Second Chance program provides comprehensive academic support services with the goal of increasing their probability for academic success, while simultaneously reducing the likelihood of recidivism. No referral needed. Drop-ins allowed, but appointments are highly recommended. Applicants on probation or parole need to provide verification of their status from their probation/parole officer.No",
+        "description": "The Extended Opportunity Programs and Services (EOPS) Second Chance program at City College of San Francisco (CCSF) serves students who are formerly incarcerated, offering them education as an alternative to incarceration. Through understanding and addressing the unique needs of this student population, the Second Chance program provides comprehensive academic support services with the goal of increasing their probability for academic success, while simultaneously reducing the likelihood of recidivism.",
         "address_attributes": {
           "city": "San Francisco",
           "state": "CA",
@@ -2176,16 +2268,16 @@
             "name": "Second Chance Program",
             "audience": "",
             "eligibility": "Individuals, ages 18 and older. Must be highly motivated and have a strong desire to be in college and to participate in higher education.  Good to be clean and sober or actively participating in 12-step or other recovery program, if applicable.",
-            "how_to_apply": "State-Issued ID, Social Security Card, Proof of SF Residency. Accessibility: Wheelchair accessible. Other disabilities are accommodated.",
+            "how_to_apply": "No referral needed. Drop-ins allowed, but appointments are highly recommended. Applicants on probation or parole need to provide verification of their status from their probation/parole officer. Documents needed: State-Issued ID, Social Security Card, Proof of SF Residency. Accessibility: Wheelchair accessible. Other disabilities are accommodated.",
             "fees": "None",
             "keywords": [
               "Assist w/Matriculation & Application, Peer Counseling, Tutors, Book Vouchers, Academic Advising, Educational Planning, Voc. Education, Associate Degree, Transfer Programs."
             ],
-            "description": "The Extended Opportunity Programs and Services (EOPS) Second Chance program at City College of San Francisco (CCSF) serves students who are formerly incarcerated, offering them education as an alternative to incarceration. Through understanding and addressing the unique needs of this student population, the Second Chance program provides comprehensive academic support services with the goal of increasing their probability for academic success, while simultaneously reducing the likelihood of recidivism. No referral needed. Drop-ins allowed, but appointments are highly recommended. Applicants on probation or parole need to provide verification of their status from their probation/parole officer.No"
+            "description": "The Extended Opportunity Programs and Services (EOPS) Second Chance program at City College of San Francisco (CCSF) serves students who are formerly incarcerated, offering them education as an alternative to incarceration. Through understanding and addressing the unique needs of this student population, the Second Chance program provides comprehensive academic support services with the goal of increasing their probability for academic success, while simultaneously reducing the likelihood of recidivism."
           }
         ],
         "accessibility": [
-          ""
+          "Wheelchair accessible. Other disabilities are accommodated."
         ],
         "hours": "Monday - Friday, 8:00am to 2:00pm.",
         "emails": [
@@ -2224,7 +2316,7 @@
             "extension": ""
           }
         ],
-        "description": "The Women's Aftercare Program and Services is a collaborative project with City College of San Francisco, under the auspices of the Health Science Department and the Women's Studies Department. We are designed to address the unique needs of self-identified women who are formerly incarcerated. We serve women coming home from prisons, jails, and drug programs. It is our belief that education is the best alternative to incarceration and it is our desire to assist our sisters in their academic endeavors.No referral needed.No.",
+        "description": "The Women's Aftercare Program and Services is a collaborative project with City College of San Francisco, under the auspices of the Health Science Department and the Women's Studies Department. We are designed to address the unique needs of self-identified women who are formerly incarcerated. We serve women coming home from prisons, jails, and drug programs. It is our belief that education is the best alternative to incarceration and it is our desire to assist our sisters in their academic endeavors.",
         "address_attributes": {
           "city": "San Francisco",
           "state": "CA",
@@ -2236,12 +2328,12 @@
             "name": "Way Pass Women's Aftercare Program",
             "audience": "",
             "eligibility": "Formerly incarcerated women.",
-            "how_to_apply": "Positive attitude",
+            "how_to_apply": "No referral needed",
             "fees": "Free to any current City College student.",
             "keywords": [
               "Case Management, Help with Registration Forms, Informal Counseling and Support, Class Planning and Management, Support Groups and Workshops.  Referrals to other resources available as needed."
             ],
-            "description": "The Women's Aftercare Program and Services is a collaborative project with City College of San Francisco, under the auspices of the Health Science Department and the Women's Studies Department. We are designed to address the unique needs of self-identified women who are formerly incarcerated. We serve women coming home from prisons, jails, and drug programs. It is our belief that education is the best alternative to incarceration and it is our desire to assist our sisters in their academic endeavors.No referral needed.No."
+            "description": "The Women's Aftercare Program and Services is a collaborative project with City College of San Francisco, under the auspices of the Health Science Department and the Women's Studies Department. We are designed to address the unique needs of self-identified women who are formerly incarcerated. We serve women coming home from prisons, jails, and drug programs. It is our belief that education is the best alternative to incarceration and it is our desire to assist our sisters in their academic endeavors."
           }
         ],
         "accessibility": [
@@ -2284,7 +2376,7 @@
             "extension": ""
           }
         ],
-        "description": "Five Keys Charter School provides basic adult educational options for obtaining a High School Diploma or High School Equivalency.  Our goal is to increase educational levels for successful Re-entry, finding employment and reintegrating into the community. Class times and schedules are flexible, offering students classroom based instruction, independent study and online learning. Five Keys partners with respected CBO's that provide wrap around support services that our students need to meet their educational and career goals.  We have over 20 community locations throughout San Francisco where a teacher is integrated into the program model so education, treatment or work readiness is integrated to education.  Free education.  GED test is paid for by 5 Keys.  No referral needed. Drop-ins welcome at 70 Oak Grove and 1800 Oakdale.No.",
+        "description": "Five Keys Charter School provides basic adult educational options for obtaining a High School Diploma or High School Equivalency.  Our goal is to increase educational levels for successful Re-entry, finding employment and reintegrating into the community. Class times and schedules are flexible, offering students classroom based instruction, independent study and online learning. Five Keys partners with respected CBO's that provide wrap around support services that our students need to meet their educational and career goals.  We have over 20 community locations throughout San Francisco where a teacher is integrated into the program model so education, treatment or work readiness is integrated to education.",
         "address_attributes": {
           "city": "San Francisco",
           "state": "CA",
@@ -2296,12 +2388,12 @@
             "name": "Five Keys Charter School",
             "audience": "",
             "eligibility": "All individuals 18 and older, 16 and above at 1601 Lane St location.",
-            "how_to_apply": "",
+            "how_to_apply": "Free education.  GED test is paid for by 5 Keys.  No referral needed. Drop-ins welcome at 70 Oak Grove and 1800 Oakdale.",
             "fees": "None.",
             "keywords": [
               "Basic/Remedial Education, English as a Second Language, GED & High School Education, Reading/Literacy, Vocations Education, Independent Study, Intensive Case Management and Re-entry support groups."
             ],
-            "description": "Five Keys Charter School provides basic adult educational options for obtaining a High School Diploma or High School Equivalency.  Our goal is to increase educational levels for successful Re-entry, finding employment and reintegrating into the community. Class times and schedules are flexible, offering students classroom based instruction, independent study and online learning. Five Keys partners with respected CBO's that provide wrap around support services that our students need to meet their educational and career goals.  We have over 20 community locations throughout San Francisco where a teacher is integrated into the program model so education, treatment or work readiness is integrated to education.  Free education.  GED test is paid for by 5 Keys.  No referral needed. Drop-ins welcome at 70 Oak Grove and 1800 Oakdale.No."
+            "description": "Five Keys Charter School provides basic adult educational options for obtaining a High School Diploma or High School Equivalency.  Our goal is to increase educational levels for successful Re-entry, finding employment and reintegrating into the community. Class times and schedules are flexible, offering students classroom based instruction, independent study and online learning. Five Keys partners with respected CBO's that provide wrap around support services that our students need to meet their educational and career goals.  We have over 20 community locations throughout San Francisco where a teacher is integrated into the program model so education, treatment or work readiness is integrated to education."
           }
         ],
         "accessibility": [
@@ -2334,7 +2426,23 @@
         ]
       }
     ],
-    "notes": ""
+    "notes": "Locations:
+Goodwill Industries:  Comprehensive Access Point (CAP), 1500 Mission Street, San Francisco, CA, 94103, (415) 730-3218
+Arriba Juntos: 1850 Mission Street, San Francisco, CA, 94103, (415) 730-3218
+Asian Neighborhood Design:  1245 Howard Street, San Francisco, CA, 94103, (415) 730-3218
+Bayview YMCA: 1601 Lane Street, San Francisco, CA , 94124 (415) 730-3218
+CASC: 564 6th Street, San Francisco, CA  94103, (415) 489-7320
+CCSF Southeast Campus: 1800 Oakdale Street, San Francisco, CA 94124, (415) 821-2400
+Ella Hill Hutch Community Center:  1050 McAllister Street, San Francisco, CA, 94115 (415) 730-3218
+FACES SF:  Visitation Valley Neighborhood Access Point, 1099 Sunnydale Ave, 2nd Floor, San Francisco, CA, 94134, (415)308-1689
+HSA/MEDA: 3120 Mission Street, San Francisco, CA, 94114,(415) 730-3218
+Mission Economic Development Agency: 2301 Mission Street, San Francisco, CA  (415) 730-3218
+SFAPD Learning Center: 850 Bryant Street, San Francisco, CA  94103, (415) 553-1924
+Thomas Paine Square Community Center:   1086 Golden Gate Avenue, #G, San Francisco, CA, 94115,  (415) 929-1104
+TURF/Sunnydale Housing: 1652 Sunnydale Ave, San Francisco, CA, 94134 (415) 730-3218
+Visitation Valley Strong Family: (ESL only) 50 Raymond Street, San Francisco, CA  94134, (415) 730-3218
+WANAP Success Center:  1449 Webster Street, San Francisco, CA, 94115, (415) 730-3218
+Women’s Resource Center:  930 Bryant St., San Francisco, CA, 94103, (415) 734-3150"
   },
   {
     "name": "San Francisco Conservation Corps",
@@ -2346,11 +2454,11 @@
             "extension": "310"
           }
         ],
-        "description": "The San Francisco Conservation Corps (SFCC) is a non-profit job and academic training organization serving young people ages 18-26.   Weekly info/interview session every Tuesday at 2:30pm.No.",
+        "description": "The San Francisco Conservation Corps (SFCC) is a non-profit job and academic training organization serving young people ages 18-26.",
         "address_attributes": {
           "city": "San Francisco",
           "state": "CA",
-          "street": "102 Fort Mason ",
+          "street": "102 Fort Mason",
           "zip": "94123"
         },
         "services_attributes": [
@@ -2358,12 +2466,12 @@
             "name": "San Francisco Conservation Corps",
             "audience": "",
             "eligibility": "All individuals and family members, ages 18-26.",
-            "how_to_apply": "Will assist individuals get the required documents for orientation.",
+            "how_to_apply": "Weekly info/interview session every Tuesday at 2:30pm. Will assist individuals get the required documents for orientation.",
             "fees": "No fees.",
             "keywords": [
               "Employment Placement, Assistance/Guidance Regarding Benefits (SSI, GA, TANF, etc.), Counseling, Employment Retention, Employment Training, High School Diploma, Help/Vouchers to Get State ID, Life Skills, Literacy/Basic Education, Mentoring, Transit Vouchers. Referrals to other resources available as needed."
             ],
-            "description": "The San Francisco Conservation Corps (SFCC) is a non-profit job and academic training organization serving young people ages 18-26.   Weekly info/interview session every Tuesday at 2:30pm.No."
+            "description": "The San Francisco Conservation Corps (SFCC) is a non-profit job and academic training organization serving young people ages 18-26."
           }
         ],
         "accessibility": [
@@ -2380,7 +2488,7 @@
           }
         ],
         "name": "San Francisco Conservation Corps",
-        "short_desc": "The San Francisco Conservation Corps (SFCC) is a non-profit job and academic training organization s",
+        "short_desc": "The San Francisco Conservation Corps (SFCC) is a non-profit job and academic training organization",
         "languages": [
           "English"
         ],
@@ -2406,11 +2514,11 @@
             "extension": ""
           }
         ],
-        "description": "Our mission is to provide free instruction for English-speaking adults (18 or older) who want to improve their basic reading and writing skills, thereby enabling access to great opportunities in their lives. No referral needed. Drop-ins for interview allowed. Further appointments will be scheduled.No.",
+        "description": "Our mission is to provide free instruction for English-speaking adults (18 or older) who want to improve their basic reading and writing skills, thereby enabling access to great opportunities in their lives.",
         "address_attributes": {
-          "city": "",
+          "city": "San Francisco",
           "state": "CA",
-          "street": "Project Read -- Main Library 5th Floor, 100 Larkin St.  SF",
+          "street": "Project Read -- Main Library 5th Floor, 100 Larkin St.",
           "zip": "94102"
         },
         "services_attributes": [
@@ -2418,12 +2526,12 @@
             "name": "Project Read",
             "audience": "",
             "eligibility": "stable housing, working phone, 90 days clean and sober, over 18 years of age.",
-            "how_to_apply": "",
+            "how_to_apply": "No referral needed. Drop-ins for interview allowed. Further appointments will be scheduled.",
             "fees": "No fees.",
             "keywords": [
               "Access to Internet, Mentorship, Outreach, Basic/Remedial Education, GED & High School Education, Reading/Literacy, Money Management/Personal Financial Education, Voting Outreach & Education, Parenting Support/Education. Referrals to other resources available as needed."
             ],
-            "description": "Our mission is to provide free instruction for English-speaking adults (18 or older) who want to improve their basic reading and writing skills, thereby enabling access to great opportunities in their lives. No referral needed. Drop-ins for interview allowed. Further appointments will be scheduled.No."
+            "description": "Our mission is to provide free instruction for English-speaking adults (18 or older) who want to improve their basic reading and writing skills, thereby enabling access to great opportunities in their lives."
           }
         ],
         "accessibility": [
@@ -2445,7 +2553,8 @@
           "English"
         ],
         "urls": [
-          "www.projectreadsf.org  www.sfpl.org"
+          "www.projectreadsf.org",
+          "www.sfpl.org"
         ],
         "faxes_attributes": [
           {
@@ -2457,7 +2566,7 @@
     "notes": ""
   },
   {
-    "name": "San Francisco State University(ASI)",
+    "name": "San Francisco State University (ASI)",
     "locations": [
       {
         "phones_attributes": [
@@ -2466,24 +2575,24 @@
             "extension": ""
           }
         ],
-        "description": "Project Rebound sees education as an alternative to mass incarceration. We seek to increase opportunities to become productive and responsible citizens, decrease the risk of recidivism, motivate incarcerated individuals to strive to change their lives, and interrupt the path of youth headed toward incarceration.   http://asi.sfsu.edu/asi/programs/proj_rebound/about.htmlNo referral needed. Drop-ins allowed, but appointments are recommended.No.",
+        "description": "Project Rebound sees education as an alternative to mass incarceration. We seek to increase opportunities to become productive and responsible citizens, decrease the risk of recidivism, motivate incarcerated individuals to strive to change their lives, and interrupt the path of youth headed toward incarceration.",
         "address_attributes": {
-          "city": "",
-          "state": "",
-          "street": "1650 Holloway Avenue,",
-          "zip": ""
+          "city": "San Francisco",
+          "state": "CA",
+          "street": "1650 Holloway Avenue, CCSC T-138, San Francisco State University",
+          "zip": "94132"
         },
         "services_attributes": [
           {
             "name": "Project Rebound",
             "audience": "",
             "eligibility": "All individuals, 18 and older. A high school diploma or GED is required.  Some services may not be available to registered sex offenders. May not have prior convictions on SFSU grounds.",
-            "how_to_apply": "State-Issued ID, Social Security Card, Proof of SF Residency.",
+            "how_to_apply": "No referral needed. Drop-ins allowed, but appointments are recommended. Documents needed: State-Issued ID, Social Security Card, Proof of SF Residency.",
             "fees": "No fees.",
             "keywords": [
               "Books/Class Materials, Access to Internet, Food Vouchers, Transit Vouchers, Mental Health Treatment, Anger Management, Mentorship, Outreach, Post-Incarceration Support, College & Graduate Education. Referrals to other resources available as needed."
             ],
-            "description": "Project Rebound sees education as an alternative to mass incarceration. We seek to increase opportunities to become productive and responsible citizens, decrease the risk of recidivism, motivate incarcerated individuals to strive to change their lives, and interrupt the path of youth headed toward incarceration.   http://asi.sfsu.edu/asi/programs/proj_rebound/about.htmlNo referral needed. Drop-ins allowed, but appointments are recommended.No."
+            "description": "Project Rebound sees education as an alternative to mass incarceration. We seek to increase opportunities to become productive and responsible citizens, decrease the risk of recidivism, motivate incarcerated individuals to strive to change their lives, and interrupt the path of youth headed toward incarceration."
           }
         ],
         "accessibility": [
@@ -2500,12 +2609,13 @@
           }
         ],
         "name": "Project Rebound",
-        "short_desc": "Project Rebound sees education as an alternative to mass incarceration. We seek to increase opportun",
+        "short_desc": "Project Rebound sees education as an alternative to mass incarceration.",
         "languages": [
-          "English. Translators may be available for other languages"
+          "English",
+          "Translators may be available for other languages"
         ],
         "urls": [
-          ""
+          "http://asi.sfsu.edu/asi/programs/proj_rebound/about.html"
         ],
         "faxes_attributes": [
           {
@@ -2526,19 +2636,19 @@
             "extension": ""
           }
         ],
-        "description": "To break the cycle of recidivism through job opportunities. No referral needed. Please call for appointment. No drop-ins.No",
+        "description": "To break the cycle of recidivism through job opportunities.",
         "address_attributes": {
-          "city": "",
-          "state": "",
+          "city": "San Francisco",
+          "state": "CA",
           "street": "1460 McKinnon Ave. #206",
-          "zip": ""
+          "zip": "94124"
         },
         "services_attributes": [
           {
             "name": "",
             "audience": "",
             "eligibility": "All individuals (men, women, veterans), ages 18 and older, who are formerly incarcerated or have struggled with addiction.",
-            "how_to_apply": "State-Issued ID, Social Security Card. Program will assist client in getting these.",
+            "how_to_apply": "No referral needed. Please call for appointment. No drop-ins. Documents needed: State-Issued ID, Social Security Card. Program will assist client in getting these.",
             "fees": "No fees.",
             "keywords": [
               "Assistance with Union Dues:  Assistance with Work Tools and Clothing, Assistance Getting Driver's License or Other ID, Access to Computers, Addiction Counseling, Mentorship, Intensive Case Management, Outreach, Post-Incarceration Support, Basic Remedial Education, Employment Training (18 week pre-apprentice green construction training), Employment Placement (union trades—placement in 26 trades), Employment Retention, Job Readiness/Life Skills, Professional Clothing. Referrals to other resources available as needed."
@@ -2560,7 +2670,7 @@
           }
         ],
         "name": "",
-        "short_desc": "To break the cycle of recidivism through job opportunities. www.andersandandersfoundation.orgNo refe",
+        "short_desc": "To break the cycle of recidivism through job opportunities.",
         "languages": [
           "English",
           "some Spanish"
@@ -2587,7 +2697,7 @@
             "extension": ""
           }
         ],
-        "description": "Arriba Juntos provides educational and employment programs on a citywide basis serving many neighborhoods and many different ethnic groups and cultures. Its mission is to promote economic self sufficiency through employment services and vocational education.  No.",
+        "description": "Arriba Juntos provides educational and employment programs on a citywide basis serving many neighborhoods and many different ethnic groups and cultures. Its mission is to promote economic self sufficiency through employment services and vocational education.",
         "address_attributes": {
           "city": "",
           "state": "",
@@ -2604,7 +2714,7 @@
             "keywords": [
               "Access to Internet, Youth Computer Lab, Assistance Getting Drivers License or Other ID, Clothing, Interview Attire, Prepared Meals on Thursdays and Snacks for Clients, Personal Hygiene Items, Postal Services, Transit Vouchers for WIA-Qualified Clients, Mental Health Specialist for Victims and Witnesses of Violence, GED Program, Application for Food Stamps, Employment and Job Readiness Services. Referrals to other resources available as needed."
             ],
-            "description": "Arriba Juntos provides educational and employment programs on a citywide basis serving many neighborhoods and many different ethnic groups and cultures. Its mission is to promote economic self sufficiency through employment services and vocational education.  No."
+            "description": "Arriba Juntos provides educational and employment programs on a citywide basis serving many neighborhoods and many different ethnic groups and cultures. Its mission is to promote economic self sufficiency through employment services and vocational education."
           }
         ],
         "accessibility": [
@@ -2645,13 +2755,17 @@
           {
             "number": "4154897318",
             "extension": ""
+          },
+          {
+            "number": "4154897318",
+            "extension": ""
           }
         ],
         "description": "America Works lifts people out of poverty using its unique brand of intensive, personalized, employment services.  Called “a company with a conscience,” it was founded in 1984 by social activist and entrepreneur Peter Cover.   America Works' guiding principle is the belief that the best way to lift people out of poverty is to help them find a job—real private sector jobs.  In other words, it believes that work first works best.  Clients must be referred by San Francisco Adult Probation.No.",
         "address_attributes": {
           "city": "San Francisco",
           "state": "CA",
-          "street": "1663 Mission Street 94103CASC, 564 6th Street ",
+          "street": "1663 Mission Street or CASC, 564 6th Street",
           "zip": "94103"
         },
         "services_attributes": [
@@ -2659,7 +2773,7 @@
             "name": "Employment Placement Services",
             "audience": "",
             "eligibility": "All individuals supervised by the San Francisco Adult Probation Department.  Must be referred by San Francisco Adult Probation.",
-            "how_to_apply": "CA ID, Social Security Card.",
+            "how_to_apply": "Clients must be referred by San Francisco Adult Probation. Documents needed: CA ID, Social Security Card.",
             "fees": "None.",
             "keywords": [
               "Employment Placement, Employment Training, Employment Retention, Job Readiness/Life Skills, Money Management/Personal Financial Education, Access to Internet, Assistance with Resumes, Interview Clothes.  Referrals to other resources available as needed."
@@ -2676,7 +2790,11 @@
         ],
         "contacts_attributes": [
           {
-            "name": "IntakeAmerica Works Staff",
+            "name": "Intake",
+            "title": "NA"
+          },
+          {
+            "name": "America Works Staff",
             "title": "NA"
           }
         ],
@@ -2695,7 +2813,12 @@
         ]
       }
     ],
-    "notes": ""
+    "notes": "Contact Person: Intake
+Phone: (415) 552-9676  Fax: (415) 552-9683
+Location:  1663 Mission Street, San Francisco, CA 94103
+Contact Person: America Works Staff 
+Phone: (415) 489-7318  Fax: (415) 489-7325
+Location:  CASC, 564 6th Street, San Francisco, CA  94103"
   },
   {
     "name": "Asian Neighborhood Design",
@@ -2707,11 +2830,11 @@
             "extension": "218"
           }
         ],
-        "description": "Our mission is to reduce poverty by building communities and providing opportunities for low-income residents to become economically self sufficient. No referral needed. Drop-ins are welcome, but orientations are held every Thursday at 10am.No.",
+        "description": "Our mission is to reduce poverty by building communities and providing opportunities for low-income residents to become economically self sufficient.",
         "address_attributes": {
-          "city": "",
+          "city": "San Francisco",
           "state": "CA",
-          "street": "1021 Mission St. San Francisco ",
+          "street": "1021 Mission St.",
           "zip": "94103"
         },
         "services_attributes": [
@@ -2719,12 +2842,12 @@
             "name": "Construction Training Program",
             "audience": "",
             "eligibility": "Men, Women, Transgender people, ages 17 and older, Women with children, All families. Individuals with criminal convictions for a sex offense are considered on a case-by-case basis.",
-            "how_to_apply": "Proof of SF Residency.",
+            "how_to_apply": "No referral needed. Drop-ins are welcome, but orientations are held every Thursday at 10am. Documents needed: Proof of SF Residency.",
             "fees": "None.",
             "keywords": [
               "Access to Internet, Assistance Getting Drivers License or Other ID, Clothing, Light Meals, Access to Phones, Transit Vouchers, Anger Management, Community Education & Mediation, Group Counseling/Therapy, Intensive Case Management, Mentorship, Post-Incarceration Support, Basic/Remedial Education, GED and High School Education with 5 Keys Charter School on-site, Job Skills, Job Readiness, Job Placement, Construction Job Training, Employment Retention, Money Management/Personal Financial Education, Referrals provided for mental health treatment, medical care, dental care, vision care, trauma recovery services. Referrals to other resources available as needed."
             ],
-            "description": "Our mission is to reduce poverty by building communities and providing opportunities for low-income residents to become economically self sufficient. No referral needed. Drop-ins are welcome, but orientations are held every Thursday at 10am.No."
+            "description": "Our mission is to reduce poverty by building communities and providing opportunities for low-income residents to become economically self sufficient."
           }
         ],
         "accessibility": [
@@ -2768,11 +2891,11 @@
             "extension": ""
           }
         ],
-        "description": "The mission of PEP Jobs is to serve people with epilepsy and/or brain injuries in navigating a career path, including finding and maintaining suitable employment, offering the highest quality assistance possible. www.cpmc/org/pepjobsReferral from CA Department of Rehabilitation - 301 Howard St, San Francisco, CA 94105. Call 415-904-4100. No Drop-ins.No.",
+        "description": "The mission of PEP Jobs is to serve people with epilepsy and/or brain injuries in navigating a career path, including finding and maintaining suitable employment, offering the highest quality assistance possible.",
         "address_attributes": {
-          "city": "",
+          "city": "San Francsico",
           "state": "CA",
-          "street": "CPMC Davies Campus, 45 Castro Street, B-Level, South Tower, San Francsico ",
+          "street": "CPMC Davies Campus, 45 Castro Street, B-Level, South Tower",
           "zip": "94114"
         },
         "services_attributes": [
@@ -2780,12 +2903,12 @@
             "name": "PEP Jobs",
             "audience": "",
             "eligibility": "All individuals, ages 18 and older, with a medical diagnosis of epilepsy or traumatic/acquired brain injury. Must be clean and sober for at least 90 days prior to intake.",
-            "how_to_apply": "Proof of right-to-work documents such as, State-Issued ID, Social Security Card.",
+            "how_to_apply": "Referral from CA Department of Rehabilitation - 301 Howard St, San Francisco, CA 94105. Call 415-904-4100. No Drop-ins. Documents needed: Proof of right-to-work documents such as, State-Issued ID, Social Security Card.",
             "fees": "No fees.",
             "keywords": [
               "Employment Placement, Employment Retention, Job Readiness/Life Skills. Referrals to other resources available as needed."
             ],
-            "description": "The mission of PEP Jobs is to serve people with epilepsy and/or brain injuries in navigating a career path, including finding and maintaining suitable employment, offering the highest quality assistance possible. www.cpmc/org/pepjobsReferral from CA Department of Rehabilitation - 301 Howard St, San Francisco, CA 94105. Call 415-904-4100. No Drop-ins.No."
+            "description": "The mission of PEP Jobs is to serve people with epilepsy and/or brain injuries in navigating a career path, including finding and maintaining suitable employment, offering the highest quality assistance possible."
           }
         ],
         "accessibility": [
@@ -2807,7 +2930,7 @@
           "English. Translation services available"
         ],
         "urls": [
-          ""
+          "www.cpmc/org/pepjobs"
         ],
         "faxes_attributes": [
           {
@@ -2816,7 +2939,9 @@
         ]
       }
     ],
-    "notes": ""
+    "notes": "Contact Person: Tom Post or Lia Kantor, Employment Coordinators
+Phone: Tom Post:  (415) 600-4875;  
+Lia Kantor:  (415) 600-4878"
   },
   {
     "name": "Center On Juvenile And Criminal Justice",
@@ -2828,7 +2953,7 @@
             "extension": ""
           }
         ],
-        "description": "The Center on Juvenile and Criminal Justice (CJCJ)  San Francisco Training Partnership and Homeless Employment Collaborative offers program participants referrals to short-term trainings, job search workshops, job placements, life skills training that prepares them for employment, to return to school, or to enroll and participate in an occupational or vocational training programs. No referral necessary.  Appointments are preferred but drop-ins will be seen.No.",
+        "description": "The Center on Juvenile and Criminal Justice (CJCJ) San Francisco Training Partnership and Homeless Employment Collaborative offers program participants referrals to short-term trainings, job search workshops, job placements, life skills training that prepares them for employment, to return to school, or to enroll and participate in an occupational or vocational training programs.",
         "address_attributes": {
           "city": "San Francisco",
           "state": "CA",
@@ -2840,12 +2965,12 @@
             "name": "Employment Services",
             "audience": "",
             "eligibility": "All individuals, ages 18 and older who are homeless.",
-            "how_to_apply": "CA ID, Social Security Card.",
+            "how_to_apply": "No referral necessary.  Appointments are preferred but drop-ins will be seen. Documents needed: CA ID, Social Security Card.",
             "fees": "None",
             "keywords": [
               "Job Readiness/Life Skills, Employment Training, Vocational Training, Employment Retention, Access to internet, Assistance Getting Driver's License/CA ID, Case Management."
             ],
-            "description": "The Center on Juvenile and Criminal Justice (CJCJ)  San Francisco Training Partnership and Homeless Employment Collaborative offers program participants referrals to short-term trainings, job search workshops, job placements, life skills training that prepares them for employment, to return to school, or to enroll and participate in an occupational or vocational training programs. No referral necessary.  Appointments are preferred but drop-ins will be seen.No."
+            "description": "The Center on Juvenile and Criminal Justice (CJCJ) San Francisco Training Partnership and Homeless Employment Collaborative offers program participants referrals to short-term trainings, job search workshops, job placements, life skills training that prepares them for employment, to return to school, or to enroll and participate in an occupational or vocational training programs."
           }
         ],
         "accessibility": [
