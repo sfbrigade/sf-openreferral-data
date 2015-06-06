@@ -1,0 +1,551 @@
+[
+  {
+    "name": "Community Housing Partnership (CHP)",
+    "locations": [
+      {
+        "phones_attributes": [
+          {
+            "number": "4155633205",
+            "extension": "123"
+          }
+        ],
+        "description": "CHP is a San Francisco-based nonprofit organization.  CHP's mission is to help homeless people secure housing and become self-sufficient.  Community Housing Partnership is an outcome focused nonprofit that fulfills its mission by developing and managing high quality supportive housing and providing services to homeless individuals, seniors and families to help them rebuild their lives and break the cycle of homelessness. www.chp-sf.orgThe above properties do not maintain waitlists.  All vacancies are filled through referrals provided to CHP by programs through the HSA and DPH depending on the property.  Please visit the website for more info.No.",
+        "address_attributes": {
+          "city": "",
+          "state": "",
+          "street": "",
+          "zip": ""
+        },
+        "services_attributes": [
+          {
+            "name": "",
+            "audience": "",
+            "eligibility": "All currently homeless individuals and family members.  There are additional eligibility requirements per property that may include, but not limited to, annual income limits and verified disability.  Please visit the website for more onformation.",
+            "how_to_apply": "State-Issued ID. Program will assist client in getting this.",
+            "fees": "None",
+            "keywords": [
+              "Permanent Housing, Access to Internet, Assistance Getting Drivers License or Other ID, Hygiene/Personal Care Items, Phone/Voicemail, Substance Abuse Treatment, Health & Wellness Education, Intensive Case Management, Outreach, Assessment & Application for Food Stamps, General Assistance, and SSI, Employment Training, Job Readiness/Life Skills, Parenting Support/Education, Services for Children. Referral to other services as needed."
+            ],
+            "description": "CHP is a San Francisco-based nonprofit organization.  CHP's mission is to help homeless people secure housing and become self-sufficient.  Community Housing Partnership is an outcome focused nonprofit that fulfills its mission by developing and managing high quality supportive housing and providing services to homeless individuals, seniors and families to help them rebuild their lives and break the cycle of homelessness. www.chp-sf.orgThe above properties do not maintain waitlists.  All vacancies are filled through referrals provided to CHP by programs through the HSA and DPH depending on the property.  Please visit the website for more info.No."
+          }
+        ],
+        "accessibility": [
+          "Wheelchair accessible. Other disabilities are accommodated."
+        ],
+        "hours": "",
+        "emails": [
+          "housingopportunities@chp-sf.org"
+        ],
+        "contacts_attributes": [
+          {
+            "name": "",
+            "title": "NA"
+          }
+        ],
+        "name": "",
+        "short_desc": "CHP is a San Francisco-based nonprofit organization.  CHP's mission is to help homeless people sec",
+        "languages": [
+          "English"
+        ],
+        "urls": [
+          ""
+        ],
+        "faxes_attributes": [
+          {
+            "number": ""
+          }
+        ]
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "name": "Catholic Charities/CYO",
+    "locations": [
+      {
+        "phones_attributes": [
+          {
+            "number": "4154052063",
+            "extension": ""
+          }
+        ],
+        "description": "Cathonic Charities/CYO's mission is to house homeless people with disabling HIV and AIDS. At Leland House, which provides permanent housing, we respond to residents on a Harm Reduction basis working with behaviors as they become difficult for others and when they  impede the safety of the resident themselves.  www.cccyo.orgReferral required. Intake appointment needed - no drop-ins.No.",
+        "address_attributes": {
+          "city": "San Francisco",
+          "state": "CA",
+          "street": "141 Leland Avenue ",
+          "zip": "94134"
+        },
+        "services_attributes": [
+          {
+            "name": "Leland House",
+            "audience": "",
+            "eligibility": "All currently homeless individuals, 18 years or older, with disabling HIV or AIDS, psychiatric disorders or substance abuse issues.",
+            "how_to_apply": "State-Issued ID, Social Security Card, Proof of SF Residency, TB Clearance, Medi-Cal card or other proof of insurance so that medications can be ordered.",
+            "fees": "Rent is calculated at 30% of monthly income. There is an annual income limit.",
+            "keywords": [
+              "Permanent Housing, Access to Internet, Assistance Getting Drivers License or Other ID, Food/Prepared Meals, P.O. Box/Mail Service, Voicemail, Shower Facilities, Utilities (hot water, heat), Co-occurring Disorder/Dual Diagnosis Treatment, Health & Wellness Education through in house dietician, Anger Management, Group Counseling/Therapy - Anger Management, HIV Support, Harm Reduction, Money Management/Personal Financial Education, Many additional supportive services available upon referral behavioral health, employment, case management, and other specialists, as needed."
+            ],
+            "description": "Cathonic Charities/CYO's mission is to house homeless people with disabling HIV and AIDS. At Leland House, which provides permanent housing, we respond to residents on a Harm Reduction basis working with behaviors as they become difficult for others and when they  impede the safety of the resident themselves.  www.cccyo.orgReferral required. Intake appointment needed - no drop-ins.No."
+          }
+        ],
+        "accessibility": [
+          "Wheelchair accessible. Other disabilities are accommodated."
+        ],
+        "hours": "Wednesdays and Thursdays24 hours/7 days",
+        "emails": [
+          "TQuinn@cccyo.org"
+        ],
+        "contacts_attributes": [
+          {
+            "name": "Timothy Quinn",
+            "title": "Intake Coordinator"
+          }
+        ],
+        "name": "Leland House",
+        "short_desc": "Cathonic Charities/CYO's mission is to house homeless people with disabling HIV and AIDS. At Lelan",
+        "languages": [
+          "English",
+          "Spanish",
+          "German"
+        ],
+        "urls": [
+          ""
+        ],
+        "faxes_attributes": [
+          {
+            "number": "4153371137"
+          }
+        ]
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "name": "Compass Family Services",
+    "locations": [
+      {
+        "phones_attributes": [
+          {
+            "number": "4156440504",
+            "extension": "2201"
+          }
+        ],
+        "description": "Compass SF HOME helps families in danger of homelessness to stabilize and maintain their housing and rapidly re-houses homeless families so that they can work towards long-term economic self-sufficiency.  The program is designed to help homeless families find a unit, and then provide a rental subsidy paired with case management until the family increases their income to the point that they can pay the rent on their own.    www.compass-sf.orgPlease call for more information and to receive an application packet.  No referral required but families we prioritize families who are either in a shelter or on the Connecting Point family shelter waitlist.No.",
+        "address_attributes": {
+          "city": "",
+          "state": "",
+          "street": "995 Market St, 5th Floor, SF",
+          "zip": "94103"
+        },
+        "services_attributes": [
+          {
+            "name": "SF Home",
+            "audience": "",
+            "eligibility": "Homeless families staying in San Francisco. Must have more than 50% custody of a child under 18, minimum income of $500, maximum income 50% AMI. Must have a concrete plan to increase your income to the point where you can afford rent.",
+            "how_to_apply": "We will let you know what documents are needed at the time you apply.",
+            "fees": "None, although families must pay 40-50% of their net income towards the rent in their unit.",
+            "keywords": [
+              "Assistance Obtaining Permanent Housing, Rental Subsidies, Intensive Case Management, Education and Professional Goals, Money management, Access to a Food Pantry, Clothing, Personal Hygiene Products, Diapers and Baby Supplies, Transportation Assistance, Access to Educational/Recreational Activities for Children."
+            ],
+            "description": "Compass SF HOME helps families in danger of homelessness to stabilize and maintain their housing and rapidly re-houses homeless families so that they can work towards long-term economic self-sufficiency.  The program is designed to help homeless families find a unit, and then provide a rental subsidy paired with case management until the family increases their income to the point that they can pay the rent on their own.    www.compass-sf.orgPlease call for more information and to receive an application packet.  No referral required but families we prioritize families who are either in a shelter or on the Connecting Point family shelter waitlist.No."
+          }
+        ],
+        "accessibility": [
+          "Wheelchair accessible."
+        ],
+        "hours": "",
+        "emails": [
+          "bmitchell@compass-sf.org"
+        ],
+        "contacts_attributes": [
+          {
+            "name": "Beth Mitchell",
+            "title": "Program Director"
+          }
+        ],
+        "name": "SF Home",
+        "short_desc": "Compass SF HOME helps families in danger of homelessness to stabilize and maintain their housing and",
+        "languages": [
+          "English",
+          "Spanish"
+        ],
+        "urls": [
+          ""
+        ],
+        "faxes_attributes": [
+          {
+            "number": ""
+          }
+        ]
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "name": "Hamilton Family Center",
+    "locations": [
+      {
+        "phones_attributes": [
+          {
+            "number": "4158618645",
+            "extension": "105"
+          }
+        ],
+        "description": "Our mission is to break the cycle of homelessness and poverty.  Through a housing-first approach, we provide a continuum of housing solutions and hands-on services that promote self-sufficiency for families and individuals, and foster the potential of children and youth.  The Dudley Apartments is a 75-unit Permanent Supportive Housing development where Hamilton family Center offers intensive case management services for single adults, seniors, families, and children managing disabilities who have experienced homelessness.  www.hamiltonfamilycenter.orgPlease call for an appointment.  Referal from a service provider who can supply a certificate of homelessness is required.  A waitlist is managed through Mercy Housing.No.",
+        "address_attributes": {
+          "city": "San Francisco",
+          "state": "CA",
+          "street": "172 6th Street ",
+          "zip": "94103"
+        },
+        "services_attributes": [
+          {
+            "name": "The Dudley Apartments",
+            "audience": "",
+            "eligibility": "Men, women, transgender, pregnant women, women with children, families.  There are extensive restrictions for this program as it works with Mercy Housing providing section 8 units.  Please contact the Dudley Apartments staff for more information.",
+            "how_to_apply": "State issued ID, Social Security Card.  Program will assist clients getting these documents.",
+            "fees": "Client pays 30% of their income toward rent.",
+            "keywords": [
+              "Permanent Housing, Access to Internet, Assistance Getting Driver's License/Other ID, Food/Prepared Meals, P.O. Box/Mail Service, Shower Facilities, Mental Health Treatment, Health & Wellness Eductaion, Intensive Case Management, Individual Counseling/Therapy, Housing Placement Assistance, Assistance Applying for CalFresh/Food Stamps, Assistance Applying for PAES/GA/CalWorks, Assessment & Application for SSI, Credit Repair, Job Readiness/Life Skills, Money Management/Personal Financial Eduction, Assistance Applying for Health Insurance, Couples/Family Counseling, Family Reunification, Parenting Support/Education, Services for Children."
+            ],
+            "description": "Our mission is to break the cycle of homelessness and poverty.  Through a housing-first approach, we provide a continuum of housing solutions and hands-on services that promote self-sufficiency for families and individuals, and foster the potential of children and youth.  The Dudley Apartments is a 75-unit Permanent Supportive Housing development where Hamilton family Center offers intensive case management services for single adults, seniors, families, and children managing disabilities who have experienced homelessness.  www.hamiltonfamilycenter.orgPlease call for an appointment.  Referal from a service provider who can supply a certificate of homelessness is required.  A waitlist is managed through Mercy Housing.No."
+          }
+        ],
+        "accessibility": [
+          "Wheelchair accessible."
+        ],
+        "hours": "",
+        "emails": [
+          "mbrown@hamiltonfamilycenter.org"
+        ],
+        "contacts_attributes": [
+          {
+            "name": "Mary Brown",
+            "title": "Case Manager"
+          }
+        ],
+        "name": "The Dudley Apartments",
+        "short_desc": "Our mission is to break the cycle of homelessness and poverty.  Through a housing-first approach, we",
+        "languages": [
+          "English",
+          "Spanish"
+        ],
+        "urls": [
+          ""
+        ],
+        "faxes_attributes": [
+          {
+            "number": "4158618644"
+          }
+        ]
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "name": "San Francisco Human Services Agency",
+    "locations": [
+      {
+        "phones_attributes": [
+          {
+            "number": "4155576484",
+            "extension": ""
+          }
+        ],
+        "description": "Provide back rent or security deposit to low income San Francisco residents meeting criteria. www.sfhsa.orgAfter verifying need and eligibility based on phone or mail inquiry, clients are referred to a community agency that can help them complete a rental assistance application. No drop-ins.No.",
+        "address_attributes": {
+          "city": "San Francisco",
+          "state": "CA",
+          "street": "P.O. Box 7988 94120, worker #ZB34",
+          "zip": ""
+        },
+        "services_attributes": [
+          {
+            "name": "San Francisco Rental Assistance Program",
+            "audience": "",
+            "eligibility": "Low-income (80% AMI or below) families with minor children in their custody, adults (verifiably disabled, senior 55+), emancipated foster youth, veterans, victim of recent violence. Must be San Francisco resident.",
+            "how_to_apply": "State-Issued ID, Social Security Card, Birth Certificates (for children), Proof of Income, Lease Agreement, and other supporting documentation, as needed.",
+            "fees": "None.",
+            "keywords": [
+              "Assistance with back rent, security deposit, critical family needs. Referrals to other services as needed."
+            ],
+            "description": "Provide back rent or security deposit to low income San Francisco residents meeting criteria. www.sfhsa.orgAfter verifying need and eligibility based on phone or mail inquiry, clients are referred to a community agency that can help them complete a rental assistance application. No drop-ins.No."
+          }
+        ],
+        "accessibility": [
+          ""
+        ],
+        "hours": "Monday - Friday, 9:00am to 5:00pm",
+        "emails": [
+          ""
+        ],
+        "contacts_attributes": [
+          {
+            "name": "Darlene Fernandez-Ash",
+            "title": "Rental Assistance Coordinator"
+          }
+        ],
+        "name": "San Francisco Rental Assistance Program",
+        "short_desc": "Provide back rent or security deposit to low income San Francisco residents meeting criteria. www.sf",
+        "languages": [
+          ""
+        ],
+        "urls": [
+          ""
+        ],
+        "faxes_attributes": [
+          {
+            "number": "4155576033"
+          }
+        ]
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "name": "Tenderloin Housing Clinic",
+    "locations": [
+      {
+        "phones_attributes": [
+          {
+            "number": "4157712427",
+            "extension": "125"
+          }
+        ],
+        "description": "In partnership with San Francisco Adult Probation, the New Roads Program provides services to clients who are on Adult Probation in San Franisco.  The New Roads Program is a rental subsidy program designed for clients who are homeless or unstably housed, and are seeking housing and financial stability.  Services for clients accepted into the program include:  housing search assistance; rental subsidies; financial assistance; and supportive setvices.  The goal for all New Roads clients is to obtain permanent housing and increase monthly income during program participation, in order to become self-sufficient. www.thclinic.orgClients may phone or drop-in to inquire about services, but will need an appointment for an intake.  Clients must be on supervised Adult Probation in San Francisco and must be referred by their Deputy Probation Officer.No.",
+        "address_attributes": {
+          "city": "San Francisco",
+          "state": "CA",
+          "street": "427 Turk Street",
+          "zip": "94102"
+        },
+        "services_attributes": [
+          {
+            "name": "New Roads Program",
+            "audience": "",
+            "eligibility": "Clients must be referred  to the program by the San Francisco Adult Probation Department, must be currently homeless or unstably housed, and have at least 12 months remaining on supervision.",
+            "how_to_apply": "",
+            "fees": "",
+            "keywords": [
+              "Housing Placement Assistance, Rental Subsidies, Supportive Services, Financial and Clothing Assistance."
+            ],
+            "description": "In partnership with San Francisco Adult Probation, the New Roads Program provides services to clients who are on Adult Probation in San Franisco.  The New Roads Program is a rental subsidy program designed for clients who are homeless or unstably housed, and are seeking housing and financial stability.  Services for clients accepted into the program include:  housing search assistance; rental subsidies; financial assistance; and supportive setvices.  The goal for all New Roads clients is to obtain permanent housing and increase monthly income during program participation, in order to become self-sufficient. www.thclinic.orgClients may phone or drop-in to inquire about services, but will need an appointment for an intake.  Clients must be on supervised Adult Probation in San Francisco and must be referred by their Deputy Probation Officer.No."
+          }
+        ],
+        "accessibility": [
+          "Wheelchair accessible. Other disabilities are accommodated."
+        ],
+        "hours": "Monday - Friday, 9:30am to 4:00pm",
+        "emails": [
+          ""
+        ],
+        "contacts_attributes": [
+          {
+            "name": "Naomi Prochovnick",
+            "title": "NA"
+          }
+        ],
+        "name": "New Roads Program",
+        "short_desc": "In partnership with San Francisco Adult Probation, the New Roads Program provides services to client",
+        "languages": [
+          "English",
+          "Spanish",
+          "Cantonese",
+          "Mandarin",
+          "Assamese"
+        ],
+        "urls": [
+          ""
+        ],
+        "faxes_attributes": [
+          {
+            "number": "4159218691"
+          }
+        ]
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "name": "Tenderloin Housing Clinic",
+    "locations": [
+      {
+        "phones_attributes": [
+          {
+            "number": "4157712427",
+            "extension": ""
+          }
+        ],
+        "description": "THC provides affordable supportive housing in San Francisco to over 1,500 formerly homeless tenants in 16 master leased properties residing in the Tenderloin, Mission, Union Square, and South of Market (SOMA) neighborhoods. Additionally, THC owns and operates the Galvin Apartments, a building in SOMA, designed for tenants transitioning out of Single Room Occupancy Hotels (SROs). The Housing Services Staff are enthusiastic about helping clients retain and maintain their housing through rental payment and money management services. THC provides supportive case management to all THC tenants, using a harm reduction framework. Through the harm reduction lens, each tenant is seen as an individual with unique needs. We attempt to serve tenants in a fair, consistent and supportive manner, which builds upon their strengths and promotes self-sufficiency. www.thclinic.orgTo qualify for placement in a master lease hotel, prospective tenants must: 1) Be homeless. 2) Have a qualifying income.No.",
+        "address_attributes": {
+          "city": "San Francisco",
+          "state": "",
+          "street": "472 Turk Street",
+          "zip": ""
+        },
+        "services_attributes": [
+          {
+            "name": "Housing and Supportive Services",
+            "audience": "",
+            "eligibility": "",
+            "how_to_apply": "Referral source provides this information.",
+            "fees": "",
+            "keywords": [
+              "Intake & Assessment, Case Management, Benefits Advocacy, Community Organizing, Mediation with Property Management, Conflict Resolution, Support Groups, Social Events, Organized Tenant Activities, Wellness Checks, and Referrals to other resources available as needed."
+            ],
+            "description": "THC provides affordable supportive housing in San Francisco to over 1,500 formerly homeless tenants in 16 master leased properties residing in the Tenderloin, Mission, Union Square, and South of Market (SOMA) neighborhoods. Additionally, THC owns and operates the Galvin Apartments, a building in SOMA, designed for tenants transitioning out of Single Room Occupancy Hotels (SROs). The Housing Services Staff are enthusiastic about helping clients retain and maintain their housing through rental payment and money management services. THC provides supportive case management to all THC tenants, using a harm reduction framework. Through the harm reduction lens, each tenant is seen as an individual with unique needs. We attempt to serve tenants in a fair, consistent and supportive manner, which builds upon their strengths and promotes self-sufficiency. www.thclinic.orgTo qualify for placement in a master lease hotel, prospective tenants must: 1) Be homeless. 2) Have a qualifying income.No."
+          }
+        ],
+        "accessibility": [
+          "Wheelchair accessible."
+        ],
+        "hours": "Monday - Friday, 9:30am to 4:00pm",
+        "emails": [
+          ""
+        ],
+        "contacts_attributes": [
+          {
+            "name": "Clinic Staff",
+            "title": "NA"
+          }
+        ],
+        "name": "Housing and Supportive Services",
+        "short_desc": "THC provides affordable supportive housing in San Francisco to over 1,500 formerly homeless tenants ",
+        "languages": [
+          ""
+        ],
+        "urls": [
+          ""
+        ],
+        "faxes_attributes": [
+          {
+            "number": "4159218691"
+          }
+        ]
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "name": "ARA First Step Home",
+    "locations": [
+      {
+        "phones_attributes": [
+          {
+            "number": "4158633661",
+            "extension": ""
+          }
+        ],
+        "description": "The Alcoholics Rehabilitation Association of San Francisco, Inc., operates the ARA First Step Home, a residence for men and women who are suffering from alcoholism. Our main objective is to return the alcoholic to his or her rightful place in society. The recovery program is oriented towards Alcoholics Anonymous. Help is also provided to make use of community resources to aid in the recovery process. All residents are required to attend the Monday and Thursday A.A. meetings held at 7:30 PM in the First Step Home and one outside meeting of their choice. They will also be required to attend the weekly home forum meeting on Tuesdays at 6:30 PM.       www.arafirststephome.comApplicants are referred to the house by institutions, clinics, AA clubs, members, doctors, and other responsible individuals.  If you are on probation or parole, you must be on supervision in San Francisco.  We do not accept probationers or parolees from other counties.No",
+        "address_attributes": {
+          "city": "San Francisco",
+          "state": "CA",
+          "street": "1035 Haight Street ",
+          "zip": "94117"
+        },
+        "services_attributes": [
+          {
+            "name": "Sober Living House",
+            "audience": "",
+            "eligibility": "The primary qualifications for residence in the ARA First Step Home are:",
+            "how_to_apply": "Valid Identification",
+            "fees": "Call for information.",
+            "keywords": [
+              "Sober Living, Transitional Housing, Meals, AA Meetings.  There are three meetings of Alcoholics Anonymous held at the Home each week. Attendance at meetings is considered a requirement of residence in the Home."
+            ],
+            "description": "The Alcoholics Rehabilitation Association of San Francisco, Inc., operates the ARA First Step Home, a residence for men and women who are suffering from alcoholism. Our main objective is to return the alcoholic to his or her rightful place in society. The recovery program is oriented towards Alcoholics Anonymous. Help is also provided to make use of community resources to aid in the recovery process. All residents are required to attend the Monday and Thursday A.A. meetings held at 7:30 PM in the First Step Home and one outside meeting of their choice. They will also be required to attend the weekly home forum meeting on Tuesdays at 6:30 PM.       www.arafirststephome.comApplicants are referred to the house by institutions, clinics, AA clubs, members, doctors, and other responsible individuals.  If you are on probation or parole, you must be on supervision in San Francisco.  We do not accept probationers or parolees from other counties.No"
+          }
+        ],
+        "accessibility": [
+          ""
+        ],
+        "hours": "Monday, Wedensday, Friday 6:30am-9:30amMonday - Friday, 6:00am to 2:00pm, Saturday and Sunday, 7:00am to 10:00am",
+        "emails": [
+          "arahouse@pacbell.net"
+        ],
+        "contacts_attributes": [
+          {
+            "name": "ARA Staff",
+            "title": "NA"
+          }
+        ],
+        "name": "Sober Living House",
+        "short_desc": "The Alcoholics Rehabilitation Association of San Francisco, Inc., operates the ARA First Step Home, ",
+        "languages": [
+          "English"
+        ],
+        "urls": [
+          ""
+        ],
+        "faxes_attributes": [
+          {
+            "number": "4158633670"
+          }
+        ]
+      }
+    ],
+    "notes": ""
+  },
+  {
+    "name": "CATS",
+    "locations": [
+      {
+        "phones_attributes": [
+          {
+            "number": "4152937364",
+            "extension": ""
+          }
+        ],
+        "description": "The CARE Program offers Transitional Housing for up to 18 months available for HIV+ women (including transgender women) residents of San Francisco; services also include case management and - if needed - mental health counseling.   www.catsinc.orgPrefer that clients be referred by service provider, but clients can self-refer by calling contact person (above) and scheduling intake appointment.  Clients must provide documentation of HIV+ status and income verification at intake.  Program is Harm-Reduction-based: there are no sobriety requirements for clients, but no substance use is allowed on the premises.No.",
+        "address_attributes": {
+          "city": "",
+          "state": "CA",
+          "street": "1049 Howard St. San Francisco",
+          "zip": "94103"
+        },
+        "services_attributes": [
+          {
+            "name": "A Woman's Place-CARE Program",
+            "audience": "",
+            "eligibility": "Homeless HIV+ women (including transgender women) residents of San Francisco.",
+            "how_to_apply": "Letter of Diagnosis for HIV+ and tb clearance documentation - both within 6 months, current income verification.",
+            "fees": "30% of monthly net income, plus requirement to set aside additional money in savings account - amount to be determined.",
+            "keywords": [
+              "Transitional Housing,  Case Management, Mental Health Counseling."
+            ],
+            "description": "The CARE Program offers Transitional Housing for up to 18 months available for HIV+ women (including transgender women) residents of San Francisco; services also include case management and - if needed - mental health counseling.   www.catsinc.orgPrefer that clients be referred by service provider, but clients can self-refer by calling contact person (above) and scheduling intake appointment.  Clients must provide documentation of HIV+ status and income verification at intake.  Program is Harm-Reduction-based: there are no sobriety requirements for clients, but no substance use is allowed on the premises.No."
+          }
+        ],
+        "accessibility": [
+          "Wheelchair accessible."
+        ],
+        "hours": "Sunday-Thursday, 8am-4pm.",
+        "emails": [
+          "pau@awpcats.org"
+        ],
+        "contacts_attributes": [
+          {
+            "name": "Pau Lagarde",
+            "title": "HIV Case Manager/Mental Health Worker"
+          }
+        ],
+        "name": "A Woman's Place-CARE Program",
+        "short_desc": "The CARE Program offers Transitional Housing for up to 18 months available for HIV+ women (including",
+        "languages": [
+          "English",
+          "Spanish"
+        ],
+        "urls": [
+          ""
+        ],
+        "faxes_attributes": [
+          {
+            "number": ""
+          }
+        ]
+      }
+    ],
+    "notes": ""
+  }
+]
