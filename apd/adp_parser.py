@@ -52,9 +52,9 @@ def scraper(file):
             ['Client fees, if any', "fees"],
             ['Client fee, if any', "fees"],
             ['Client fees', "fees"],
-            ['Eligible Population', "audience"],
-            ['Eligible Populations', "audience"],
-            ['Eligible Population Served', "audience"],
+            ['Eligible Population', "eligibility"],
+            ['Eligible Populations', "eligibility"],
+            ['Eligible Population Served', "eligibility"],
             ['Not Eligible', "eligibility"],
             ['Restrictions', "eligibility"],
             ['Direct Services', "keywords"],
@@ -253,6 +253,7 @@ def to_open_referral(entry):
     
     return {
         'name':entry.organization_name,
+        'notes':"",
         'locations':[
             {
                 'name':entry.program_name,  
