@@ -1,3 +1,5 @@
+#NOTE: This repo is no longer being maintained. Information is for reference purposes only.
+
 ##About the Project
 
 The SF Open Referral project is part of a larger movement to collect raw data about social services, including where they are and what they offer to whom, and transform it into a standard that can be shared broadly through any tool that supports the emerging [Open Referral Specification.](https://github.com/codeforamerica/OpenReferral/blob/master/README.md)  
